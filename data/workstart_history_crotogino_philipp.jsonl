@@ -278,3 +278,4 @@
 {"ts_calc": "2026-01-10 19:58", "pos": 8, "from_meldung": "2026-01-10 22:00", "from_meldung_alt": "2026-01-10 23:00", "calc_div2": "2026-01-10 23:58", "calc_div3": "2026-01-10 22:38", "real_start": null}
 {"ts_calc": "2026-01-10 20:00", "pos": 7, "from_meldung": "2026-01-10 22:00", "from_meldung_alt": "2026-01-10 22:00", "calc_div2": "2026-01-10 23:30", "calc_div3": "2026-01-10 22:20", "real_start": null}
 {"ts_calc": "2026-01-10 20:02", "pos": 7, "from_meldung": "2026-01-10 22:00", "from_meldung_alt": "2026-01-10 23:00", "calc_div2": "2026-01-10 23:32", "calc_div3": "2026-01-10 22:22", "real_start": null}
+{"ts_calc": "2026-01-10 20:04", "pos": 7, "from_meldung": "2026-01-10 22:00", "from_meldung_alt": "2026-01-10 23:00", "calc_div2": "2026-01-10 23:34", "calc_div3": "2026-01-10 22:24", "real_start": null}
