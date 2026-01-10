@@ -6,8 +6,7 @@
 <title>PilotApp</title>
 
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#000000">
+<meta name="theme-color" content="#000">
 
 <style>
 :root {
@@ -38,34 +37,23 @@ header {
   align-items:center;
 }
 
-.titlebar h1 {
-  font-size:18px;
-  margin:0;
-}
-
-.titlebar button {
-  background:var(--accent);
-  color:#fff;
-  border:none;
-  border-radius:8px;
-  padding:8px 12px;
-  font-size:14px;
-}
-
 .persons {
   display:flex;
-  overflow-x:auto;
   gap:8px;
+  overflow-x:auto;
   padding:10px 0 4px;
+
+  /* 🔑 iOS FIX */
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-x;
 }
 
 .person {
-  white-space:nowrap;
   padding:8px 14px;
   border-radius:18px;
   background:#2c2c2e;
-  font-size:14px;
   cursor:pointer;
+  white-space:nowrap;
 }
 
 .person.active {
@@ -81,7 +69,7 @@ main {
   border-radius:8px;
   border:1px solid var(--border);
   background:#2c2c2e;
-  color:var(--text);
+  color:#fff;
   margin:4px 6px 4px 0;
 }
 
@@ -89,17 +77,10 @@ main {
   background:var(--accent);
 }
 
-.status {
-  font-size:12px;
-  color:var(--muted);
-  margin:6px 0;
-}
-
 pre {
   background:var(--card);
   padding:14px;
   border-radius:12px;
-  font-size:14px;
   white-space:pre-wrap;
 }
 
@@ -137,32 +118,27 @@ canvas {
   <button onclick="setRange(24)" class="active">24h</button>
 </div>
 
-<div class="status" id="status">–</div>
-
 <pre id="content">Lade Daten…</pre>
 <canvas id="graph" style="display:none"></canvas>
 
 </main>
 
 <script>
-const DATA_DIR = "data/";
-const USER = "rvfxghpjnm-a11y";
-const REPO = "PilotApp-View";
-const BRANCH = "main";
-
+const DATA_DIR="data/";
 let persons=[];
-let currentKey = localStorage.getItem("pilotapp_person");
-let mode = localStorage.getItem("pilotapp_mode") || "short";
-let rangeH = 24;
+let currentKey=localStorage.getItem("pilotapp_person");
+let mode=localStorage.getItem("pilotapp_mode")||"short";
+let rangeH=24;
 
-/* ================= PERSONEN ================= */
+/* ===== Personen ===== */
 async function loadPersons(){
-  const url=`https://api.github.com/repos/${USER}/${REPO}/contents/data?ref=${BRANCH}`;
-  const res=await fetch(url);
+  const res=await fetch("https://api.github.com/repos/rvfxghpjnm-a11y/PilotApp-View/contents/data");
   const files=await res.json();
+
   persons=files.filter(f=>f.name.endsWith("_short.json"))
                .map(f=>f.name.replace("_short.json",""));
-  if(!currentKey) currentKey=persons[0];
+
+  if(!currentKey||!persons.includes(currentKey)) currentKey=persons[0];
   renderPersons();
   setMode(mode,false);
 }
@@ -179,13 +155,14 @@ function renderPersons(){
   });
 }
 
-/* ================= MODE ================= */
+/* ===== Mode ===== */
 function setMode(m,doLoad=true){
   mode=m;
   localStorage.setItem("pilotapp_mode",m);
 
-  ["Short","Long","Graph"].forEach(x=>{
-    document.getElementById("btn"+x).classList.toggle("active",m===x.toLowerCase());
+  ["short","long","graph"].forEach(x=>{
+    document.getElementById("btn"+x.charAt(0).toUpperCase()+x.slice(1))
+      .classList.toggle("active",x===m);
   });
 
   document.getElementById("content").style.display=m==="graph"?"none":"block";
@@ -195,46 +172,44 @@ function setMode(m,doLoad=true){
   if(doLoad) load();
 }
 
-function setRange(h){
-  rangeH=h;
-  document.querySelectorAll("#graphControls button").forEach(b=>b.classList.remove("active"));
-  event.target.classList.add("active");
-  drawGraph();
-}
+function setRange(h){rangeH=h;drawGraph();}
 
-/* ================= LOAD ================= */
+/* ===== Load ===== */
 async function load(){
   if(mode==="graph") return drawGraph();
 
-  const url=`${DATA_DIR}${currentKey}_${mode}.json?ts=${Date.now()}`;
-  const res=await fetch(url,{cache:"no-store"});
+  const res=await fetch(`${DATA_DIR}${currentKey}_${mode}.json?ts=${Date.now()}`);
   const data=await res.json();
-
   document.getElementById("content").textContent=data.short||data.long;
-  document.getElementById("status").textContent="Aktualisiert "+new Date().toLocaleTimeString();
 }
 
-/* ================= GRAPH ================= */
+/* ===== Graph ===== */
 async function drawGraph(){
-  const url=`${DATA_DIR}workstart_history_${currentKey}.jsonl?ts=${Date.now()}`;
-  const res=await fetch(url,{cache:"no-store"});
-  const text=await res.text();
+  const url=`${DATA_DIR}workstart_history_${currentKey}.jsonl`;
+  let res;
+  try {
+    res=await fetch(url,{cache:"no-store"});
+    if(!res.ok) throw 0;
+  } catch {
+    document.getElementById("content").style.display="block";
+    document.getElementById("content").textContent="❌ Keine Workstart-Historie vorhanden";
+    return;
+  }
 
-  const rows=text.trim().split("\n").map(l=>JSON.parse(l));
-  const cutoff=Date.now()-rangeH*3600*1000;
-  const data=rows.filter(r=>new Date(r.ts).getTime()>=cutoff);
+  const rows=(await res.text()).trim().split("\n").map(JSON.parse);
+  if(!rows.length) return;
 
   const c=document.getElementById("graph");
   const ctx=c.getContext("2d");
 
-  /* 🔑 WICHTIGER FIX */
   const dpr=window.devicePixelRatio||1;
   c.width=c.clientWidth*dpr;
   c.height=c.clientHeight*dpr;
   ctx.setTransform(dpr,0,0,dpr,0,0);
-
   ctx.clearRect(0,0,c.width,c.height);
 
+  const now=Date.now();
+  const data=rows.filter(r=>now-new Date(r.ts)<rangeH*3600*1000);
   if(!data.length) return;
 
   const minT=Math.min(...data.map(d=>new Date(d.ts)));
@@ -242,26 +217,20 @@ async function drawGraph(){
   const minY=Math.min(...data.map(d=>d.minutes));
   const maxY=Math.max(...data.map(d=>d.minutes));
 
-  const W=c.clientWidth;
-  const H=c.clientHeight;
-  const pad=20;
-
   ctx.strokeStyle="#0a84ff";
   ctx.lineWidth=2;
   ctx.beginPath();
 
   data.forEach((d,i)=>{
-    const x=pad+(new Date(d.ts)-minT)/(maxT-minT||1)*(W-2*pad);
-    const y=H-pad-(d.minutes-minY)/(maxY-minY||1)*(H-2*pad);
+    const x=20+(new Date(d.ts)-minT)/(maxT-minT||1)*(c.clientWidth-40);
+    const y=c.clientHeight-20-(d.minutes-minY)/(maxY-minY||1)*(c.clientHeight-40);
     i?ctx.lineTo(x,y):ctx.moveTo(x,y);
   });
-
   ctx.stroke();
 }
 
 loadPersons();
 setInterval(load,60000);
 </script>
-
 </body>
 </html>
