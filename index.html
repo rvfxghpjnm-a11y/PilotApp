@@ -19,97 +19,20 @@
   --muted:#a1a1a6;
 }
 
-body {
-  margin:0;
-  font-family:-apple-system,BlinkMacSystemFont,sans-serif;
-  background:var(--bg);
-  color:var(--text);
-}
-
-header {
-  background:var(--card);
-  padding:12px;
-  border-bottom:1px solid var(--border);
-}
-
-.titlebar {
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-}
-
-.titlebar h1 {
-  font-size:18px;
-  margin:0;
-}
-
-.titlebar button {
-  background:var(--accent);
-  color:#fff;
-  border:none;
-  border-radius:8px;
-  padding:8px 12px;
-  font-size:14px;
-}
-
-.persons {
-  display:flex;
-  overflow-x:auto;
-  gap:8px;
-  padding:10px 0 4px;
-}
-
-.person {
-  padding:8px 14px;
-  border-radius:18px;
-  background:#2c2c2e;
-  font-size:14px;
-  cursor:pointer;
-  white-space:nowrap;
-}
-
-.person.active {
-  background:var(--accent);
-}
-
-main { padding:12px; }
-
-.controls button,
-.range button {
-  padding:8px 14px;
-  border-radius:8px;
-  border:1px solid var(--border);
-  background:#2c2c2e;
-  color:var(--text);
-  margin-right:6px;
-  font-size:14px;
-}
-
-.controls button.active,
-.range button.active {
-  background:var(--accent);
-}
-
-.status {
-  font-size:12px;
-  color:var(--muted);
-  margin-bottom:6px;
-}
-
-pre {
-  background:var(--card);
-  padding:14px;
-  border-radius:12px;
-  white-space:pre-wrap;
-  font-size:14px;
-}
-
-canvas {
-  width:100%;
-  height:280px;
-  background:var(--card);
-  border-radius:12px;
-}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg);color:var(--text)}
+header{background:var(--card);padding:12px;border-bottom:1px solid var(--border)}
+.titlebar{display:flex;justify-content:space-between;align-items:center}
+.titlebar h1{font-size:18px;margin:0}
+.titlebar button{background:var(--accent);color:#fff;border:none;border-radius:8px;padding:8px 12px}
+.persons{display:flex;overflow-x:auto;gap:8px;padding:10px 0}
+.person{padding:8px 14px;border-radius:18px;background:#2c2c2e;cursor:pointer}
+.person.active{background:var(--accent)}
+main{padding:12px}
+.controls button{padding:8px 14px;border-radius:8px;border:1px solid var(--border);background:#2c2c2e;color:#fff;margin-right:6px}
+.controls button.active{background:var(--accent)}
+.status{font-size:12px;color:var(--muted);margin-bottom:6px}
+pre{background:var(--card);padding:14px;border-radius:12px;white-space:pre-wrap}
+canvas{width:100%;height:260px;background:var(--card);border-radius:12px}
 </style>
 </head>
 
@@ -118,7 +41,7 @@ canvas {
 <header>
   <div class="titlebar">
     <h1>PilotApp</h1>
-    <button onclick="load()">↻</button>
+    <button onclick="manualRefresh()">↻</button>
   </div>
   <div class="persons" id="persons"></div>
 </header>
@@ -130,124 +53,96 @@ canvas {
     <button id="btnGraph" onclick="setMode('graph')">📈 Graph</button>
   </div>
 
-  <div class="range" id="range" style="display:none">
-    <button onclick="setRange(3)">3h</button>
-    <button onclick="setRange(6)">6h</button>
-    <button onclick="setRange(12)">12h</button>
-    <button class="active" onclick="setRange(24)">24h</button>
+  <div class="controls" id="graphControls" style="display:none">
+    <button onclick="setHours(3)">3h</button>
+    <button onclick="setHours(6)">6h</button>
+    <button onclick="setHours(12)">12h</button>
+    <button onclick="setHours(24)">24h</button>
   </div>
 
   <div class="status" id="status">–</div>
 
-  <pre id="content">Lade…</pre>
+  <pre id="content"></pre>
   <canvas id="graph" style="display:none"></canvas>
 </main>
 
 <script>
-const DATA_DIR="data/";
-const USER="rvfxghpjnm-a11y";
-const REPO="PilotApp-View";
-const BRANCH="main";
-
-let persons=[];
-let key=localStorage.getItem("pilotapp_person");
-let mode=localStorage.getItem("pilotapp_mode")||"short";
-let rangeHours=24;
+const DATA="data/";
+let persons=[],currentKey=null,mode="short",hours=24;
 
 async function loadPersons(){
-  const api=`https://api.github.com/repos/${USER}/${REPO}/contents/data?ref=${BRANCH}`;
-  const res=await fetch(api);
-  const files=await res.json();
-
-  persons=files.filter(f=>f.name.endsWith("_short.json"))
-    .map(f=>f.name.replace("_short.json",""))
-    .sort();
-
-  if(!key||!persons.includes(key)) key=persons[0];
-  localStorage.setItem("pilotapp_person",key);
-
-  renderPersons();
-  setMode(mode,false);
+ const r=await fetch("https://api.github.com/repos/rvfxghpjnm-a11y/PilotApp-View/contents/data");
+ const j=await r.json();
+ persons=j.filter(f=>f.name.endsWith("_short.json")).map(f=>f.name.replace("_short.json",""));
+ currentKey=localStorage.getItem("pilotapp_person")||persons[0];
+ renderPersons(); load();
 }
 
 function renderPersons(){
-  const box=document.getElementById("persons");
-  box.innerHTML="";
-  persons.forEach(p=>{
-    const d=document.createElement("div");
-    d.className="person"+(p===key?" active":"");
-    d.textContent=p.replace("_"," ");
-    d.onclick=()=>{key=p;localStorage.setItem("pilotapp_person",p);renderPersons();load();}
-    box.appendChild(d);
-  });
+ const p=document.getElementById("persons"); p.innerHTML="";
+ persons.forEach(k=>{
+  const d=document.createElement("div");
+  d.className="person"+(k===currentKey?" active":"");
+  d.textContent=k.replace("_"," ");
+  d.onclick=()=>{currentKey=k;localStorage.setItem("pilotapp_person",k);renderPersons();load();}
+  p.appendChild(d);
+ })
 }
 
-function setMode(m,loadNow=true){
-  mode=m;
-  localStorage.setItem("pilotapp_mode",m);
-
-  ["short","long","graph"].forEach(x=>{
-    document.getElementById("btn"+x.charAt(0).toUpperCase()+x.slice(1))
-      .classList.toggle("active",x===m);
-  });
-
-  document.getElementById("content").style.display=m==="graph"?"none":"block";
-  document.getElementById("graph").style.display=m==="graph"?"block":"none";
-  document.getElementById("range").style.display=m==="graph"?"block":"none";
-
-  if(loadNow) load();
+function setMode(m){
+ mode=m;
+ ["Short","Long","Graph"].forEach(x=>{
+  document.getElementById("btn"+x).classList.toggle("active",m===x.toLowerCase())
+ });
+ document.getElementById("graphControls").style.display=m==="graph"?"block":"none";
+ load();
 }
 
-function setRange(h){
-  rangeHours=h;
-  document.querySelectorAll(".range button").forEach(b=>b.classList.remove("active"));
-  event.target.classList.add("active");
-  drawGraph();
-}
+function setHours(h){hours=h;drawGraph();}
 
 async function load(){
-  if(mode==="graph"){ drawGraph(); return; }
+ document.getElementById("graph").style.display=mode==="graph"?"block":"none";
+ document.getElementById("content").style.display=mode==="graph"?"none":"block";
 
-  const res=await fetch(`${DATA_DIR}${key}_${mode}.json?ts=${Date.now()}`);
-  const data=await res.json();
-  document.getElementById("content").textContent=data.short||data.long||"–";
-  document.getElementById("status").textContent="Aktualisiert: "+new Date().toLocaleTimeString();
+ if(mode==="short"||mode==="long"){
+  const r=await fetch(`${DATA}${currentKey}_${mode}.json?ts=${Date.now()}`);
+  const j=await r.json();
+  content.textContent=j[mode];
+ }
+ if(mode==="graph") drawGraph();
+ status.textContent="Aktualisiert "+new Date().toLocaleTimeString();
 }
 
 async function drawGraph(){
-  const res=await fetch(`${DATA_DIR}workstart_history_${key}.jsonl?ts=${Date.now()}`);
-  const rows=(await res.text()).trim().split("\n").map(JSON.parse);
+ const c=document.getElementById("graph");
+ const ctx=c.getContext("2d");
+ ctx.clearRect(0,0,c.width,c.height);
 
-  const cutoff=Date.now()-rangeHours*3600*1000;
-  const data=rows.filter(r=>new Date(r.ts_calc).getTime()>=cutoff);
+ const r=await fetch(`${DATA}workstart_history_${currentKey}.jsonl?ts=${Date.now()}`);
+ const lines=(await r.text()).trim().split("\n").map(l=>JSON.parse(l));
 
-  const ctx=document.getElementById("graph").getContext("2d");
-  ctx.clearRect(0,0,ctx.canvas.width,ctx.canvas.height);
+ const now=Date.now();
+ const from=now-hours*3600000;
+ const data=lines.filter(x=>new Date(x.ts).getTime()>=from);
 
-  const lines=[
-    {k:"from_meldung",c:"#4fc3f7"},
-    {k:"from_meldung_alt",c:"#ffb74d"},
-    {k:"calc_div2",c:"#81c784"},
-    {k:"calc_div3",c:"#e57373"},
-  ];
+ if(!data.length) return;
 
-  lines.forEach(l=>{
-    const pts=data.filter(d=>d[l.k]);
-    if(!pts.length) return;
+ const xs=data.map(x=>new Date(x.ts).getTime());
+ const ys=data.map(x=>x.minutes);
 
-    ctx.strokeStyle=l.c;
-    ctx.beginPath();
-    pts.forEach((p,i)=>{
-      const x=i*(ctx.canvas.width/(pts.length-1||1));
-      const y=ctx.canvas.height-(p[l.k]/1440)*ctx.canvas.height;
-      if(i===0) ctx.moveTo(x,y); else ctx.lineTo(x,y);
-    });
-    ctx.stroke();
-  });
+ const minX=Math.min(...xs),maxX=Math.max(...xs);
+ const minY=Math.min(...ys),maxY=Math.max(...ys);
 
-  document.getElementById("status").textContent="Workstart-Historie";
+ ctx.strokeStyle="#0a84ff"; ctx.beginPath();
+ data.forEach((p,i)=>{
+  const x=(xs[i]-minX)/(maxX-minX)*(c.width-20)+10;
+  const y=c.height-((ys[i]-minY)/(maxY-minY)*(c.height-20)+10);
+  i?ctx.lineTo(x,y):ctx.moveTo(x,y);
+ });
+ ctx.stroke();
 }
 
+function manualRefresh(){load();}
 loadPersons();
 setInterval(load,60000);
 </script>
