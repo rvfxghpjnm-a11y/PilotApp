@@ -1,222 +1,259 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="UTF-8" />
-<title>PilotApp</title>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <title>PilotApp – Workstart Verlauf</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
-body {
-  margin: 0;
-  font-family: system-ui;
-  background: #0f1218;
-  color: #e6e6e6;
-}
-header {
-  padding: 12px 16px;
-  border-bottom: 1px solid #1f2633;
-}
-h1 { margin: 0 0 8px 0; font-size: 22px; }
-.row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
-button {
-  background: #1c2330;
-  color: #ccc;
-  border: 1px solid #2b3548;
-  border-radius: 8px;
-  padding: 6px 12px;
-  cursor: pointer;
-}
-button.active {
-  background: #2f81f7;
-  color: #fff;
-  border-color: #2f81f7;
-}
-main { padding: 16px; }
-canvas { max-width: 100%; }
-.error {
-  background: #3a1d1d;
-  color: #ffb3b3;
-  padding: 12px;
-  border-radius: 8px;
-}
-</style>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont;
+      background: #0e1117;
+      color: #e6edf3;
+    }
+
+    header {
+      padding: 16px;
+      border-bottom: 1px solid #222;
+    }
+
+    h1 {
+      margin: 0 0 12px 0;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    button {
+      background: #1f2937;
+      color: #e6edf3;
+      border: 1px solid #374151;
+      border-radius: 6px;
+      padding: 6px 10px;
+      cursor: pointer;
+    }
+
+    button.active {
+      background: #2563eb;
+      border-color: #2563eb;
+    }
+
+    button:hover {
+      background: #334155;
+    }
+
+    #status {
+      font-size: 13px;
+      opacity: 0.7;
+      margin-left: auto;
+    }
+
+    main {
+      padding: 16px;
+    }
+
+    canvas {
+      width: 100% !important;
+      max-height: 520px;
+    }
+
+    .error {
+      background: #7f1d1d;
+      padding: 10px;
+      border-radius: 6px;
+      color: #fee2e2;
+    }
+  </style>
 </head>
-
 <body>
 
 <header>
-<h1>PilotApp</h1>
+  <h1>PilotApp</h1>
 
-<div class="row" id="personButtons">Lade Personen …</div>
+  <div class="row" id="persons">
+    Lade Personen …
+  </div>
 
-<div class="row">
-  <button id="btnShort">Short</button>
-  <button id="btnLong">Long</button>
-  <button id="btnGraph" class="active">Graph</button>
-  <button id="btnRefresh">⟳ Refresh</button>
-  <span id="refreshTime"></span>
-</div>
+  <div class="row">
+    <button data-hours="3">3h</button>
+    <button data-hours="6">6h</button>
+    <button data-hours="12">12h</button>
+    <button data-hours="24" class="active">24h</button>
 
-<div class="row">
-  <button data-h="3">3h</button>
-  <button data-h="6">6h</button>
-  <button data-h="12">12h</button>
-  <button data-h="24" class="active">24h</button>
-</div>
+    <div id="status">–</div>
+  </div>
 </header>
 
-<main id="content">
-<canvas id="chart" height="140"></canvas>
+<main>
+  <canvas id="chart"></canvas>
 </main>
 
 <script>
-/* ============================================================
-   KONFIG / STATE
-============================================================ */
-const REPO = "rvfxghpjnm-a11y/PilotApp-View";
-const DATA_PATH = "data";
-
-let persons = [];
-let currentPerson = null;
-let hoursBack = 24;
 let chart = null;
+let currentPerson = null;
+let currentHours = 24;
 
-/* ============================================================
-   INIT
-============================================================ */
-document.getElementById("btnRefresh").onclick = init;
-document.querySelectorAll("[data-h]").forEach(b => {
-  b.onclick = () => {
-    document.querySelectorAll("[data-h]").forEach(x => x.classList.remove("active"));
-    b.classList.add("active");
-    hoursBack = Number(b.dataset.h);
-    loadGraph();
+// ------------------------------------------------------------
+// INIT
+// ------------------------------------------------------------
+loadPersons();
+document.querySelectorAll("button[data-hours]").forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll("button[data-hours]")
+      .forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentHours = Number(btn.dataset.hours);
+    if (currentPerson) loadGraph();
   };
 });
 
-init();
-
-/* ============================================================
-   PERSONEN
-============================================================ */
-async function init() {
-  updateRefreshTime();
-  await loadPersons();
-  renderPersons();
-  if (!currentPerson && persons.length) currentPerson = persons[0].key;
-  loadGraph();
-}
-
+// ------------------------------------------------------------
+// PERSONEN LADEN
+// ------------------------------------------------------------
 async function loadPersons() {
-  const res = await fetch(`https://api.github.com/repos/${REPO}/contents/${DATA_PATH}`);
-  const files = await res.json();
-  persons = files
-    .filter(f => f.name.endsWith("_short.json"))
-    .map(f => {
-      const key = f.name.replace("_short.json", "");
-      const [nachname, vorname] = key.split("_");
-      return { key, vorname, nachname };
+  try {
+    const res = await fetch("data/workstart_index.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("Index nicht ladbar");
+    const index = await res.json();
+
+    const wrap = document.getElementById("persons");
+    wrap.innerHTML = "";
+
+    index.persons.forEach((p, i) => {
+      const btn = document.createElement("button");
+      btn.textContent = `${p.vorname} ${p.nachname}`;
+      btn.onclick = () => {
+        document.querySelectorAll("#persons button")
+          .forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentPerson = p;
+        loadGraph();
+      };
+      if (i === 0) {
+        btn.classList.add("active");
+        currentPerson = p;
+      }
+      wrap.appendChild(btn);
     });
+
+    if (currentPerson) loadGraph();
+
+  } catch (err) {
+    document.getElementById("persons").innerHTML =
+      `<div class="error">Personen konnten nicht geladen werden</div>`;
+    console.error(err);
+  }
 }
 
-function renderPersons() {
-  const el = document.getElementById("personButtons");
-  el.innerHTML = "";
-  persons.forEach(p => {
-    const b = document.createElement("button");
-    b.textContent = `${p.vorname} ${p.nachname}`;
-    if (p.key === currentPerson) b.classList.add("active");
-    b.onclick = () => {
-      currentPerson = p.key;
-      renderPersons();
-      loadGraph();
-    };
-    el.appendChild(b);
-  });
-}
-
-/* ============================================================
-   GRAPH
-============================================================ */
+// ------------------------------------------------------------
+// GRAPH LADEN
+// ------------------------------------------------------------
 async function loadGraph() {
-  const file = `${DATA_PATH}/workstart_history_${currentPerson}.json`;
-  const res = await fetch(file, { cache: "no-store" });
-  if (!res.ok) return showError("Workstart-Datei fehlt");
+  try {
+    const file = `data/${currentPerson.file}`;
+    const res = await fetch(file, { cache: "no-store" });
+    if (!res.ok) throw new Error("Workstart-Datei nicht ladbar");
 
-  const json = await res.json();
-  const cutoff = Date.now() - hoursBack * 3600 * 1000;
+    const data = await res.json();
+    buildChart(data.entries || []);
 
-  const lines = {
-    meldung: [],
-    div3: [],
-    div2: [],
-    real: []
-  };
+    document.getElementById("status").textContent =
+      new Date().toLocaleTimeString("de-DE");
 
-  json.entries.forEach(e => {
-    push(lines.meldung, e.from_meldung, cutoff);
-    push(lines.div3, e.calc_div3, cutoff);
-    push(lines.div2, e.calc_div2, cutoff);
-    push(lines.real, e.real_start, cutoff);
-  });
-
-  drawChart(lines);
+  } catch (err) {
+    console.error(err);
+  }
 }
 
-function push(arr, str, cutoff) {
-  if (!str) return;
-  const t = new Date(str.replace(" ", "T"));
-  if (t.getTime() < cutoff) return;
-  arr.push({ x: t, y: t.getHours() + t.getMinutes() / 60 });
-}
-
-function drawChart(lines) {
+// ------------------------------------------------------------
+// CHART
+// ------------------------------------------------------------
+function buildChart(entries) {
   if (chart) chart.destroy();
+
+  const now = Date.now();
+  const cutoff = now - currentHours * 3600 * 1000;
+
+  const points = entries
+    .map(e => ({
+      x: new Date(e.ts_calc),
+      meldung: toDate(e.from_meldung),
+      calc2: toDate(e.calc_div2),
+      calc3: toDate(e.calc_div3),
+      real: toDate(e.real_start)
+    }))
+    .filter(p => p.x && p.x.getTime() >= cutoff);
+
+  const datasets = [
+    makeDataset("Meldung", points, "meldung", "#fbbf24"),
+    makeDataset("Calc /3", points, "calc3", "#22c55e"),
+    makeDataset("Calc /2", points, "calc2", "#ef4444"),
+    makeDataset("Real", points, "real", "#ffffff", true)
+  ];
+
   chart = new Chart(document.getElementById("chart"), {
     type: "line",
-    data: {
-      datasets: [
-        ds("Meldung", lines.meldung, "#ffb300"),
-        ds("Calc /3", lines.div3, "#00c853"),
-        ds("Calc /2", lines.div2, "#e53935"),
-        ds("Real", lines.real, "#ffffff", true)
-      ]
-    },
+    data: { datasets },
     options: {
+      responsive: true,
+      interaction: { mode: "nearest", intersect: false },
       scales: {
-        x: { type: "time", time: { unit: "hour" } },
+        x: {
+          type: "time",
+          time: { tooltipFormat: "dd.MM HH:mm" },
+          ticks: { color: "#9ca3af" },
+          grid: { color: "#1f2937" }
+        },
         y: {
-          min: 0, max: 24,
-          ticks: { stepSize: 2, callback: v => `${Math.floor(v)}:00` }
+          type: "time",
+          time: { tooltipFormat: "dd.MM HH:mm" },
+          ticks: { color: "#9ca3af" },
+          grid: {
+            color: ctx => {
+              const d = new Date(ctx.tick.value);
+              return d.getHours() === 0 ? "#334155" : "#1f2937";
+            }
+          }
         }
+      },
+      plugins: {
+        legend: { labels: { color: "#e5e7eb" } }
       }
     }
   });
 }
 
-function ds(label, data, color, points=false) {
+// ------------------------------------------------------------
+// HELFER
+// ------------------------------------------------------------
+function toDate(v) {
+  if (!v) return null;
+  const d = new Date(v.replace(" ", "T"));
+  return isNaN(d) ? null : d;
+}
+
+function makeDataset(label, points, key, color, pointsOnly = false) {
   return {
     label,
-    data,
+    data: points
+      .filter(p => p[key])
+      .map(p => ({ x: p.x, y: p[key] })),
     borderColor: color,
     backgroundColor: color,
-    pointRadius: points ? 4 : 0,
-    showLine: !points,
-    tension: 0.25
+    borderWidth: 2,
+    tension: 0.2,
+    pointRadius: pointsOnly ? 4 : 0,
+    showLine: !pointsOnly
   };
-}
-
-function showError(msg) {
-  document.getElementById("content").innerHTML =
-    `<div class="error">${msg}</div>`;
-}
-
-function updateRefreshTime() {
-  document.getElementById("refreshTime").textContent =
-    new Date().toLocaleTimeString("de-DE");
 }
 </script>
 
