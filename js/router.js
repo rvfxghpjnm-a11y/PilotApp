@@ -1,6 +1,6 @@
 // js/router.js
 // ============================================================
-// PILOTAPP ROUTER – FINAL (PERSONS + VIEWS + GRAPH READY)
+// PILOTAPP ROUTER – FINAL & STABIL
 // ============================================================
 
 import { state, setPerson, setView, restoreState } from "./state.js";
@@ -29,25 +29,24 @@ document.addEventListener("DOMContentLoaded", async () => {
 });
 
 // ------------------------------------------------------------
-// LOAD PERSONS (AUS workstart_index.json)
+// PERSONEN LADEN (aus workstart_index.json)
 // ------------------------------------------------------------
 
 async function loadPersons() {
   try {
     const res = await fetch("data/workstart_index.json", { cache: "no-store" });
-    if (!res.ok) throw new Error("index not found");
+    if (!res.ok) throw new Error("Index nicht ladbar");
 
     const data = await res.json();
     state.persons = data.persons || [];
 
-    // Fallback: erste Person automatisch setzen
-    if (!state.currentPerson && state.persons.length > 0) {
+    if (!state.currentPerson && state.persons.length) {
       setPerson(state.persons[0].key);
     }
-
   } catch (err) {
-    console.error("Fehler beim Laden der Personen:", err);
-    state.persons = [];
+    contentEl.innerHTML =
+      "<p class='error'>Fehler: workstart_index.json nicht erreichbar</p>";
+    console.error(err);
   }
 }
 
@@ -115,12 +114,23 @@ async function loadCurrentView() {
     const html = await res.text();
     contentEl.innerHTML = html;
 
-    // Person global für Graph / andere Views
-    window.PILOTAPP_PERSON = state.currentPerson;
+    // 🔑 Graph-Skript NACH DOM-Laden einbinden
+    if (view === "graph") {
+      window.PILOTAPP_PERSON = state.currentPerson;
+
+      const old = document.getElementById("graph-script");
+      if (old) old.remove();
+
+      const script = document.createElement("script");
+      script.id = "graph-script";
+      script.src = "js/graph.js";
+      script.defer = true;
+      document.body.appendChild(script);
+    }
 
   } catch (err) {
+    contentEl.innerHTML = `<p class="error">Fehler beim Laden von ${view}</p>`;
     console.error(err);
-    contentEl.innerHTML = `<p>Fehler beim Laden von ${view}</p>`;
   }
 }
 
@@ -137,5 +147,6 @@ refreshBtn.onclick = async () => {
 };
 
 function updateRefreshTime() {
-  refreshTimeEl.textContent = new Date().toLocaleTimeString("de-DE");
+  refreshTimeEl.textContent =
+    new Date().toLocaleTimeString("de-DE");
 }
