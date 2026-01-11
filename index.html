@@ -1,38 +1,19 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8" />
-  <title>PilotApp</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-  <link rel="stylesheet" href="css/style.css" />
-</head>
-<body>
-
 <header class="topbar">
   <h1>PilotApp</h1>
 
   <div class="toolbar">
     <div id="personButtons"></div>
 
-    <div class="view-buttons">
+    <!-- NEU: View-Buttons UNTER Personen -->
+    <div class="view-buttons" id="viewButtons">
       <button data-view="short">Short</button>
       <button data-view="long">Long</button>
       <button data-view="graph">Graph</button>
     </div>
 
-    <button id="refreshBtn">⟳ Refresh</button>
-    <span id="refreshTime">–</span>
+    <div class="refresh-bar">
+      <button id="refreshBtn">⟳ Refresh</button>
+      <span id="refreshTime">–</span>
+    </div>
   </div>
 </header>
-
-<main id="content">
-  <div class="placeholder">Ansicht wird geladen …</div>
-</main>
-
-<link rel="stylesheet" href="css/style.css">
-
-<script src="js/state.js"></script>
-<script src="js/router.js"></script>
-</body>
-</html>
