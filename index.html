@@ -1,254 +1,230 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
 <title>PilotApp</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- PWA -->
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#000000">
-
-<!-- Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
 
 <style>
-:root {
-  --bg: #000;
-  --card: #1c1c1e;
-  --accent: #0a84ff;
-  --border: #2c2c2e;
-  --text: #fff;
-  --muted: #a1a1a6;
-}
-
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  background: var(--bg);
-  color: var(--text);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #0b0b0b;
+  color: #fff;
 }
 
 header {
-  background: var(--card);
-  padding: 12px;
-  border-bottom: 1px solid var(--border);
+  padding: 14px 18px;
+  font-size: 20px;
+  font-weight: 600;
+  background: #121212;
+  border-bottom: 1px solid #222;
 }
 
-.titlebar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.container {
+  padding: 16px;
 }
 
-.titlebar h1 {
-  font-size: 18px;
-  margin: 0;
-}
-
-.titlebar button {
-  background: var(--accent);
-  color: #fff;
-  border: none;
+button {
+  background: #1e1e1e;
+  color: #ccc;
+  border: 1px solid #333;
   border-radius: 8px;
   padding: 8px 12px;
-}
-
-.persons {
-  display: flex;
-  overflow-x: auto;
-  gap: 8px;
-  padding: 10px 0 4px;
-}
-
-.person {
-  white-space: nowrap;
-  padding: 8px 14px;
-  border-radius: 18px;
-  background: #2c2c2e;
-  font-size: 14px;
+  margin-right: 6px;
   cursor: pointer;
 }
 
-.person.active {
-  background: var(--accent);
+button.active {
+  background: #0a84ff;
+  color: #fff;
+  border-color: #0a84ff;
 }
 
-main {
-  padding: 12px;
-}
-
-.controls {
-  margin-bottom: 10px;
-}
-
-.controls button {
-  padding: 8px 14px;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  background: #2c2c2e;
-  color: var(--text);
-  margin-right: 6px;
-}
-
-.controls button.active {
-  background: var(--accent);
-}
-
-.status {
-  font-size: 12px;
-  color: var(--muted);
-  margin-bottom: 6px;
-}
-
-pre {
-  background: var(--card);
+.card {
+  margin-top: 14px;
+  background: #151515;
+  border-radius: 14px;
   padding: 14px;
-  border-radius: 12px;
-  white-space: pre-wrap;
-  font-size: 14px;
-}
-
-section {
-  margin-top: 20px;
-  background: var(--card);
-  padding: 12px;
-  border-radius: 12px;
 }
 
 canvas {
   width: 100% !important;
+  height: 320px !important;
 }
 </style>
 </head>
 
 <body>
 
-<header>
-  <div class="titlebar">
-    <h1>PilotApp</h1>
-    <button onclick="load()">↻</button>
+<header>PilotApp</header>
+
+<div class="container">
+
+  <!-- PERSONEN -->
+  <div id="persons"></div>
+
+  <!-- ZEITFENSTER -->
+  <div style="margin-top:10px">
+    <button onclick="setWindow(3)">3h</button>
+    <button onclick="setWindow(6)">6h</button>
+    <button onclick="setWindow(12)">12h</button>
+    <button class="active" onclick="setWindow(24)">24h</button>
   </div>
-  <div class="persons" id="persons"></div>
-</header>
 
-<main>
-
-  <div class="controls">
-    <button id="btnShort" onclick="setMode('short')">Short</button>
-    <button id="btnLong" onclick="setMode('long')">Long</button>
+  <!-- GRAPH -->
+  <div class="card">
+    <h3>Workstart-Verlauf</h3>
+    <canvas id="chart"></canvas>
   </div>
 
-  <div class="status" id="status">–</div>
-  <pre id="content">Lade Daten…</pre>
-
-  <!-- WORKSTART -->
-  <section>
-    <h2>Workstart-Verlauf</h2>
-    <canvas id="workstartChart" height="140"></canvas>
-  </section>
-
-</main>
+</div>
 
 <script>
-const DATA_DIR = "data/";
-let persons = [];
-let currentKey = localStorage.getItem("pilotapp_person");
-let currentMode = localStorage.getItem("pilotapp_mode") || "short";
-let chart = null;
+/* ==============================
+   KONFIG
+============================== */
 
-async function loadPersons() {
-  const res = await fetch("data/");
-  const html = await res.text();
+const PERSONS = [
+  "konietzka_stefan",
+  "crotogino_philipp"
+];
 
-  persons = [...html.matchAll(/href="([^"]+)_short\.json"/g)]
-    .map(m => m[1])
-    .sort();
+let currentKey = PERSONS[0];
+let windowHours = 24;
+let chart;
 
-  if (!currentKey || !persons.includes(currentKey)) {
-    currentKey = persons[0];
-  }
+/* ==============================
+   INIT
+============================== */
 
-  renderPersons();
-  setMode(currentMode, false);
-}
+renderPersons();
+loadWorkstart();
+
+/* ==============================
+   UI
+============================== */
 
 function renderPersons() {
   const box = document.getElementById("persons");
   box.innerHTML = "";
 
-  persons.forEach(k => {
-    const d = document.createElement("div");
-    d.className = "person" + (k === currentKey ? " active" : "");
-    d.textContent = k.replace("_", " ");
-    d.onclick = () => {
-      currentKey = k;
-      localStorage.setItem("pilotapp_person", k);
+  PERSONS.forEach(p => {
+    const b = document.createElement("button");
+    b.textContent = p.replace("_", " ");
+    if (p === currentKey) b.classList.add("active");
+    b.onclick = () => {
+      currentKey = p;
       renderPersons();
-      load();
       loadWorkstart();
     };
-    box.appendChild(d);
+    box.appendChild(b);
   });
 }
 
-function setMode(m, reload = true) {
-  currentMode = m;
-  localStorage.setItem("pilotapp_mode", m);
-  btnShort.classList.toggle("active", m === "short");
-  btnLong.classList.toggle("active", m === "long");
-  if (reload) load();
+function setWindow(h) {
+  windowHours = h;
+  document.querySelectorAll("button").forEach(b => b.classList.remove("active"));
+  event.target.classList.add("active");
+  loadWorkstart();
 }
 
-async function load() {
-  const res = await fetch(`${DATA_DIR}${currentKey}_${currentMode}.json?ts=${Date.now()}`);
-  const data = await res.json();
-  content.textContent = data[currentMode] || "–";
-  status.textContent = "Aktualisiert: " + new Date().toLocaleTimeString();
-}
+/* ==============================
+   WORKSTART
+============================== */
 
 async function loadWorkstart() {
-  const res = await fetch(`${DATA_DIR}workstart_history_${currentKey}.json`);
+  const url = `data/workstart_history_${currentKey}.json`;
+
+  const res = await fetch(url);
+  if (!res.ok) return;
+
   const data = await res.json();
+  const entries = data.entries || [];
 
-  const toDate = s => s ? new Date(s.replace(" ", "T")) : null;
+  const now = new Date();
+  const cutoff = new Date(now - windowHours * 3600 * 1000);
 
-  const labels = data.entries.map(e => toDate(e.ts_calc));
-  const line = k => data.entries.map(e => toDate(e[k]));
+  const filtered = entries.filter(e => {
+    const t = parseTime(e.ts_calc);
+    return t && t >= cutoff;
+  });
 
+  const labels = filtered.map(e => parseTime(e.ts_calc));
+
+  const build = key =>
+    filtered.map(e => parseTime(e[key]));
+
+  drawChart(labels, [
+    { label: "Meldung",      data: build("from_meldung"),      color: "#0a84ff" },
+    { label: "Alt",          data: build("from_meldung_alt"),  color: "#64d2ff" },
+    { label: "Div 2",        data: build("calc_div2"),         color: "#30d158" },
+    { label: "Div 3",        data: build("calc_div3"),         color: "#ffd60a" }
+  ]);
+}
+
+/* ==============================
+   CHART
+============================== */
+
+function drawChart(labels, series) {
   if (chart) chart.destroy();
 
-  chart = new Chart(workstartChart, {
+  chart = new Chart(document.getElementById("chart"), {
     type: "line",
     data: {
       labels,
-      datasets: [
-        { label: "DIV 2", data: line("calc_div2"), borderColor: "#4caf50" },
-        { label: "DIV 3", data: line("calc_div3"), borderColor: "#2196f3" },
-        { label: "Meldung", data: line("from_meldung"), borderColor: "#ff9800", borderDash: [5,5] },
-        { label: "Alt. Meldung", data: line("from_meldung_alt"), borderColor: "#f44336", borderDash: [2,4] }
-      ]
+      datasets: series.map(s => ({
+        label: s.label,
+        data: s.data,
+        borderColor: s.color,
+        backgroundColor: s.color,
+        spanGaps: true,
+        tension: 0.25
+      }))
     },
     options: {
-      interaction: { mode: "index", intersect: false },
+      responsive: true,
       scales: {
-        x: { type: "time" },
+        x: {
+          type: "time",
+          time: { unit: "hour" },
+          ticks: { color: "#aaa" }
+        },
         y: {
-          ticks: {
-            callback: v => new Date(v).toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})
-          }
+          reverse: true,
+          ticks: { color: "#aaa" }
+        }
+      },
+      plugins: {
+        legend: {
+          labels: { color: "#ccc" }
         }
       }
     }
   });
 }
 
-loadPersons().then(() => {
-  load();
-  loadWorkstart();
-});
+/* ==============================
+   HELPERS
+============================== */
+
+function parseTime(val) {
+  if (!val) return null;
+
+  // ISO
+  if (val.includes("T")) return new Date(val);
+
+  // "Mo12:30"
+  const m = val.match(/(\d{2}):(\d{2})$/);
+  if (!m) return null;
+
+  const d = new Date();
+  d.setHours(+m[1], +m[2], 0, 0);
+  return d;
+}
 </script>
 
 </body>
