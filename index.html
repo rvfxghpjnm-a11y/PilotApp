@@ -1,66 +1,168 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <title>Workstart History</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <style>
-    body {
-      background: #111;
-      color: #eee;
-      font-family: system-ui, sans-serif;
-    }
-    canvas {
-      max-width: 1200px;
-      margin: 40px auto;
-      display: block;
-    }
-  </style>
+<meta charset="UTF-8">
+<title>PilotApp – Workstart History</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {
+  background: #0f1115;
+  color: #e5e7eb;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+canvas {
+  max-width: 1400px;
+  margin: auto;
+  display: block;
+}
+</style>
 </head>
+
 <body>
 
-<h2 style="text-align:center;">Workstart – Positionsverlauf</h2>
+<h1>Workstart – Positionsverlauf (4-Time-Glance)</h1>
 <canvas id="chart"></canvas>
 
 <script>
-fetch("workstart_history_konietzka_stefan.json")
+const FILE = "workstart_history_konietzka_stefan.json";
+
+/* ---------------------------------------------------------
+   Helpers
+--------------------------------------------------------- */
+function parseTime(ts) {
+  if (!ts) return null;
+  return new Date(ts.replace(" ", "T"));
+}
+
+fetch(FILE)
   .then(r => r.json())
   .then(data => {
-    const entries = data.entries;
+    const entries = data.entries || [];
 
     const labels = entries.map(e => e.ts_calc);
+
     const pos = entries.map(e => e.pos);
+
+    const t_meld = entries.map(e =>
+      e.from_meldung ? e.pos : null
+    );
+
+    const t_alt = entries.map(e =>
+      e.from_meldung_alt ? e.pos : null
+    );
+
+    const t_div2 = entries.map(e =>
+      e.calc_div2 ? e.pos : null
+    );
+
+    const t_div3 = entries.map(e =>
+      e.calc_div3 ? e.pos : null
+    );
 
     new Chart(document.getElementById("chart"), {
       type: "line",
       data: {
         labels,
-        datasets: [{
-          label: "Position",
-          data: pos,
-          borderColor: "#4fd1c5",
-          backgroundColor: "rgba(79,209,197,0.2)",
-          tension: 0.2,
-          pointRadius: 0
-        }]
+        datasets: [
+          {
+            label: "Position",
+            data: pos,
+            borderColor: "#4f46e5",
+            backgroundColor: "rgba(79,70,229,0.15)",
+            tension: 0.15,
+            pointRadius: 0,
+          },
+          {
+            label: "Meldung (primär)",
+            data: t_meld,
+            borderColor: "#22c55e",
+            borderDash: [6,4],
+            pointRadius: 3,
+          },
+          {
+            label: "Meldung (alternativ)",
+            data: t_alt,
+            borderColor: "#16a34a",
+            borderDash: [2,6],
+            pointRadius: 3,
+          },
+          {
+            label: "Div 2",
+            data: t_div2,
+            borderColor: "#f59e0b",
+            borderDash: [8,4],
+            pointRadius: 2,
+          },
+          {
+            label: "Div 3",
+            data: t_div3,
+            borderColor: "#ef4444",
+            borderDash: [4,4],
+            pointRadius: 2,
+          }
+        ]
       },
       options: {
+        responsive: true,
+        interaction: {
+          mode: "index",
+          intersect: false
+        },
+        plugins: {
+          legend: {
+            labels: {
+              color: "#e5e7eb"
+            }
+          },
+          tooltip: {
+            callbacks: {
+              label: ctx => `${ctx.dataset.label}: Pos ${ctx.parsed.y}`
+            }
+          }
+        },
         scales: {
           y: {
             reverse: true,
             title: {
               display: true,
-              text: "Position"
+              text: "Position",
+              color: "#9ca3af"
+            },
+            ticks: {
+              color: "#9ca3af"
+            },
+            grid: {
+              color: "rgba(255,255,255,0.05)"
             }
           },
           x: {
             ticks: {
-              maxTicksLimit: 12
+              maxTicksLimit: 12,
+              color: "#9ca3af"
+            },
+            grid: {
+              color: "rgba(255,255,255,0.05)"
             }
           }
         }
       }
     });
+  })
+  .catch(err => {
+    document.body.innerHTML =
+      "<h2 style='color:red'>Fehler beim Laden der Workstart-Daten</h2>";
+    console.error(err);
   });
 </script>
 
