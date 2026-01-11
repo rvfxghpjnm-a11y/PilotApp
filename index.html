@@ -1,26 +1,31 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>PilotApp</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <header class="topbar">
   <h1>PilotApp</h1>
 
-  <div class="toolbar">
-    <div id="personButtons"></div>
+  <!-- PERSONEN -->
+  <div id="personBar" class="person-bar">
+    <span class="hint">Lade Personen …</span>
+  </div>
 
-    <div class="view-buttons">
-      <button data-view="short">Short</button>
-      <button data-view="long">Long</button>
-      <button data-view="graph">Graph</button>
-    </div>
+  <!-- FUNKTIONEN -->
+  <div class="view-bar">
+    <button data-view="short" class="active">Short</button>
+    <button data-view="long">Long</button>
+    <button data-view="graph">Graph</button>
+  </div>
 
+  <!-- REFRESH -->
+  <div class="refresh-bar">
     <button id="refreshBtn">⟳ Refresh</button>
     <span id="refreshTime">–</span>
   </div>
@@ -30,8 +35,7 @@
   <div class="placeholder">Ansicht wird geladen …</div>
 </main>
 
-<!-- ⚠️ WICHTIG: NUR router.js, ALS MODULE -->
-<script type="module" src="js/router.js"></script>
-
+<!-- ZENTRALE APP-LOGIK -->
+<script src="js/app.js"></script>
 </body>
 </html>
