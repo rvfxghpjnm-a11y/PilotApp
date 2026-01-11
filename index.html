@@ -1,102 +1,36 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <title>PilotApp View</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <title>PilotApp</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <style>
-    body {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-      margin: 0;
-      background: #0e0e11;
-      color: #eee;
-    }
-
-    header {
-      padding: 10px 16px;
-      background: #16161c;
-      border-bottom: 1px solid #2a2a33;
-    }
-
-    .row {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    select, button {
-      background: #22222b;
-      color: #eee;
-      border: 1px solid #333;
-      padding: 6px 10px;
-      border-radius: 6px;
-      cursor: pointer;
-    }
-
-    button.active {
-      background: #3a3aff;
-      border-color: #3a3aff;
-    }
-
-    main {
-      padding: 16px;
-    }
-
-    #content {
-      margin-top: 10px;
-      padding: 12px;
-      background: #14141a;
-      border: 1px dashed #333;
-      border-radius: 8px;
-      min-height: 120px;
-    }
-
-    footer {
-      padding: 8px 16px;
-      font-size: 12px;
-      color: #888;
-      border-top: 1px solid #2a2a33;
-    }
-  </style>
+  <link rel="stylesheet" href="css/style.css" />
 </head>
-
 <body>
 
-<header>
-  <div class="row">
+<header class="topbar">
+  <h1>PilotApp</h1>
 
-    <!-- Person -->
-    <select id="personSelect">
-      <!-- wird später automatisch befüllt -->
-    </select>
+  <div class="toolbar">
+    <div id="personButtons"></div>
 
-    <!-- Views -->
-    <button id="btnShort">Short</button>
-    <button id="btnLong">Long</button>
-    <button id="btnGraph">Graph</button>
+    <div class="view-buttons">
+      <button data-view="short">Short</button>
+      <button data-view="long">Long</button>
+      <button data-view="graph">Graph</button>
+    </div>
 
-    <!-- Refresh -->
-    <button id="btnRefresh">↻ Refresh</button>
-
+    <button id="refreshBtn">⟳ Refresh</button>
     <span id="refreshTime">–</span>
   </div>
 </header>
 
-<main>
-  <div id="content">
-    <em>Ansicht wird geladen …</em>
-  </div>
+<main id="content">
+  <div class="placeholder">Ansicht wird geladen …</div>
 </main>
 
-<footer>
-  PilotApp View
-</footer>
-
-<!-- Nur Basisskripte -->
 <script src="js/state.js"></script>
 <script src="js/router.js"></script>
-
 </body>
 </html>
