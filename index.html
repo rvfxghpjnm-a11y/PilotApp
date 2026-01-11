@@ -1,77 +1,63 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8" />
-  <title>PilotApp</title>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <!-- Chart.js -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <meta charset="UTF-8">
+  <title>PilotApp View</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <style>
     body {
-      margin: 0;
-      background: #0b0b0b;
-      color: #fff;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      margin: 0;
+      background: #0e0e11;
+      color: #eee;
     }
 
     header {
-      padding: 12px 16px;
-      background: #111;
-      font-size: 20px;
-      font-weight: 600;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .container {
-      padding: 16px;
+      padding: 10px 16px;
+      background: #16161c;
+      border-bottom: 1px solid #2a2a33;
     }
 
     .row {
       display: flex;
-      gap: 8px;
+      align-items: center;
+      gap: 10px;
       flex-wrap: wrap;
-      margin-bottom: 12px;
     }
 
-    button {
-      background: #1e1e1e;
-      color: #fff;
-      border: none;
-      border-radius: 10px;
-      padding: 8px 14px;
-      font-size: 14px;
+    select, button {
+      background: #22222b;
+      color: #eee;
+      border: 1px solid #333;
+      padding: 6px 10px;
+      border-radius: 6px;
       cursor: pointer;
     }
 
     button.active {
-      background: #2a82ff;
+      background: #3a3aff;
+      border-color: #3a3aff;
     }
 
-    .card {
-      background: #151515;
-      border-radius: 16px;
+    main {
       padding: 16px;
-      margin-top: 12px;
     }
 
-    .hidden {
-      display: none;
+    #content {
+      margin-top: 10px;
+      padding: 12px;
+      background: #14141a;
+      border: 1px dashed #333;
+      border-radius: 8px;
+      min-height: 120px;
     }
 
-    #refreshInfo {
+    footer {
+      padding: 8px 16px;
       font-size: 12px;
-      opacity: 0.7;
-      margin-top: 6px;
-    }
-
-    canvas {
-      width: 100% !important;
-      height: 300px !important;
+      color: #888;
+      border-top: 1px solid #2a2a33;
     }
   </style>
 </head>
@@ -79,200 +65,38 @@
 <body>
 
 <header>
-  <div>PilotApp</div>
-  <button id="btnRefresh">⟳</button>
-</header>
-
-<div class="container">
-
-  <!-- PERSONEN -->
-  <div class="row" id="persons"></div>
-
-  <!-- MODUS -->
   <div class="row">
+
+    <!-- Person -->
+    <select id="personSelect">
+      <!-- wird später automatisch befüllt -->
+    </select>
+
+    <!-- Views -->
     <button id="btnShort">Short</button>
     <button id="btnLong">Long</button>
     <button id="btnGraph">Graph</button>
+
+    <!-- Refresh -->
+    <button id="btnRefresh">↻ Refresh</button>
+
+    <span id="refreshTime">–</span>
   </div>
+</header>
 
-  <!-- ZEITFENSTER -->
-  <div class="row hidden" id="timeButtons">
-    <button data-h="3">3h</button>
-    <button data-h="6">6h</button>
-    <button data-h="12">12h</button>
-    <button data-h="24">24h</button>
+<main>
+  <div id="content">
+    <em>Ansicht wird geladen …</em>
   </div>
+</main>
 
-  <div id="refreshInfo"></div>
+<footer>
+  PilotApp View
+</footer>
 
-  <!-- CONTENT -->
-  <div class="card" id="shortCard"></div>
-  <div class="card hidden" id="longCard"></div>
-
-  <div class="card hidden" id="graphCard">
-    <canvas id="graphCanvas"></canvas>
-  </div>
-
-</div>
-
-<script>
-/* =========================================================
-   STATE
-========================================================= */
-const STATE = {
-  person: localStorage.getItem("pa_person") || "konietzka_stefan",
-  mode: localStorage.getItem("pa_mode") || "short",
-  hours: Number(localStorage.getItem("pa_hours") || 24),
-};
-
-const PERSONS = [
-  { key: "konietzka_stefan", label: "konietzka stefan" },
-  { key: "crotogino_philipp", label: "crotogino philipp" },
-];
-
-let chart = null;
-
-/* =========================================================
-   INIT
-========================================================= */
-renderPersons();
-bindButtons();
-applyState();
-reload();
-
-/* =========================================================
-   UI
-========================================================= */
-function renderPersons() {
-  const box = document.getElementById("persons");
-  box.innerHTML = "";
-  PERSONS.forEach(p => {
-    const b = document.createElement("button");
-    b.textContent = p.label;
-    if (STATE.person === p.key) b.classList.add("active");
-    b.onclick = () => {
-      STATE.person = p.key;
-      saveState();
-      applyState();
-      reload();
-    };
-    box.appendChild(b);
-  });
-}
-
-function bindButtons() {
-  btnShort.onclick = () => setMode("short");
-  btnLong.onclick  = () => setMode("long");
-  btnGraph.onclick = () => setMode("graph");
-
-  btnRefresh.onclick = reload;
-
-  document.querySelectorAll("#timeButtons button").forEach(b => {
-    b.onclick = () => {
-      STATE.hours = Number(b.dataset.h);
-      saveState();
-      applyState();
-      if (STATE.mode === "graph") loadGraph();
-    };
-  });
-}
-
-function setMode(m) {
-  STATE.mode = m;
-  saveState();
-  applyState();
-  reload();
-}
-
-function applyState() {
-  btnShort.classList.toggle("active", STATE.mode === "short");
-  btnLong.classList.toggle("active", STATE.mode === "long");
-  btnGraph.classList.toggle("active", STATE.mode === "graph");
-
-  shortCard.classList.toggle("hidden", STATE.mode !== "short");
-  longCard.classList.toggle("hidden", STATE.mode !== "long");
-  graphCard.classList.toggle("hidden", STATE.mode !== "graph");
-
-  timeButtons.classList.toggle("hidden", STATE.mode !== "graph");
-
-  document.querySelectorAll("#timeButtons button").forEach(b => {
-    b.classList.toggle("active", Number(b.dataset.h) === STATE.hours);
-  });
-}
-
-function saveState() {
-  localStorage.setItem("pa_person", STATE.person);
-  localStorage.setItem("pa_mode", STATE.mode);
-  localStorage.setItem("pa_hours", STATE.hours);
-}
-
-/* =========================================================
-   DATA
-========================================================= */
-async function reload() {
-  document.getElementById("refreshInfo").textContent =
-    "Aktualisiert: " + new Date().toLocaleTimeString();
-
-  if (STATE.mode === "short") loadText("short");
-  if (STATE.mode === "long")  loadText("long");
-  if (STATE.mode === "graph") loadGraph();
-}
-
-async function loadText(kind) {
-  const url = `${STATE.person}_${kind}.json?ts=${Date.now()}`;
-  const res = await fetch(url);
-  const data = await res.json();
-  const box = kind === "short" ? shortCard : longCard;
-  box.textContent = JSON.stringify(data, null, 2);
-}
-
-async function loadGraph() {
-  const url = `workstart_history_${STATE.person}.json?ts=${Date.now()}`;
-  const res = await fetch(url);
-  const data = await res.json();
-
-  const cutoff = Date.now() - STATE.hours * 3600 * 1000;
-
-  const points = data.entries
-    .map(e => ({
-      x: new Date(e.ts),
-      y: e.pos,
-    }))
-    .filter(p => p.x.getTime() >= cutoff);
-
-  if (chart) chart.destroy();
-
-  chart = new Chart(graphCanvas.getContext("2d"), {
-    type: "line",
-    data: {
-      datasets: [{
-        label: "Position",
-        data: points,
-        borderColor: "#2a82ff",
-        tension: 0.2,
-        pointRadius: 3,
-      }]
-    },
-    options: {
-      parsing: false,
-      scales: {
-        x: {
-          type: "time",
-          time: { unit: "hour" },
-          ticks: { color: "#aaa" }
-        },
-        y: {
-          reverse: true,
-          ticks: { color: "#aaa" }
-        }
-      },
-      plugins: {
-        legend: { display: false }
-      }
-    }
-  });
-}
-</script>
+<!-- Nur Basisskripte -->
+<script src="js/state.js"></script>
+<script src="js/router.js"></script>
 
 </body>
 </html>
