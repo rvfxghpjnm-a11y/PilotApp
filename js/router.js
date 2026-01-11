@@ -1,9 +1,9 @@
 // js/router.js
 // ============================================================
-// PILOTAPP ROUTER – FINAL
+// PILOTAPP ROUTER – FINAL (PERSONS + VIEWS + GRAPH READY)
 // ============================================================
 
-import { state, setPerson, setView, initState } from "./state.js";
+import { state, setPerson, setView, restoreState } from "./state.js";
 
 // ------------------------------------------------------------
 // DOM
@@ -20,12 +20,36 @@ const refreshTimeEl = document.getElementById("refreshTime");
 // ------------------------------------------------------------
 
 document.addEventListener("DOMContentLoaded", async () => {
-  await initState();
+  restoreState();
+  await loadPersons();
   renderPersons();
   renderViews();
   loadCurrentView();
   updateRefreshTime();
 });
+
+// ------------------------------------------------------------
+// LOAD PERSONS (AUS workstart_index.json)
+// ------------------------------------------------------------
+
+async function loadPersons() {
+  try {
+    const res = await fetch("data/workstart_index.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("index not found");
+
+    const data = await res.json();
+    state.persons = data.persons || [];
+
+    // Fallback: erste Person automatisch setzen
+    if (!state.currentPerson && state.persons.length > 0) {
+      setPerson(state.persons[0].key);
+    }
+
+  } catch (err) {
+    console.error("Fehler beim Laden der Personen:", err);
+    state.persons = [];
+  }
+}
 
 // ------------------------------------------------------------
 // PERSON BUTTONS
@@ -61,11 +85,7 @@ function renderViews() {
   viewButtons.forEach(btn => {
     const view = btn.dataset.view;
 
-    if (view === state.currentView) {
-      btn.classList.add("active");
-    } else {
-      btn.classList.remove("active");
-    }
+    btn.classList.toggle("active", view === state.currentView);
 
     btn.onclick = () => {
       setView(view);
@@ -95,14 +115,12 @@ async function loadCurrentView() {
     const html = await res.text();
     contentEl.innerHTML = html;
 
-    // Graph braucht Person-Key global
-    if (view === "graph") {
-      window.PILOTAPP_PERSON = state.currentPerson;
-    }
+    // Person global für Graph / andere Views
+    window.PILOTAPP_PERSON = state.currentPerson;
 
   } catch (err) {
-    contentEl.innerHTML = `<p>Fehler beim Laden von ${view}</p>`;
     console.error(err);
+    contentEl.innerHTML = `<p>Fehler beim Laden von ${view}</p>`;
   }
 }
 
@@ -111,7 +129,7 @@ async function loadCurrentView() {
 // ------------------------------------------------------------
 
 refreshBtn.onclick = async () => {
-  await initState();
+  await loadPersons();
   renderPersons();
   renderViews();
   loadCurrentView();
@@ -119,6 +137,5 @@ refreshBtn.onclick = async () => {
 };
 
 function updateRefreshTime() {
-  const now = new Date();
-  refreshTimeEl.textContent = now.toLocaleTimeString("de-DE");
+  refreshTimeEl.textContent = new Date().toLocaleTimeString("de-DE");
 }
