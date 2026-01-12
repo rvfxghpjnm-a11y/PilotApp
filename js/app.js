@@ -1,194 +1,159 @@
-// js/app.js
-// ============================================================
-// PILOTAPP – CORE APP LOGIC (STEP 1: PERSONS + VIEWS STABLE)
-// ============================================================
-
-const DATA_INDEX_URL = "data/workstart_index.json";
-
-// ------------------------------------------------------------
-// STATE
-// ------------------------------------------------------------
-const state = {
-  persons: [],
-  currentPerson: null,
-  currentView: "short",
-};
-
-// ------------------------------------------------------------
-// DOM
-// ------------------------------------------------------------
-const personButtonsEl = document.getElementById("personButtons");
-const contentEl = document.getElementById("content");
-const viewButtons = document.querySelectorAll(".view-buttons button");
-const refreshBtn = document.getElementById("refreshBtn");
-const refreshTimeEl = document.getElementById("refreshTime");
+let chart = null;
+let currentPerson = null;
+let currentHours = 24;
 
 // ------------------------------------------------------------
 // INIT
 // ------------------------------------------------------------
-document.addEventListener("DOMContentLoaded", () => {
-  restoreState();
-  initApp();
+loadPersons();
+
+document.querySelectorAll("button[data-hours]").forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll("button[data-hours]")
+      .forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    currentHours = Number(btn.dataset.hours);
+    if (currentPerson) loadGraph();
+  };
 });
 
 // ------------------------------------------------------------
-// MAIN INIT
-// ------------------------------------------------------------
-async function initApp() {
-  try {
-    await loadPersons();
-    renderPersons();
-    renderViews();
-    loadCurrentView();
-    updateRefreshTime();
-  } catch (err) {
-    showError("Initialisierung fehlgeschlagen", err);
-  }
-}
-
-// ------------------------------------------------------------
-// LOAD PERSONS (AUTOMATISCH)
+// PERSONEN LADEN
 // ------------------------------------------------------------
 async function loadPersons() {
-  const res = await fetch(DATA_INDEX_URL, { cache: "no-store" });
-  if (!res.ok) {
-    throw new Error("workstart_index.json nicht ladbar");
-  }
+  try {
+    const res = await fetch("data/workstart_index.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("Index nicht ladbar");
+    const index = await res.json();
 
-  const data = await res.json();
+    const wrap = document.getElementById("persons");
+    wrap.innerHTML = "";
 
-  if (!Array.isArray(data.persons)) {
-    throw new Error("Ungültiges Personenformat");
-  }
+    index.persons.forEach((p, i) => {
+      const btn = document.createElement("button");
+      btn.textContent = `${p.vorname} ${p.nachname}`;
+      btn.onclick = () => {
+        document.querySelectorAll("#persons button")
+          .forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentPerson = p;
+        loadGraph();
+      };
 
-  state.persons = data.persons;
+      if (i === 0) {
+        btn.classList.add("active");
+        currentPerson = p;
+      }
 
-  // Fallback: erste Person automatisch wählen
-  if (!state.currentPerson && state.persons.length > 0) {
-    state.currentPerson = state.persons[0].key;
-    persistState();
+      wrap.appendChild(btn);
+    });
+
+    if (currentPerson) loadGraph();
+
+  } catch (err) {
+    document.getElementById("persons").innerHTML =
+      `<div class="error">Personen konnten nicht geladen werden</div>`;
+    console.error(err);
   }
 }
 
 // ------------------------------------------------------------
-// PERSON BUTTONS
+// GRAPH LADEN
 // ------------------------------------------------------------
-function renderPersons() {
-  personButtonsEl.innerHTML = "";
+async function loadGraph() {
+  try {
+    const file = `data/${currentPerson.file}`;
+    const res = await fetch(file, { cache: "no-store" });
+    if (!res.ok) throw new Error("Workstart-Datei nicht ladbar");
 
-  if (state.persons.length === 0) {
-    personButtonsEl.innerHTML = "<span>Keine Personen gefunden</span>";
-    return;
+    const data = await res.json();
+    buildChart(data.entries || []);
+
+    document.getElementById("status").textContent =
+      new Date().toLocaleTimeString("de-DE");
+
+  } catch (err) {
+    console.error(err);
   }
+}
 
-  state.persons.forEach(p => {
-    const btn = document.createElement("button");
-    btn.textContent = `${p.vorname} ${p.nachname}`;
-    btn.dataset.key = p.key;
+// ------------------------------------------------------------
+// CHART
+// ------------------------------------------------------------
+function buildChart(entries) {
+  if (chart) chart.destroy();
 
-    if (p.key === state.currentPerson) {
-      btn.classList.add("active");
+  const now = Date.now();
+  const cutoff = now - currentHours * 3600 * 1000;
+
+  const points = entries
+    .map(e => ({
+      x: toDate(e.ts_calc),
+      from_meldung:     toDate(e.from_meldung),
+      from_meldung_alt: toDate(e.from_meldung_alt),
+      calc_div2:        toDate(e.calc_div2),
+      calc_div3:        toDate(e.calc_div3)
+    }))
+    .filter(p => p.x && p.x.getTime() >= cutoff);
+
+  const datasets = [
+    makeDataset("Meldung", points, "from_meldung", "#fbbf24"),
+    makeDataset("Meldung alt", points, "from_meldung_alt", "#60a5fa"),
+    makeDataset("Calc /2", points, "calc_div2", "#ef4444"),
+    makeDataset("Calc /3", points, "calc_div3", "#22c55e")
+  ];
+
+  chart = new Chart(document.getElementById("chart"), {
+    type: "line",
+    data: { datasets },
+    options: {
+      responsive: true,
+      interaction: { mode: "nearest", intersect: false },
+      scales: {
+        x: {
+          type: "time",
+          time: { tooltipFormat: "dd.MM HH:mm" },
+          ticks: { color: "#9ca3af" },
+          grid: { color: "#1f2937" }
+        },
+        y: {
+          type: "time",
+          time: { tooltipFormat: "dd.MM HH:mm" },
+          ticks: { color: "#9ca3af" },
+          grid: {
+            color: ctx => {
+              const d = new Date(ctx.tick.value);
+              return d.getHours() === 0 ? "#334155" : "#1f2937";
+            }
+          }
+        }
+      },
+      plugins: {
+        legend: { labels: { color: "#e5e7eb" } }
+      }
     }
-
-    btn.onclick = () => {
-      state.currentPerson = p.key;
-      persistState();
-      renderPersons();
-      loadCurrentView();
-    };
-
-    personButtonsEl.appendChild(btn);
   });
 }
 
 // ------------------------------------------------------------
-// VIEW BUTTONS
+// HELFER
 // ------------------------------------------------------------
-function renderViews() {
-  viewButtons.forEach(btn => {
-    const view = btn.dataset.view;
-
-    btn.classList.toggle("active", view === state.currentView);
-
-    btn.onclick = () => {
-      state.currentView = view;
-      persistState();
-      renderViews();
-      loadCurrentView();
-    };
-  });
+function toDate(v) {
+  if (!v) return null;
+  const d = new Date(v.replace(" ", "T"));
+  return isNaN(d) ? null : d;
 }
 
-// ------------------------------------------------------------
-// LOAD VIEW
-// ------------------------------------------------------------
-async function loadCurrentView() {
-  if (!state.currentPerson) {
-    contentEl.innerHTML = "<p>Keine Person ausgewählt</p>";
-    return;
-  }
-
-  const view = state.currentView;
-  const url = `views/${view}.html`;
-
-  try {
-    const res = await fetch(url, { cache: "no-store" });
-    if (!res.ok) {
-      throw new Error(`View ${view} nicht ladbar`);
-    }
-
-    const html = await res.text();
-    contentEl.innerHTML = html;
-
-    // Person-Key global verfügbar machen (für graph.js etc.)
-    window.PILOTAPP_PERSON = state.currentPerson;
-
-  } catch (err) {
-    showError(`Fehler beim Laden der Ansicht: ${view}`, err);
-  }
-}
-
-// ------------------------------------------------------------
-// REFRESH
-// ------------------------------------------------------------
-refreshBtn.onclick = async () => {
-  try {
-    await initApp();
-  } catch (err) {
-    showError("Refresh fehlgeschlagen", err);
-  }
-};
-
-// ------------------------------------------------------------
-// STATE PERSISTENCE
-// ------------------------------------------------------------
-function persistState() {
-  localStorage.setItem("pilotapp_person", state.currentPerson);
-  localStorage.setItem("pilotapp_view", state.currentView);
-}
-
-function restoreState() {
-  const p = localStorage.getItem("pilotapp_person");
-  const v = localStorage.getItem("pilotapp_view");
-
-  if (p) state.currentPerson = p;
-  if (v) state.currentView = v;
-}
-
-// ------------------------------------------------------------
-// UI HELPERS
-// ------------------------------------------------------------
-function updateRefreshTime() {
-  const now = new Date();
-  refreshTimeEl.textContent = now.toLocaleTimeString("de-DE");
-}
-
-function showError(msg, err) {
-  console.error(msg, err);
-  contentEl.innerHTML = `
-    <div class="error-box">
-      <strong>${msg}</strong>
-      <pre>${err?.message || err}</pre>
-    </div>
-  `;
+function makeDataset(label, points, key, color) {
+  return {
+    label,
+    data: points
+      .filter(p => p[key])
+      .map(p => ({ x: p.x, y: p[key] })),
+    borderColor: color,
+    backgroundColor: color,
+    borderWidth: 2,
+    tension: 0.2,
+    pointRadius: 0
+  };
 }
