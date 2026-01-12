@@ -17,28 +17,28 @@
 <header>
   <h1>PilotApp</h1>
 
-  <!-- Personen -->
   <div class="row" id="persons">
     Lade Personen …
   </div>
 
-  <!-- Zeitfenster -->
   <div class="row">
     <button data-hours="3">3h</button>
     <button data-hours="6">6h</button>
     <button data-hours="12">12h</button>
     <button data-hours="24" class="active">24h</button>
 
+    <button id="autoRefreshBtn">⟳ Auto</button>
+
     <div id="status">–</div>
   </div>
 </header>
 
 <main>
+  <div id="errorBox" class="error" style="display:none"></div>
   <canvas id="chart"></canvas>
 </main>
 
-<!-- App Logik (ES-Module!) -->
-<script type="module" src="js/app.js"></script>
-
+<!-- App Logik -->
+<script src="js/app.js"></script>
 </body>
 </html>

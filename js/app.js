@@ -1,18 +1,21 @@
 // js/app.js
 // ============================================================
-// PILOTAPP – APP CONTROLLER (SPLIT STEP 3: STATE PERSISTENCE)
+// PILOTAPP – APP CONTROLLER (STEP 4: AUTO REFRESH + ERRORS)
 // ============================================================
 
 import { renderWorkstartChart } from "./graph.js";
 
 let currentPerson = null;
 let currentHours = 24;
+let autoRefresh = false;
+let autoTimer = null;
 
 // ------------------------------------------------------------
 // LOCAL STORAGE KEYS
 // ------------------------------------------------------------
 const LS_PERSON = "pilotapp_current_person";
 const LS_HOURS  = "pilotapp_current_hours";
+const LS_AUTO   = "pilotapp_auto_refresh";
 
 // ------------------------------------------------------------
 // INIT
@@ -22,23 +25,21 @@ init();
 function init() {
   restoreState();
   bindHourButtons();
+  bindAutoRefresh();
   loadPersons();
 }
 
 // ------------------------------------------------------------
-// STATE (RESTORE / SAVE)
+// STATE
 // ------------------------------------------------------------
 function restoreState() {
-  const savedPerson = localStorage.getItem(LS_PERSON);
-  const savedHours  = localStorage.getItem(LS_HOURS);
+  const p = localStorage.getItem(LS_PERSON);
+  const h = localStorage.getItem(LS_HOURS);
+  const a = localStorage.getItem(LS_AUTO);
 
-  if (savedHours && !isNaN(savedHours)) {
-    currentHours = Number(savedHours);
-  }
-
-  if (savedPerson) {
-    currentPerson = { key: savedPerson };
-  }
+  if (h && !isNaN(h)) currentHours = Number(h);
+  if (p) currentPerson = { key: p };
+  if (a === "1") autoRefresh = true;
 }
 
 function saveState() {
@@ -46,19 +47,17 @@ function saveState() {
     localStorage.setItem(LS_PERSON, currentPerson.key);
   }
   localStorage.setItem(LS_HOURS, String(currentHours));
+  localStorage.setItem(LS_AUTO, autoRefresh ? "1" : "0");
 }
 
 // ------------------------------------------------------------
-// ZEITFENSTER BUTTONS
+// ZEITFENSTER
 // ------------------------------------------------------------
 function bindHourButtons() {
   document.querySelectorAll("button[data-hours]").forEach(btn => {
     const hours = Number(btn.dataset.hours);
 
-    // Restore active state
-    if (hours === currentHours) {
-      btn.classList.add("active");
-    }
+    if (hours === currentHours) btn.classList.add("active");
 
     btn.onclick = () => {
       document.querySelectorAll("button[data-hours]")
@@ -67,14 +66,49 @@ function bindHourButtons() {
       btn.classList.add("active");
       currentHours = hours;
       saveState();
-
       if (currentPerson) loadGraph();
     };
   });
 }
 
 // ------------------------------------------------------------
-// PERSONEN LADEN
+// AUTO REFRESH
+// ------------------------------------------------------------
+function bindAutoRefresh() {
+  const btn = document.getElementById("autoRefreshBtn");
+
+  if (autoRefresh) enableAutoRefresh();
+
+  btn.onclick = () => {
+    autoRefresh ? disableAutoRefresh() : enableAutoRefresh();
+  };
+}
+
+function enableAutoRefresh() {
+  autoRefresh = true;
+  saveState();
+
+  document.getElementById("autoRefreshBtn").classList.add("active");
+
+  autoTimer = setInterval(() => {
+    if (currentPerson) loadGraph(true);
+  }, 60_000); // 1 Minute
+}
+
+function disableAutoRefresh() {
+  autoRefresh = false;
+  saveState();
+
+  document.getElementById("autoRefreshBtn").classList.remove("active");
+
+  if (autoTimer) {
+    clearInterval(autoTimer);
+    autoTimer = null;
+  }
+}
+
+// ------------------------------------------------------------
+// PERSONEN
 // ------------------------------------------------------------
 async function loadPersons() {
   const wrap = document.getElementById("persons");
@@ -89,19 +123,23 @@ async function loadPersons() {
     index.persons.forEach((p, i) => {
       const btn = document.createElement("button");
       btn.textContent = `${p.vorname} ${p.nachname}`;
-      btn.dataset.key = p.key;
 
-      const isActive =
+      const active =
         (currentPerson && currentPerson.key === p.key) ||
         (!currentPerson && i === 0);
 
-      if (isActive) {
+      if (active) {
         btn.classList.add("active");
         currentPerson = p;
       }
 
       btn.onclick = () => {
-        setActivePerson(btn, p);
+        document.querySelectorAll("#persons button")
+          .forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentPerson = p;
+        saveState();
+        loadGraph();
       };
 
       wrap.appendChild(btn);
@@ -110,52 +148,49 @@ async function loadPersons() {
     if (currentPerson) loadGraph();
 
   } catch (err) {
+    showError("Personen konnten nicht geladen werden");
     console.error(err);
-    wrap.innerHTML =
-      `<div class="error">Personen konnten nicht geladen werden</div>`;
   }
 }
 
 // ------------------------------------------------------------
-// PERSON AKTIV SETZEN
+// GRAPH
 // ------------------------------------------------------------
-function setActivePerson(btn, person) {
-  document.querySelectorAll("#persons button")
-    .forEach(b => b.classList.remove("active"));
-
-  btn.classList.add("active");
-  currentPerson = person;
-  saveState();
-  loadGraph();
-}
-
-// ------------------------------------------------------------
-// GRAPH LADEN
-// ------------------------------------------------------------
-async function loadGraph() {
+async function loadGraph(silent = false) {
   if (!currentPerson?.file) return;
 
   try {
+    hideError();
+
     const file = `data/${currentPerson.file}`;
     const res = await fetch(file, { cache: "no-store" });
     if (!res.ok) throw new Error("Workstart-Datei nicht ladbar");
 
     const data = await res.json();
     renderWorkstartChart(data.entries || [], currentHours);
-
-    updateStatusTime();
+    updateStatus();
 
   } catch (err) {
+    if (!silent) showError("Workstart-Daten konnten nicht geladen werden");
     console.error(err);
   }
 }
 
 // ------------------------------------------------------------
-// STATUS
+// UI HELPERS
 // ------------------------------------------------------------
-function updateStatusTime() {
-  const el = document.getElementById("status");
-  if (!el) return;
+function updateStatus() {
+  document.getElementById("status").textContent =
+    new Date().toLocaleTimeString("de-DE");
+}
 
-  el.textContent = new Date().toLocaleTimeString("de-DE");
+function showError(msg) {
+  const box = document.getElementById("errorBox");
+  box.textContent = msg;
+  box.style.display = "block";
+}
+
+function hideError() {
+  const box = document.getElementById("errorBox");
+  box.style.display = "none";
 }
