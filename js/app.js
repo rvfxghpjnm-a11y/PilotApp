@@ -1,6 +1,6 @@
 // js/app.js
 // ============================================================
-// PILOTAPP – APP CONTROLLER (SPLIT STEP 2, STABIL)
+// PILOTAPP – APP CONTROLLER (SPLIT STEP 3: STATE PERSISTENCE)
 // ============================================================
 
 import { renderWorkstartChart } from "./graph.js";
@@ -9,13 +9,43 @@ let currentPerson = null;
 let currentHours = 24;
 
 // ------------------------------------------------------------
+// LOCAL STORAGE KEYS
+// ------------------------------------------------------------
+const LS_PERSON = "pilotapp_current_person";
+const LS_HOURS  = "pilotapp_current_hours";
+
+// ------------------------------------------------------------
 // INIT
 // ------------------------------------------------------------
 init();
 
 function init() {
+  restoreState();
   bindHourButtons();
   loadPersons();
+}
+
+// ------------------------------------------------------------
+// STATE (RESTORE / SAVE)
+// ------------------------------------------------------------
+function restoreState() {
+  const savedPerson = localStorage.getItem(LS_PERSON);
+  const savedHours  = localStorage.getItem(LS_HOURS);
+
+  if (savedHours && !isNaN(savedHours)) {
+    currentHours = Number(savedHours);
+  }
+
+  if (savedPerson) {
+    currentPerson = { key: savedPerson };
+  }
+}
+
+function saveState() {
+  if (currentPerson?.key) {
+    localStorage.setItem(LS_PERSON, currentPerson.key);
+  }
+  localStorage.setItem(LS_HOURS, String(currentHours));
 }
 
 // ------------------------------------------------------------
@@ -23,12 +53,20 @@ function init() {
 // ------------------------------------------------------------
 function bindHourButtons() {
   document.querySelectorAll("button[data-hours]").forEach(btn => {
+    const hours = Number(btn.dataset.hours);
+
+    // Restore active state
+    if (hours === currentHours) {
+      btn.classList.add("active");
+    }
+
     btn.onclick = () => {
       document.querySelectorAll("button[data-hours]")
         .forEach(b => b.classList.remove("active"));
 
       btn.classList.add("active");
-      currentHours = Number(btn.dataset.hours);
+      currentHours = hours;
+      saveState();
 
       if (currentPerson) loadGraph();
     };
@@ -53,15 +91,18 @@ async function loadPersons() {
       btn.textContent = `${p.vorname} ${p.nachname}`;
       btn.dataset.key = p.key;
 
-      btn.onclick = () => {
-        setActivePerson(btn, p);
-      };
+      const isActive =
+        (currentPerson && currentPerson.key === p.key) ||
+        (!currentPerson && i === 0);
 
-      // Erste Person automatisch aktiv
-      if (i === 0) {
+      if (isActive) {
         btn.classList.add("active");
         currentPerson = p;
       }
+
+      btn.onclick = () => {
+        setActivePerson(btn, p);
+      };
 
       wrap.appendChild(btn);
     });
@@ -70,7 +111,8 @@ async function loadPersons() {
 
   } catch (err) {
     console.error(err);
-    wrap.innerHTML = `<div class="error">Personen konnten nicht geladen werden</div>`;
+    wrap.innerHTML =
+      `<div class="error">Personen konnten nicht geladen werden</div>`;
   }
 }
 
@@ -83,6 +125,7 @@ function setActivePerson(btn, person) {
 
   btn.classList.add("active");
   currentPerson = person;
+  saveState();
   loadGraph();
 }
 
@@ -90,7 +133,7 @@ function setActivePerson(btn, person) {
 // GRAPH LADEN
 // ------------------------------------------------------------
 async function loadGraph() {
-  if (!currentPerson) return;
+  if (!currentPerson?.file) return;
 
   try {
     const file = `data/${currentPerson.file}`;
