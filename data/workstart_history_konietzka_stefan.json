@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T20:56:46",
+  "generated_at": "2026-01-12T20:58:41",
   "person": {
     "vorname": "stefan",
     "nachname": "konietzka"
@@ -10029,6 +10029,15 @@
       "from_meldung_alt": "2026-01-12 12:00",
       "calc_div2": "2026-01-12 06:56",
       "calc_div3": "2026-01-12 03:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-12 20:58",
+      "pos": 20,
+      "from_meldung": "2026-01-12 05:30",
+      "from_meldung_alt": "2026-01-12 12:00",
+      "calc_div2": "2026-01-12 06:58",
+      "calc_div3": "2026-01-12 03:38",
       "real_start": null
     }
   ]
