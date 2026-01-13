@@ -1,11 +1,17 @@
 // ============================================================
-// GRAPH LOGIC – WORKSTART VERLAUF (KORREKT & LESBAR)
+// GRAPH LOGIC – WORKSTART VERLAUF (STABIL, MODULSICHER)
 // ============================================================
+
 console.log("GRAPH.JS LOADED");
 
 let chart = null;
 
 export function renderWorkstartChart(entries, hours) {
+  if (!window.Chart) {
+    console.error("Chart.js nicht geladen (window.Chart fehlt)");
+    return;
+  }
+
   if (chart) chart.destroy();
 
   const now = Date.now();
@@ -28,75 +34,33 @@ export function renderWorkstartChart(entries, hours) {
     makeDataset("Calc /3",     points, "calc_div3",        "#22c55e")
   ];
 
-  chart = new Chart(document.getElementById("chart"), {
+  const ctx = document.getElementById("chart");
+  if (!ctx) {
+    console.error("Canvas #chart nicht gefunden");
+    return;
+  }
+
+  chart = new window.Chart(ctx, {
     type: "line",
     data: { datasets },
-
     options: {
       responsive: true,
-      maintainAspectRatio: false,
-      spanGaps: false, // ⛔ verhindert senkrechte Linien
-
-      interaction: {
-        mode: "nearest",
-        intersect: false
-      },
-
+      interaction: { mode: "nearest", intersect: false },
       scales: {
-        // ----------------------------------------------------
-        // X = Berechnungszeit
-        // ----------------------------------------------------
         x: {
           type: "time",
-          time: {
-            tooltipFormat: "dd.MM.yyyy HH:mm"
-          },
-          ticks: {
-            color: "#9ca3af"
-          },
-          grid: {
-            color: "#1f2937"
-          }
+          time: { tooltipFormat: "dd.MM HH:mm" },
+          ticks: { color: "#9ca3af" },
+          grid: { color: "#1f2937" }
         },
-
-        // ----------------------------------------------------
-        // Y = prognostizierter Arbeitsbeginn
-        // ----------------------------------------------------
         y: {
           type: "time",
-          ticks: {
-            color: "#9ca3af",
-
-            // 🔒 ZWINGENDES FORMAT (Datum + Uhrzeit)
-            callback: value => {
-              const d = new Date(value);
-              return d.toLocaleString("de-DE", {
-                day: "2-digit",
-                month: "2-digit",
-                hour: "2-digit",
-                minute: "2-digit"
-              });
-            }
-          },
-          grid: {
-            color: "#1f2937" // ❌ keine Mitternachts-Sonderlinie
-          }
+          ticks: { color: "#9ca3af" },
+          grid: { color: "#1f2937" }
         }
       },
-
       plugins: {
-        legend: {
-          labels: {
-            color: "#e5e7eb"
-          }
-        },
-        tooltip: {
-          callbacks: {
-            label: ctx =>
-              `${ctx.dataset.label}: ` +
-              new Date(ctx.parsed.y).toLocaleString("de-DE")
-          }
-        }
+        legend: { labels: { color: "#e5e7eb" } }
       }
     }
   });
@@ -112,24 +76,11 @@ function toDate(v) {
 }
 
 function makeDataset(label, points, key, color) {
-  let last = null;
-
-  const data = points.map(p => {
-    if (!p[key]) return null;
-
-    // ⛔ Brich Linie bei Tageswechsel
-    if (last && Math.abs(p[key] - last) > 12 * 3600 * 1000) {
-      last = p[key];
-      return null;
-    }
-
-    last = p[key];
-    return { x: p.x, y: p[key] };
-  });
-
   return {
     label,
-    data,
+    data: points
+      .filter(p => p[key])
+      .map(p => ({ x: p.x, y: p[key] })),
     borderColor: color,
     backgroundColor: color,
     borderWidth: 2,
