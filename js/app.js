@@ -1,6 +1,6 @@
 /* =========================================================
    PilotApp – app.js
-   Fokus: Short, Long & Graph stabil
+   Fokus: Short, Long & Graph STABIL
    ========================================================= */
 
 import { renderWorkstartChart } from "./graph.js";
@@ -11,8 +11,8 @@ console.log("APP.JS LOADED");
 // STATE
 // ---------------------------------------------------------
 let currentPerson = null;
-let currentView = "short";
-let currentHours = 24;
+let currentView   = "short";
+let currentHours  = 24;
 
 // ---------------------------------------------------------
 // DOM
@@ -41,14 +41,17 @@ async function loadPersons() {
     const data = await res.json();
 
     personsEl.innerHTML = "";
-    data.persons.forEach((p, i) => {
+
+    data.persons.forEach((p, idx) => {
       const btn = document.createElement("button");
       btn.textContent = `${p.vorname} ${p.nachname}`;
       btn.onclick = (e) => selectPerson(p, e);
-      if (i === 0) {
+
+      if (idx === 0) {
         btn.classList.add("active");
         currentPerson = p;
       }
+
       personsEl.appendChild(btn);
     });
 
@@ -96,37 +99,31 @@ function renderView() {
 // SHORT
 // ---------------------------------------------------------
 async function loadShort() {
-  contentEl.innerHTML = "<h2>Short</h2><p>Lade Daten …</p>";
   const res = await fetch(`data/${currentPerson.key}_short.json`);
   const data = await res.json();
-  contentEl.innerHTML = `<h2>Short</h2><pre>${data.short}</pre>`;
+  contentEl.innerHTML = `<pre>${data.short}</pre>`;
 }
 
 // ---------------------------------------------------------
 // LONG
 // ---------------------------------------------------------
 async function loadLong() {
-  contentEl.innerHTML = "<h2>Long</h2><p>Lade Daten …</p>";
   const res = await fetch(`data/${currentPerson.key}_long.json`);
   const data = await res.json();
-  contentEl.innerHTML = `<h2>Long</h2><pre>${data.long}</pre>`;
+  contentEl.innerHTML = `<pre>${data.long}</pre>`;
 }
 
 // ---------------------------------------------------------
-// GRAPH ✅ FIX HIER
+// GRAPH  ✅ FIX HIER
 // ---------------------------------------------------------
 async function loadGraph() {
   contentEl.innerHTML = `<canvas id="chart"></canvas>`;
 
-  const res = await fetch(
-    `data/workstart_history_${currentPerson.key}.json`,
-    { cache: "no-store" }
-  );
+  // 🔴 WICHTIG: exakt der Dateiname aus workstart_index.json
+  const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
+  const data = await res.json();
 
-  const json = await res.json();
-
-  // 🔑 WICHTIG: entries übergeben, nicht das ganze Objekt
-  renderWorkstartChart(json.entries || [], currentHours);
+  renderWorkstartChart(data.entries || [], currentHours);
 
   statusEl.textContent = new Date().toLocaleTimeString("de-DE");
 }
