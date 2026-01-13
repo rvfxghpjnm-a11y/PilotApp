@@ -55,22 +55,15 @@ function saveState() {
 // ------------------------------------------------------------
 // ZEITFENSTER
 // ------------------------------------------------------------
-function bindHourButtons() {
-  document.querySelectorAll("button[data-hours]").forEach(btn => {
-    const hours = Number(btn.dataset.hours);
+function bindAutoRefresh() {
+  const btn = document.getElementById("autoBtn");
+  if (!btn) return; // ✅ WICHTIG: Abbruch, wenn Button nicht da ist
 
-    if (hours === currentHours) btn.classList.add("active");
+  if (autoRefresh) enableAutoRefresh();
 
-    btn.onclick = () => {
-      document.querySelectorAll("button[data-hours]")
-        .forEach(b => b.classList.remove("active"));
-
-      btn.classList.add("active");
-      currentHours = hours;
-      saveState();
-      if (currentPerson) loadGraph();
-    };
-  });
+  btn.onclick = () => {
+    autoRefresh ? disableAutoRefresh() : enableAutoRefresh();
+  };
 }
 
 // ------------------------------------------------------------
