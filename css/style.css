@@ -60,3 +60,380 @@ canvas {
   border-radius: 6px;
   color: #fee2e2;
 }
+
+/* =========================================================
+   Seelotse & Bört Views - Card-based UI
+   ========================================================= */
+
+/* Card Container */
+.card {
+  background: #1f2937;
+  border: 1px solid #374151;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+
+.card-header {
+  padding: 12px 16px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.card-header:hover {
+  background: #2d3748;
+}
+
+.card-header:active {
+  background: #374151;
+}
+
+.card-content {
+  display: none;
+  padding: 0 16px 12px 16px;
+  border-top: 1px solid #374151;
+  margin-top: 0;
+}
+
+.card.expanded .card-content {
+  display: block;
+}
+
+.card.expanded .card-header {
+  background: #2d3748;
+}
+
+.expand-icon {
+  font-size: 18px;
+  transition: transform 0.2s ease;
+  color: #9ca3af;
+}
+
+.card.expanded .expand-icon {
+  transform: rotate(180deg);
+}
+
+/* Badges */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+
+.badge.success {
+  background: #065f46;
+  color: #a7f3d0;
+}
+
+.badge.warning {
+  background: #78350f;
+  color: #fcd34d;
+}
+
+.badge.info {
+  background: #1e3a8a;
+  color: #93c5fd;
+}
+
+.badge.gray {
+  background: #374151;
+  color: #d1d5db;
+}
+
+/* Header Section */
+.view-header {
+  padding: 16px;
+  background: #1f2937;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.view-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.badges-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.meta-info {
+  font-size: 13px;
+  color: #9ca3af;
+  margin-top: 8px;
+}
+
+/* Lotse Item */
+.lotse-item {
+  background: #1f2937;
+  border: 1px solid #374151;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+.lotse-item.target {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.lotse-header {
+  padding: 12px 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.lotse-header:hover {
+  background: #2d3748;
+}
+
+.lotse-header:active {
+  background: #374151;
+}
+
+.lotse-nr {
+  font-weight: 600;
+  min-width: 30px;
+  color: #9ca3af;
+}
+
+.lotse-name {
+  flex: 1;
+  font-weight: 500;
+}
+
+.lotse-info {
+  font-size: 13px;
+  color: #9ca3af;
+}
+
+.lotse-details {
+  display: none;
+  padding: 0 16px 12px 16px;
+  border-top: 1px solid #374151;
+}
+
+.lotse-item.expanded .lotse-details {
+  display: block;
+}
+
+.lotse-item.expanded .lotse-header {
+  background: #2d3748;
+}
+
+.detail-row {
+  display: flex;
+  padding: 6px 0;
+  font-size: 14px;
+}
+
+.detail-label {
+  color: #9ca3af;
+  min-width: 120px;
+  font-weight: 500;
+}
+
+.detail-value {
+  color: #e6edf3;
+}
+
+/* Person Card (Bört) */
+.person-card {
+  background: #1e40af;
+  border: 2px solid #3b82f6;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.person-name {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  text-transform: capitalize;
+}
+
+.person-pos {
+  font-size: 32px;
+  font-weight: 700;
+  color: #60a5fa;
+  margin-bottom: 12px;
+}
+
+.person-takt {
+  font-size: 16px;
+  color: #93c5fd;
+  margin-bottom: 16px;
+}
+
+.times-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.time-item {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.time-label {
+  font-size: 11px;
+  color: #93c5fd;
+  margin-bottom: 4px;
+}
+
+.time-value {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* Tauschpartner Cards */
+.tauschpartner-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.tauschpartner-card {
+  background: #1f2937;
+  border: 1px solid #374151;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.tauschpartner-card.arrow-up {
+  border-color: #22c55e;
+  background: rgba(34, 197, 94, 0.05);
+}
+
+.tauschpartner-card.arrow-down {
+  border-color: #f59e0b;
+  background: rgba(245, 158, 11, 0.05);
+}
+
+.tauschpartner-card.verguetung {
+  border-color: #fbbf24;
+  box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.2);
+}
+
+.tauschpartner-name {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  text-transform: capitalize;
+}
+
+.tauschpartner-info {
+  font-size: 14px;
+  color: #9ca3af;
+  margin-bottom: 8px;
+}
+
+/* Section Headers */
+.section-header {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 20px 0 12px 0;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #374151;
+}
+
+/* Arrows and Symbols */
+.arrow-up {
+  color: #22c55e;
+  font-weight: bold;
+}
+
+.arrow-down {
+  color: #f59e0b;
+  font-weight: bold;
+}
+
+.verguetung {
+  color: #fbbf24;
+  font-weight: bold;
+}
+
+/* Rüsterbergen Table */
+.ruesterbergen-list {
+  background: #1f2937;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.ruesterbergen-item {
+  padding: 10px 16px;
+  display: grid;
+  grid-template-columns: 80px 1fr 80px 120px;
+  gap: 12px;
+  border-bottom: 1px solid #374151;
+  font-size: 14px;
+  align-items: center;
+}
+
+.ruesterbergen-item:last-child {
+  border-bottom: none;
+}
+
+.ruesterbergen-item:hover {
+  background: #2d3748;
+}
+
+.ruesterbergen-eta {
+  font-weight: 600;
+  color: #60a5fa;
+}
+
+.ruesterbergen-ship {
+  font-weight: 500;
+}
+
+.ruesterbergen-gruppe {
+  text-align: center;
+  background: #374151;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.ruesterbergen-route {
+  color: #9ca3af;
+  font-size: 13px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .times-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .tauschpartner-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .ruesterbergen-item {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+}
