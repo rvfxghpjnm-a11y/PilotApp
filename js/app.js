@@ -26,6 +26,13 @@ const statusEl  = document.getElementById("status");
 // ---------------------------------------------------------
 init();
 
+// Auto-Refresh alle 60 Sekunden
+setInterval(() => {
+  if (currentPerson) {
+    renderView();
+  }
+}, 60000);
+
 function init() {
   bindViewButtons();
   bindHourButtons();
@@ -108,22 +115,24 @@ function renderView() {
 // SHORT
 // ---------------------------------------------------------
 async function loadShort() {
-  const res = await fetch(`data/${currentPerson.key}_short.json`);
+  const res = await fetch(`data/${currentPerson.key}_short.json`, { cache: "no-store" });
   const data = await res.json();
   contentEl.innerHTML = `<pre>${data.short}</pre>`;
+  statusEl.textContent = "Aktualisiert " + new Date().toLocaleTimeString("de-DE");
 }
 
 // ---------------------------------------------------------
 // LONG
 // ---------------------------------------------------------
 async function loadLong() {
-  const res = await fetch(`data/${currentPerson.key}_long.json`);
+  const res = await fetch(`data/${currentPerson.key}_long.json`, { cache: "no-store" });
   const data = await res.json();
   contentEl.innerHTML = `<pre>${data.long}</pre>`;
+  statusEl.textContent = "Aktualisiert " + new Date().toLocaleTimeString("de-DE");
 }
 
 // ---------------------------------------------------------
-// GRAPH  🔥 HARTER DEBUG-MODUS
+// GRAPH
 // ---------------------------------------------------------
 async function loadGraph() {
   contentEl.innerHTML = `
@@ -131,7 +140,7 @@ async function loadGraph() {
       Lade Graph für <b>${currentPerson.key}</b><br>
       Datei: <code>${currentPerson.file}</code>
     </div>
-    <canvas id="chart" style="height:520px"></canvas>
+    <canvas id="workstartChart" style="height:520px"></canvas>
   `;
 
   try {
@@ -149,7 +158,7 @@ async function loadGraph() {
     }
 
     renderWorkstartChart(data.entries, currentHours);
-    statusEl.textContent = "Graph aktualisiert " + new Date().toLocaleTimeString("de-DE");
+    statusEl.textContent = "Aktualisiert " + new Date().toLocaleTimeString("de-DE");
 
   } catch (err) {
     contentEl.insertAdjacentHTML(
@@ -178,7 +187,7 @@ function bindRefreshButton() {
   const refreshBtn = document.getElementById("refreshNow");
   if (refreshBtn) {
     refreshBtn.onclick = () => {
-      if (currentView === "graph") loadGraph();
+      renderView();
     };
   }
 }
