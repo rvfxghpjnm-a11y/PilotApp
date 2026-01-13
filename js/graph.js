@@ -1,12 +1,9 @@
 // ============================================================
-// GRAPH LOGIC – WORKSTART VERLAUF (STABIL & NACHVOLLZIEHBAR)
+// GRAPH LOGIC – WORKSTART VERLAUF (KORREKT & LESBAR)
 // ============================================================
 
 let chart = null;
 
-// ------------------------------------------------------------
-// PUBLIC API
-// ------------------------------------------------------------
 export function renderWorkstartChart(entries, hours) {
   if (chart) chart.destroy();
 
@@ -15,7 +12,7 @@ export function renderWorkstartChart(entries, hours) {
 
   const points = entries
     .map(e => ({
-      x: toDate(e.ts_calc),                // Zeitpunkt der Berechnung
+      x: toDate(e.ts_calc),
       from_meldung:     toDate(e.from_meldung),
       from_meldung_alt: toDate(e.from_meldung_alt),
       calc_div2:        toDate(e.calc_div2),
@@ -23,25 +20,21 @@ export function renderWorkstartChart(entries, hours) {
     }))
     .filter(p => p.x && p.x.getTime() >= cutoff);
 
-  if (!points.length) {
-    document.getElementById("content").innerHTML =
-      "<p>Keine Daten im gewählten Zeitraum</p>";
-    return;
-  }
-
   const datasets = [
-    makeDataset("Meldung",       points, "from_meldung",     "#fbbf24"),
-    makeDataset("Meldung alt",   points, "from_meldung_alt", "#60a5fa"),
-    makeDataset("Calc /2",       points, "calc_div2",        "#ef4444"),
-    makeDataset("Calc /3",       points, "calc_div3",        "#22c55e")
+    makeDataset("Meldung",     points, "from_meldung",     "#fbbf24"),
+    makeDataset("Meldung alt", points, "from_meldung_alt", "#60a5fa"),
+    makeDataset("Calc /2",     points, "calc_div2",        "#ef4444"),
+    makeDataset("Calc /3",     points, "calc_div3",        "#22c55e")
   ];
 
   chart = new Chart(document.getElementById("chart"), {
     type: "line",
     data: { datasets },
+
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      spanGaps: false, // ⛔ verhindert senkrechte Linien
 
       interaction: {
         mode: "nearest",
@@ -50,16 +43,12 @@ export function renderWorkstartChart(entries, hours) {
 
       scales: {
         // ----------------------------------------------------
-        // X-ACHSE = Berechnungszeitpunkt
+        // X = Berechnungszeit
         // ----------------------------------------------------
         x: {
           type: "time",
           time: {
-            tooltipFormat: "dd.MM.yyyy HH:mm",
-            displayFormats: {
-              hour: "HH:mm",
-              day: "dd.MM"
-            }
+            tooltipFormat: "dd.MM.yyyy HH:mm"
           },
           ticks: {
             color: "#9ca3af"
@@ -70,22 +59,26 @@ export function renderWorkstartChart(entries, hours) {
         },
 
         // ----------------------------------------------------
-        // Y-ACHSE = prognostizierter Arbeitsbeginn (Datum+Zeit)
+        // Y = prognostizierter Arbeitsbeginn
         // ----------------------------------------------------
         y: {
           type: "time",
-          time: {
-            tooltipFormat: "dd.MM.yyyy HH:mm",
-            displayFormats: {
-              hour: "dd.MM HH:mm",
-              day: "dd.MM.yyyy"
+          ticks: {
+            color: "#9ca3af",
+
+            // 🔒 ZWINGENDES FORMAT (Datum + Uhrzeit)
+            callback: value => {
+              const d = new Date(value);
+              return d.toLocaleString("de-DE", {
+                day: "2-digit",
+                month: "2-digit",
+                hour: "2-digit",
+                minute: "2-digit"
+              });
             }
           },
-          ticks: {
-            color: "#9ca3af"
-          },
           grid: {
-            color: "#1f2937"   // ❌ keine Mitternachts-Sonderlinie mehr
+            color: "#1f2937" // ❌ keine Mitternachts-Sonderlinie
           }
         }
       },
@@ -94,6 +87,13 @@ export function renderWorkstartChart(entries, hours) {
         legend: {
           labels: {
             color: "#e5e7eb"
+          }
+        },
+        tooltip: {
+          callbacks: {
+            label: ctx =>
+              `${ctx.dataset.label}: ` +
+              new Date(ctx.parsed.y).toLocaleString("de-DE")
           }
         }
       }
@@ -111,11 +111,24 @@ function toDate(v) {
 }
 
 function makeDataset(label, points, key, color) {
+  let last = null;
+
+  const data = points.map(p => {
+    if (!p[key]) return null;
+
+    // ⛔ Brich Linie bei Tageswechsel
+    if (last && Math.abs(p[key] - last) > 12 * 3600 * 1000) {
+      last = p[key];
+      return null;
+    }
+
+    last = p[key];
+    return { x: p.x, y: p[key] };
+  });
+
   return {
     label,
-    data: points
-      .filter(p => p[key])
-      .map(p => ({ x: p.x, y: p[key] })),
+    data,
     borderColor: color,
     backgroundColor: color,
     borderWidth: 2,
