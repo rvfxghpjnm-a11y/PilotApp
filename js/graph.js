@@ -9,6 +9,19 @@ let chart = null;
 export function renderWorkstartChart(entries, hours) {
   if (!window.Chart) {
     console.error("Chart.js nicht geladen (window.Chart fehlt)");
+    const chartCanvas = document.getElementById("chart");
+    if (chartCanvas) {
+      const errorDiv = document.createElement("div");
+      errorDiv.style.cssText = "color:#f87171; padding:20px; font-size:14px;";
+      errorDiv.innerHTML = `
+        ❌ <strong>Chart.js konnte nicht geladen werden</strong><br><br>
+        Die Chart-Bibliothek ist nicht verfügbar. Mögliche Ursachen:<br>
+        • CDN-Ressourcen werden blockiert (z.B. durch Adblocker)<br>
+        • Keine Internetverbindung<br><br>
+        Bitte überprüfen Sie Ihre Browser-Einstellungen und laden Sie die Seite neu.
+      `;
+      chartCanvas.parentNode.insertBefore(errorDiv, chartCanvas);
+    }
     return;
   }
 

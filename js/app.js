@@ -29,6 +29,7 @@ init();
 function init() {
   bindViewButtons();
   bindHourButtons();
+  bindRefreshButton();
   loadPersons();
 }
 
@@ -88,6 +89,14 @@ function renderView() {
   if (!currentPerson) {
     contentEl.textContent = "Bitte Person auswählen";
     return;
+  }
+
+  // Zeitfilter nur für Graph anzeigen
+  const timeControls = document.getElementById("timeControls");
+  if (currentView === "graph") {
+    timeControls.style.display = "flex";
+  } else {
+    timeControls.style.display = "none";
   }
 
   if (currentView === "short") loadShort();
@@ -163,4 +172,13 @@ function bindHourButtons() {
       if (currentView === "graph") loadGraph();
     };
   });
+}
+
+function bindRefreshButton() {
+  const refreshBtn = document.getElementById("refreshNow");
+  if (refreshBtn) {
+    refreshBtn.onclick = () => {
+      if (currentView === "graph") loadGraph();
+    };
+  }
 }
