@@ -116,7 +116,7 @@ async function loadLong() {
 async function loadGraph() {
   contentEl.innerHTML = `<canvas id="chart"></canvas>`;
 
-  const res = await fetch(`data/${currentPerson.key}_history.json`);
+  const res = await fetch(`data/workstart_history_${currentPerson.key}.json`);
   const entries = await res.json();
 
   renderWorkstartChart(entries, currentHours);
