@@ -3,6 +3,8 @@
 // PILOTAPP – APP CONTROLLER (STEP 4: AUTO REFRESH + ERRORS)
 // ============================================================
 
+console.log("APP.JS LOADED");
+
 import { renderWorkstartChart } from "./graph.js";
 
 let currentPerson = null;
