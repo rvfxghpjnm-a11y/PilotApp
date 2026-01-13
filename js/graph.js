@@ -1,5 +1,5 @@
 // ============================================================
-// GRAPH LOGIC – ISOLIERT & STABIL
+// GRAPH LOGIC – WORKSTART VERLAUF (STABIL & NACHVOLLZIEHBAR)
 // ============================================================
 
 let chart = null;
@@ -15,7 +15,7 @@ export function renderWorkstartChart(entries, hours) {
 
   const points = entries
     .map(e => ({
-      x: toDate(e.ts_calc),
+      x: toDate(e.ts_calc),                // Zeitpunkt der Berechnung
       from_meldung:     toDate(e.from_meldung),
       from_meldung_alt: toDate(e.from_meldung_alt),
       calc_div2:        toDate(e.calc_div2),
@@ -23,11 +23,17 @@ export function renderWorkstartChart(entries, hours) {
     }))
     .filter(p => p.x && p.x.getTime() >= cutoff);
 
+  if (!points.length) {
+    document.getElementById("content").innerHTML =
+      "<p>Keine Daten im gewählten Zeitraum</p>";
+    return;
+  }
+
   const datasets = [
-    makeDataset("Meldung", points, "from_meldung", "#fbbf24"),
-    makeDataset("Meldung alt", points, "from_meldung_alt", "#60a5fa"),
-    makeDataset("Calc /2", points, "calc_div2", "#ef4444"),
-    makeDataset("Calc /3", points, "calc_div3", "#22c55e")
+    makeDataset("Meldung",       points, "from_meldung",     "#fbbf24"),
+    makeDataset("Meldung alt",   points, "from_meldung_alt", "#60a5fa"),
+    makeDataset("Calc /2",       points, "calc_div2",        "#ef4444"),
+    makeDataset("Calc /3",       points, "calc_div3",        "#22c55e")
   ];
 
   chart = new Chart(document.getElementById("chart"), {
@@ -35,28 +41,61 @@ export function renderWorkstartChart(entries, hours) {
     data: { datasets },
     options: {
       responsive: true,
-      interaction: { mode: "nearest", intersect: false },
+      maintainAspectRatio: false,
+
+      interaction: {
+        mode: "nearest",
+        intersect: false
+      },
+
       scales: {
+        // ----------------------------------------------------
+        // X-ACHSE = Berechnungszeitpunkt
+        // ----------------------------------------------------
         x: {
           type: "time",
-          time: { tooltipFormat: "dd.MM HH:mm" },
-          ticks: { color: "#9ca3af" },
-          grid: { color: "#1f2937" }
+          time: {
+            tooltipFormat: "dd.MM.yyyy HH:mm",
+            displayFormats: {
+              hour: "HH:mm",
+              day: "dd.MM"
+            }
+          },
+          ticks: {
+            color: "#9ca3af"
+          },
+          grid: {
+            color: "#1f2937"
+          }
         },
+
+        // ----------------------------------------------------
+        // Y-ACHSE = prognostizierter Arbeitsbeginn (Datum+Zeit)
+        // ----------------------------------------------------
         y: {
           type: "time",
-          time: { tooltipFormat: "dd.MM HH:mm" },
-          ticks: { color: "#9ca3af" },
-          grid: {
-            color: ctx => {
-              const d = new Date(ctx.tick.value);
-              return d.getHours() === 0 ? "#334155" : "#1f2937";
+          time: {
+            tooltipFormat: "dd.MM.yyyy HH:mm",
+            displayFormats: {
+              hour: "dd.MM HH:mm",
+              day: "dd.MM.yyyy"
             }
+          },
+          ticks: {
+            color: "#9ca3af"
+          },
+          grid: {
+            color: "#1f2937"   // ❌ keine Mitternachts-Sonderlinie mehr
           }
         }
       },
+
       plugins: {
-        legend: { labels: { color: "#e5e7eb" } }
+        legend: {
+          labels: {
+            color: "#e5e7eb"
+          }
+        }
       }
     }
   });
