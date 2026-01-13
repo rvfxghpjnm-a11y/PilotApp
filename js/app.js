@@ -1,100 +1,166 @@
-import { renderWorkstartChart } from "./graph.js";
+/* =========================================================
+   PilotApp – app.js
+   Fokus: Short & Long stabil
+   ========================================================= */
 
+console.log("APP.JS LOADED");
+
+// ---------------------------------------------------------
+// STATE
+// ---------------------------------------------------------
 let currentPerson = null;
 let currentView = "short";
 let currentHours = 24;
+let autoRefresh = false;
+let autoTimer = null;
 
-// ------------------------------------------------------------
+// ---------------------------------------------------------
+// DOM
+// ---------------------------------------------------------
+const personsEl = document.getElementById("persons");
+const contentEl = document.getElementById("content");
+const statusEl = document.getElementById("status");
+
+// ---------------------------------------------------------
 // INIT
-// ------------------------------------------------------------
-loadPersons();
-bindViewButtons();
-bindTimeButtons();
+// ---------------------------------------------------------
+init();
 
-// ------------------------------------------------------------
-// VIEW BUTTONS
-// ------------------------------------------------------------
-function bindViewButtons() {
-  document.querySelectorAll("button[data-view]").forEach(btn => {
-    btn.onclick = () => {
-      document.querySelectorAll("button[data-view]")
-        .forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-
-      currentView = btn.dataset.view;
-      loadView();
-    };
-  });
+function init() {
+  bindViewButtons();
+  bindHourButtons();
+  bindAutoRefresh();
+  loadPersons();
 }
 
-// ------------------------------------------------------------
-// TIME BUTTONS (GRAPH)
-// ------------------------------------------------------------
-function bindTimeButtons() {
-  document.querySelectorAll("button[data-hours]").forEach(btn => {
-    btn.onclick = () => {
-      document.querySelectorAll("button[data-hours]")
-        .forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-
-      currentHours = Number(btn.dataset.hours);
-      if (currentView === "graph") loadView();
-    };
-  });
-}
-
-// ------------------------------------------------------------
+// ---------------------------------------------------------
 // PERSONEN
-// ------------------------------------------------------------
+// ---------------------------------------------------------
 async function loadPersons() {
-  const res = await fetch("data/workstart_index.json", { cache: "no-store" });
-  const index = await res.json();
+  try {
+    const res = await fetch("data/workstart_index.json");
+    const data = await res.json();
 
-  const wrap = document.getElementById("persons");
-  wrap.innerHTML = "";
+    personsEl.innerHTML = "";
+    data.persons.forEach(p => {
+      const btn = document.createElement("button");
+      btn.textContent = `${p.vorname} ${p.nachname}`;
+      btn.onclick = () => selectPerson(p);
+      personsEl.appendChild(btn);
+    });
 
-  index.persons.forEach((p, i) => {
-    const btn = document.createElement("button");
-    btn.textContent = `${p.vorname} ${p.nachname}`;
-    btn.onclick = () => {
-      document.querySelectorAll("#persons button")
-        .forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-
-      currentPerson = p;
-      loadView();
-    };
-
-    if (i === 0) {
-      btn.classList.add("active");
-      currentPerson = p;
-    }
-
-    wrap.appendChild(btn);
-  });
-
-  loadView();
+  } catch (e) {
+    personsEl.textContent = "Fehler beim Laden der Personen";
+    console.error(e);
+  }
 }
 
-// ------------------------------------------------------------
-// VIEW LOADER
-// ------------------------------------------------------------
-async function loadView() {
-  if (!currentPerson) return;
+function selectPerson(person) {
+  currentPerson = person;
+  [...personsEl.children].forEach(b => b.classList.remove("active"));
+  event.target.classList.add("active");
+  renderView();
+}
 
-  window.PILOTAPP_PERSON = currentPerson;
+// ---------------------------------------------------------
+// VIEW SWITCH
+// ---------------------------------------------------------
+function bindViewButtons() {
+  document.querySelectorAll("[data-view]").forEach(btn => {
+    btn.onclick = () => {
+      document.querySelectorAll("[data-view]").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      currentView = btn.dataset.view;
+      renderView();
+    };
+  });
+}
 
-  const content = document.getElementById("content");
-  content.innerHTML = "";
-
-  if (currentView === "graph") {
-    const res = await fetch(`data/${currentPerson.file}`, { cache: "no-store" });
-    const data = await res.json();
-    content.innerHTML = `<canvas id="chart"></canvas>`;
-    renderWorkstartChart(data.entries || [], currentHours);
+function renderView() {
+  if (!currentPerson) {
+    contentEl.textContent = "Bitte Person auswählen";
     return;
   }
 
-  const res = await fetch(`views/${currentView}.html`, { cache: "no-store" });
-  content.innerHTML = await res.text();
+  if (currentView === "short") loadShort();
+  if (currentView === "long") loadLong();
+  if (currentView === "graph") {
+    contentEl.innerHTML = "<canvas id='chart'></canvas>";
+    if (typeof loadGraph === "function") loadGraph();
+  }
+}
+
+// ---------------------------------------------------------
+// SHORT
+// ---------------------------------------------------------
+async function loadShort() {
+  contentEl.innerHTML = "<h2>Short</h2><p>Lade Daten …</p>";
+
+  try {
+    const res = await fetch(`data/${currentPerson.key}_short.json`);
+    const data = await res.json();
+
+    contentEl.innerHTML = `
+      <h2>Short</h2>
+      <pre>${data.short}</pre>
+    `;
+  } catch (e) {
+    contentEl.textContent = "Fehler beim Laden der Short-Daten";
+    console.error(e);
+  }
+}
+
+// ---------------------------------------------------------
+// LONG
+// ---------------------------------------------------------
+async function loadLong() {
+  contentEl.innerHTML = "<h2>Long</h2><p>Lade Long-Daten …</p>";
+
+  try {
+    const res = await fetch(`data/${currentPerson.key}_long.json`);
+    const data = await res.json();
+
+    contentEl.innerHTML = `
+      <h2>Long</h2>
+      <pre>${data.long}</pre>
+    `;
+  } catch (e) {
+    contentEl.textContent = "Fehler beim Laden der Long-Daten";
+    console.error(e);
+  }
+}
+
+// ---------------------------------------------------------
+// ZEITFILTER (nur Graph)
+// ---------------------------------------------------------
+function bindHourButtons() {
+  document.querySelectorAll("[data-hours]").forEach(btn => {
+    btn.onclick = () => {
+      document.querySelectorAll("[data-hours]").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      currentHours = Number(btn.dataset.hours);
+      if (currentView === "graph" && typeof loadGraph === "function") loadGraph();
+    };
+  });
+}
+
+// ---------------------------------------------------------
+// AUTO REFRESH (harmlos, blockiert nichts)
+// ---------------------------------------------------------
+function bindAutoRefresh() {
+  const btn = document.getElementById("autoRefresh");
+  if (!btn) return;
+
+  btn.onclick = () => {
+    autoRefresh = !autoRefresh;
+    btn.classList.toggle("active", autoRefresh);
+
+    if (autoRefresh) {
+      autoTimer = setInterval(() => {
+        if (currentView === "graph" && typeof loadGraph === "function") loadGraph();
+      }, 60000);
+    } else {
+      clearInterval(autoTimer);
+    }
+  };
 }
