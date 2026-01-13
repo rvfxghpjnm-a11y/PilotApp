@@ -118,7 +118,7 @@ async function loadGraph() {
 
   const res = await fetch(`data/workstart_history_${currentPerson.key}.json`);
   const entries = await res.json();
-
+  console.log("GRAPH entries:", entries);
   renderWorkstartChart(entries, currentHours);
 }
 
