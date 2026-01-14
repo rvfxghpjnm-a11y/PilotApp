@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T12:40:48",
+  "generated_at": "2026-01-14T12:42:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 15,
+    "kanal": 14,
     "wach": 0,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -54,7 +54,7 @@
       "aufgabe": "Seebört",
       "nr": 3,
       "fahrzeug": "WAVEPOWER",
-      "route": "UTG → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 14 12:30:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -173,14 +173,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:08",
+        "eta_schleuse": "15:06",
         "eta_rueb": "11:25",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "11:25",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "15:06",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:33"
     },
     {
@@ -246,10 +246,10 @@
       "vorname": "Justus",
       "nachname": "Heyder",
       "name": "Justus Heyder",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 13,
       "fahrzeug": "FWN SPACE",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Wed Jan 14 07:55:00 CET 2026",
       "times": {
         "eta_schleuse": "13:02",
@@ -290,14 +290,14 @@
       "time": "Wed Jan 14 07:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:52",
-        "eta_rueb": "13:40",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "09:56"
+        "eta_rueb": "13:41",
+        "delta_rueb_schleuse": "05:11",
+        "delta_start_rueb": "09:57"
       },
-      "eta_rueb": "13:40",
+      "eta_rueb": "13:41",
       "eta_schleuse": "18:52",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "09:56"
+      "delta_rueb_schleuse": "05:11",
+      "delta_start_rueb": "09:57"
     },
     {
       "is_target": false,
@@ -310,14 +310,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 07:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:49",
+        "eta_schleuse": "17:47",
         "eta_rueb": "13:02",
-        "delta_rueb_schleuse": "04:47",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:04"
       },
       "eta_rueb": "13:02",
-      "eta_schleuse": "17:49",
-      "delta_rueb_schleuse": "04:47",
+      "eta_schleuse": "17:47",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:04"
     },
     {
@@ -331,14 +331,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:18",
+        "eta_schleuse": "15:16",
         "eta_rueb": "11:49",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "11:49",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "15:16",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:07"
     },
     {
@@ -523,14 +523,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:08",
+        "eta_schleuse": "15:06",
         "eta_rueb": "11:25",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "11:25",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "15:06",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:33"
     },
     {
@@ -577,27 +577,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Justus",
-      "nachname": "Heyder",
-      "name": "Justus Heyder",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "FWN SPACE",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 14 07:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:02",
-        "eta_rueb": "09:17",
-        "delta_rueb_schleuse": "03:45",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "09:17",
-      "eta_schleuse": "13:02",
-      "delta_rueb_schleuse": "03:45",
-      "delta_start_rueb": "04:15"
-    },
-    {
-      "is_target": false,
       "vorname": "Nils",
       "nachname": "Föhring",
       "name": "Nils Föhring",
@@ -624,14 +603,14 @@
       "time": "Wed Jan 14 07:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:52",
-        "eta_rueb": "13:40",
-        "delta_rueb_schleuse": "05:12",
-        "delta_start_rueb": "09:56"
+        "eta_rueb": "13:41",
+        "delta_rueb_schleuse": "05:11",
+        "delta_start_rueb": "09:57"
       },
-      "eta_rueb": "13:40",
+      "eta_rueb": "13:41",
       "eta_schleuse": "18:52",
-      "delta_rueb_schleuse": "05:12",
-      "delta_start_rueb": "09:56"
+      "delta_rueb_schleuse": "05:11",
+      "delta_start_rueb": "09:57"
     },
     {
       "is_target": false,
@@ -644,14 +623,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 07:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:49",
+        "eta_schleuse": "17:47",
         "eta_rueb": "13:02",
-        "delta_rueb_schleuse": "04:47",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:04"
       },
       "eta_rueb": "13:02",
-      "eta_schleuse": "17:49",
-      "delta_rueb_schleuse": "04:47",
+      "eta_schleuse": "17:47",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:04"
     },
     {
@@ -665,14 +644,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:18",
+        "eta_schleuse": "15:16",
         "eta_rueb": "11:49",
-        "delta_rueb_schleuse": "03:29",
+        "delta_rueb_schleuse": "03:27",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "11:49",
-      "eta_schleuse": "15:18",
-      "delta_rueb_schleuse": "03:29",
+      "eta_schleuse": "15:16",
+      "delta_rueb_schleuse": "03:27",
       "delta_start_rueb": "04:07"
     },
     {
