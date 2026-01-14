@@ -354,15 +354,23 @@ async function loadBoert() {
     
     let filteredLotsen = data.lotsen || [];
 
+    let filteredLotsen = data.lotsen || [];
+
     if (boertFromDate || boertToDate) {
       filteredLotsen = filteredLotsen.filter(lotse => {
-        const d = getLotseRelevantDate(lotse);
-        if (!d) return false;
+        if (!lotse.times) return false;
 
-        if (boertFromDate && d < boertFromDate) return false;
-        if (boertToDate   && d > boertToDate)   return false;
+        return Object.values(lotse.times).some(val => {
+          if (!val) return false;
 
-        return true;
+          const d = parseLotseTime(val);
+          if (!d) return false;
+
+          if (boertFromDate && d < boertFromDate) return false;
+          if (boertToDate   && d > boertToDate)   return false;
+
+          return true; // 🔑 EINE Zeit reicht
+        });
       });
     }
 	
@@ -615,3 +623,28 @@ function getLotseRelevantDate(lotse) {
 }
 
 
+function parseLotseTime(val) {
+  const m = val.match(/^([A-Z][a-z])(\d{2}):(\d{2})$/);
+  if (!m) return null;
+
+  const wdMap = { Mo:1, Di:2, Mi:3, Do:4, Fr:5, Sa:6, So:0 };
+  const wdTarget = wdMap[m[1]];
+  if (wdTarget === undefined) return null;
+
+  const hh = Number(m[2]);
+  const mm = Number(m[3]);
+
+  const now = new Date();
+  const d = new Date(now);
+
+  const diff = (wdTarget - d.getDay() + 7) % 7;
+  d.setDate(d.getDate() + diff);
+  d.setHours(hh, mm, 0, 0);
+
+  // Schutz gegen "falsche Zukunft"
+  if (d.getTime() - now.getTime() > 12 * 3600 * 1000) {
+    d.setDate(d.getDate() - 7);
+  }
+
+  return d;
+}
