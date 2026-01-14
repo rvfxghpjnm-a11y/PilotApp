@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T11:48:55",
+  "generated_at": "2026-01-14T11:50:58",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -100,14 +100,14 @@
       "time": "Wed Jan 14 09:32:00 CET 2026",
       "times": {
         "eta_schleuse": "18:48",
-        "eta_rueb": "14:20",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "14:18",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "14:20",
+      "eta_rueb": "14:18",
       "eta_schleuse": "18:48",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
@@ -116,8 +116,8 @@
       "name": "Peter Jakob",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ELBINSEL",
+      "route": "KLT → HOS",
       "time": "Wed Jan 14 08:13:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -434,14 +434,14 @@
       "time": "Wed Jan 14 09:32:00 CET 2026",
       "times": {
         "eta_schleuse": "18:48",
-        "eta_rueb": "14:20",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:56"
+        "eta_rueb": "14:18",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:54"
       },
-      "eta_rueb": "14:20",
+      "eta_rueb": "14:18",
       "eta_schleuse": "18:48",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:56"
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:54"
     },
     {
       "is_target": false,
