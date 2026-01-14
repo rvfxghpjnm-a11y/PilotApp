@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-14T09:04:39",
+  "generated_at": "2026-01-14T09:06:43",
   "status": "boert",
   "person": {
     "vorname": "michael",
     "nachname": "arndt",
     "pos": 67,
     "times": {
-      "calc_div2": "Do18:34",
-      "calc_div3": "Do07:24",
+      "calc_div2": "Do18:36",
+      "calc_div3": "Do07:26",
       "from_meldung": null,
       "from_meldung_alt": null
     }
@@ -25,8 +25,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:41:59 CET 2026",
       "times": {
-        "calc_div2": "Mi09:34",
-        "calc_div3": "Mi09:24",
+        "calc_div2": "Mi09:36",
+        "calc_div3": "Mi09:26",
         "from_meldung": "Mi09:35",
         "from_meldung_alt": "Mi09:35"
       },
@@ -42,8 +42,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 03:15:00 CET 2026",
       "times": {
-        "calc_div2": "Mi10:04",
-        "calc_div3": "Mi09:44",
+        "calc_div2": "Mi10:06",
+        "calc_div3": "Mi09:46",
         "from_meldung": "Mi10:00",
         "from_meldung_alt": "Mi10:00"
       },
@@ -59,8 +59,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mi10:34",
-        "calc_div3": "Mi10:04",
+        "calc_div2": "Mi10:36",
+        "calc_div3": "Mi10:06",
         "from_meldung": "Mi10:00",
         "from_meldung_alt": "Mi11:00"
       },
@@ -76,8 +76,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:46:00 CET 2026",
       "times": {
-        "calc_div2": "Mi11:04",
-        "calc_div3": "Mi10:24",
+        "calc_div2": "Mi11:06",
+        "calc_div3": "Mi10:26",
         "from_meldung": "Mi10:30",
         "from_meldung_alt": "Mi11:00"
       },
@@ -93,8 +93,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
-        "calc_div2": "Mi11:34",
-        "calc_div3": "Mi10:44",
+        "calc_div2": "Mi11:36",
+        "calc_div3": "Mi10:46",
         "from_meldung": "Mi11:00",
         "from_meldung_alt": "Mi12:00"
       },
@@ -110,8 +110,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 07:16:00 CET 2026",
       "times": {
-        "calc_div2": "Mi12:04",
-        "calc_div3": "Mi11:04",
+        "calc_div2": "Mi12:06",
+        "calc_div3": "Mi11:06",
         "from_meldung": "Mi11:00",
         "from_meldung_alt": "Mi12:20"
       },
@@ -127,8 +127,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 07:35:00 CET 2026",
       "times": {
-        "calc_div2": "Mi12:34",
-        "calc_div3": "Mi11:24",
+        "calc_div2": "Mi12:36",
+        "calc_div3": "Mi11:26",
         "from_meldung": "Mi12:00",
         "from_meldung_alt": "Mi13:00"
       },
@@ -144,8 +144,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 07:45:00 CET 2026",
       "times": {
-        "calc_div2": "Mi13:04",
-        "calc_div3": "Mi11:44",
+        "calc_div2": "Mi13:06",
+        "calc_div3": "Mi11:46",
         "from_meldung": "Mi12:00",
         "from_meldung_alt": "Mi13:00"
       },
@@ -161,10 +161,10 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 07:55:00 CET 2026",
       "times": {
-        "calc_div2": "Mi13:34",
-        "calc_div3": "Mi12:04",
+        "calc_div2": "Mi13:36",
+        "calc_div3": "Mi12:06",
         "from_meldung": "Mi12:00",
-        "from_meldung_alt": "Mi13:05"
+        "from_meldung_alt": "Mi13:00"
       },
       "bemerkung": ""
     },
@@ -178,10 +178,10 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:13:00 CET 2026",
       "times": {
-        "calc_div2": "Mi14:04",
-        "calc_div3": "Mi12:24",
+        "calc_div2": "Mi14:06",
+        "calc_div3": "Mi12:26",
         "from_meldung": "Mi12:20",
-        "from_meldung_alt": "Mi13:10"
+        "from_meldung_alt": "Mi13:05"
       },
       "bemerkung": ""
     },
@@ -195,10 +195,10 @@
       "verguetung": false,
       "zeit": "Mon Jan 12 23:39:00 CET 2026",
       "times": {
-        "calc_div2": "Mi14:34",
-        "calc_div3": "Mi12:44",
+        "calc_div2": "Mi14:36",
+        "calc_div3": "Mi12:46",
         "from_meldung": "Mi13:00",
-        "from_meldung_alt": "Mi13:15"
+        "from_meldung_alt": "Mi13:10"
       },
       "bemerkung": ""
     },
@@ -212,10 +212,10 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 00:18:00 CET 2026",
       "times": {
-        "calc_div2": "Mi15:04",
-        "calc_div3": "Mi13:04",
+        "calc_div2": "Mi15:06",
+        "calc_div3": "Mi13:06",
         "from_meldung": "Mi13:00",
-        "from_meldung_alt": "Mi13:20"
+        "from_meldung_alt": "Mi13:15"
       },
       "bemerkung": ""
     },
@@ -229,10 +229,10 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 19:30:22 CET 2026",
       "times": {
-        "calc_div2": "Mi15:34",
-        "calc_div3": "Mi13:24",
-        "from_meldung": "Mi13:05",
-        "from_meldung_alt": "Mi15:00"
+        "calc_div2": "Mi15:36",
+        "calc_div3": "Mi13:26",
+        "from_meldung": "Mi13:00",
+        "from_meldung_alt": "Mi13:20"
       },
       "bemerkung": ""
     },
@@ -246,9 +246,9 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 01:00:00 CET 2026",
       "times": {
-        "calc_div2": "Mi16:04",
-        "calc_div3": "Mi13:44",
-        "from_meldung": "Mi13:10",
+        "calc_div2": "Mi16:06",
+        "calc_div3": "Mi13:46",
+        "from_meldung": "Mi13:05",
         "from_meldung_alt": "Mi15:00"
       },
       "bemerkung": "120min /k.10te"
@@ -263,10 +263,10 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 01:35:00 CET 2026",
       "times": {
-        "calc_div2": "Mi16:34",
-        "calc_div3": "Mi14:04",
-        "from_meldung": "Mi13:15",
-        "from_meldung_alt": "Mi16:00"
+        "calc_div2": "Mi16:36",
+        "calc_div3": "Mi14:06",
+        "from_meldung": "Mi13:10",
+        "from_meldung_alt": "Mi15:00"
       },
       "bemerkung": ""
     },
@@ -280,9 +280,9 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 01:35:00 CET 2026",
       "times": {
-        "calc_div2": "Mi17:04",
-        "calc_div3": "Mi14:24",
-        "from_meldung": "Mi13:20",
+        "calc_div2": "Mi17:06",
+        "calc_div3": "Mi14:26",
+        "from_meldung": "Mi13:15",
         "from_meldung_alt": "Mi17:00"
       },
       "bemerkung": ""
@@ -297,9 +297,9 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 01:35:00 CET 2026",
       "times": {
-        "calc_div2": "Mi17:34",
-        "calc_div3": "Mi14:44",
-        "from_meldung": "Mi15:00",
+        "calc_div2": "Mi17:36",
+        "calc_div3": "Mi14:46",
+        "from_meldung": "Mi13:20",
         "from_meldung_alt": "Mi17:10"
       },
       "bemerkung": ""
@@ -314,8 +314,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 02:35:00 CET 2026",
       "times": {
-        "calc_div2": "Mi18:04",
-        "calc_div3": "Mi15:04",
+        "calc_div2": "Mi18:06",
+        "calc_div3": "Mi15:06",
         "from_meldung": "Mi15:00",
         "from_meldung_alt": "Mi18:00"
       },
@@ -331,9 +331,9 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 03:55:00 CET 2026",
       "times": {
-        "calc_div2": "Mi18:34",
-        "calc_div3": "Mi15:24",
-        "from_meldung": "Mi16:00",
+        "calc_div2": "Mi18:36",
+        "calc_div3": "Mi15:26",
+        "from_meldung": "Mi15:00",
         "from_meldung_alt": "Mi19:00"
       },
       "bemerkung": ""
@@ -348,8 +348,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 03:55:00 CET 2026",
       "times": {
-        "calc_div2": "Mi19:04",
-        "calc_div3": "Mi15:44",
+        "calc_div2": "Mi19:06",
+        "calc_div3": "Mi15:46",
         "from_meldung": "Mi17:00",
         "from_meldung_alt": "Mi19:00"
       },
@@ -365,8 +365,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 03:55:00 CET 2026",
       "times": {
-        "calc_div2": "Mi19:34",
-        "calc_div3": "Mi16:04",
+        "calc_div2": "Mi19:36",
+        "calc_div3": "Mi16:06",
         "from_meldung": "Mi17:10",
         "from_meldung_alt": "Mi20:00"
       },
@@ -382,8 +382,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 03:57:00 CET 2026",
       "times": {
-        "calc_div2": "Mi20:04",
-        "calc_div3": "Mi16:24",
+        "calc_div2": "Mi20:06",
+        "calc_div3": "Mi16:26",
         "from_meldung": "Mi18:00",
         "from_meldung_alt": "Mi21:00"
       },
@@ -399,8 +399,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 04:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mi20:34",
-        "calc_div3": "Mi16:44",
+        "calc_div2": "Mi20:36",
+        "calc_div3": "Mi16:46",
         "from_meldung": "Mi18:00",
         "from_meldung_alt": "Mi22:00"
       },
@@ -416,10 +416,10 @@
       "verguetung": true,
       "zeit": "Tue Jan 13 04:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mi21:04",
-        "calc_div3": "Mi17:04",
+        "calc_div2": "Mi21:06",
+        "calc_div3": "Mi17:06",
         "from_meldung": "Mi19:00",
-        "from_meldung_alt": "Do00:00"
+        "from_meldung_alt": "Mi22:30"
       },
       "bemerkung": ""
     },
@@ -433,8 +433,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 04:30:00 CET 2026",
       "times": {
-        "calc_div2": "Mi21:34",
-        "calc_div3": "Mi17:24",
+        "calc_div2": "Mi21:36",
+        "calc_div3": "Mi17:26",
         "from_meldung": "Mi19:00",
         "from_meldung_alt": "Do03:00"
       },
@@ -450,8 +450,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 04:36:00 CET 2026",
       "times": {
-        "calc_div2": "Mi22:04",
-        "calc_div3": "Mi17:44",
+        "calc_div2": "Mi22:06",
+        "calc_div3": "Mi17:46",
         "from_meldung": "Mi19:00",
         "from_meldung_alt": "Do05:00"
       },
@@ -467,8 +467,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:38:00 CET 2026",
       "times": {
-        "calc_div2": "Mi22:34",
-        "calc_div3": "Mi18:04",
+        "calc_div2": "Mi22:36",
+        "calc_div3": "Mi18:06",
         "from_meldung": "Mi20:00",
         "from_meldung_alt": "Do06:00"
       },
@@ -484,8 +484,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:38:00 CET 2026",
       "times": {
-        "calc_div2": "Mi23:04",
-        "calc_div3": "Mi18:24",
+        "calc_div2": "Mi23:06",
+        "calc_div3": "Mi18:26",
         "from_meldung": "Mi20:00",
         "from_meldung_alt": "Do07:00"
       },
@@ -501,8 +501,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:39:00 CET 2026",
       "times": {
-        "calc_div2": "Mi23:34",
-        "calc_div3": "Mi18:44",
+        "calc_div2": "Mi23:36",
+        "calc_div3": "Mi18:46",
         "from_meldung": "Mi21:00",
         "from_meldung_alt": "Do09:00"
       },
@@ -518,8 +518,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:39:00 CET 2026",
       "times": {
-        "calc_div2": "Do00:04",
-        "calc_div3": "Mi19:04",
+        "calc_div2": "Do00:06",
+        "calc_div3": "Mi19:06",
         "from_meldung": "Mi21:00",
         "from_meldung_alt": "Do09:00"
       },
@@ -535,8 +535,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 07:38:00 CET 2026",
       "times": {
-        "calc_div2": "Do00:34",
-        "calc_div3": "Mi19:24",
+        "calc_div2": "Do00:36",
+        "calc_div3": "Mi19:26",
         "from_meldung": "Mi22:00",
         "from_meldung_alt": null
       },
@@ -552,9 +552,9 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 07:45:00 CET 2026",
       "times": {
-        "calc_div2": "Do01:04",
-        "calc_div3": "Mi19:44",
-        "from_meldung": "Do00:00",
+        "calc_div2": "Do01:06",
+        "calc_div3": "Mi19:46",
+        "from_meldung": "Mi22:30",
         "from_meldung_alt": null
       },
       "bemerkung": ""
@@ -569,8 +569,8 @@
       "verguetung": true,
       "zeit": "Tue Jan 13 08:14:23 CET 2026",
       "times": {
-        "calc_div2": "Do01:34",
-        "calc_div3": "Mi20:04",
+        "calc_div2": "Do01:36",
+        "calc_div3": "Mi20:06",
         "from_meldung": "Do03:00",
         "from_meldung_alt": null
       },
@@ -586,8 +586,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 08:31:00 CET 2026",
       "times": {
-        "calc_div2": "Do02:04",
-        "calc_div3": "Mi20:24",
+        "calc_div2": "Do02:06",
+        "calc_div3": "Mi20:26",
         "from_meldung": "Do04:00",
         "from_meldung_alt": null
       },
@@ -603,8 +603,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 09:12:00 CET 2026",
       "times": {
-        "calc_div2": "Do02:34",
-        "calc_div3": "Mi20:44",
+        "calc_div2": "Do02:36",
+        "calc_div3": "Mi20:46",
         "from_meldung": "Do05:00",
         "from_meldung_alt": null
       },
@@ -620,8 +620,8 @@
       "verguetung": true,
       "zeit": "Tue Jan 13 09:34:00 CET 2026",
       "times": {
-        "calc_div2": "Do03:04",
-        "calc_div3": "Mi21:04",
+        "calc_div2": "Do03:06",
+        "calc_div3": "Mi21:06",
         "from_meldung": "Do06:00",
         "from_meldung_alt": null
       },
@@ -637,8 +637,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 09:40:00 CET 2026",
       "times": {
-        "calc_div2": "Do03:34",
-        "calc_div3": "Mi21:24",
+        "calc_div2": "Do03:36",
+        "calc_div3": "Mi21:26",
         "from_meldung": "Do06:00",
         "from_meldung_alt": null
       },
@@ -654,8 +654,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 09:50:00 CET 2026",
       "times": {
-        "calc_div2": "Do04:04",
-        "calc_div3": "Mi21:44",
+        "calc_div2": "Do04:06",
+        "calc_div3": "Mi21:46",
         "from_meldung": "Do07:00",
         "from_meldung_alt": null
       },
@@ -671,8 +671,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 12:13:00 CET 2026",
       "times": {
-        "calc_div2": "Do04:34",
-        "calc_div3": "Mi22:04",
+        "calc_div2": "Do04:36",
+        "calc_div3": "Mi22:06",
         "from_meldung": "Do07:50",
         "from_meldung_alt": null
       },
@@ -688,8 +688,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 12:28:59 CET 2026",
       "times": {
-        "calc_div2": "Do05:04",
-        "calc_div3": "Mi22:24",
+        "calc_div2": "Do05:06",
+        "calc_div3": "Mi22:26",
         "from_meldung": "Do08:00",
         "from_meldung_alt": null
       },
@@ -705,8 +705,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 14:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do05:34",
-        "calc_div3": "Mi22:44",
+        "calc_div2": "Do05:36",
+        "calc_div3": "Mi22:46",
         "from_meldung": "Do09:00",
         "from_meldung_alt": null
       },
@@ -722,8 +722,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 14:36:00 CET 2026",
       "times": {
-        "calc_div2": "Do06:04",
-        "calc_div3": "Mi23:04",
+        "calc_div2": "Do06:06",
+        "calc_div3": "Mi23:06",
         "from_meldung": "Do09:00",
         "from_meldung_alt": null
       },
@@ -739,8 +739,8 @@
       "verguetung": true,
       "zeit": "Tue Jan 13 15:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do06:34",
-        "calc_div3": "Mi23:24",
+        "calc_div2": "Do06:36",
+        "calc_div3": "Mi23:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -756,8 +756,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 15:39:00 CET 2026",
       "times": {
-        "calc_div2": "Do07:04",
-        "calc_div3": "Mi23:44",
+        "calc_div2": "Do07:06",
+        "calc_div3": "Mi23:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -773,8 +773,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 15:51:00 CET 2026",
       "times": {
-        "calc_div2": "Do07:34",
-        "calc_div3": "Do00:04",
+        "calc_div2": "Do07:36",
+        "calc_div3": "Do00:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -790,8 +790,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 16:45:00 CET 2026",
       "times": {
-        "calc_div2": "Do08:04",
-        "calc_div3": "Do00:24",
+        "calc_div2": "Do08:06",
+        "calc_div3": "Do00:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -807,8 +807,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 16:47:00 CET 2026",
       "times": {
-        "calc_div2": "Do08:34",
-        "calc_div3": "Do00:44",
+        "calc_div2": "Do08:36",
+        "calc_div3": "Do00:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -824,8 +824,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 16:47:00 CET 2026",
       "times": {
-        "calc_div2": "Do09:04",
-        "calc_div3": "Do01:04",
+        "calc_div2": "Do09:06",
+        "calc_div3": "Do01:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -841,8 +841,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 20:41:56 CET 2026",
       "times": {
-        "calc_div2": "Do09:34",
-        "calc_div3": "Do01:24",
+        "calc_div2": "Do09:36",
+        "calc_div3": "Do01:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -858,8 +858,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 21:04:00 CET 2026",
       "times": {
-        "calc_div2": "Do10:04",
-        "calc_div3": "Do01:44",
+        "calc_div2": "Do10:06",
+        "calc_div3": "Do01:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -875,8 +875,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 21:08:00 CET 2026",
       "times": {
-        "calc_div2": "Do10:34",
-        "calc_div3": "Do02:04",
+        "calc_div2": "Do10:36",
+        "calc_div3": "Do02:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -892,8 +892,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 22:10:00 CET 2026",
       "times": {
-        "calc_div2": "Do11:04",
-        "calc_div3": "Do02:24",
+        "calc_div2": "Do11:06",
+        "calc_div3": "Do02:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -909,8 +909,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 22:19:00 CET 2026",
       "times": {
-        "calc_div2": "Do11:34",
-        "calc_div3": "Do02:44",
+        "calc_div2": "Do11:36",
+        "calc_div3": "Do02:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -926,8 +926,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do12:04",
-        "calc_div3": "Do03:04",
+        "calc_div2": "Do12:06",
+        "calc_div3": "Do03:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -943,8 +943,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do12:34",
-        "calc_div3": "Do03:24",
+        "calc_div2": "Do12:36",
+        "calc_div3": "Do03:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -960,8 +960,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:33:00 CET 2026",
       "times": {
-        "calc_div2": "Do13:04",
-        "calc_div3": "Do03:44",
+        "calc_div2": "Do13:06",
+        "calc_div3": "Do03:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -977,8 +977,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:35:00 CET 2026",
       "times": {
-        "calc_div2": "Do13:34",
-        "calc_div3": "Do04:04",
+        "calc_div2": "Do13:36",
+        "calc_div3": "Do04:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -994,8 +994,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 00:23:00 CET 2026",
       "times": {
-        "calc_div2": "Do14:04",
-        "calc_div3": "Do04:24",
+        "calc_div2": "Do14:06",
+        "calc_div3": "Do04:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1011,8 +1011,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 00:45:00 CET 2026",
       "times": {
-        "calc_div2": "Do14:34",
-        "calc_div3": "Do04:44",
+        "calc_div2": "Do14:36",
+        "calc_div3": "Do04:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1028,8 +1028,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 00:46:00 CET 2026",
       "times": {
-        "calc_div2": "Do15:04",
-        "calc_div3": "Do05:04",
+        "calc_div2": "Do15:06",
+        "calc_div3": "Do05:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1045,8 +1045,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 01:11:00 CET 2026",
       "times": {
-        "calc_div2": "Do15:34",
-        "calc_div3": "Do05:24",
+        "calc_div2": "Do15:36",
+        "calc_div3": "Do05:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1062,8 +1062,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 01:55:00 CET 2026",
       "times": {
-        "calc_div2": "Do16:04",
-        "calc_div3": "Do05:44",
+        "calc_div2": "Do16:06",
+        "calc_div3": "Do05:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1079,8 +1079,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 03:31:00 CET 2026",
       "times": {
-        "calc_div2": "Do16:34",
-        "calc_div3": "Do06:04",
+        "calc_div2": "Do16:36",
+        "calc_div3": "Do06:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1096,8 +1096,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 03:50:00 CET 2026",
       "times": {
-        "calc_div2": "Do17:04",
-        "calc_div3": "Do06:24",
+        "calc_div2": "Do17:06",
+        "calc_div3": "Do06:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1113,8 +1113,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:45:00 CET 2026",
       "times": {
-        "calc_div2": "Do17:34",
-        "calc_div3": "Do06:44",
+        "calc_div2": "Do17:36",
+        "calc_div3": "Do06:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1130,8 +1130,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:48:04 CET 2026",
       "times": {
-        "calc_div2": "Do18:04",
-        "calc_div3": "Do07:04",
+        "calc_div2": "Do18:06",
+        "calc_div3": "Do07:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1147,8 +1147,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:59:00 CET 2026",
       "times": {
-        "calc_div2": "Do18:34",
-        "calc_div3": "Do07:24",
+        "calc_div2": "Do18:36",
+        "calc_div3": "Do07:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1164,8 +1164,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 06:03:00 CET 2026",
       "times": {
-        "calc_div2": "Do19:04",
-        "calc_div3": "Do07:44",
+        "calc_div2": "Do19:06",
+        "calc_div3": "Do07:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1181,8 +1181,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:39:00 CET 2026",
       "times": {
-        "calc_div2": "Do19:34",
-        "calc_div3": "Do08:04",
+        "calc_div2": "Do19:36",
+        "calc_div3": "Do08:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1198,8 +1198,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:40:00 CET 2026",
       "times": {
-        "calc_div2": "Do20:04",
-        "calc_div3": "Do08:24",
+        "calc_div2": "Do20:06",
+        "calc_div3": "Do08:26",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1215,8 +1215,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:49:00 CET 2026",
       "times": {
-        "calc_div2": "Do20:34",
-        "calc_div3": "Do08:44",
+        "calc_div2": "Do20:36",
+        "calc_div3": "Do08:46",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1232,8 +1232,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:53:00 CET 2026",
       "times": {
-        "calc_div2": "Do21:04",
-        "calc_div3": "Do09:04",
+        "calc_div2": "Do21:06",
+        "calc_div3": "Do09:06",
         "from_meldung": null,
         "from_meldung_alt": null
       },
