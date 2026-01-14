@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T10:16:47",
+  "generated_at": "2026-01-14T10:18:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -147,14 +147,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 07:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:43",
+        "eta_schleuse": "16:44",
         "eta_rueb": "11:40",
-        "delta_rueb_schleuse": "05:03",
+        "delta_rueb_schleuse": "05:04",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "11:40",
-      "eta_schleuse": "16:43",
-      "delta_rueb_schleuse": "05:03",
+      "eta_schleuse": "16:44",
+      "delta_rueb_schleuse": "05:04",
       "delta_start_rueb": "03:40"
     },
     {
@@ -461,14 +461,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 07:16:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:43",
+        "eta_schleuse": "16:44",
         "eta_rueb": "11:40",
-        "delta_rueb_schleuse": "05:03",
+        "delta_rueb_schleuse": "05:04",
         "delta_start_rueb": "03:40"
       },
       "eta_rueb": "11:40",
-      "eta_schleuse": "16:43",
-      "delta_rueb_schleuse": "05:03",
+      "eta_schleuse": "16:44",
+      "delta_rueb_schleuse": "05:04",
       "delta_start_rueb": "03:40"
     },
     {
@@ -589,14 +589,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:56",
+      "eta_rueb_kiel": "11:55",
       "eta_rueb": "11:55",
       "ship": "HEYN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:20",
+      "eta_rueb_kiel": "13:19",
       "eta_rueb": "13:15",
       "ship": "MERIC",
       "q_gruppe": "5",
@@ -610,10 +610,17 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:25",
+      "eta_rueb_kiel": "14:24",
       "eta_rueb": "14:15",
       "ship": "JORVIK",
       "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "15:30",
+      "ship": "NEUENFELDE",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
