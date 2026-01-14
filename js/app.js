@@ -20,7 +20,7 @@ let currentHours  = 24;
 const personsEl = document.getElementById("persons");
 const contentEl = document.getElementById("content");
 const statusEl  = document.getElementById("status");
-
+const boertRangeEl = document.getElementById("boertRange");
 // ---------------------------------------------------------
 // INIT
 // ---------------------------------------------------------
@@ -92,6 +92,11 @@ function bindViewButtons() {
   });
 }
 
+
+
+
+
+
 function renderView() {
   if (!currentPerson) {
     contentEl.textContent = "Bitte Person auswählen";
@@ -105,7 +110,11 @@ function renderView() {
   } else {
     timeControls.style.display = "none";
   }
-
+// Bört-Zeitraum nur im Bört-View anzeigen
+  if (boertRangeEl) {
+    boertRangeEl.style.display =
+      currentView === "boert" ? "flex" : "none";
+  }
   if (currentView === "short") loadShort();
   if (currentView === "long")  loadLong();
   if (currentView === "graph") loadGraph();
