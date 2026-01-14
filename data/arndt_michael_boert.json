@@ -1,88 +1,19 @@
 {
-  "generated_at": "2026-01-14T08:50:48",
+  "generated_at": "2026-01-14T08:50:41",
   "status": "boert",
   "person": {
-    "vorname": "philipp",
-    "nachname": "crotogino",
-    "pos": 6,
+    "vorname": "michael",
+    "nachname": "arndt",
+    "pos": 68,
     "times": {
-      "calc_div2": "Mi11:50",
-      "calc_div3": "Mi10:50",
-      "from_meldung": "Mi11:00",
-      "from_meldung_alt": "Mi11:20"
+      "calc_div2": "Do18:50",
+      "calc_div3": "Do07:30",
+      "from_meldung": null,
+      "from_meldung_alt": null
     }
   },
   "times": null,
-  "tauschpartner": [
-    {
-      "is_target": false,
-      "pos": 24,
-      "vorname": "Artur",
-      "nachname": "Skawianczyk",
-      "arrow": "↑$$",
-      "richtung": "↑",
-      "verguetung": true,
-      "zeit": "Tue Jan 13 04:20:00 CET 2026",
-      "times": {
-        "calc_div2": "Mi20:50",
-        "calc_div3": "Mi16:50",
-        "from_meldung": "Mi19:00",
-        "from_meldung_alt": "Do05:00"
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 33,
-      "vorname": "Jens",
-      "nachname": "Röhl",
-      "arrow": "↑$$",
-      "richtung": "↑",
-      "verguetung": true,
-      "zeit": "Tue Jan 13 08:14:23 CET 2026",
-      "times": {
-        "calc_div2": "Do01:20",
-        "calc_div3": "Mi19:50",
-        "from_meldung": "Do05:00",
-        "from_meldung_alt": null
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 36,
-      "vorname": "Gregor",
-      "nachname": "Kubica",
-      "arrow": "↑$$",
-      "richtung": "↑",
-      "verguetung": true,
-      "zeit": "Tue Jan 13 09:34:00 CET 2026",
-      "times": {
-        "calc_div2": "Do02:50",
-        "calc_div3": "Mi20:50",
-        "from_meldung": "Do07:00",
-        "from_meldung_alt": null
-      },
-      "bemerkung": ""
-    },
-    {
-      "is_target": false,
-      "pos": 43,
-      "vorname": "Knut Paul",
-      "nachname": "Klüver",
-      "arrow": "↑$$",
-      "richtung": "↑",
-      "verguetung": true,
-      "zeit": "Tue Jan 13 15:28:00 CET 2026",
-      "times": {
-        "calc_div2": "Do06:20",
-        "calc_div3": "Mi23:10",
-        "from_meldung": null,
-        "from_meldung_alt": null
-      },
-      "bemerkung": "m i n.  takt. 23"
-    }
-  ],
+  "tauschpartner": [],
   "lotsen": [
     {
       "is_target": false,
@@ -170,7 +101,7 @@
       "bemerkung": ""
     },
     {
-      "is_target": true,
+      "is_target": false,
       "pos": 6,
       "vorname": "Philipp",
       "nachname": "Crotogino",
@@ -1224,7 +1155,7 @@
       "bemerkung": ""
     },
     {
-      "is_target": false,
+      "is_target": true,
       "pos": 68,
       "vorname": "Michael",
       "nachname": "Arndt",

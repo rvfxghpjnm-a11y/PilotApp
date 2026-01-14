@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T16:58:49",
+  "generated_at": "2026-01-14T08:50:48",
   "person": {
     "vorname": "philipp",
     "nachname": "crotogino"
@@ -17391,6 +17391,4326 @@
       "from_meldung_alt": null,
       "calc_div2": "2026-01-13 14:28",
       "calc_div3": "2026-01-13 07:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:00",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:30",
+      "calc_div3": "2026-01-13 07:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:02",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:32",
+      "calc_div3": "2026-01-13 07:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:04",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:34",
+      "calc_div3": "2026-01-13 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:06",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:36",
+      "calc_div3": "2026-01-13 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:08",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:38",
+      "calc_div3": "2026-01-13 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:10",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:40",
+      "calc_div3": "2026-01-13 07:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:12",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:42",
+      "calc_div3": "2026-01-13 07:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:14",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:44",
+      "calc_div3": "2026-01-13 07:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:16",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:46",
+      "calc_div3": "2026-01-13 07:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:18",
+      "pos": 43,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:48",
+      "calc_div3": "2026-01-13 07:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:20",
+      "pos": 42,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:20",
+      "calc_div3": "2026-01-13 07:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:22",
+      "pos": 42,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:22",
+      "calc_div3": "2026-01-13 07:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:24",
+      "pos": 42,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:24",
+      "calc_div3": "2026-01-13 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:26",
+      "pos": 42,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:26",
+      "calc_div3": "2026-01-13 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:28",
+      "pos": 42,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:28",
+      "calc_div3": "2026-01-13 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:30",
+      "pos": 42,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:30",
+      "calc_div3": "2026-01-13 07:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:32",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:02",
+      "calc_div3": "2026-01-13 07:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:34",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:04",
+      "calc_div3": "2026-01-13 07:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:36",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:06",
+      "calc_div3": "2026-01-13 07:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:38",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:08",
+      "calc_div3": "2026-01-13 07:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:40",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:10",
+      "calc_div3": "2026-01-13 07:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:42",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:12",
+      "calc_div3": "2026-01-13 07:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:44",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:14",
+      "calc_div3": "2026-01-13 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:46",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:16",
+      "calc_div3": "2026-01-13 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:48",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:18",
+      "calc_div3": "2026-01-13 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:50",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:20",
+      "calc_div3": "2026-01-13 07:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:52",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:22",
+      "calc_div3": "2026-01-13 07:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:54",
+      "pos": 41,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:24",
+      "calc_div3": "2026-01-13 07:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:56",
+      "pos": 41,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:26",
+      "calc_div3": "2026-01-13 07:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 17:58",
+      "pos": 41,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:28",
+      "calc_div3": "2026-01-13 07:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:00",
+      "pos": 41,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:30",
+      "calc_div3": "2026-01-13 07:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:02",
+      "pos": 41,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:32",
+      "calc_div3": "2026-01-13 07:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:04",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:34",
+      "calc_div3": "2026-01-13 07:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:06",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:36",
+      "calc_div3": "2026-01-13 07:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:08",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:38",
+      "calc_div3": "2026-01-13 07:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:10",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:40",
+      "calc_div3": "2026-01-13 07:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:12",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:42",
+      "calc_div3": "2026-01-13 07:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:14",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:44",
+      "calc_div3": "2026-01-13 07:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:16",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:46",
+      "calc_div3": "2026-01-13 07:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:18",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:48",
+      "calc_div3": "2026-01-13 07:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:20",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:50",
+      "calc_div3": "2026-01-13 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:22",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:52",
+      "calc_div3": "2026-01-13 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:24",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:54",
+      "calc_div3": "2026-01-13 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:26",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:56",
+      "calc_div3": "2026-01-13 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:28",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:58",
+      "calc_div3": "2026-01-13 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:30",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 15:00",
+      "calc_div3": "2026-01-13 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:32",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 15:02",
+      "calc_div3": "2026-01-13 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:34",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 15:04",
+      "calc_div3": "2026-01-13 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:36",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 15:06",
+      "calc_div3": "2026-01-13 08:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:38",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 15:08",
+      "calc_div3": "2026-01-13 08:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:40",
+      "pos": 41,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 15:10",
+      "calc_div3": "2026-01-13 08:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:42",
+      "pos": 39,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:12",
+      "calc_div3": "2026-01-13 07:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:44",
+      "pos": 39,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:14",
+      "calc_div3": "2026-01-13 07:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:46",
+      "pos": 39,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:16",
+      "calc_div3": "2026-01-13 07:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:48",
+      "pos": 38,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:48",
+      "calc_div3": "2026-01-13 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:50",
+      "pos": 37,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:20",
+      "calc_div3": "2026-01-13 07:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:52",
+      "pos": 37,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:22",
+      "calc_div3": "2026-01-13 07:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:54",
+      "pos": 37,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:24",
+      "calc_div3": "2026-01-13 07:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:56",
+      "pos": 37,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:26",
+      "calc_div3": "2026-01-13 07:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 18:58",
+      "pos": 37,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:28",
+      "calc_div3": "2026-01-13 07:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:00",
+      "pos": 37,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:30",
+      "calc_div3": "2026-01-13 07:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:02",
+      "pos": 36,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:02",
+      "calc_div3": "2026-01-13 07:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:04",
+      "pos": 36,
+      "from_meldung": "2026-01-13 09:30",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:04",
+      "calc_div3": "2026-01-13 07:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:06",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:06",
+      "calc_div3": "2026-01-13 07:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:08",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:08",
+      "calc_div3": "2026-01-13 07:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:10",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:10",
+      "calc_div3": "2026-01-13 07:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:11",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:11",
+      "calc_div3": "2026-01-13 07:11",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:12",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:12",
+      "calc_div3": "2026-01-13 07:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:14",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:14",
+      "calc_div3": "2026-01-13 07:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:16",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:16",
+      "calc_div3": "2026-01-13 07:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:18",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:18",
+      "calc_div3": "2026-01-13 07:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:20",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:20",
+      "calc_div3": "2026-01-13 07:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:22",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:22",
+      "calc_div3": "2026-01-13 07:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:24",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:24",
+      "calc_div3": "2026-01-13 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:25",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:25",
+      "calc_div3": "2026-01-13 07:25",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:26",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:26",
+      "calc_div3": "2026-01-13 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:28",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:28",
+      "calc_div3": "2026-01-13 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:30",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:30",
+      "calc_div3": "2026-01-13 07:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:32",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:02",
+      "calc_div3": "2026-01-13 07:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:34",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:04",
+      "calc_div3": "2026-01-13 07:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:36",
+      "pos": 38,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:36",
+      "calc_div3": "2026-01-13 08:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:38",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:08",
+      "calc_div3": "2026-01-13 07:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:40",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:10",
+      "calc_div3": "2026-01-13 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:42",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 14:12",
+      "calc_div3": "2026-01-13 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:44",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:14",
+      "calc_div3": "2026-01-13 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:46",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:16",
+      "calc_div3": "2026-01-13 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:48",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:18",
+      "calc_div3": "2026-01-13 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:48",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:18",
+      "calc_div3": "2026-01-13 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:48",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:18",
+      "calc_div3": "2026-01-13 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:50",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:20",
+      "calc_div3": "2026-01-13 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:52",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:22",
+      "calc_div3": "2026-01-13 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:54",
+      "pos": 37,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 14:24",
+      "calc_div3": "2026-01-13 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:56",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 18:00",
+      "calc_div2": "2026-01-13 13:56",
+      "calc_div3": "2026-01-13 07:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 19:58",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 18:00",
+      "calc_div2": "2026-01-13 13:58",
+      "calc_div3": "2026-01-13 07:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:00",
+      "pos": 36,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 18:00",
+      "calc_div2": "2026-01-13 14:00",
+      "calc_div3": "2026-01-13 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:02",
+      "pos": 35,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 18:00",
+      "calc_div2": "2026-01-13 13:32",
+      "calc_div3": "2026-01-13 07:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:04",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:04",
+      "calc_div3": "2026-01-13 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:06",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:06",
+      "calc_div3": "2026-01-13 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:08",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:08",
+      "calc_div3": "2026-01-13 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:10",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:10",
+      "calc_div3": "2026-01-13 07:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:12",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:12",
+      "calc_div3": "2026-01-13 07:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:14",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:14",
+      "calc_div3": "2026-01-13 07:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:16",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:16",
+      "calc_div3": "2026-01-13 07:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:18",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:18",
+      "calc_div3": "2026-01-13 07:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:20",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:20",
+      "calc_div3": "2026-01-13 07:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:22",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:22",
+      "calc_div3": "2026-01-13 07:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:24",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 19:00",
+      "calc_div2": "2026-01-13 13:24",
+      "calc_div3": "2026-01-13 07:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:26",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:26",
+      "calc_div3": "2026-01-13 07:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:28",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:28",
+      "calc_div3": "2026-01-13 07:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:30",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:30",
+      "calc_div3": "2026-01-13 07:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:32",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:32",
+      "calc_div3": "2026-01-13 07:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:34",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:34",
+      "calc_div3": "2026-01-13 07:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:36",
+      "pos": 34,
+      "from_meldung": "2026-01-13 10:30",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:36",
+      "calc_div3": "2026-01-13 07:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:38",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:38",
+      "calc_div3": "2026-01-13 07:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:40",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:40",
+      "calc_div3": "2026-01-13 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:42",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:42",
+      "calc_div3": "2026-01-13 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:44",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:44",
+      "calc_div3": "2026-01-13 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:46",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:46",
+      "calc_div3": "2026-01-13 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:48",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:48",
+      "calc_div3": "2026-01-13 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:50",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:50",
+      "calc_div3": "2026-01-13 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:52",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:52",
+      "calc_div3": "2026-01-13 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:54",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:54",
+      "calc_div3": "2026-01-13 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:56",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:56",
+      "calc_div3": "2026-01-13 08:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 20:58",
+      "pos": 34,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": null,
+      "calc_div2": "2026-01-13 13:58",
+      "calc_div3": "2026-01-13 08:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:00",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:30",
+      "calc_div3": "2026-01-13 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:02",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:32",
+      "calc_div3": "2026-01-13 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:04",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:34",
+      "calc_div3": "2026-01-13 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:06",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:36",
+      "calc_div3": "2026-01-13 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:08",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:38",
+      "calc_div3": "2026-01-13 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:10",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:40",
+      "calc_div3": "2026-01-13 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:12",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:42",
+      "calc_div3": "2026-01-13 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:14",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:44",
+      "calc_div3": "2026-01-13 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:16",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:46",
+      "calc_div3": "2026-01-13 08:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:18",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:48",
+      "calc_div3": "2026-01-13 08:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:20",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:50",
+      "calc_div3": "2026-01-13 08:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:22",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:52",
+      "calc_div3": "2026-01-13 08:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:24",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:54",
+      "calc_div3": "2026-01-13 08:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:26",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:56",
+      "calc_div3": "2026-01-13 08:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:28",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:58",
+      "calc_div3": "2026-01-13 08:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:30",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 14:00",
+      "calc_div3": "2026-01-13 08:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:32",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 14:02",
+      "calc_div3": "2026-01-13 08:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:34",
+      "pos": 33,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 14:04",
+      "calc_div3": "2026-01-13 08:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:36",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:06",
+      "calc_div3": "2026-01-13 07:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:38",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 20:00",
+      "calc_div2": "2026-01-13 13:08",
+      "calc_div3": "2026-01-13 07:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:40",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:10",
+      "calc_div3": "2026-01-13 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:42",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:12",
+      "calc_div3": "2026-01-13 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:44",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:14",
+      "calc_div3": "2026-01-13 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:46",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:16",
+      "calc_div3": "2026-01-13 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:48",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:18",
+      "calc_div3": "2026-01-13 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:50",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:20",
+      "calc_div3": "2026-01-13 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:52",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:22",
+      "calc_div3": "2026-01-13 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:54",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:24",
+      "calc_div3": "2026-01-13 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:56",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:26",
+      "calc_div3": "2026-01-13 08:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 21:58",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:28",
+      "calc_div3": "2026-01-13 08:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:00",
+      "pos": 31,
+      "from_meldung": "2026-01-13 11:00",
+      "from_meldung_alt": "2026-01-13 21:00",
+      "calc_div2": "2026-01-13 13:30",
+      "calc_div3": "2026-01-13 08:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:02",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:32",
+      "calc_div3": "2026-01-13 05:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:04",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:34",
+      "calc_div3": "2026-01-13 05:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:06",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:36",
+      "calc_div3": "2026-01-13 05:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:08",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:38",
+      "calc_div3": "2026-01-13 05:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:10",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:40",
+      "calc_div3": "2026-01-13 05:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:12",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:42",
+      "calc_div3": "2026-01-13 05:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:14",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:44",
+      "calc_div3": "2026-01-13 05:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:16",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:46",
+      "calc_div3": "2026-01-13 05:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:18",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:48",
+      "calc_div3": "2026-01-13 05:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:20",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:50",
+      "calc_div3": "2026-01-13 06:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:21",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:51",
+      "calc_div3": "2026-01-13 06:01",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:22",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:52",
+      "calc_div3": "2026-01-13 06:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:24",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:54",
+      "calc_div3": "2026-01-13 06:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:26",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:56",
+      "calc_div3": "2026-01-13 06:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:28",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 09:58",
+      "calc_div3": "2026-01-13 06:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:30",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:00",
+      "calc_div3": "2026-01-13 06:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:32",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:02",
+      "calc_div3": "2026-01-13 06:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:34",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:04",
+      "calc_div3": "2026-01-13 06:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:36",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:06",
+      "calc_div3": "2026-01-13 06:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:38",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:08",
+      "calc_div3": "2026-01-13 06:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:40",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:10",
+      "calc_div3": "2026-01-13 06:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:42",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:12",
+      "calc_div3": "2026-01-13 06:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:44",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:14",
+      "calc_div3": "2026-01-13 06:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:46",
+      "pos": 23,
+      "from_meldung": "2026-01-13 07:30",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:16",
+      "calc_div3": "2026-01-13 06:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:48",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:18",
+      "calc_div3": "2026-01-13 06:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:50",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:20",
+      "calc_div3": "2026-01-13 06:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:52",
+      "pos": 23,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:22",
+      "calc_div3": "2026-01-13 06:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:54",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:24",
+      "calc_div3": "2026-01-13 06:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:56",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:26",
+      "calc_div3": "2026-01-13 06:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 22:58",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:28",
+      "calc_div3": "2026-01-13 06:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:00",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:30",
+      "calc_div3": "2026-01-13 06:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:02",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:32",
+      "calc_div3": "2026-01-13 06:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:04",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:34",
+      "calc_div3": "2026-01-13 06:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:06",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:36",
+      "calc_div3": "2026-01-13 06:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:08",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:38",
+      "calc_div3": "2026-01-13 06:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:10",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:40",
+      "calc_div3": "2026-01-13 06:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:12",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:42",
+      "calc_div3": "2026-01-13 06:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:14",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:44",
+      "calc_div3": "2026-01-13 06:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:16",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:46",
+      "calc_div3": "2026-01-13 06:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:18",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:48",
+      "calc_div3": "2026-01-13 06:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:20",
+      "pos": 23,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:50",
+      "calc_div3": "2026-01-13 07:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:22",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:22",
+      "calc_div3": "2026-01-13 06:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:24",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:24",
+      "calc_div3": "2026-01-13 06:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:26",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:26",
+      "calc_div3": "2026-01-13 06:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:28",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:28",
+      "calc_div3": "2026-01-13 06:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:30",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:30",
+      "calc_div3": "2026-01-13 06:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:32",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:32",
+      "calc_div3": "2026-01-13 06:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:34",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:34",
+      "calc_div3": "2026-01-13 06:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:36",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:36",
+      "calc_div3": "2026-01-13 06:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:37",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:37",
+      "calc_div3": "2026-01-13 06:57",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:38",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:38",
+      "calc_div3": "2026-01-13 06:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:40",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:40",
+      "calc_div3": "2026-01-13 07:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:42",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:42",
+      "calc_div3": "2026-01-13 07:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:44",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:44",
+      "calc_div3": "2026-01-13 07:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:46",
+      "pos": 22,
+      "from_meldung": "2026-01-13 09:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:46",
+      "calc_div3": "2026-01-13 07:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:48",
+      "pos": 22,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:48",
+      "calc_div3": "2026-01-13 07:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:50",
+      "pos": 22,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:50",
+      "calc_div3": "2026-01-13 07:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:52",
+      "pos": 22,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:52",
+      "calc_div3": "2026-01-13 07:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:54",
+      "pos": 22,
+      "from_meldung": "2026-01-13 08:00",
+      "from_meldung_alt": "2026-01-13 13:00",
+      "calc_div2": "2026-01-13 10:54",
+      "calc_div3": "2026-01-13 07:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:56",
+      "pos": 22,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:56",
+      "calc_div3": "2026-01-13 07:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-13 23:58",
+      "pos": 22,
+      "from_meldung": "2026-01-13 10:00",
+      "from_meldung_alt": "2026-01-13 14:00",
+      "calc_div2": "2026-01-13 10:58",
+      "calc_div3": "2026-01-13 07:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:00",
+      "pos": 22,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 14:00",
+      "calc_div2": "2026-01-14 11:00",
+      "calc_div3": "2026-01-14 07:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:02",
+      "pos": 22,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 14:00",
+      "calc_div2": "2026-01-14 11:02",
+      "calc_div3": "2026-01-14 07:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:03",
+      "pos": 22,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 14:00",
+      "calc_div2": "2026-01-14 11:03",
+      "calc_div3": "2026-01-14 07:23",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:04",
+      "pos": 22,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 14:00",
+      "calc_div2": "2026-01-14 11:04",
+      "calc_div3": "2026-01-14 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:06",
+      "pos": 22,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 14:00",
+      "calc_div2": "2026-01-14 11:06",
+      "calc_div3": "2026-01-14 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:08",
+      "pos": 22,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 14:00",
+      "calc_div2": "2026-01-14 11:08",
+      "calc_div3": "2026-01-14 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:10",
+      "pos": 22,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 13:00",
+      "calc_div2": "2026-01-14 11:10",
+      "calc_div3": "2026-01-14 07:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:21",
+      "pos": 22,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:21",
+      "calc_div3": "2026-01-14 07:41",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:22",
+      "pos": 22,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:22",
+      "calc_div3": "2026-01-14 07:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:24",
+      "pos": 21,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:54",
+      "calc_div3": "2026-01-14 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:26",
+      "pos": 21,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:56",
+      "calc_div3": "2026-01-14 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:26",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:26",
+      "calc_div3": "2026-01-14 07:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:28",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:28",
+      "calc_div3": "2026-01-14 07:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:30",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:30",
+      "calc_div3": "2026-01-14 07:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:32",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:32",
+      "calc_div3": "2026-01-14 07:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:34",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:34",
+      "calc_div3": "2026-01-14 07:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:36",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:36",
+      "calc_div3": "2026-01-14 07:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:38",
+      "pos": 20,
+      "from_meldung": "2026-01-14 07:50",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 10:38",
+      "calc_div3": "2026-01-14 07:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:40",
+      "pos": 20,
+      "from_meldung": "2026-01-14 07:56",
+      "from_meldung_alt": "2026-01-14 08:35",
+      "calc_div2": "2026-01-14 10:40",
+      "calc_div3": "2026-01-14 07:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:42",
+      "pos": 20,
+      "from_meldung": "2026-01-14 07:56",
+      "from_meldung_alt": "2026-01-14 08:35",
+      "calc_div2": "2026-01-14 10:42",
+      "calc_div3": "2026-01-14 07:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:44",
+      "pos": 20,
+      "from_meldung": "2026-01-14 07:56",
+      "from_meldung_alt": "2026-01-14 08:35",
+      "calc_div2": "2026-01-14 10:44",
+      "calc_div3": "2026-01-14 07:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:46",
+      "pos": 20,
+      "from_meldung": "2026-01-14 07:56",
+      "from_meldung_alt": "2026-01-14 08:35",
+      "calc_div2": "2026-01-14 10:46",
+      "calc_div3": "2026-01-14 07:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:48",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:48",
+      "calc_div3": "2026-01-14 07:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:50",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:50",
+      "calc_div3": "2026-01-14 07:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:52",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:52",
+      "calc_div3": "2026-01-14 07:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:54",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:54",
+      "calc_div3": "2026-01-14 07:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:56",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:56",
+      "calc_div3": "2026-01-14 07:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 00:58",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:58",
+      "calc_div3": "2026-01-14 07:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:00",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:00",
+      "calc_div3": "2026-01-14 07:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:02",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:02",
+      "calc_div3": "2026-01-14 07:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:04",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:04",
+      "calc_div3": "2026-01-14 07:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:06",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:06",
+      "calc_div3": "2026-01-14 07:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:08",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:08",
+      "calc_div3": "2026-01-14 07:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:10",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:10",
+      "calc_div3": "2026-01-14 07:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:12",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:12",
+      "calc_div3": "2026-01-14 07:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:14",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:14",
+      "calc_div3": "2026-01-14 07:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:16",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:16",
+      "calc_div3": "2026-01-14 07:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:18",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:18",
+      "calc_div3": "2026-01-14 07:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:20",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:20",
+      "calc_div3": "2026-01-14 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:22",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:22",
+      "calc_div3": "2026-01-14 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:24",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:24",
+      "calc_div3": "2026-01-14 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:26",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:26",
+      "calc_div3": "2026-01-14 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:28",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:28",
+      "calc_div3": "2026-01-14 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:30",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:30",
+      "calc_div3": "2026-01-14 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:32",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:32",
+      "calc_div3": "2026-01-14 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:34",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:34",
+      "calc_div3": "2026-01-14 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:36",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:36",
+      "calc_div3": "2026-01-14 08:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:38",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:38",
+      "calc_div3": "2026-01-14 08:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:40",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:40",
+      "calc_div3": "2026-01-14 08:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:42",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:42",
+      "calc_div3": "2026-01-14 08:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:44",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:44",
+      "calc_div3": "2026-01-14 08:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:46",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:46",
+      "calc_div3": "2026-01-14 08:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:48",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:48",
+      "calc_div3": "2026-01-14 08:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:50",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:50",
+      "calc_div3": "2026-01-14 08:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:52",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:52",
+      "calc_div3": "2026-01-14 08:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:54",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:15",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:54",
+      "calc_div3": "2026-01-14 08:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:56",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:15",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:56",
+      "calc_div3": "2026-01-14 08:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 01:58",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:15",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:58",
+      "calc_div3": "2026-01-14 08:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:00",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:15",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:00",
+      "calc_div3": "2026-01-14 08:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:02",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:15",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:02",
+      "calc_div3": "2026-01-14 08:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:04",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:15",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:04",
+      "calc_div3": "2026-01-14 08:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:06",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:18",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:06",
+      "calc_div3": "2026-01-14 08:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:08",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:18",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:08",
+      "calc_div3": "2026-01-14 08:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:10",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:18",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:10",
+      "calc_div3": "2026-01-14 08:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:12",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:18",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:12",
+      "calc_div3": "2026-01-14 08:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:14",
+      "pos": 20,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:14",
+      "calc_div3": "2026-01-14 08:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:16",
+      "pos": 20,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:16",
+      "calc_div3": "2026-01-14 08:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:18",
+      "pos": 20,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:18",
+      "calc_div3": "2026-01-14 08:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:20",
+      "pos": 20,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:20",
+      "calc_div3": "2026-01-14 09:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:22",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:22",
+      "calc_div3": "2026-01-14 09:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:24",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:24",
+      "calc_div3": "2026-01-14 09:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:26",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:26",
+      "calc_div3": "2026-01-14 09:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:28",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:28",
+      "calc_div3": "2026-01-14 09:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:30",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:30",
+      "calc_div3": "2026-01-14 09:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:32",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:32",
+      "calc_div3": "2026-01-14 09:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:34",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:34",
+      "calc_div3": "2026-01-14 09:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:36",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:36",
+      "calc_div3": "2026-01-14 09:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:38",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:38",
+      "calc_div3": "2026-01-14 09:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:40",
+      "pos": 20,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:40",
+      "calc_div3": "2026-01-14 09:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:42",
+      "pos": 20,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:42",
+      "calc_div3": "2026-01-14 09:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:44",
+      "pos": 19,
+      "from_meldung": "2026-01-14 08:35",
+      "from_meldung_alt": "2026-01-14 10:00",
+      "calc_div2": "2026-01-14 12:14",
+      "calc_div3": "2026-01-14 09:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:46",
+      "pos": 18,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:46",
+      "calc_div3": "2026-01-14 08:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:48",
+      "pos": 18,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:48",
+      "calc_div3": "2026-01-14 08:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:50",
+      "pos": 18,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:50",
+      "calc_div3": "2026-01-14 08:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:52",
+      "pos": 18,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:52",
+      "calc_div3": "2026-01-14 08:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:54",
+      "pos": 18,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:54",
+      "calc_div3": "2026-01-14 08:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:56",
+      "pos": 18,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:56",
+      "calc_div3": "2026-01-14 08:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 02:58",
+      "pos": 17,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:28",
+      "calc_div3": "2026-01-14 08:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:00",
+      "pos": 16,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:00",
+      "calc_div3": "2026-01-14 08:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:02",
+      "pos": 15,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:32",
+      "calc_div3": "2026-01-14 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:04",
+      "pos": 15,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:34",
+      "calc_div3": "2026-01-14 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:06",
+      "pos": 15,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:36",
+      "calc_div3": "2026-01-14 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:08",
+      "pos": 15,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:38",
+      "calc_div3": "2026-01-14 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:10",
+      "pos": 15,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:40",
+      "calc_div3": "2026-01-14 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:12",
+      "pos": 15,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:42",
+      "calc_div3": "2026-01-14 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:14",
+      "pos": 15,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:44",
+      "calc_div3": "2026-01-14 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:16",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:16",
+      "calc_div3": "2026-01-14 07:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:18",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:18",
+      "calc_div3": "2026-01-14 07:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:20",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:20",
+      "calc_div3": "2026-01-14 08:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:22",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:22",
+      "calc_div3": "2026-01-14 08:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:24",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:24",
+      "calc_div3": "2026-01-14 08:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:26",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:26",
+      "calc_div3": "2026-01-14 08:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:28",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:28",
+      "calc_div3": "2026-01-14 08:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:30",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:30",
+      "calc_div3": "2026-01-14 08:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:32",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:32",
+      "calc_div3": "2026-01-14 08:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:34",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:34",
+      "calc_div3": "2026-01-14 08:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:36",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:36",
+      "calc_div3": "2026-01-14 08:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:38",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:38",
+      "calc_div3": "2026-01-14 08:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:40",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:40",
+      "calc_div3": "2026-01-14 08:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:42",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:42",
+      "calc_div3": "2026-01-14 08:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:44",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:44",
+      "calc_div3": "2026-01-14 08:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:46",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:46",
+      "calc_div3": "2026-01-14 08:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:48",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:48",
+      "calc_div3": "2026-01-14 08:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:50",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:50",
+      "calc_div3": "2026-01-14 08:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:52",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:52",
+      "calc_div3": "2026-01-14 08:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:54",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:54",
+      "calc_div3": "2026-01-14 08:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:56",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:56",
+      "calc_div3": "2026-01-14 08:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 03:58",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:58",
+      "calc_div3": "2026-01-14 08:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:00",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:00",
+      "calc_div3": "2026-01-14 08:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:02",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:02",
+      "calc_div3": "2026-01-14 08:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:04",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:04",
+      "calc_div3": "2026-01-14 08:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:06",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:06",
+      "calc_div3": "2026-01-14 08:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:08",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:08",
+      "calc_div3": "2026-01-14 08:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:10",
+      "pos": 14,
+      "from_meldung": "2026-01-14 09:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:10",
+      "calc_div3": "2026-01-14 08:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:12",
+      "pos": 14,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:12",
+      "calc_div3": "2026-01-14 08:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:14",
+      "pos": 14,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:14",
+      "calc_div3": "2026-01-14 08:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:16",
+      "pos": 14,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:16",
+      "calc_div3": "2026-01-14 08:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:18",
+      "pos": 14,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:18",
+      "calc_div3": "2026-01-14 08:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:20",
+      "pos": 14,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:20",
+      "calc_div3": "2026-01-14 09:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:22",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:52",
+      "calc_div3": "2026-01-14 08:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:24",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:54",
+      "calc_div3": "2026-01-14 08:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:26",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:56",
+      "calc_div3": "2026-01-14 08:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:28",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:58",
+      "calc_div3": "2026-01-14 08:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:30",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:00",
+      "calc_div3": "2026-01-14 08:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:32",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:02",
+      "calc_div3": "2026-01-14 08:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:34",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:04",
+      "calc_div3": "2026-01-14 08:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:36",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:06",
+      "calc_div3": "2026-01-14 08:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:38",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:08",
+      "calc_div3": "2026-01-14 08:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:40",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:10",
+      "calc_div3": "2026-01-14 09:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:42",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:12",
+      "calc_div3": "2026-01-14 09:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:44",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:14",
+      "calc_div3": "2026-01-14 09:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:46",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:16",
+      "calc_div3": "2026-01-14 09:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:48",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:18",
+      "calc_div3": "2026-01-14 09:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:50",
+      "pos": 13,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:20",
+      "calc_div3": "2026-01-14 09:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:52",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:52",
+      "calc_div3": "2026-01-14 08:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:54",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:54",
+      "calc_div3": "2026-01-14 08:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:56",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:56",
+      "calc_div3": "2026-01-14 08:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 04:58",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 10:58",
+      "calc_div3": "2026-01-14 08:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:00",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:00",
+      "calc_div3": "2026-01-14 09:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:02",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:02",
+      "calc_div3": "2026-01-14 09:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:04",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:04",
+      "calc_div3": "2026-01-14 09:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:06",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:06",
+      "calc_div3": "2026-01-14 09:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:08",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:08",
+      "calc_div3": "2026-01-14 09:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:10",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:10",
+      "calc_div3": "2026-01-14 09:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:12",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:12",
+      "calc_div3": "2026-01-14 09:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:14",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:14",
+      "calc_div3": "2026-01-14 09:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:16",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:16",
+      "calc_div3": "2026-01-14 09:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:18",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:18",
+      "calc_div3": "2026-01-14 09:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:20",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:20",
+      "calc_div3": "2026-01-14 09:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:22",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:22",
+      "calc_div3": "2026-01-14 09:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:24",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:24",
+      "calc_div3": "2026-01-14 09:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:26",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:26",
+      "calc_div3": "2026-01-14 09:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:28",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:28",
+      "calc_div3": "2026-01-14 09:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:30",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:30",
+      "calc_div3": "2026-01-14 09:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:32",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:32",
+      "calc_div3": "2026-01-14 09:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:34",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:34",
+      "calc_div3": "2026-01-14 09:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:36",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:36",
+      "calc_div3": "2026-01-14 09:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:38",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:38",
+      "calc_div3": "2026-01-14 09:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:40",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:40",
+      "calc_div3": "2026-01-14 09:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:42",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:42",
+      "calc_div3": "2026-01-14 09:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:44",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:44",
+      "calc_div3": "2026-01-14 09:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:46",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:46",
+      "calc_div3": "2026-01-14 09:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:48",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:48",
+      "calc_div3": "2026-01-14 09:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:50",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:50",
+      "calc_div3": "2026-01-14 09:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:52",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:52",
+      "calc_div3": "2026-01-14 09:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:54",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:54",
+      "calc_div3": "2026-01-14 09:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:56",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:56",
+      "calc_div3": "2026-01-14 09:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 05:58",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:58",
+      "calc_div3": "2026-01-14 09:58",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:00",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:00",
+      "calc_div3": "2026-01-14 10:00",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:02",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:02",
+      "calc_div3": "2026-01-14 10:02",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:04",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:04",
+      "calc_div3": "2026-01-14 10:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:06",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:06",
+      "calc_div3": "2026-01-14 10:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:08",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:08",
+      "calc_div3": "2026-01-14 10:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:10",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:10",
+      "calc_div3": "2026-01-14 10:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:12",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:12",
+      "calc_div3": "2026-01-14 10:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:14",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:14",
+      "calc_div3": "2026-01-14 10:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:16",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:16",
+      "calc_div3": "2026-01-14 10:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:18",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:18",
+      "calc_div3": "2026-01-14 10:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:20",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:20",
+      "calc_div3": "2026-01-14 10:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:22",
+      "pos": 12,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:22",
+      "calc_div3": "2026-01-14 10:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:24",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:54",
+      "calc_div3": "2026-01-14 10:04",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:26",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:56",
+      "calc_div3": "2026-01-14 10:06",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:28",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:58",
+      "calc_div3": "2026-01-14 10:08",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:30",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:00",
+      "calc_div3": "2026-01-14 10:10",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:32",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:02",
+      "calc_div3": "2026-01-14 10:12",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:34",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:04",
+      "calc_div3": "2026-01-14 10:14",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:36",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:06",
+      "calc_div3": "2026-01-14 10:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:38",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:08",
+      "calc_div3": "2026-01-14 10:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:40",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:10",
+      "calc_div3": "2026-01-14 10:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:42",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:12",
+      "calc_div3": "2026-01-14 10:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:44",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:14",
+      "calc_div3": "2026-01-14 10:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:46",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:16",
+      "calc_div3": "2026-01-14 10:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:48",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:18",
+      "calc_div3": "2026-01-14 10:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:50",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:20",
+      "calc_div3": "2026-01-14 10:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:52",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:22",
+      "calc_div3": "2026-01-14 10:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:54",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:24",
+      "calc_div3": "2026-01-14 10:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:56",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:26",
+      "calc_div3": "2026-01-14 10:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 06:58",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:28",
+      "calc_div3": "2026-01-14 10:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:00",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:30",
+      "calc_div3": "2026-01-14 10:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:02",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:32",
+      "calc_div3": "2026-01-14 10:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:04",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:34",
+      "calc_div3": "2026-01-14 10:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:06",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:36",
+      "calc_div3": "2026-01-14 10:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:08",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:38",
+      "calc_div3": "2026-01-14 10:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:10",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:40",
+      "calc_div3": "2026-01-14 10:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:12",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:42",
+      "calc_div3": "2026-01-14 10:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:14",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:44",
+      "calc_div3": "2026-01-14 10:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:16",
+      "pos": 11,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:46",
+      "calc_div3": "2026-01-14 10:56",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:18",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:18",
+      "calc_div3": "2026-01-14 10:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:20",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:20",
+      "calc_div3": "2026-01-14 10:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:22",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:22",
+      "calc_div3": "2026-01-14 10:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:24",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:24",
+      "calc_div3": "2026-01-14 10:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:26",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:26",
+      "calc_div3": "2026-01-14 10:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:28",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:28",
+      "calc_div3": "2026-01-14 10:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:30",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:30",
+      "calc_div3": "2026-01-14 10:50",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:32",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:32",
+      "calc_div3": "2026-01-14 10:52",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:34",
+      "pos": 10,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:34",
+      "calc_div3": "2026-01-14 10:54",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:36",
+      "pos": 9,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:06",
+      "calc_div3": "2026-01-14 10:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:38",
+      "pos": 9,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:08",
+      "calc_div3": "2026-01-14 10:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:40",
+      "pos": 9,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:10",
+      "calc_div3": "2026-01-14 10:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:42",
+      "pos": 9,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:12",
+      "calc_div3": "2026-01-14 10:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:44",
+      "pos": 9,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 12:14",
+      "calc_div3": "2026-01-14 10:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:46",
+      "pos": 8,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:46",
+      "calc_div3": "2026-01-14 10:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:48",
+      "pos": 8,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:48",
+      "calc_div3": "2026-01-14 10:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:50",
+      "pos": 8,
+      "from_meldung": "2026-01-14 10:00",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:50",
+      "calc_div3": "2026-01-14 10:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:52",
+      "pos": 8,
+      "from_meldung": "2026-01-14 10:30",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:52",
+      "calc_div3": "2026-01-14 10:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:54",
+      "pos": 8,
+      "from_meldung": "2026-01-14 10:30",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:54",
+      "calc_div3": "2026-01-14 10:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:56",
+      "pos": 7,
+      "from_meldung": "2026-01-14 10:30",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:26",
+      "calc_div3": "2026-01-14 10:16",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 07:58",
+      "pos": 7,
+      "from_meldung": "2026-01-14 10:30",
+      "from_meldung_alt": "2026-01-14 11:00",
+      "calc_div2": "2026-01-14 11:28",
+      "calc_div3": "2026-01-14 10:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:00",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:30",
+      "calc_div3": "2026-01-14 10:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:02",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:32",
+      "calc_div3": "2026-01-14 10:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:04",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:34",
+      "calc_div3": "2026-01-14 10:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:06",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:36",
+      "calc_div3": "2026-01-14 10:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:08",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:38",
+      "calc_div3": "2026-01-14 10:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:10",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:40",
+      "calc_div3": "2026-01-14 10:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:12",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:42",
+      "calc_div3": "2026-01-14 10:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:14",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:44",
+      "calc_div3": "2026-01-14 10:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:16",
+      "pos": 7,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:46",
+      "calc_div3": "2026-01-14 10:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:18",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:18",
+      "calc_div3": "2026-01-14 10:18",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:20",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:20",
+      "calc_div3": "2026-01-14 10:20",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:22",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:22",
+      "calc_div3": "2026-01-14 10:22",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:24",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:24",
+      "calc_div3": "2026-01-14 10:24",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:26",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:26",
+      "calc_div3": "2026-01-14 10:26",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:28",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:28",
+      "calc_div3": "2026-01-14 10:28",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:30",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:30",
+      "calc_div3": "2026-01-14 10:30",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:32",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:32",
+      "calc_div3": "2026-01-14 10:32",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:34",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:34",
+      "calc_div3": "2026-01-14 10:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:36",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:36",
+      "calc_div3": "2026-01-14 10:36",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:38",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:38",
+      "calc_div3": "2026-01-14 10:38",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:40",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:40",
+      "calc_div3": "2026-01-14 10:40",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:42",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:42",
+      "calc_div3": "2026-01-14 10:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:44",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:44",
+      "calc_div3": "2026-01-14 10:44",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:46",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:46",
+      "calc_div3": "2026-01-14 10:46",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:48",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:48",
+      "calc_div3": "2026-01-14 10:48",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 08:50",
+      "pos": 6,
+      "from_meldung": "2026-01-14 11:00",
+      "from_meldung_alt": "2026-01-14 11:20",
+      "calc_div2": "2026-01-14 11:50",
+      "calc_div3": "2026-01-14 10:50",
       "real_start": null
     }
   ]
