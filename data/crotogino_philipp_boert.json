@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T12:36:46",
+  "generated_at": "2026-01-14T12:38:47",
   "status": "boert",
   "person": null,
   "times": null,
@@ -15,8 +15,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 11:56:59 CET 2026",
       "times": {
-        "calc_div2": "Mi13:06",
-        "calc_div3": "Mi12:56",
+        "calc_div2": "Mi13:08",
+        "calc_div3": "Mi12:58",
         "from_meldung": "Mi12:40",
         "from_meldung_alt": "Mi12:40"
       },
@@ -32,8 +32,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 11:57:59 CET 2026",
       "times": {
-        "calc_div2": "Mi13:36",
-        "calc_div3": "Mi13:16",
+        "calc_div2": "Mi13:38",
+        "calc_div3": "Mi13:18",
         "from_meldung": "Mi12:55",
         "from_meldung_alt": "Mi12:55"
       },
@@ -49,8 +49,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 09:55:00 CET 2026",
       "times": {
-        "calc_div2": "Mi14:06",
-        "calc_div3": "Mi13:36",
+        "calc_div2": "Mi14:08",
+        "calc_div3": "Mi13:38",
         "from_meldung": "Mi13:00",
         "from_meldung_alt": "Mi13:00"
       },
@@ -66,8 +66,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
-        "calc_div2": "Mi14:36",
-        "calc_div3": "Mi13:56",
+        "calc_div2": "Mi14:38",
+        "calc_div3": "Mi13:58",
         "from_meldung": "Mi13:05",
         "from_meldung_alt": "Mi13:05"
       },
@@ -83,8 +83,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 11:00:00 CET 2026",
       "times": {
-        "calc_div2": "Mi15:06",
-        "calc_div3": "Mi14:16",
+        "calc_div2": "Mi15:08",
+        "calc_div3": "Mi14:18",
         "from_meldung": "Mi13:20",
         "from_meldung_alt": "Mi13:20"
       },
@@ -100,8 +100,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 12:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mi15:36",
-        "calc_div3": "Mi14:36",
+        "calc_div2": "Mi15:38",
+        "calc_div3": "Mi14:38",
         "from_meldung": "Mi15:05",
         "from_meldung_alt": "Mi15:05"
       },
@@ -117,8 +117,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 12:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mi16:06",
-        "calc_div3": "Mi14:56",
+        "calc_div2": "Mi16:08",
+        "calc_div3": "Mi14:58",
         "from_meldung": "Mi16:55",
         "from_meldung_alt": "Mi16:55"
       },
@@ -134,8 +134,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 12:27:00 CET 2026",
       "times": {
-        "calc_div2": "Mi16:36",
-        "calc_div3": "Mi15:16",
+        "calc_div2": "Mi16:38",
+        "calc_div3": "Mi15:18",
         "from_meldung": "Mi17:10",
         "from_meldung_alt": "Mi17:10"
       },
@@ -151,8 +151,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 12:30:00 CET 2026",
       "times": {
-        "calc_div2": "Mi17:06",
-        "calc_div3": "Mi15:36",
+        "calc_div2": "Mi17:08",
+        "calc_div3": "Mi15:38",
         "from_meldung": "Mi18:00",
         "from_meldung_alt": "Mi18:00"
       },
@@ -168,8 +168,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 12:30:00 CET 2026",
       "times": {
-        "calc_div2": "Mi17:36",
-        "calc_div3": "Mi15:56",
+        "calc_div2": "Mi17:38",
+        "calc_div3": "Mi15:58",
         "from_meldung": "Mi18:30",
         "from_meldung_alt": "Mi18:30"
       },
@@ -185,8 +185,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 03:55:00 CET 2026",
       "times": {
-        "calc_div2": "Mi18:06",
-        "calc_div3": "Mi16:16",
+        "calc_div2": "Mi18:08",
+        "calc_div3": "Mi16:18",
         "from_meldung": "Mi19:00",
         "from_meldung_alt": "Mi19:00"
       },
@@ -202,8 +202,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 03:57:00 CET 2026",
       "times": {
-        "calc_div2": "Mi18:36",
-        "calc_div3": "Mi16:36",
+        "calc_div2": "Mi18:38",
+        "calc_div3": "Mi16:38",
         "from_meldung": "Mi19:15",
         "from_meldung_alt": "Mi19:15"
       },
@@ -219,8 +219,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 04:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mi19:06",
-        "calc_div3": "Mi16:56",
+        "calc_div2": "Mi19:08",
+        "calc_div3": "Mi16:58",
         "from_meldung": "Mi21:00",
         "from_meldung_alt": "Mi21:15"
       },
@@ -236,8 +236,8 @@
       "verguetung": true,
       "zeit": "Tue Jan 13 04:20:00 CET 2026",
       "times": {
-        "calc_div2": "Mi19:36",
-        "calc_div3": "Mi17:16",
+        "calc_div2": "Mi19:38",
+        "calc_div3": "Mi17:18",
         "from_meldung": "Mi21:00",
         "from_meldung_alt": "Mi22:00"
       },
@@ -253,8 +253,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 04:30:00 CET 2026",
       "times": {
-        "calc_div2": "Mi20:06",
-        "calc_div3": "Mi17:36",
+        "calc_div2": "Mi20:08",
+        "calc_div3": "Mi17:38",
         "from_meldung": "Mi21:15",
         "from_meldung_alt": "Mi22:00"
       },
@@ -270,8 +270,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 04:36:00 CET 2026",
       "times": {
-        "calc_div2": "Mi20:36",
-        "calc_div3": "Mi17:56",
+        "calc_div2": "Mi20:38",
+        "calc_div3": "Mi17:58",
         "from_meldung": "Mi22:00",
         "from_meldung_alt": "Mi22:30"
       },
@@ -287,8 +287,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:38:00 CET 2026",
       "times": {
-        "calc_div2": "Mi21:06",
-        "calc_div3": "Mi18:16",
+        "calc_div2": "Mi21:08",
+        "calc_div3": "Mi18:18",
         "from_meldung": "Mi22:00",
         "from_meldung_alt": "Do00:00"
       },
@@ -304,8 +304,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:38:00 CET 2026",
       "times": {
-        "calc_div2": "Mi21:36",
-        "calc_div3": "Mi18:36",
+        "calc_div2": "Mi21:38",
+        "calc_div3": "Mi18:38",
         "from_meldung": "Mi22:30",
         "from_meldung_alt": "Do00:55"
       },
@@ -321,8 +321,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:39:00 CET 2026",
       "times": {
-        "calc_div2": "Mi22:06",
-        "calc_div3": "Mi18:56",
+        "calc_div2": "Mi22:08",
+        "calc_div3": "Mi18:58",
         "from_meldung": "Mi23:00",
         "from_meldung_alt": "Do02:30"
       },
@@ -338,8 +338,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 06:39:00 CET 2026",
       "times": {
-        "calc_div2": "Mi22:36",
-        "calc_div3": "Mi19:16",
+        "calc_div2": "Mi22:38",
+        "calc_div3": "Mi19:18",
         "from_meldung": "Mi23:55",
         "from_meldung_alt": "Do03:00"
       },
@@ -355,8 +355,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 07:38:00 CET 2026",
       "times": {
-        "calc_div2": "Mi23:06",
-        "calc_div3": "Mi19:36",
+        "calc_div2": "Mi23:08",
+        "calc_div3": "Mi19:38",
         "from_meldung": "Do00:00",
         "from_meldung_alt": "Do06:00"
       },
@@ -372,8 +372,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 07:45:00 CET 2026",
       "times": {
-        "calc_div2": "Mi23:36",
-        "calc_div3": "Mi19:56",
+        "calc_div2": "Mi23:38",
+        "calc_div3": "Mi19:58",
         "from_meldung": "Do00:55",
         "from_meldung_alt": "Do07:00"
       },
@@ -389,8 +389,8 @@
       "verguetung": true,
       "zeit": "Tue Jan 13 08:14:23 CET 2026",
       "times": {
-        "calc_div2": "Do00:06",
-        "calc_div3": "Mi20:16",
+        "calc_div2": "Do00:08",
+        "calc_div3": "Mi20:18",
         "from_meldung": "Do02:30",
         "from_meldung_alt": "Do07:00"
       },
@@ -406,8 +406,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 08:31:00 CET 2026",
       "times": {
-        "calc_div2": "Do00:36",
-        "calc_div3": "Mi20:36",
+        "calc_div2": "Do00:38",
+        "calc_div3": "Mi20:38",
         "from_meldung": "Do03:00",
         "from_meldung_alt": "Do09:00"
       },
@@ -423,8 +423,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 09:12:00 CET 2026",
       "times": {
-        "calc_div2": "Do01:06",
-        "calc_div3": "Mi20:56",
+        "calc_div2": "Do01:08",
+        "calc_div3": "Mi20:58",
         "from_meldung": "Do06:00",
         "from_meldung_alt": "Do09:00"
       },
@@ -440,8 +440,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 09:34:00 CET 2026",
       "times": {
-        "calc_div2": "Do01:36",
-        "calc_div3": "Mi21:16",
+        "calc_div2": "Do01:38",
+        "calc_div3": "Mi21:18",
         "from_meldung": "Do06:00",
         "from_meldung_alt": "Do09:00"
       },
@@ -457,8 +457,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 09:40:00 CET 2026",
       "times": {
-        "calc_div2": "Do02:06",
-        "calc_div3": "Mi21:36",
+        "calc_div2": "Do02:08",
+        "calc_div3": "Mi21:38",
         "from_meldung": "Do06:00",
         "from_meldung_alt": "Do11:00"
       },
@@ -474,8 +474,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 09:50:00 CET 2026",
       "times": {
-        "calc_div2": "Do02:36",
-        "calc_div3": "Mi21:56",
+        "calc_div2": "Do02:38",
+        "calc_div3": "Mi21:58",
         "from_meldung": "Do07:00",
         "from_meldung_alt": "Do11:00"
       },
@@ -491,8 +491,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 12:13:00 CET 2026",
       "times": {
-        "calc_div2": "Do03:06",
-        "calc_div3": "Mi22:16",
+        "calc_div2": "Do03:08",
+        "calc_div3": "Mi22:18",
         "from_meldung": "Do07:00",
         "from_meldung_alt": "Do12:00"
       },
@@ -508,8 +508,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 12:28:59 CET 2026",
       "times": {
-        "calc_div2": "Do03:36",
-        "calc_div3": "Mi22:36",
+        "calc_div2": "Do03:38",
+        "calc_div3": "Mi22:38",
         "from_meldung": "Do07:50",
         "from_meldung_alt": null
       },
@@ -525,8 +525,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 14:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do04:06",
-        "calc_div3": "Mi22:56",
+        "calc_div2": "Do04:08",
+        "calc_div3": "Mi22:58",
         "from_meldung": "Do08:00",
         "from_meldung_alt": null
       },
@@ -542,8 +542,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 14:36:00 CET 2026",
       "times": {
-        "calc_div2": "Do04:36",
-        "calc_div3": "Mi23:16",
+        "calc_div2": "Do04:38",
+        "calc_div3": "Mi23:18",
         "from_meldung": "Do08:00",
         "from_meldung_alt": null
       },
@@ -559,8 +559,8 @@
       "verguetung": true,
       "zeit": "Tue Jan 13 15:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do05:06",
-        "calc_div3": "Mi23:36",
+        "calc_div2": "Do05:08",
+        "calc_div3": "Mi23:38",
         "from_meldung": "Do09:00",
         "from_meldung_alt": null
       },
@@ -576,8 +576,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 15:39:00 CET 2026",
       "times": {
-        "calc_div2": "Do05:36",
-        "calc_div3": "Mi23:56",
+        "calc_div2": "Do05:38",
+        "calc_div3": "Mi23:58",
         "from_meldung": "Do09:00",
         "from_meldung_alt": null
       },
@@ -593,8 +593,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 15:51:00 CET 2026",
       "times": {
-        "calc_div2": "Do06:06",
-        "calc_div3": "Do00:16",
+        "calc_div2": "Do06:08",
+        "calc_div3": "Do00:18",
         "from_meldung": "Do09:00",
         "from_meldung_alt": null
       },
@@ -610,8 +610,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 16:45:00 CET 2026",
       "times": {
-        "calc_div2": "Do06:36",
-        "calc_div3": "Do00:36",
+        "calc_div2": "Do06:38",
+        "calc_div3": "Do00:38",
         "from_meldung": "Do10:00",
         "from_meldung_alt": null
       },
@@ -627,8 +627,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 16:47:00 CET 2026",
       "times": {
-        "calc_div2": "Do07:06",
-        "calc_div3": "Do00:56",
+        "calc_div2": "Do07:08",
+        "calc_div3": "Do00:58",
         "from_meldung": "Do11:00",
         "from_meldung_alt": null
       },
@@ -644,8 +644,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 16:47:00 CET 2026",
       "times": {
-        "calc_div2": "Do07:36",
-        "calc_div3": "Do01:16",
+        "calc_div2": "Do07:38",
+        "calc_div3": "Do01:18",
         "from_meldung": "Do11:00",
         "from_meldung_alt": null
       },
@@ -661,8 +661,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 20:41:56 CET 2026",
       "times": {
-        "calc_div2": "Do08:06",
-        "calc_div3": "Do01:36",
+        "calc_div2": "Do08:08",
+        "calc_div3": "Do01:38",
         "from_meldung": "Do12:00",
         "from_meldung_alt": null
       },
@@ -678,8 +678,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 21:04:00 CET 2026",
       "times": {
-        "calc_div2": "Do08:36",
-        "calc_div3": "Do01:56",
+        "calc_div2": "Do08:38",
+        "calc_div3": "Do01:58",
         "from_meldung": "Do12:00",
         "from_meldung_alt": null
       },
@@ -695,8 +695,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 21:08:00 CET 2026",
       "times": {
-        "calc_div2": "Do09:06",
-        "calc_div3": "Do02:16",
+        "calc_div2": "Do09:08",
+        "calc_div3": "Do02:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -712,8 +712,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 22:10:00 CET 2026",
       "times": {
-        "calc_div2": "Do09:36",
-        "calc_div3": "Do02:36",
+        "calc_div2": "Do09:38",
+        "calc_div3": "Do02:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -729,8 +729,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 22:19:00 CET 2026",
       "times": {
-        "calc_div2": "Do10:06",
-        "calc_div3": "Do02:56",
+        "calc_div2": "Do10:08",
+        "calc_div3": "Do02:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -746,8 +746,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do10:36",
-        "calc_div3": "Do03:16",
+        "calc_div2": "Do10:38",
+        "calc_div3": "Do03:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -763,8 +763,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:28:00 CET 2026",
       "times": {
-        "calc_div2": "Do11:06",
-        "calc_div3": "Do03:36",
+        "calc_div2": "Do11:08",
+        "calc_div3": "Do03:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -780,8 +780,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:33:00 CET 2026",
       "times": {
-        "calc_div2": "Do11:36",
-        "calc_div3": "Do03:56",
+        "calc_div2": "Do11:38",
+        "calc_div3": "Do03:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -797,8 +797,8 @@
       "verguetung": false,
       "zeit": "Tue Jan 13 23:35:00 CET 2026",
       "times": {
-        "calc_div2": "Do12:06",
-        "calc_div3": "Do04:16",
+        "calc_div2": "Do12:08",
+        "calc_div3": "Do04:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -814,8 +814,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 00:23:00 CET 2026",
       "times": {
-        "calc_div2": "Do12:36",
-        "calc_div3": "Do04:36",
+        "calc_div2": "Do12:38",
+        "calc_div3": "Do04:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -831,8 +831,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 00:45:00 CET 2026",
       "times": {
-        "calc_div2": "Do13:06",
-        "calc_div3": "Do04:56",
+        "calc_div2": "Do13:08",
+        "calc_div3": "Do04:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -848,8 +848,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 00:46:00 CET 2026",
       "times": {
-        "calc_div2": "Do13:36",
-        "calc_div3": "Do05:16",
+        "calc_div2": "Do13:38",
+        "calc_div3": "Do05:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -865,8 +865,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 01:11:00 CET 2026",
       "times": {
-        "calc_div2": "Do14:06",
-        "calc_div3": "Do05:36",
+        "calc_div2": "Do14:08",
+        "calc_div3": "Do05:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -882,8 +882,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 01:55:00 CET 2026",
       "times": {
-        "calc_div2": "Do14:36",
-        "calc_div3": "Do05:56",
+        "calc_div2": "Do14:38",
+        "calc_div3": "Do05:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -899,8 +899,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 03:31:00 CET 2026",
       "times": {
-        "calc_div2": "Do15:06",
-        "calc_div3": "Do06:16",
+        "calc_div2": "Do15:08",
+        "calc_div3": "Do06:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -916,8 +916,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 03:50:00 CET 2026",
       "times": {
-        "calc_div2": "Do15:36",
-        "calc_div3": "Do06:36",
+        "calc_div2": "Do15:38",
+        "calc_div3": "Do06:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -933,8 +933,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:45:00 CET 2026",
       "times": {
-        "calc_div2": "Do16:06",
-        "calc_div3": "Do06:56",
+        "calc_div2": "Do16:08",
+        "calc_div3": "Do06:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -950,8 +950,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:48:04 CET 2026",
       "times": {
-        "calc_div2": "Do16:36",
-        "calc_div3": "Do07:16",
+        "calc_div2": "Do16:38",
+        "calc_div3": "Do07:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -967,8 +967,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 04:59:00 CET 2026",
       "times": {
-        "calc_div2": "Do17:06",
-        "calc_div3": "Do07:36",
+        "calc_div2": "Do17:08",
+        "calc_div3": "Do07:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -984,8 +984,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 06:03:00 CET 2026",
       "times": {
-        "calc_div2": "Do17:36",
-        "calc_div3": "Do07:56",
+        "calc_div2": "Do17:38",
+        "calc_div3": "Do07:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1001,8 +1001,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:39:00 CET 2026",
       "times": {
-        "calc_div2": "Do18:06",
-        "calc_div3": "Do08:16",
+        "calc_div2": "Do18:08",
+        "calc_div3": "Do08:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1018,8 +1018,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:40:00 CET 2026",
       "times": {
-        "calc_div2": "Do18:36",
-        "calc_div3": "Do08:36",
+        "calc_div2": "Do18:38",
+        "calc_div3": "Do08:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1035,8 +1035,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:49:00 CET 2026",
       "times": {
-        "calc_div2": "Do19:06",
-        "calc_div3": "Do08:56",
+        "calc_div2": "Do19:08",
+        "calc_div3": "Do08:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1052,8 +1052,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 08:53:00 CET 2026",
       "times": {
-        "calc_div2": "Do19:36",
-        "calc_div3": "Do09:16",
+        "calc_div2": "Do19:38",
+        "calc_div3": "Do09:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1069,8 +1069,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 09:57:00 CET 2026",
       "times": {
-        "calc_div2": "Do20:06",
-        "calc_div3": "Do09:36",
+        "calc_div2": "Do20:08",
+        "calc_div3": "Do09:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1086,8 +1086,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 11:01:00 CET 2026",
       "times": {
-        "calc_div2": "Do20:36",
-        "calc_div3": "Do09:56",
+        "calc_div2": "Do20:38",
+        "calc_div3": "Do09:58",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1103,8 +1103,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 11:13:00 CET 2026",
       "times": {
-        "calc_div2": "Do21:06",
-        "calc_div3": "Do10:16",
+        "calc_div2": "Do21:08",
+        "calc_div3": "Do10:18",
         "from_meldung": null,
         "from_meldung_alt": null
       },
@@ -1120,8 +1120,8 @@
       "verguetung": false,
       "zeit": "Wed Jan 14 12:30:00 CET 2026",
       "times": {
-        "calc_div2": "Do21:36",
-        "calc_div3": "Do10:36",
+        "calc_div2": "Do21:38",
+        "calc_div3": "Do10:38",
         "from_meldung": null,
         "from_meldung_alt": null
       },
