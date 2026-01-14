@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T11:34:55",
+  "generated_at": "2026-01-14T11:36:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -179,14 +179,14 @@
       "time": "Wed Jan 14 07:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:57",
-        "eta_rueb": "13:40",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "09:56"
+        "eta_rueb": "13:39",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "09:55"
       },
-      "eta_rueb": "13:40",
+      "eta_rueb": "13:39",
       "eta_schleuse": "18:57",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "09:56"
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "09:55"
     },
     {
       "is_target": false,
@@ -200,14 +200,14 @@
       "time": "Wed Jan 14 07:16:00 CET 2026",
       "times": {
         "eta_schleuse": "16:42",
-        "eta_rueb": "11:40",
-        "delta_rueb_schleuse": "05:02",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "11:41",
+        "delta_rueb_schleuse": "05:01",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "11:40",
+      "eta_rueb": "11:41",
       "eta_schleuse": "16:42",
-      "delta_rueb_schleuse": "05:02",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "05:01",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -221,14 +221,14 @@
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
         "eta_schleuse": "15:24",
-        "eta_rueb": "11:50",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "11:49",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "11:50",
+      "eta_rueb": "11:49",
       "eta_schleuse": "15:24",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
@@ -258,8 +258,8 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "NETA A.",
+      "route": "KLT → HOS",
       "time": "Wed Jan 14 04:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -502,14 +502,14 @@
       "time": "Wed Jan 14 07:35:00 CET 2026",
       "times": {
         "eta_schleuse": "18:57",
-        "eta_rueb": "13:40",
-        "delta_rueb_schleuse": "05:17",
-        "delta_start_rueb": "09:56"
+        "eta_rueb": "13:39",
+        "delta_rueb_schleuse": "05:18",
+        "delta_start_rueb": "09:55"
       },
-      "eta_rueb": "13:40",
+      "eta_rueb": "13:39",
       "eta_schleuse": "18:57",
-      "delta_rueb_schleuse": "05:17",
-      "delta_start_rueb": "09:56"
+      "delta_rueb_schleuse": "05:18",
+      "delta_start_rueb": "09:55"
     },
     {
       "is_target": false,
@@ -523,14 +523,14 @@
       "time": "Wed Jan 14 07:16:00 CET 2026",
       "times": {
         "eta_schleuse": "16:42",
-        "eta_rueb": "11:40",
-        "delta_rueb_schleuse": "05:02",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "11:41",
+        "delta_rueb_schleuse": "05:01",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "11:40",
+      "eta_rueb": "11:41",
       "eta_schleuse": "16:42",
-      "delta_rueb_schleuse": "05:02",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "05:01",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -544,14 +544,14 @@
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
         "eta_schleuse": "15:24",
-        "eta_rueb": "11:50",
-        "delta_rueb_schleuse": "03:34",
-        "delta_start_rueb": "04:08"
+        "eta_rueb": "11:49",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:07"
       },
-      "eta_rueb": "11:50",
+      "eta_rueb": "11:49",
       "eta_schleuse": "15:24",
-      "delta_rueb_schleuse": "03:34",
-      "delta_start_rueb": "04:08"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:07"
     },
     {
       "is_target": false,
