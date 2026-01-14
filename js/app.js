@@ -355,31 +355,35 @@ async function loadBoert() {
 
     let filteredLotsen = data.lotsen || [];
 
-    const filterActive = boertFromDate !== null || boertToDate !== null;
+    const filterActive = boertFromDate || boertToDate;
 
     if (filterActive) {
+      const now = new Date();
+      const fromTs = boertFromDate ? boertFromDate.getTime() : null;
+      const toTs   = boertToDate   ? boertToDate.getTime()   : null;
+
       filteredLotsen = filteredLotsen.filter(lotse => {
         if (!lotse.times) return false;
 
-        for (const val of Object.values(lotse.times)) {
-          if (!val) continue;
+        return Object.values(lotse.times).some(val => {
+          if (!val) return false;
 
           const d = parseLotseTime(val);
-          if (!d) continue;
+          if (!d) return false;
 
-          if (boertFromDate && d < boertFromDate) continue;
-          if (boertToDate   && d > boertToDate)   continue;
+          const ts = d.getTime();
 
-          return true; // eine passende Zeit reicht
-        }
+          if (fromTs && ts < fromTs) return false;
+          if (toTs   && ts > toTs)   return false;
 
-        return false;
+          return true;
+        });
       });
     }
 	
     const totalLotsen = (data.lotsen || []).length;
     const shownLotsen = filteredLotsen.length;
-    const filterActive = Boolean(boertFromDate || boertToDate);
+    
 	
     let html = '<div style="max-width: 1200px;">';
     
