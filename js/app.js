@@ -352,25 +352,28 @@ async function loadBoert() {
     const res = await fetch(`data/${currentPerson.key}_boert.json`, { cache: "no-store" });
     const data = await res.json();
     
-    let filteredLotsen = data.lotsen || [];
 
     let filteredLotsen = data.lotsen || [];
 
-    if (boertFromDate || boertToDate) {
+    const filterActive = boertFromDate !== null || boertToDate !== null;
+
+    if (filterActive) {
       filteredLotsen = filteredLotsen.filter(lotse => {
         if (!lotse.times) return false;
 
-        return Object.values(lotse.times).some(val => {
-          if (!val) return false;
+        for (const val of Object.values(lotse.times)) {
+          if (!val) continue;
 
           const d = parseLotseTime(val);
-          if (!d) return false;
+          if (!d) continue;
 
-          if (boertFromDate && d < boertFromDate) return false;
-          if (boertToDate   && d > boertToDate)   return false;
+          if (boertFromDate && d < boertFromDate) continue;
+          if (boertToDate   && d > boertToDate)   continue;
 
-          return true; // 🔑 EINE Zeit reicht
-        });
+          return true; // eine passende Zeit reicht
+        }
+
+        return false;
       });
     }
 	
