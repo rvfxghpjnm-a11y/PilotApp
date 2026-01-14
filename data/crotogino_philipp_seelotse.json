@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T00:32:54",
+  "generated_at": "2026-01-15T00:34:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,14 +52,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 22:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:47",
+        "eta_schleuse": "03:46",
         "eta_rueb": "00:14",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "00:14",
-      "eta_schleuse": "03:47",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "03:46",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:24"
     },
     {
@@ -279,16 +279,11 @@
       "fahrzeug": "PAULA",
       "route": "HOS → KLT",
       "time": "Wed Jan 14 18:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "00:32",
-        "eta_rueb": "19:57",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "04:27"
-      },
-      "eta_rueb": "19:57",
-      "eta_schleuse": "00:32",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "04:27"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -335,14 +330,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 22:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:47",
+        "eta_schleuse": "03:46",
         "eta_rueb": "00:14",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "00:14",
-      "eta_schleuse": "03:47",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "03:46",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:24"
     },
     {
