@@ -368,7 +368,7 @@ async function loadBoert() {
 	
     const totalLotsen = (data.lotsen || []).length;
     const shownLotsen = filteredLotsen.length;
-    const filterActive = Boolean(fromDate || toDate);
+    const filterActive = Boolean(boertFromDate || boertToDate);
 	
     let html = '<div style="max-width: 1200px;">';
     
