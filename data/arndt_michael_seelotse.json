@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T13:20:48",
+  "generated_at": "2026-01-14T13:22:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -196,14 +196,14 @@
       "time": "Wed Jan 14 09:33:00 CET 2026",
       "times": {
         "eta_schleuse": "18:56",
-        "eta_rueb": "14:18",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "14:17",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "14:18",
+      "eta_rueb": "14:17",
       "eta_schleuse": "18:56",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -253,14 +253,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 14 07:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:20",
+        "eta_schleuse": "13:22",
         "eta_rueb": "09:17",
-        "delta_rueb_schleuse": "04:03",
+        "delta_rueb_schleuse": "04:05",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "09:17",
-      "eta_schleuse": "13:20",
-      "delta_rueb_schleuse": "04:03",
+      "eta_schleuse": "13:22",
+      "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:15"
     },
     {
@@ -391,8 +391,8 @@
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "NORDIC ITALIA",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Jan 14 02:56:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -520,14 +520,14 @@
       "time": "Wed Jan 14 09:33:00 CET 2026",
       "times": {
         "eta_schleuse": "18:56",
-        "eta_rueb": "14:18",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "14:17",
+        "delta_rueb_schleuse": "04:39",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "14:18",
+      "eta_rueb": "14:17",
       "eta_schleuse": "18:56",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "04:39",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -678,8 +678,8 @@
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
       "nr": 21,
-      "fahrzeug": "NORDIC ITALIA",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Jan 14 02:56:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -721,7 +721,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:07",
+      "eta_rueb_kiel": "16:06",
       "eta_rueb": "16:00",
       "ship": "BALTIC WAVE",
       "q_gruppe": "5",
