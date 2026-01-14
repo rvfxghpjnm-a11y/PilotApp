@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T10:00:53",
+  "generated_at": "2026-01-14T10:02:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -327,14 +327,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 00:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:59",
+        "eta_schleuse": "12:57",
         "eta_rueb": "09:01",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "05:49"
       },
       "eta_rueb": "09:01",
-      "eta_schleuse": "12:59",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "12:57",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "05:49"
     }
   ],
@@ -561,14 +561,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 00:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:59",
+        "eta_schleuse": "12:57",
         "eta_rueb": "09:01",
-        "delta_rueb_schleuse": "03:58",
+        "delta_rueb_schleuse": "03:56",
         "delta_start_rueb": "05:49"
       },
       "eta_rueb": "09:01",
-      "eta_schleuse": "12:59",
-      "delta_rueb_schleuse": "03:58",
+      "eta_schleuse": "12:57",
+      "delta_rueb_schleuse": "03:56",
       "delta_start_rueb": "05:49"
     }
   ],
@@ -610,7 +610,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:24",
+      "eta_rueb_kiel": "14:25",
       "eta_rueb": "14:15",
       "ship": "JORVIK",
       "q_gruppe": "5",
