@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-14T18:14:56",
+  "generated_at": "2026-01-14T18:16:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 0,
     "see": 4
   },
@@ -209,22 +209,6 @@
       "eta_schleuse": "19:13",
       "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:45"
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "JORVIK",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 14 09:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -364,22 +348,6 @@
       "eta_schleuse": "19:13",
       "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:45"
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "JORVIK",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 14 09:32:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
