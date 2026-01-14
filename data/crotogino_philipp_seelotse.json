@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T10:10:54",
+  "generated_at": "2026-01-14T10:12:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -105,15 +105,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 07:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:30",
-        "eta_rueb": "12:02",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:28"
+        "eta_schleuse": "16:28",
+        "eta_rueb": "12:01",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:27"
       },
-      "eta_rueb": "12:02",
-      "eta_schleuse": "16:30",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:28"
+      "eta_rueb": "12:01",
+      "eta_schleuse": "16:28",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
@@ -291,8 +291,8 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ROLLDOCK STAR",
+      "route": "KLT → GNY",
       "time": "Wed Jan 14 02:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -419,15 +419,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 07:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:30",
-        "eta_rueb": "12:02",
-        "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "03:28"
+        "eta_schleuse": "16:28",
+        "eta_rueb": "12:01",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:27"
       },
-      "eta_rueb": "12:02",
-      "eta_schleuse": "16:30",
-      "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "03:28"
+      "eta_rueb": "12:01",
+      "eta_schleuse": "16:28",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:27"
     },
     {
       "is_target": false,
