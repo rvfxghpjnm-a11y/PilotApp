@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T17:36:56",
+  "generated_at": "2026-01-14T17:38:57",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -111,8 +111,8 @@
       "name": "René Winkler",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SEELÖWE + PONTON",
+      "route": "SWS → KLT",
       "time": "Wed Jan 14 12:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -200,14 +200,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:16",
+        "eta_schleuse": "19:15",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:16",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "19:15",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:45"
     },
     {
@@ -360,14 +360,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:16",
+        "eta_schleuse": "19:15",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:43",
+        "delta_rueb_schleuse": "03:42",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:16",
-      "delta_rueb_schleuse": "03:43",
+      "eta_schleuse": "19:15",
+      "delta_rueb_schleuse": "03:42",
       "delta_start_rueb": "04:45"
     },
     {
