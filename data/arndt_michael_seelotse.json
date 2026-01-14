@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T10:14:47",
+  "generated_at": "2026-01-14T10:16:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -201,8 +201,8 @@
       "name": "Hüseyin Ünsal",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "ISAR HIGHWAY",
-      "route": "KLT → HOS",
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Wed Jan 14 04:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
