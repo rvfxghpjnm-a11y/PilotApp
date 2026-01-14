@@ -43,7 +43,22 @@
     <button data-hours="12">12h</button>
     <button data-hours="24" class="active">24h</button>
   </div>
+  
+  
+  <!-- BOERT TIME RANGE FILTER (UI ONLY – STEP 1) -->
+  <div class="row" id="boertRange" style="display:none">
+    <label>
+      Von:
+      <input type="datetime-local" id="boertFrom">
+    </label>
 
+    <label>
+      Bis:
+      <input type="datetime-local" id="boertTo">
+    </label>
+  </div>
+  
+  
   <!-- Refresh & Status (IMMER sichtbar) -->
   <div class="row" id="refreshControls">
     <button id="refreshNow">↻</button>
