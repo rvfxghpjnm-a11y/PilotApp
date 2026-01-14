@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T14:06:47",
+  "generated_at": "2026-01-14T14:08:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -170,14 +170,14 @@
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
         "eta_schleuse": "21:07",
-        "eta_rueb": "16:09",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:43"
+        "eta_rueb": "16:08",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "04:42"
       },
-      "eta_rueb": "16:09",
+      "eta_rueb": "16:08",
       "eta_schleuse": "21:07",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:43"
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "04:42"
     },
     {
       "is_target": false,
@@ -228,19 +228,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "ANOUK",
-      "route": "HOR → RÜB",
+      "fahrzeug": "JORVIK",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:36",
-        "eta_rueb": "14:09",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:45"
+        "eta_schleuse": "17:49",
+        "eta_rueb": "14:14",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "14:09",
-      "eta_schleuse": "18:36",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:45"
+      "eta_rueb": "14:14",
+      "eta_schleuse": "17:49",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -364,14 +364,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 04:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:00",
+        "eta_schleuse": "14:59",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "15:00",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "14:59",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "05:14"
     }
   ],
@@ -457,14 +457,14 @@
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
         "eta_schleuse": "21:07",
-        "eta_rueb": "16:09",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:43"
+        "eta_rueb": "16:08",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "04:42"
       },
-      "eta_rueb": "16:09",
+      "eta_rueb": "16:08",
       "eta_schleuse": "21:07",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:43"
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "04:42"
     },
     {
       "is_target": false,
@@ -515,19 +515,19 @@
       "name": "Micha Steffens",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "ANOUK",
-      "route": "HOR → RÜB",
+      "fahrzeug": "JORVIK",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:36",
-        "eta_rueb": "14:09",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:45"
+        "eta_schleuse": "17:49",
+        "eta_rueb": "14:14",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "14:09",
-      "eta_schleuse": "18:36",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:45"
+      "eta_rueb": "14:14",
+      "eta_schleuse": "17:49",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -619,26 +619,19 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 04:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:00",
+        "eta_schleuse": "14:59",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "15:00",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "14:59",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "05:14"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "14:14",
-      "eta_rueb": "14:10",
-      "ship": "JORVIK",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "15:37",
       "eta_rueb": "15:30",
