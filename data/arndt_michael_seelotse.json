@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T15:24:49",
+  "generated_at": "2026-01-14T15:26:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -527,7 +527,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:01",
+      "eta_rueb_kiel": "16:00",
       "eta_rueb": "16:00",
       "ship": "BALTIC WAVE",
       "q_gruppe": "5",
