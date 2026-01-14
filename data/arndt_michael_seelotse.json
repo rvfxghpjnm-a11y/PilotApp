@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T22:00:56",
+  "generated_at": "2026-01-14T22:02:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Distanzbört",
       "nr": 1,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SEELÖWE + PONTON",
+      "route": "HLH → HLH",
       "time": "Wed Jan 14 22:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -429,7 +429,7 @@
     },
     {
       "eta_rueb_kiel": "00:22",
-      "eta_rueb": "00:13",
+      "eta_rueb": "00:15",
       "ship": "BALTIC FIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
