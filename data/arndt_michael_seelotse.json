@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T13:54:47",
+  "generated_at": "2026-01-14T13:56:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,14 +52,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:10",
+        "eta_schleuse": "22:09",
         "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "17:42",
-      "eta_schleuse": "22:10",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "22:09",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:02"
     },
     {
@@ -369,14 +369,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 04:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:01",
+        "eta_schleuse": "15:00",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "15:01",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "15:00",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:14"
     }
   ],
@@ -424,14 +424,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:10",
+        "eta_schleuse": "22:09",
         "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "17:42",
-      "eta_schleuse": "22:10",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "22:09",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:02"
     },
     {
@@ -624,21 +624,21 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 04:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:01",
+        "eta_schleuse": "15:00",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:00",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "15:01",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "15:00",
+      "delta_rueb_schleuse": "04:00",
       "delta_start_rueb": "05:14"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "14:15",
+      "eta_rueb_kiel": "14:14",
       "eta_rueb": "14:10",
       "ship": "JORVIK",
       "q_gruppe": "5",
