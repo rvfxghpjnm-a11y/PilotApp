@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T12:14:48",
+  "generated_at": "2026-01-14T12:16:48",
   "person": {
     "vorname": "philipp",
     "nachname": "crotogino"
@@ -22629,6 +22629,15 @@
       "from_meldung_alt": "2026-01-14 12:40",
       "calc_div2": "2026-01-14 12:44",
       "calc_div3": "2026-01-14 12:34",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-14 12:16",
+      "pos": 1,
+      "from_meldung": "2026-01-14 12:40",
+      "from_meldung_alt": "2026-01-14 12:40",
+      "calc_div2": "2026-01-14 12:46",
+      "calc_div3": "2026-01-14 12:36",
       "real_start": null
     }
   ]
