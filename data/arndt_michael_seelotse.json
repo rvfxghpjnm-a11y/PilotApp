@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T18:44:48",
+  "generated_at": "2026-01-14T18:46:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -159,8 +159,8 @@
       "name": "Jörg Flink",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "OSTERBOTTEN",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Jan 14 12:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -243,14 +243,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:20",
+        "eta_schleuse": "19:19",
         "eta_rueb": "16:00",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:19",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "16:00",
-      "eta_schleuse": "19:20",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "19:19",
+      "delta_rueb_schleuse": "03:19",
       "delta_start_rueb": "04:22"
     },
     {
@@ -425,14 +425,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:20",
+        "eta_schleuse": "19:19",
         "eta_rueb": "16:00",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:19",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "16:00",
-      "eta_schleuse": "19:20",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "19:19",
+      "delta_rueb_schleuse": "03:19",
       "delta_start_rueb": "04:22"
     },
     {
@@ -502,7 +502,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:07",
+      "eta_rueb_kiel": "20:06",
       "eta_rueb": "20:08",
       "ship": "HELGAFELL",
       "q_gruppe": "2",
