@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T18:00:52",
+  "generated_at": "2026-01-14T18:02:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -143,8 +143,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "NETA A.",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 14 12:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -314,8 +314,8 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "NETA A.",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 14 12:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
