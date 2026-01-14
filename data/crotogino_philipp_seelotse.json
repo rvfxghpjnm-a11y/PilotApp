@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T16:30:59",
+  "generated_at": "2026-01-14T16:32:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -37,14 +37,14 @@
       "time": "Wed Jan 14 13:40:00 CET 2026",
       "times": {
         "eta_schleuse": "23:25",
-        "eta_rueb": "18:38",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "18:36",
+        "delta_rueb_schleuse": "04:49",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": "18:38",
+      "eta_rueb": "18:36",
       "eta_schleuse": "23:25",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "04:49",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -319,14 +319,14 @@
       "time": "Wed Jan 14 13:40:00 CET 2026",
       "times": {
         "eta_schleuse": "23:25",
-        "eta_rueb": "18:38",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "18:36",
+        "delta_rueb_schleuse": "04:49",
+        "delta_start_rueb": "03:38"
       },
-      "eta_rueb": "18:38",
+      "eta_rueb": "18:36",
       "eta_schleuse": "23:25",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "04:49",
+      "delta_start_rueb": "03:38"
     },
     {
       "is_target": false,
@@ -544,7 +544,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:07",
+      "eta_rueb_kiel": "20:06",
       "eta_rueb": "20:08",
       "ship": "HELGAFELL",
       "q_gruppe": "2",
