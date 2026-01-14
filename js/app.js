@@ -10,6 +10,8 @@ console.log("APP.JS LOADED");
 // ---------------------------------------------------------
 // STATE
 // ---------------------------------------------------------
+let boertFromDate = null;
+let boertToDate   = null;
 let currentPerson = null;
 let currentView   = "short";
 let currentHours  = 24;
@@ -38,6 +40,7 @@ function init() {
   bindHourButtons();
   bindRefreshButton();
   loadPersons();
+  bindBoertRangeButtons();
 }
 
 // ---------------------------------------------------------
@@ -203,6 +206,30 @@ function bindRefreshButton() {
   }
 }
 
+
+
+function bindBoertRangeButtons() {
+  const fromEl = document.getElementById("boertFrom");
+  const toEl   = document.getElementById("boertTo");
+  const apply  = document.getElementById("boertApply");
+  const reset  = document.getElementById("boertReset");
+
+  if (!apply || !reset) return;
+
+  apply.onclick = () => {
+    boertFromDate = fromEl.value ? new Date(fromEl.value) : null;
+    boertToDate   = toEl.value   ? new Date(toEl.value)   : null;
+    loadBoert(); // 🔑 Filter anwenden
+  };
+
+  reset.onclick = () => {
+    fromEl.value = "";
+    toEl.value   = "";
+    boertFromDate = null;
+    boertToDate   = null;
+    loadBoert(); // 🔑 zurück zur Gesamtansicht
+  };
+}
 // ---------------------------------------------------------
 // SEELOTSE VIEW
 // ---------------------------------------------------------
@@ -324,21 +351,16 @@ async function loadBoert() {
   try {
     const res = await fetch(`data/${currentPerson.key}_boert.json`, { cache: "no-store" });
     const data = await res.json();
-    const fromInput = document.getElementById("boertFrom")?.value;
-    const toInput   = document.getElementById("boertTo")?.value;
-
-    const fromDate = fromInput ? new Date(fromInput) : null;
-    const toDate   = toInput   ? new Date(toInput)   : null;
     
     let filteredLotsen = data.lotsen || [];
 
-    if (fromDate || toDate) {
+    if (boertFromDate || boertToDate) {
       filteredLotsen = filteredLotsen.filter(lotse => {
         const d = getLotseRelevantDate(lotse);
         if (!d) return false;
 
-        if (fromDate && d < fromDate) return false;
-        if (toDate && d > toDate) return false;
+        if (boertFromDate && d < boertFromDate) return false;
+        if (boertToDate   && d > boertToDate)   return false;
 
         return true;
       });
@@ -567,17 +589,3 @@ function getLotseRelevantDate(lotse) {
 }
 
 
-const boertResetBtn = document.getElementById("boertReset");
-if (boertResetBtn) {
-  boertResetBtn.onclick = () => {
-    const from = document.getElementById("boertFrom");
-    const to   = document.getElementById("boertTo");
-
-    if (from) from.value = "";
-    if (to)   to.value = "";
-
-    if (currentView === "boert") {
-      loadBoert();
-    }
-  };
-}
