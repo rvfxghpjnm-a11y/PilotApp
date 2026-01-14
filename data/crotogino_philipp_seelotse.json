@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-14T22:58:55",
+  "generated_at": "2026-01-14T23:00:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 9,
     "wach": 0,
     "see": 7
   },
@@ -186,8 +186,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "ACEROMAR",
+      "route": "HOS → KLT",
       "time": "Wed Jan 14 18:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -315,22 +315,6 @@
       "eta_schleuse": "23:07",
       "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "06:03"
-    },
-    {
-      "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "ACEROMAR",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 14 12:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -507,22 +491,6 @@
       "eta_schleuse": "23:07",
       "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "06:03"
-    },
-    {
-      "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "ACEROMAR",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 14 12:20:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -563,7 +531,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:16",
+      "eta_rueb_kiel": "03:15",
       "eta_rueb": "02:55",
       "ship": "WILSON TWISTEDEN",
       "q_gruppe": "5",
