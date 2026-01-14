@@ -324,7 +324,28 @@ async function loadBoert() {
   try {
     const res = await fetch(`data/${currentPerson.key}_boert.json`, { cache: "no-store" });
     const data = await res.json();
+    const fromInput = document.getElementById("boertFrom")?.value;
+    const toInput   = document.getElementById("boertTo")?.value;
+
+    const fromDate = fromInput ? new Date(fromInput) : null;
+    const toDate   = toInput   ? new Date(toInput)   : null;
     
+    let filteredLotsen = data.lotsen || [];
+
+    if (fromDate || toDate) {
+      filteredLotsen = filteredLotsen.filter(lotse => {
+        const d = getLotseRelevantDate(lotse);
+        if (!d) return false;
+
+        if (fromDate && d < fromDate) return false;
+        if (toDate && d > toDate) return false;
+
+        return true;
+      });
+    }
+	
+	
+	
     let html = '<div style="max-width: 1200px;">';
     
     // Header with Status
@@ -428,10 +449,10 @@ async function loadBoert() {
     }
     
     // Lotsen Liste (expandable)
-    if (data.lotsen && data.lotsen.length > 0) {
+    if (filteredLotsen.length > 0) {
       html += '<div class="section-header">Alle Lotsen</div>';
       
-      data.lotsen.forEach((lotse, idx) => {
+      filteredLotsen.forEach((lotse, idx) => {
         const targetClass = lotse.is_target ? ' target' : '';
         html += `<div class="lotse-item${targetClass}" data-lotse="${idx}">`;
         html += '<div class="lotse-header">';
@@ -521,4 +542,42 @@ function formatDateTime(dateStr) {
   } catch {
     return dateStr;
   }
+}
+
+
+function getLotseRelevantDate(lotse) {
+  if (!lotse || !lotse.times) return null;
+
+  const val =
+    lotse.times.from_meldung_alt ||
+    lotse.times.from_meldung ||
+    lotse.times.calc_div2;
+
+  if (!val) return null;
+
+  // erwartet Format wie "Mo10:30" oder "Di13:45"
+  const m = val.match(/(\d{2}:\d{2})$/);
+  if (!m) return null;
+
+  const [hh, mm] = m[1].split(":").map(Number);
+  const d = new Date();
+  d.setHours(hh, mm, 0, 0);
+
+  return d;
+}
+
+
+const boertResetBtn = document.getElementById("boertReset");
+if (boertResetBtn) {
+  boertResetBtn.onclick = () => {
+    const from = document.getElementById("boertFrom");
+    const to   = document.getElementById("boertTo");
+
+    if (from) from.value = "";
+    if (to)   to.value = "";
+
+    if (currentView === "boert") {
+      loadBoert();
+    }
+  };
 }
