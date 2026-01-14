@@ -648,10 +648,12 @@ function parseLotseTime(val) {
   d.setDate(d.getDate() + diff);
   d.setHours(hh, mm, 0, 0);
 
-  // Schutz gegen "falsche Zukunft"
-  if (d.getTime() - now.getTime() > 12 * 3600 * 1000) {
-    d.setDate(d.getDate() - 7);
+  // ❌ KEIN automatisches Zurückspringen um 7 Tage
+// Zeiten dürfen bis +36h in der Zukunft liegen
+  if (d.getTime() - now.getTime() > 36 * 3600 * 1000) {
+    return null;
   }
+  
 
   return d;
 }
