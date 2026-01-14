@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T12:12:47",
+  "generated_at": "2026-01-14T12:14:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -100,14 +100,14 @@
       "time": "Wed Jan 14 09:32:00 CET 2026",
       "times": {
         "eta_schleuse": "18:47",
-        "eta_rueb": "14:18",
-        "delta_rueb_schleuse": "04:29",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "14:17",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "14:18",
+      "eta_rueb": "14:17",
       "eta_schleuse": "18:47",
-      "delta_rueb_schleuse": "04:29",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
@@ -413,14 +413,14 @@
       "time": "Wed Jan 14 09:32:00 CET 2026",
       "times": {
         "eta_schleuse": "18:47",
-        "eta_rueb": "14:18",
-        "delta_rueb_schleuse": "04:29",
-        "delta_start_rueb": "03:54"
+        "eta_rueb": "14:17",
+        "delta_rueb_schleuse": "04:30",
+        "delta_start_rueb": "03:53"
       },
-      "eta_rueb": "14:18",
+      "eta_rueb": "14:17",
       "eta_schleuse": "18:47",
-      "delta_rueb_schleuse": "04:29",
-      "delta_start_rueb": "03:54"
+      "delta_rueb_schleuse": "04:30",
+      "delta_start_rueb": "03:53"
     },
     {
       "is_target": false,
