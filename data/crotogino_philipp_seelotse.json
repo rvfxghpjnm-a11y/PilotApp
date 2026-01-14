@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T12:04:54",
+  "generated_at": "2026-01-14T12:06:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -621,7 +621,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:08",
+      "eta_rueb_kiel": "13:06",
       "eta_rueb": "13:10",
       "ship": "MERIC",
       "q_gruppe": "5",
