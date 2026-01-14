@@ -1,16 +1,22 @@
 {
-  "generated_at": "2026-01-11T21:41:01",
+  "generated_at": "2026-01-14T08:51:13",
   "persons": [
     {
+      "key": "arndt_michael",
+      "vorname": "Michael",
+      "nachname": "Arndt",
+      "file": "workstart_history_arndt_michael.json"
+    },
+    {
       "key": "crotogino_philipp",
-      "vorname": "philipp",
-      "nachname": "crotogino",
+      "vorname": "Philipp",
+      "nachname": "Crotogino",
       "file": "workstart_history_crotogino_philipp.json"
     },
     {
       "key": "konietzka_stefan",
-      "vorname": "stefan",
-      "nachname": "konietzka",
+      "vorname": "Stefan",
+      "nachname": "Konietzka",
       "file": "workstart_history_konietzka_stefan.json"
     }
   ]
