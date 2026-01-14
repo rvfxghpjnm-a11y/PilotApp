@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T22:36:54",
+  "generated_at": "2026-01-14T22:38:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -513,7 +513,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:28",
+      "eta_rueb_kiel": "02:30",
       "eta_rueb": "02:11",
       "ship": "JUMBO",
       "q_gruppe": "5",
