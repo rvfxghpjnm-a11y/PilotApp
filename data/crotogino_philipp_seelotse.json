@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T23:00:56",
+  "generated_at": "2026-01-14T23:02:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -265,8 +265,8 @@
       "name": "Kai Heyenga",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "ALANA",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Jan 14 16:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -517,7 +517,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:25",
+      "eta_rueb_kiel": "02:24",
       "eta_rueb": "02:08",
       "ship": "RIX VOYAGER",
       "q_gruppe": "5",
