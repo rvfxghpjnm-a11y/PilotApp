@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T19:26:56",
+  "generated_at": "2026-01-14T19:28:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,14 +69,19 @@
       "name": "Andreas Arlt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PAULA",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:33",
+        "eta_rueb": "19:59",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:29"
+      },
+      "eta_rueb": "19:59",
+      "eta_schleuse": "23:33",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -85,14 +90,19 @@
       "name": "Gregor Kubica",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HELGAFELL",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:37",
+        "eta_rueb": "20:03",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "20:03",
+      "eta_schleuse": "23:37",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -298,14 +308,19 @@
       "name": "Andreas Arlt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "PAULA",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:33",
+        "eta_rueb": "19:59",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:29"
+      },
+      "eta_rueb": "19:59",
+      "eta_schleuse": "23:33",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:29"
     },
     {
       "is_target": false,
@@ -314,14 +329,19 @@
       "name": "Gregor Kubica",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "HELGAFELL",
+      "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "23:37",
+        "eta_rueb": "20:03",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "20:03",
+      "eta_schleuse": "23:37",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -490,14 +510,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:26",
+      "eta_rueb_kiel": "00:27",
       "eta_rueb": "00:30",
       "ship": "BALTIC FIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:23",
+      "eta_rueb_kiel": "00:24",
       "eta_rueb": "00:33",
       "ship": "GT DELPHIN",
       "q_gruppe": "5",
@@ -509,20 +529,6 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
-    },
-    {
-      "eta_rueb_kiel": "19:59",
-      "eta_rueb": "20:06",
-      "ship": "PAULA",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "20:03",
-      "eta_rueb": "20:08",
-      "ship": "HELGAFELL",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
     }
   ]
 }
