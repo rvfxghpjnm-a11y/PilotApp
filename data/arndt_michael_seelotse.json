@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T17:08:48",
+  "generated_at": "2026-01-14T17:10:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -528,14 +528,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:59",
+      "eta_rueb_kiel": "20:00",
       "eta_rueb": "20:04",
       "ship": "TITAN VISION",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:01",
+      "eta_rueb_kiel": "20:03",
       "eta_rueb": "20:06",
       "ship": "PAULA",
       "q_gruppe": "1",
