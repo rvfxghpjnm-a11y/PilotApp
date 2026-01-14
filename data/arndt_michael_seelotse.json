@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T21:38:46",
+  "generated_at": "2026-01-14T21:40:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -438,14 +438,14 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "00:20",
-      "eta_rueb": "00:10",
+      "eta_rueb": "00:05",
       "ship": "GT DELPHIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "00:23",
-      "eta_rueb": "00:13",
+      "eta_rueb": "00:08",
       "ship": "BALTIC FIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
