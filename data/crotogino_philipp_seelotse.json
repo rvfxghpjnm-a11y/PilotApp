@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T00:24:52",
+  "generated_at": "2026-01-15T00:26:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -248,14 +248,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:26",
+        "eta_schleuse": "00:28",
         "eta_rueb": "19:57",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "19:57",
-      "eta_schleuse": "00:26",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "00:28",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "04:27"
     },
     {
@@ -419,21 +419,21 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:26",
+        "eta_schleuse": "00:28",
         "eta_rueb": "19:57",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:31",
         "delta_start_rueb": "04:27"
       },
       "eta_rueb": "19:57",
-      "eta_schleuse": "00:26",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "00:28",
+      "delta_rueb_schleuse": "04:31",
       "delta_start_rueb": "04:27"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:17",
+      "eta_rueb_kiel": "02:16",
       "eta_rueb": "02:05",
       "ship": "AQUAMAR",
       "q_gruppe": "4",
