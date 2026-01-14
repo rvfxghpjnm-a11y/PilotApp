@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T10:40:48",
+  "generated_at": "2026-01-14T10:42:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 14 09:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -195,14 +195,14 @@
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
         "eta_schleuse": "16:20",
-        "eta_rueb": "11:26",
-        "delta_rueb_schleuse": "04:54",
-        "delta_start_rueb": "04:18"
+        "eta_rueb": "11:25",
+        "delta_rueb_schleuse": "04:55",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "11:26",
+      "eta_rueb": "11:25",
       "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "04:54",
-      "delta_start_rueb": "04:18"
+      "delta_rueb_schleuse": "04:55",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
@@ -393,8 +393,8 @@
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Wed Jan 14 09:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -540,14 +540,14 @@
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
         "eta_schleuse": "16:20",
-        "eta_rueb": "11:26",
-        "delta_rueb_schleuse": "04:54",
-        "delta_start_rueb": "04:18"
+        "eta_rueb": "11:25",
+        "delta_rueb_schleuse": "04:55",
+        "delta_start_rueb": "04:17"
       },
-      "eta_rueb": "11:26",
+      "eta_rueb": "11:25",
       "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "04:54",
-      "delta_start_rueb": "04:18"
+      "delta_rueb_schleuse": "04:55",
+      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
