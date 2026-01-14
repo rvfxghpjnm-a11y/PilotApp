@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T14:40:48",
+  "generated_at": "2026-01-14T14:42:59",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,8 +106,8 @@
       "name": "Tomas Witte",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "NORDIC ITALIA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Jan 14 12:27:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -594,7 +594,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:45",
+      "eta_rueb_kiel": "17:44",
       "eta_rueb": "17:30",
       "ship": "ALANA",
       "q_gruppe": "2",
