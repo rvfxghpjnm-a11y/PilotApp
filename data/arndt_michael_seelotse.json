@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T13:56:49",
+  "generated_at": "2026-01-14T13:58:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -88,16 +88,11 @@
       "fahrzeug": "WAVEPOWER",
       "route": "HOS → KLT",
       "time": "Wed Jan 14 12:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "2286566:06",
-        "delta_start_rueb": "08:00"
-      },
-      "eta_rueb": "04:40",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2286566:06",
-      "delta_start_rueb": "08:00"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
