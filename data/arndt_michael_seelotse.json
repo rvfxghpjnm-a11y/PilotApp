@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T15:00:56",
+  "generated_at": "2026-01-14T15:02:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,13 +20,13 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 13:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:22",
+        "eta_schleuse": "23:24",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "23:22",
+      "eta_schleuse": "23:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -41,13 +41,13 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:52:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:11",
+        "eta_schleuse": "22:09",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "22:11",
+      "eta_schleuse": "22:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -63,14 +63,14 @@
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
         "eta_schleuse": "22:07",
-        "eta_rueb": "17:40",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:00"
+        "eta_rueb": "17:38",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "17:40",
+      "eta_rueb": "17:38",
       "eta_schleuse": "22:07",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:00"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
@@ -179,15 +179,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:03",
-        "eta_rueb": "16:05",
+        "eta_schleuse": "21:05",
+        "eta_rueb": "16:07",
         "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:39"
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "16:05",
-      "eta_schleuse": "21:03",
+      "eta_rueb": "16:07",
+      "eta_schleuse": "21:05",
       "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:39"
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -200,14 +200,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 14 09:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:05",
+        "eta_schleuse": "15:06",
         "eta_rueb": "11:25",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "11:25",
-      "eta_schleuse": "15:05",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "15:06",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:33"
     },
     {
@@ -316,14 +316,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:09",
+        "eta_schleuse": "15:10",
         "eta_rueb": "11:49",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:21",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "11:49",
-      "eta_schleuse": "15:09",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "15:10",
+      "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:07"
     },
     {
@@ -337,14 +337,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 04:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:01",
+        "eta_schleuse": "15:02",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "15:01",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "15:02",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "05:14"
     }
   ],
@@ -360,13 +360,13 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 13:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:22",
+        "eta_schleuse": "23:24",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "23:22",
+      "eta_schleuse": "23:24",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -381,13 +381,13 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:52:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:11",
+        "eta_schleuse": "22:09",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "22:11",
+      "eta_schleuse": "22:09",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -403,14 +403,14 @@
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
         "eta_schleuse": "22:07",
-        "eta_rueb": "17:40",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:00"
+        "eta_rueb": "17:38",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "17:40",
+      "eta_rueb": "17:38",
       "eta_schleuse": "22:07",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:00"
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
@@ -439,15 +439,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:03",
-        "eta_rueb": "16:05",
+        "eta_schleuse": "21:05",
+        "eta_rueb": "16:07",
         "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "04:39"
+        "delta_start_rueb": "04:41"
       },
-      "eta_rueb": "16:05",
-      "eta_schleuse": "21:03",
+      "eta_rueb": "16:07",
+      "eta_schleuse": "21:05",
       "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "04:39"
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -539,14 +539,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:09",
+        "eta_schleuse": "15:10",
         "eta_rueb": "11:49",
-        "delta_rueb_schleuse": "03:20",
+        "delta_rueb_schleuse": "03:21",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "11:49",
-      "eta_schleuse": "15:09",
-      "delta_rueb_schleuse": "03:20",
+      "eta_schleuse": "15:10",
+      "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:07"
     },
     {
@@ -560,14 +560,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 04:46:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:01",
+        "eta_schleuse": "15:02",
         "eta_rueb": "11:00",
-        "delta_rueb_schleuse": "04:01",
+        "delta_rueb_schleuse": "04:02",
         "delta_start_rueb": "05:14"
       },
       "eta_rueb": "11:00",
-      "eta_schleuse": "15:01",
-      "delta_rueb_schleuse": "04:01",
+      "eta_schleuse": "15:02",
+      "delta_rueb_schleuse": "04:02",
       "delta_start_rueb": "05:14"
     }
   ],
@@ -609,21 +609,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:58",
+      "eta_rueb_kiel": "20:00",
       "eta_rueb": "20:00",
       "ship": "SEVKETTIN SONAY",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:01",
+      "eta_rueb_kiel": "20:03",
       "eta_rueb": "20:02",
       "ship": "SVENDBORG",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:55",
+      "eta_rueb_kiel": "19:57",
       "eta_rueb": "20:04",
       "ship": "TITAN VISION",
       "q_gruppe": "1",
