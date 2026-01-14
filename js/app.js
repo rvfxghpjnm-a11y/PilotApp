@@ -366,7 +366,9 @@ async function loadBoert() {
       });
     }
 	
-	
+    const totalLotsen = (data.lotsen || []).length;
+    const shownLotsen = filteredLotsen.length;
+    const filterActive = Boolean(fromDate || toDate);
 	
     let html = '<div style="max-width: 1200px;">';
     
@@ -374,7 +376,12 @@ async function loadBoert() {
     html += '<div class="view-header">';
     html += '<div class="view-title">Bört</div>';
     html += '<div class="badges-row">';
-    
+    html += `<div class="meta-info">
+      ${filterActive ? "🔎 Filter aktiv – " : ""}
+      Anzeige ${shownLotsen} von ${totalLotsen} Lotsen
+    </div>`;
+	
+	
     if (data.status === "boert") {
       html += '<span class="badge success">✓ Im Bört</span>';
     } else {
@@ -451,12 +458,15 @@ async function loadBoert() {
         // Times
         if (tp.times) {
           html += '<div style="margin-top: 8px; font-size: 13px;">';
-          if (tp.times.from_meldung) {
-            html += `<div style="color: #9ca3af;">von Meldung: <span style="color: #e6edf3;">${escapeHtml(tp.times.from_meldung)}</span></div>`;
-          }
-          if (tp.times.calc_div2) {
-            html += `<div style="color: #9ca3af;">calc div2: <span style="color: #e6edf3;">${escapeHtml(tp.times.calc_div2)}</span></div>`;
-          }
+
+          Object.entries(tp.times).forEach(([k,v]) => {
+            if (!v) return;
+            html += `<div style="color:#9ca3af">
+              ${escapeHtml(k.replaceAll("_"," "))}:
+              <span style="color:#e6edf3">${escapeHtml(v)}</span>
+            </div>`;
+          });
+
           html += '</div>';
         }
         
@@ -573,17 +583,33 @@ function getLotseRelevantDate(lotse) {
   const val =
     lotse.times.from_meldung_alt ||
     lotse.times.from_meldung ||
-    lotse.times.calc_div2;
+    lotse.times.calc_div2 ||
+    lotse.times.calc_div3;
 
   if (!val) return null;
 
-  // erwartet Format wie "Mo10:30" oder "Di13:45"
-  const m = val.match(/(\d{2}:\d{2})$/);
+  // Erwartet z.B. "Mi23:00"
+  const m = val.match(/^([A-Z][a-z])(\d{2}):(\d{2})$/);
   if (!m) return null;
 
-  const [hh, mm] = m[1].split(":").map(Number);
-  const d = new Date();
+  const wdMap = { Mo:1, Di:2, Mi:3, Do:4, Fr:5, Sa:6, So:0 };
+  const wdTarget = wdMap[m[1]];
+  const hh = Number(m[2]);
+  const mm = Number(m[3]);
+
+  const now = new Date();
+  const d = new Date(now);
+
+  // auf richtigen Wochentag springen
+  const diff =
+    (wdTarget - d.getDay() + 7) % 7;
+  d.setDate(d.getDate() + diff);
   d.setHours(hh, mm, 0, 0);
+
+  // falls Zeit in Zukunft liegt, aber logisch gestern war → zurück
+  if (d.getTime() - now.getTime() > 12 * 3600 * 1000) {
+    d.setDate(d.getDate() - 7);
+  }
 
   return d;
 }
