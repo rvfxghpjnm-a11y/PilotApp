@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T18:32:48",
+  "generated_at": "2026-01-14T18:34:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -73,14 +73,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:34",
+        "eta_schleuse": "21:33",
         "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "17:42",
-      "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "21:33",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "05:12"
     },
     {
@@ -271,14 +271,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:34",
+        "eta_schleuse": "21:33",
         "eta_rueb": "17:42",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "05:12"
       },
       "eta_rueb": "17:42",
-      "eta_schleuse": "21:34",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "21:33",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "05:12"
     },
     {
@@ -350,14 +350,14 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "19:26",
+      "eta_rueb_kiel": "19:25",
       "eta_rueb": "19:40",
       "ship": "ACEROMAR",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:50",
+      "eta_rueb_kiel": "19:49",
       "eta_rueb": "20:00",
       "ship": "SEVKETTIN SONAY",
       "q_gruppe": "2",
@@ -385,7 +385,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:08",
+      "eta_rueb_kiel": "20:07",
       "eta_rueb": "20:08",
       "ship": "HELGAFELL",
       "q_gruppe": "2",
