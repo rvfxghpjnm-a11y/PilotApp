@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T14:44:49",
+  "generated_at": "2026-01-14T14:46:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -580,14 +580,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:36",
+      "eta_rueb_kiel": "15:34",
       "eta_rueb": "15:30",
       "ship": "NEUENFELDE",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:04",
+      "eta_rueb_kiel": "16:02",
       "eta_rueb": "16:00",
       "ship": "BALTIC WAVE",
       "q_gruppe": "5",
