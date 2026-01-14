@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T16:26:49",
+  "generated_at": "2026-01-14T16:28:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -78,14 +78,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:59",
+        "eta_schleuse": "21:57",
         "eta_rueb": "17:30",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "17:30",
-      "eta_schleuse": "21:59",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "21:57",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:50"
     },
     {
@@ -360,14 +360,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:59",
+        "eta_schleuse": "21:57",
         "eta_rueb": "17:30",
-        "delta_rueb_schleuse": "04:29",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:50"
       },
       "eta_rueb": "17:30",
-      "eta_schleuse": "21:59",
-      "delta_rueb_schleuse": "04:29",
+      "eta_schleuse": "21:57",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:50"
     },
     {
@@ -516,21 +516,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:57",
+      "eta_rueb_kiel": "19:53",
       "eta_rueb": "20:00",
       "ship": "SEVKETTIN SONAY",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:00",
+      "eta_rueb_kiel": "19:56",
       "eta_rueb": "20:02",
       "ship": "SVENDBORG",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:54",
+      "eta_rueb_kiel": "19:59",
       "eta_rueb": "20:04",
       "ship": "TITAN VISION",
       "q_gruppe": "1",
