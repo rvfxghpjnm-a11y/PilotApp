@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T09:12:55",
+  "generated_at": "2026-01-14T09:14:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -305,14 +305,14 @@
       "route": "RÜB → UTG",
       "time": "Tue Jan 13 21:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:16",
+        "eta_schleuse": "09:18",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "04:36",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "09:16",
-      "delta_rueb_schleuse": "04:36",
+      "eta_schleuse": "09:18",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "04:02"
     }
   ],
@@ -517,14 +517,14 @@
       "route": "RÜB → UTG",
       "time": "Tue Jan 13 21:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:16",
+        "eta_schleuse": "09:18",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "04:36",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "09:16",
-      "delta_rueb_schleuse": "04:36",
+      "eta_schleuse": "09:18",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "04:02"
     }
   ],
@@ -552,7 +552,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:27",
+      "eta_rueb_kiel": "13:25",
       "eta_rueb": "13:15",
       "ship": "MERIC",
       "q_gruppe": "5",
