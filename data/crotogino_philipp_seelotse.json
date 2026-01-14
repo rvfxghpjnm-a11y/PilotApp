@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T19:12:55",
+  "generated_at": "2026-01-14T19:14:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 14 18:52:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:17",
+        "eta_schleuse": "19:18",
         "eta_rueb": "16:00",
-        "delta_rueb_schleuse": "03:17",
+        "delta_rueb_schleuse": "03:18",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "16:00",
-      "eta_schleuse": "19:17",
-      "delta_rueb_schleuse": "03:17",
+      "eta_schleuse": "19:18",
+      "delta_rueb_schleuse": "03:18",
       "delta_start_rueb": "04:22"
     },
     {
@@ -285,14 +285,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:17",
+        "eta_schleuse": "19:18",
         "eta_rueb": "16:00",
-        "delta_rueb_schleuse": "03:17",
+        "delta_rueb_schleuse": "03:18",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "16:00",
-      "eta_schleuse": "19:17",
-      "delta_rueb_schleuse": "03:17",
+      "eta_schleuse": "19:18",
+      "delta_rueb_schleuse": "03:18",
       "delta_start_rueb": "04:22"
     },
     {
@@ -472,14 +472,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 10:28:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:17",
+        "eta_schleuse": "19:18",
         "eta_rueb": "16:00",
-        "delta_rueb_schleuse": "03:17",
+        "delta_rueb_schleuse": "03:18",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "16:00",
-      "eta_schleuse": "19:17",
-      "delta_rueb_schleuse": "03:17",
+      "eta_schleuse": "19:18",
+      "delta_rueb_schleuse": "03:18",
       "delta_start_rueb": "04:22"
     },
     {
@@ -507,14 +507,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:27",
+      "eta_rueb_kiel": "00:26",
       "eta_rueb": "00:30",
       "ship": "BALTIC FIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:24",
+      "eta_rueb_kiel": "00:23",
       "eta_rueb": "00:33",
       "ship": "GT DELPHIN",
       "q_gruppe": "5",
