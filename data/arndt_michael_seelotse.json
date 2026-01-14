@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T13:40:48",
+  "generated_at": "2026-01-14T13:42:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,13 +36,13 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:12",
+        "eta_schleuse": "22:10",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "22:12",
+      "eta_schleuse": "22:10",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -413,13 +413,13 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:12",
+        "eta_schleuse": "22:10",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "22:12",
+      "eta_schleuse": "22:10",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -683,7 +683,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:35",
+      "eta_rueb_kiel": "17:34",
       "eta_rueb": "17:35",
       "ship": "BONACIEUX",
       "q_gruppe": "5",
