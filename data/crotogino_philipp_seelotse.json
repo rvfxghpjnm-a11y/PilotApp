@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T22:46:54",
+  "generated_at": "2026-01-14T22:48:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -154,8 +154,8 @@
       "name": "Sven Janson",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "CL FLANDERS",
+      "route": "KLT → HOS",
       "time": "Wed Jan 14 18:52:00 CET 2026",
       "times": null,
       "eta_rueb": null,
