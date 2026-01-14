@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T16:42:48",
+  "generated_at": "2026-01-14T16:44:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 13:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:23",
+        "eta_schleuse": "23:22",
         "eta_rueb": "18:35",
-        "delta_rueb_schleuse": "04:48",
+        "delta_rueb_schleuse": "04:47",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "18:35",
-      "eta_schleuse": "23:23",
-      "delta_rueb_schleuse": "04:48",
+      "eta_schleuse": "23:22",
+      "delta_rueb_schleuse": "04:47",
       "delta_start_rueb": "03:37"
     },
     {
@@ -78,14 +78,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:57",
+        "eta_schleuse": "21:56",
         "eta_rueb": "17:29",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:49"
       },
       "eta_rueb": "17:29",
-      "eta_schleuse": "21:57",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:56",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:49"
     },
     {
@@ -99,14 +99,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 14 12:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:15",
+        "eta_schleuse": "17:13",
         "eta_rueb": "13:29",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:29"
       },
       "eta_rueb": "13:29",
-      "eta_schleuse": "17:15",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "17:13",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:29"
     },
     {
@@ -268,14 +268,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 07:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:15",
+        "eta_schleuse": "17:13",
         "eta_rueb": "13:29",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:29"
       },
       "eta_rueb": "13:29",
-      "eta_schleuse": "17:15",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "17:13",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:29"
     },
     {
@@ -328,14 +328,14 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 13:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:23",
+        "eta_schleuse": "23:22",
         "eta_rueb": "18:35",
-        "delta_rueb_schleuse": "04:48",
+        "delta_rueb_schleuse": "04:47",
         "delta_start_rueb": "03:37"
       },
       "eta_rueb": "18:35",
-      "eta_schleuse": "23:23",
-      "delta_rueb_schleuse": "04:48",
+      "eta_schleuse": "23:22",
+      "delta_rueb_schleuse": "04:47",
       "delta_start_rueb": "03:37"
     },
     {
@@ -370,14 +370,14 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 12:39:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:57",
+        "eta_schleuse": "21:56",
         "eta_rueb": "17:29",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "03:49"
       },
       "eta_rueb": "17:29",
-      "eta_schleuse": "21:57",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "21:56",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "03:49"
     },
     {
@@ -470,14 +470,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 07:45:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:15",
+        "eta_schleuse": "17:13",
         "eta_rueb": "13:29",
-        "delta_rueb_schleuse": "03:46",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "04:29"
       },
       "eta_rueb": "13:29",
-      "eta_schleuse": "17:15",
-      "delta_rueb_schleuse": "03:46",
+      "eta_schleuse": "17:13",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "04:29"
     },
     {
