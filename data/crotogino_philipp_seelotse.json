@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T22:50:54",
+  "generated_at": "2026-01-14T22:52:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -121,15 +121,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 19:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:00",
-        "eta_rueb": "00:33",
+        "eta_schleuse": "04:59",
+        "eta_rueb": "00:32",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:01"
+        "delta_start_rueb": "04:00"
       },
-      "eta_rueb": "00:33",
-      "eta_schleuse": "05:00",
+      "eta_rueb": "00:32",
+      "eta_schleuse": "04:59",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:01"
+      "delta_start_rueb": "04:00"
     },
     {
       "is_target": false,
@@ -170,8 +170,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "MONTROSE",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Wed Jan 14 18:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -361,15 +361,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 19:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:00",
-        "eta_rueb": "00:33",
+        "eta_schleuse": "04:59",
+        "eta_rueb": "00:32",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:01"
+        "delta_start_rueb": "04:00"
       },
-      "eta_rueb": "00:33",
-      "eta_schleuse": "05:00",
+      "eta_rueb": "00:32",
+      "eta_schleuse": "04:59",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:01"
+      "delta_start_rueb": "04:00"
     },
     {
       "is_target": false,
@@ -496,7 +496,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:18",
+      "eta_rueb_kiel": "00:17",
       "eta_rueb": "00:10",
       "ship": "GT DELPHIN",
       "q_gruppe": "5",
@@ -531,7 +531,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:22",
+      "eta_rueb_kiel": "03:16",
       "eta_rueb": "02:55",
       "ship": "WILSON TWISTEDEN",
       "q_gruppe": "5",
