@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T21:56:55",
+  "generated_at": "2026-01-14T21:58:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -142,14 +142,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:30",
+        "eta_schleuse": "23:29",
         "eta_rueb": "20:03",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "20:03",
-      "eta_schleuse": "23:30",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "23:29",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:23"
     },
     {
@@ -307,14 +307,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 18:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:30",
+        "eta_schleuse": "23:29",
         "eta_rueb": "20:03",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:26",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "20:03",
-      "eta_schleuse": "23:30",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "23:29",
+      "delta_rueb_schleuse": "03:26",
       "delta_start_rueb": "04:23"
     },
     {
@@ -406,14 +406,14 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "00:19",
-      "eta_rueb": "00:05",
+      "eta_rueb": "00:10",
       "ship": "GT DELPHIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:23",
-      "eta_rueb": "00:08",
+      "eta_rueb_kiel": "00:22",
+      "eta_rueb": "00:13",
       "ship": "BALTIC FIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
