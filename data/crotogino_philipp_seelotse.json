@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T10:24:54",
+  "generated_at": "2026-01-14T10:26:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -178,15 +178,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:34",
-        "eta_rueb": "11:23",
+        "eta_schleuse": "15:35",
+        "eta_rueb": "11:24",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:15"
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "11:23",
-      "eta_schleuse": "15:34",
+      "eta_rueb": "11:24",
+      "eta_schleuse": "15:35",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:15"
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -502,15 +502,15 @@
       "route": "HOS → RÜB",
       "time": "Wed Jan 14 06:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:34",
-        "eta_rueb": "11:23",
+        "eta_schleuse": "15:35",
+        "eta_rueb": "11:24",
         "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:15"
+        "delta_start_rueb": "04:16"
       },
-      "eta_rueb": "11:23",
-      "eta_schleuse": "15:34",
+      "eta_rueb": "11:24",
+      "eta_schleuse": "15:35",
       "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:15"
+      "delta_start_rueb": "04:16"
     },
     {
       "is_target": false,
@@ -595,7 +595,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:04",
+      "eta_rueb_kiel": "11:03",
       "eta_rueb": "11:00",
       "ship": "VERENA",
       "q_gruppe": "5",
