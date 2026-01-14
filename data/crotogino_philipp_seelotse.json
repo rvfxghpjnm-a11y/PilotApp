@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T09:16:55",
+  "generated_at": "2026-01-14T09:18:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -78,15 +78,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Jan 14 07:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:10",
-        "eta_rueb": "12:43",
+        "eta_schleuse": "18:17",
+        "eta_rueb": "13:50",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "08:59"
+        "delta_start_rueb": "10:06"
       },
-      "eta_rueb": "12:43",
-      "eta_schleuse": "17:10",
+      "eta_rueb": "13:50",
+      "eta_schleuse": "18:17",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "08:59"
+      "delta_start_rueb": "10:06"
     },
     {
       "is_target": false,
@@ -305,14 +305,14 @@
       "route": "RÜB → UTG",
       "time": "Tue Jan 13 21:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:20",
+        "eta_schleuse": "09:22",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:42",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "09:20",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "09:22",
+      "delta_rueb_schleuse": "04:42",
       "delta_start_rueb": "04:02"
     }
   ],
@@ -370,15 +370,15 @@
       "route": "UTG → RÜB",
       "time": "Wed Jan 14 07:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:10",
-        "eta_rueb": "12:43",
+        "eta_schleuse": "18:17",
+        "eta_rueb": "13:50",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "08:59"
+        "delta_start_rueb": "10:06"
       },
-      "eta_rueb": "12:43",
-      "eta_schleuse": "17:10",
+      "eta_rueb": "13:50",
+      "eta_schleuse": "18:17",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "08:59"
+      "delta_start_rueb": "10:06"
     },
     {
       "is_target": false,
@@ -517,14 +517,14 @@
       "route": "RÜB → UTG",
       "time": "Tue Jan 13 21:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:20",
+        "eta_schleuse": "09:22",
         "eta_rueb": "04:40",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:42",
         "delta_start_rueb": "04:02"
       },
       "eta_rueb": "04:40",
-      "eta_schleuse": "09:20",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "09:22",
+      "delta_rueb_schleuse": "04:42",
       "delta_start_rueb": "04:02"
     }
   ],
@@ -538,7 +538,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:28",
+      "eta_rueb_kiel": "11:27",
       "eta_rueb": "11:10",
       "ship": "BIANCA RAMBOW",
       "q_gruppe": "2",
