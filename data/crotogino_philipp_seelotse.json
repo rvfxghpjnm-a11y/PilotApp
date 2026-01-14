@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T21:52:54",
+  "generated_at": "2026-01-14T21:54:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -405,7 +405,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:20",
+      "eta_rueb_kiel": "00:19",
       "eta_rueb": "00:05",
       "ship": "GT DELPHIN",
       "q_gruppe": "5",
