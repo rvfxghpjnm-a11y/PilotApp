@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T22:18:47",
+  "generated_at": "2026-01-14T22:20:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -100,15 +100,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 19:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:03",
-        "eta_rueb": "00:36",
+        "eta_schleuse": "05:02",
+        "eta_rueb": "00:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:04"
+        "delta_start_rueb": "04:03"
       },
-      "eta_rueb": "00:36",
-      "eta_schleuse": "05:03",
+      "eta_rueb": "00:35",
+      "eta_schleuse": "05:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:04"
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -345,15 +345,15 @@
       "route": "HOR → RÜB",
       "time": "Wed Jan 14 19:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:03",
-        "eta_rueb": "00:36",
+        "eta_schleuse": "05:02",
+        "eta_rueb": "00:35",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:04"
+        "delta_start_rueb": "04:03"
       },
-      "eta_rueb": "00:36",
-      "eta_schleuse": "05:03",
+      "eta_rueb": "00:35",
+      "eta_schleuse": "05:02",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:04"
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -492,7 +492,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:22",
+      "eta_rueb_kiel": "00:21",
       "eta_rueb": "00:15",
       "ship": "BALTIC FIN",
       "q_gruppe": "5",
