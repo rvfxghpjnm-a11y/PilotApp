@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T19:06:55",
+  "generated_at": "2026-01-14T19:08:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -57,14 +57,14 @@
       "route": "HOS → KLT",
       "time": "Wed Jan 14 18:43:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:11",
+        "eta_schleuse": "19:12",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:11",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:12",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:45"
     },
     {
@@ -306,14 +306,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:11",
+        "eta_schleuse": "19:12",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:11",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:12",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:45"
     }
   ],
@@ -493,14 +493,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 09:33:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:11",
+        "eta_schleuse": "19:12",
         "eta_rueb": "15:33",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "15:33",
-      "eta_schleuse": "19:11",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:12",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:45"
     }
   ],
@@ -528,7 +528,7 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "19:48",
+      "eta_rueb_kiel": "19:47",
       "eta_rueb": "20:00",
       "ship": "SEVKETTIN SONAY",
       "q_gruppe": "2",
@@ -556,7 +556,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:05",
+      "eta_rueb_kiel": "20:04",
       "eta_rueb": "20:08",
       "ship": "HELGAFELL",
       "q_gruppe": "2",
