@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-14T21:42:54",
+  "generated_at": "2026-01-14T21:44:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 8,
+    "kanal": 7,
     "wach": 0,
     "see": 6
   },
@@ -233,27 +233,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Nik",
-      "nachname": "Suermann",
-      "name": "Nik Suermann",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "ALANA",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 14 12:39:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Christoph",
       "nachname": "Malik",
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "ACEROMAR",
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 12:20:00 CET 2026",
@@ -398,27 +382,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Nik",
-      "nachname": "Suermann",
-      "name": "Nik Suermann",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "ALANA",
-      "route": "RÜB → HOS",
-      "time": "Wed Jan 14 12:39:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Christoph",
       "nachname": "Malik",
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "ACEROMAR",
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 12:20:00 CET 2026",
@@ -458,14 +426,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:27",
+      "eta_rueb_kiel": "02:26",
       "eta_rueb": "02:08",
       "ship": "RIX VOYAGER",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "02:29",
       "eta_rueb": "02:11",
       "ship": "JUMBO",
       "q_gruppe": "5",
