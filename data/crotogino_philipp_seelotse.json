@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:16:53",
+  "generated_at": "2026-01-15T06:18:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -121,14 +121,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:20",
+        "eta_schleuse": "06:22",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:20",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "06:22",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:57"
     },
     {
@@ -163,14 +163,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:20",
+        "eta_schleuse": "06:22",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:20",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "06:22",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:57"
     },
     {
@@ -297,14 +297,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:20",
+        "eta_schleuse": "06:22",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:20",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "06:22",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:57"
     },
     {
@@ -348,7 +348,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:46",
+      "eta_rueb_kiel": "06:45",
       "eta_rueb": "06:40",
       "ship": "WILSON GDANSK",
       "q_gruppe": "5",
@@ -362,7 +362,7 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "10:13",
+      "eta_rueb_kiel": "10:12",
       "eta_rueb": "09:55",
       "ship": "BALTIC ANKA",
       "q_gruppe": "5",
