@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:38:47",
+  "generated_at": "2026-01-15T06:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -137,14 +137,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:47",
+        "eta_schleuse": "06:48",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:46",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:47",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "06:48",
+      "delta_rueb_schleuse": "03:46",
       "delta_start_rueb": "04:14"
     },
     {
@@ -157,16 +157,11 @@
       "fahrzeug": "RIX VOYAGER",
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:34",
-        "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:19",
-        "delta_start_rueb": "04:57"
-      },
-      "eta_rueb": "02:15",
-      "eta_schleuse": "06:34",
-      "delta_rueb_schleuse": "04:19",
-      "delta_start_rueb": "04:57"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -179,14 +174,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:39",
+        "eta_schleuse": "06:40",
         "eta_rueb": "02:19",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "02:19",
-      "eta_schleuse": "06:39",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "06:40",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:37"
     },
     {
@@ -199,16 +194,11 @@
       "fahrzeug": "RIX VOYAGER",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:34",
-        "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:19",
-        "delta_start_rueb": "04:57"
-      },
-      "eta_rueb": "02:15",
-      "eta_schleuse": "06:34",
-      "delta_rueb_schleuse": "04:19",
-      "delta_start_rueb": "04:57"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -349,16 +339,11 @@
       "fahrzeug": "RIX VOYAGER",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:34",
-        "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:19",
-        "delta_start_rueb": "04:57"
-      },
-      "eta_rueb": "02:15",
-      "eta_schleuse": "06:34",
-      "delta_rueb_schleuse": "04:19",
-      "delta_start_rueb": "04:57"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
