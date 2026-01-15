@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T09:18:47",
+  "generated_at": "2026-01-15T09:20:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -132,13 +132,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:18",
+        "eta_schleuse": "09:20",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:18",
+      "eta_schleuse": "09:20",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -153,15 +153,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 06:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:15",
-        "eta_rueb": "12:48",
+        "eta_schleuse": "17:16",
+        "eta_rueb": "12:49",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:42"
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "12:48",
-      "eta_schleuse": "17:15",
+      "eta_rueb": "12:49",
+      "eta_schleuse": "17:16",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:42"
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -170,8 +170,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "HOS → KLT",
       "time": "Thu Jan 15 06:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -222,14 +222,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 05:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:00",
+        "eta_schleuse": "14:59",
         "eta_rueb": "09:51",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:08",
         "delta_start_rueb": "03:23"
       },
       "eta_rueb": "09:51",
-      "eta_schleuse": "15:00",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "14:59",
+      "delta_rueb_schleuse": "05:08",
       "delta_start_rueb": "03:23"
     },
     {
@@ -458,13 +458,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:18",
+        "eta_schleuse": "09:20",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:18",
+      "eta_schleuse": "09:20",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -479,15 +479,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 06:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:15",
-        "eta_rueb": "12:48",
+        "eta_schleuse": "17:16",
+        "eta_rueb": "12:49",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:42"
+        "delta_start_rueb": "03:43"
       },
-      "eta_rueb": "12:48",
-      "eta_schleuse": "17:15",
+      "eta_rueb": "12:49",
+      "eta_schleuse": "17:16",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:42"
+      "delta_start_rueb": "03:43"
     },
     {
       "is_target": false,
@@ -500,14 +500,14 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 05:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:00",
+        "eta_schleuse": "14:59",
         "eta_rueb": "09:51",
-        "delta_rueb_schleuse": "05:09",
+        "delta_rueb_schleuse": "05:08",
         "delta_start_rueb": "03:23"
       },
       "eta_rueb": "09:51",
-      "eta_schleuse": "15:00",
-      "delta_rueb_schleuse": "05:09",
+      "eta_schleuse": "14:59",
+      "delta_rueb_schleuse": "05:08",
       "delta_start_rueb": "03:23"
     },
     {
@@ -556,14 +556,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:50",
+      "eta_rueb_kiel": "13:51",
       "eta_rueb": "12:50",
       "ship": "FAIRPLAY 62 + TITAAN + WAALSTROOM",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:53",
+      "eta_rueb_kiel": "13:54",
       "eta_rueb": "13:03",
       "ship": "YARA KARA",
       "q_gruppe": "1",
