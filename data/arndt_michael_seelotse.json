@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T15:20:49",
+  "generated_at": "2026-01-15T15:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,12 +16,17 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → WAU",
+      "fahrzeug": "ASGARD",
+      "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:22",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -136,14 +141,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:45",
+        "eta_schleuse": "17:44",
         "eta_rueb": "13:52",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:42"
       },
       "eta_rueb": "13:52",
-      "eta_schleuse": "17:45",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "17:44",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:42"
     },
     {
@@ -285,8 +290,8 @@
       "name": "Lars Doering",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "ALS",
-      "route": "HOS → KLT",
+      "fahrzeug": "TRAVETANK",
+      "route": "KLT → STZ",
       "time": "Thu Jan 15 09:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -305,13 +310,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:20",
+        "eta_schleuse": "15:22",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "15:20",
+      "eta_schleuse": "15:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -324,12 +329,17 @@
       "name": "Jan-Torben Lüdtke",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → WAU",
+      "fahrzeug": "ASGARD",
+      "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:22",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -428,14 +438,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:45",
+        "eta_schleuse": "17:44",
         "eta_rueb": "13:52",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "05:42"
       },
       "eta_rueb": "13:52",
-      "eta_schleuse": "17:45",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "17:44",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "05:42"
     },
     {
@@ -512,25 +522,17 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:20",
+        "eta_schleuse": "15:22",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "15:20",
+      "eta_schleuse": "15:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "14:30",
-      "ship": "ASGARD",
-      "q_gruppe": "5",
-      "route": "WAU → WAU"
-    }
-  ]
+  "ruesterbergen": []
 }
