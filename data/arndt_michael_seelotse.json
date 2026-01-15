@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T01:00:49",
+  "generated_at": "2026-01-15T01:02:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -207,8 +207,8 @@
       "name": "Jens Röhl",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "SEVKETTIN SONAY",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Jan 14 20:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
