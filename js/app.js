@@ -396,7 +396,7 @@ async function loadBoert() {
 
     if (filterActive) {
       const fromTs = boertFromDate ? boertFromDate.getTime() : null;
-      const toTs   = boertToDate   04? boertToDate.getTime()   : null;
+      const toTs   = boertToDate   ? boertToDate.getTime()   : null;
 
       filteredLotsen = filteredLotsen.filter(lotse => {
         if (!lotse.times) return false;
