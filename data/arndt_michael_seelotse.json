@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T20:40:48",
+  "generated_at": "2026-01-15T20:42:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -311,7 +311,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:47",
+      "eta_rueb_kiel": "00:46",
       "eta_rueb": "00:15",
       "ship": "KARILIN",
       "q_gruppe": "4",
@@ -325,7 +325,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "01:10",
       "eta_rueb": "00:45",
       "ship": "BALTIC SEA",
       "q_gruppe": "5",
