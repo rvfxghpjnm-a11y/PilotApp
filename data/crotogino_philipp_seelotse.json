@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:54:55",
+  "generated_at": "2026-01-15T06:56:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -48,8 +48,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Jan 15 06:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -64,8 +64,8 @@
       "name": "Gunnar Thomsen",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Jan 15 06:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Thomas Thiel",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → KLT",
+      "fahrzeug": "WATERMAN+WAGENBORGBARGE 1+HELMUT",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 06:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -137,14 +137,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:55",
+        "eta_schleuse": "06:57",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:55",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "06:57",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:14"
     },
     {
