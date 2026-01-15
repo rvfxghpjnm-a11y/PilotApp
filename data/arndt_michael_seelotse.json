@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T20:22:47",
+  "generated_at": "2026-01-15T20:24:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -69,8 +69,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Seebört",
       "nr": 4,
-      "fahrzeug": "VISSERSBANK",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Jan 15 18:46:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -110,15 +110,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 18:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:37",
-        "eta_rueb": "23:10",
+        "eta_schleuse": "03:36",
+        "eta_rueb": "23:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:30"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "23:10",
-      "eta_schleuse": "03:37",
+      "eta_rueb": "23:09",
+      "eta_schleuse": "03:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:30"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -324,15 +324,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 18:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:37",
-        "eta_rueb": "23:10",
+        "eta_schleuse": "03:36",
+        "eta_rueb": "23:09",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:30"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "23:10",
-      "eta_schleuse": "03:37",
+      "eta_rueb": "23:09",
+      "eta_schleuse": "03:36",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:30"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -382,7 +382,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:52",
+      "eta_rueb_kiel": "00:51",
       "eta_rueb": "00:20",
       "ship": "TRANS FJELL",
       "q_gruppe": "5",
