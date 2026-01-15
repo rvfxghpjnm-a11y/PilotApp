@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T17:22:48",
+  "generated_at": "2026-01-15T17:24:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -233,8 +233,8 @@
       "name": "Roman Spiller",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "KIKKI C",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 09:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
