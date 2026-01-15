@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T00:58:54",
+  "generated_at": "2026-01-15T01:00:57",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -100,14 +100,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 22:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:45",
+        "eta_schleuse": "03:43",
         "eta_rueb": "00:14",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "00:14",
-      "eta_schleuse": "03:45",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "03:43",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "05:24"
     },
     {
@@ -276,8 +276,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Wed Jan 14 18:43:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -426,14 +426,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 22:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:45",
+        "eta_schleuse": "03:43",
         "eta_rueb": "00:14",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "00:14",
-      "eta_schleuse": "03:45",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "03:43",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "05:24"
     },
     {
@@ -510,7 +510,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:19",
+      "eta_rueb_kiel": "02:17",
       "eta_rueb": "02:08",
       "ship": "RIX VOYAGER",
       "q_gruppe": "5",
