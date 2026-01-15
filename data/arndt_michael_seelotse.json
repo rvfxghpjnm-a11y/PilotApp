@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T12:48:48",
+  "generated_at": "2026-01-15T12:50:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -332,13 +332,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:57",
+        "eta_schleuse": "12:59",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:57",
+      "eta_schleuse": "12:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -688,13 +688,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:57",
+        "eta_schleuse": "12:59",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:57",
+      "eta_schleuse": "12:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
