@@ -422,6 +422,16 @@ async function loadBoert() {
         });
       });
     }
+
+	
+    let filteredTauschpartner = Array.isArray(data.tauschpartner)
+      ? data.tauschpartner.filter(tp =>
+          filteredLotsen.some(l =>
+            l.pos === tp.pos
+          )
+        )
+      : [];
+	
 	
     const totalLotsen = (data.lotsen || []).length;
     const shownLotsen = filteredLotsen.length;
@@ -485,11 +495,11 @@ async function loadBoert() {
     }
     
     // Tauschpartner
-    if (Array.isArray(data.tauschpartner) && data.tauschpartner.length > 0) {
+    if (filteredTauschpartner.length > 0) {
       html += '<div class="section-header">Tauschpartner</div>';
       html += '<div class="tauschpartner-grid">';
 
-      data.tauschpartner.forEach(tp => {
+      filteredTauschpartner.forEach(tp => {
         let cardClass = 'tauschpartner-card';
         if (tp.verguetung) {
           cardClass += ' verguetung';
