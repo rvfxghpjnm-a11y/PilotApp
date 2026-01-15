@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T09:16:49",
+  "generated_at": "2026-01-15T09:18:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -132,13 +132,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:16",
+        "eta_schleuse": "09:18",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:16",
+      "eta_schleuse": "09:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -170,8 +170,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "CORAL IVORY",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Jan 15 06:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -458,13 +458,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:16",
+        "eta_schleuse": "09:18",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:16",
+      "eta_schleuse": "09:18",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -542,7 +542,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:28",
+      "eta_rueb_kiel": "10:27",
       "eta_rueb": "10:20",
       "ship": "ALS",
       "q_gruppe": "4",
