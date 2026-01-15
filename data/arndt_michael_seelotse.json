@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T01:32:48",
+  "generated_at": "2026-01-15T01:34:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -211,14 +211,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 19:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:53",
+        "eta_schleuse": "03:52",
         "eta_rueb": "00:22",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "00:22",
-      "eta_schleuse": "03:53",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "03:52",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "05:36"
     },
     {
@@ -276,8 +276,8 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "TITAN VISION",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Wed Jan 14 18:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -473,14 +473,14 @@
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 19:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:53",
+        "eta_schleuse": "03:52",
         "eta_rueb": "00:22",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "05:36"
       },
       "eta_rueb": "00:22",
-      "eta_schleuse": "03:53",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "03:52",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "05:36"
     }
   ],
