@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T19:26:48",
+  "generated_at": "2026-01-15T19:28:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:20",
+        "eta_schleuse": "03:22",
         "eta_rueb": "23:44",
-        "delta_rueb_schleuse": "75:36",
+        "delta_rueb_schleuse": "75:38",
         "delta_start_rueb": "67:38"
       },
       "eta_rueb": "23:44",
-      "eta_schleuse": "03:20",
-      "delta_rueb_schleuse": "75:36",
+      "eta_schleuse": "03:22",
+      "delta_rueb_schleuse": "75:38",
       "delta_start_rueb": "67:38"
     },
     {
@@ -186,8 +186,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "YARA KARA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -288,14 +288,14 @@
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:20",
+        "eta_schleuse": "03:22",
         "eta_rueb": "23:44",
-        "delta_rueb_schleuse": "75:36",
+        "delta_rueb_schleuse": "75:38",
         "delta_start_rueb": "67:38"
       },
       "eta_rueb": "23:44",
-      "eta_schleuse": "03:20",
-      "delta_rueb_schleuse": "75:36",
+      "eta_schleuse": "03:22",
+      "delta_rueb_schleuse": "75:38",
       "delta_start_rueb": "67:38"
     },
     {
