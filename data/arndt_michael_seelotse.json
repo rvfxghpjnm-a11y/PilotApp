@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T05:50:46",
+  "generated_at": "2026-01-15T05:52:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -354,6 +354,13 @@
       "ship": "ASGARD",
       "q_gruppe": "5",
       "route": "WAU → WAU"
+    },
+    {
+      "eta_rueb_kiel": "10:13",
+      "eta_rueb": "09:55",
+      "ship": "BALTIC ANKA",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
     }
   ]
 }
