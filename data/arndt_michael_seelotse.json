@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T09:52:48",
+  "generated_at": "2026-01-15T09:54:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 09:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -90,14 +90,14 @@
       "time": "Thu Jan 15 08:34:00 CET 2026",
       "times": {
         "eta_schleuse": "18:51",
-        "eta_rueb": "14:24",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:38"
+        "eta_rueb": "14:25",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "04:39"
       },
-      "eta_rueb": "14:24",
+      "eta_rueb": "14:25",
       "eta_schleuse": "18:51",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:38"
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -142,13 +142,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:52",
+        "eta_schleuse": "09:54",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:52",
+      "eta_schleuse": "09:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -163,14 +163,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 06:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:21",
+        "eta_schleuse": "17:22",
         "eta_rueb": "12:48",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "12:48",
-      "eta_schleuse": "17:21",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "17:22",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "03:42"
     },
     {
@@ -336,8 +336,8 @@
       "name": "Lars Doering",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 09:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -394,14 +394,14 @@
       "time": "Thu Jan 15 08:34:00 CET 2026",
       "times": {
         "eta_schleuse": "18:51",
-        "eta_rueb": "14:24",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:38"
+        "eta_rueb": "14:25",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "04:39"
       },
-      "eta_rueb": "14:24",
+      "eta_rueb": "14:25",
       "eta_schleuse": "18:51",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:38"
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -446,13 +446,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:52",
+        "eta_schleuse": "09:54",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:52",
+      "eta_schleuse": "09:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -467,14 +467,14 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 06:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:21",
+        "eta_schleuse": "17:22",
         "eta_rueb": "12:48",
-        "delta_rueb_schleuse": "04:33",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "03:42"
       },
       "eta_rueb": "12:48",
-      "eta_schleuse": "17:21",
-      "delta_rueb_schleuse": "04:33",
+      "eta_schleuse": "17:22",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "03:42"
     },
     {
@@ -523,7 +523,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:26",
+      "eta_rueb_kiel": "10:25",
       "eta_rueb": "10:20",
       "ship": "ALS",
       "q_gruppe": "4",
