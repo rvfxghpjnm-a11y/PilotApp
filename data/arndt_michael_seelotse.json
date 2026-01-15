@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T05:20:47",
+  "generated_at": "2026-01-15T05:22:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 7,
+    "kanal": 5,
     "wach": 0,
-    "see": 3
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -51,10 +51,10 @@
       "vorname": "Sven Kare",
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 3,
       "fahrzeug": "AMBER TRADER",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
         "eta_schleuse": "06:30",
@@ -114,10 +114,10 @@
       "vorname": "Michael",
       "nachname": "Krebs",
       "name": "Michael Krebs",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 6,
       "fahrzeug": "AQUAMAR",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
         "eta_schleuse": "06:12",
@@ -219,27 +219,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Sven Kare",
-      "nachname": "Tietjens",
-      "name": "Sven Kare Tietjens",
-      "aufgabe": "Kanalbört",
-      "nr": 3,
-      "fahrzeug": "AMBER TRADER",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 15 01:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:30",
-        "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:28",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "03:02",
-      "eta_schleuse": "06:30",
-      "delta_rueb_schleuse": "03:28",
-      "delta_start_rueb": "04:14"
-    },
-    {
-      "is_target": false,
       "vorname": "Janning",
       "nachname": "Otten",
       "name": "Janning Otten",
@@ -279,27 +258,6 @@
       "eta_schleuse": "06:18",
       "delta_rueb_schleuse": "04:03",
       "delta_start_rueb": "04:57"
-    },
-    {
-      "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Krebs",
-      "name": "Michael Krebs",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "AQUAMAR",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 15 00:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:12",
-        "eta_rueb": "02:12",
-        "delta_rueb_schleuse": "04:00",
-        "delta_start_rueb": "04:54"
-      },
-      "eta_rueb": "02:12",
-      "eta_schleuse": "06:12",
-      "delta_rueb_schleuse": "04:00",
-      "delta_start_rueb": "04:54"
     },
     {
       "is_target": false,
