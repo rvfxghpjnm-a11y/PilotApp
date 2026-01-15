@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T15:28:48",
+  "generated_at": "2026-01-15T15:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,13 +20,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:28",
+        "eta_schleuse": "15:30",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "15:28",
+      "eta_schleuse": "15:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -232,14 +232,14 @@
       "time": "Thu Jan 15 10:38:00 CET 2026",
       "times": {
         "eta_schleuse": "20:40",
-        "eta_rueb": "16:13",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:29"
+        "eta_rueb": "16:12",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:28"
       },
-      "eta_rueb": "16:13",
+      "eta_rueb": "16:12",
       "eta_schleuse": "20:40",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:29"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -310,13 +310,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:28",
+        "eta_schleuse": "15:30",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "15:28",
+      "eta_schleuse": "15:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
@@ -333,13 +333,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:28",
+        "eta_schleuse": "15:30",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "15:28",
+      "eta_schleuse": "15:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -481,14 +481,14 @@
       "time": "Thu Jan 15 10:38:00 CET 2026",
       "times": {
         "eta_schleuse": "20:40",
-        "eta_rueb": "16:13",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:29"
+        "eta_rueb": "16:12",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:28"
       },
-      "eta_rueb": "16:13",
+      "eta_rueb": "16:12",
       "eta_schleuse": "20:40",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:29"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:28"
     },
     {
       "is_target": false,
@@ -522,13 +522,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:28",
+        "eta_schleuse": "15:30",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "15:28",
+      "eta_schleuse": "15:30",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
