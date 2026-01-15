@@ -61,6 +61,12 @@ async function loadPersons() {
     personsEl.innerHTML = "";
 
     data.persons.forEach((p, idx) => {
+
+      // 🔑 WICHTIG: key sicherstellen (Dateiname!)
+      if (!p.key && p.vorname && p.nachname) {
+        p.key = `${p.nachname.toLowerCase()}_${p.vorname.toLowerCase()}`;
+      }
+
       const btn = document.createElement("button");
       btn.textContent = `${p.vorname} ${p.nachname}`;
       btn.onclick = (e) => selectPerson(p, e);
