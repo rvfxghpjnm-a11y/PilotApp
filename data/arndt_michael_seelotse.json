@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T19:38:46",
+  "generated_at": "2026-01-15T19:40:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:09",
+        "eta_schleuse": "04:04",
         "eta_rueb": "23:44",
-        "delta_rueb_schleuse": "76:25",
+        "delta_rueb_schleuse": "76:20",
         "delta_start_rueb": "67:38"
       },
       "eta_rueb": "23:44",
-      "eta_schleuse": "04:09",
-      "delta_rueb_schleuse": "76:25",
+      "eta_schleuse": "04:04",
+      "delta_rueb_schleuse": "76:20",
       "delta_start_rueb": "67:38"
     },
     {
@@ -72,9 +72,14 @@
       "fahrzeug": "KIKKI C",
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 18:24:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -88,11 +93,16 @@
       "fahrzeug": "COE GISELA",
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 18:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:39",
+        "eta_rueb": "23:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:31"
+      },
+      "eta_rueb": "23:11",
+      "eta_schleuse": "03:39",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
@@ -272,14 +282,14 @@
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:09",
+        "eta_schleuse": "04:04",
         "eta_rueb": "23:44",
-        "delta_rueb_schleuse": "76:25",
+        "delta_rueb_schleuse": "76:20",
         "delta_start_rueb": "67:38"
       },
       "eta_rueb": "23:44",
-      "eta_schleuse": "04:09",
-      "delta_rueb_schleuse": "76:25",
+      "eta_schleuse": "04:04",
+      "delta_rueb_schleuse": "76:20",
       "delta_start_rueb": "67:38"
     },
     {
@@ -292,9 +302,14 @@
       "fahrzeug": "KIKKI C",
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 18:24:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "04:13",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "04:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -308,11 +323,16 @@
       "fahrzeug": "COE GISELA",
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 18:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:39",
+        "eta_rueb": "23:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:31"
+      },
+      "eta_rueb": "23:11",
+      "eta_schleuse": "03:39",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:31"
     },
     {
       "is_target": false,
