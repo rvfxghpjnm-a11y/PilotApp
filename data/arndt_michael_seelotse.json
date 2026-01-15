@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T10:36:47",
+  "generated_at": "2026-01-15T10:38:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 09:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -78,15 +78,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 08:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:04",
-        "eta_rueb": "14:36",
+        "eta_schleuse": "19:07",
+        "eta_rueb": "14:39",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:40"
+        "delta_start_rueb": "04:43"
       },
-      "eta_rueb": "14:36",
-      "eta_schleuse": "19:04",
+      "eta_rueb": "14:39",
+      "eta_schleuse": "19:07",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:40"
+      "delta_start_rueb": "04:43"
     },
     {
       "is_target": false,
@@ -99,15 +99,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 08:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:40",
-        "eta_rueb": "14:33",
+        "eta_schleuse": "18:43",
+        "eta_rueb": "14:36",
         "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "04:41"
+        "delta_start_rueb": "04:44"
       },
-      "eta_rueb": "14:33",
-      "eta_schleuse": "18:40",
+      "eta_rueb": "14:36",
+      "eta_schleuse": "18:43",
       "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "04:41"
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -120,15 +120,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 08:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:51",
-        "eta_rueb": "14:24",
+        "eta_schleuse": "18:57",
+        "eta_rueb": "14:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:38"
+        "delta_start_rueb": "04:44"
       },
-      "eta_rueb": "14:24",
-      "eta_schleuse": "18:51",
+      "eta_rueb": "14:30",
+      "eta_schleuse": "18:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:38"
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -157,13 +157,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:37",
+        "eta_schleuse": "10:39",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "10:37",
+      "eta_schleuse": "10:39",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -298,8 +298,8 @@
       "name": "Roman Spiller",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 09:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -360,15 +360,15 @@
       "route": "HOR → RÜB",
       "time": "Thu Jan 15 08:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:04",
-        "eta_rueb": "14:36",
+        "eta_schleuse": "19:07",
+        "eta_rueb": "14:39",
         "delta_rueb_schleuse": "04:28",
-        "delta_start_rueb": "04:40"
+        "delta_start_rueb": "04:43"
       },
-      "eta_rueb": "14:36",
-      "eta_schleuse": "19:04",
+      "eta_rueb": "14:39",
+      "eta_schleuse": "19:07",
       "delta_rueb_schleuse": "04:28",
-      "delta_start_rueb": "04:40"
+      "delta_start_rueb": "04:43"
     },
     {
       "is_target": false,
@@ -381,15 +381,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 08:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:40",
-        "eta_rueb": "14:33",
+        "eta_schleuse": "18:43",
+        "eta_rueb": "14:36",
         "delta_rueb_schleuse": "04:07",
-        "delta_start_rueb": "04:41"
+        "delta_start_rueb": "04:44"
       },
-      "eta_rueb": "14:33",
-      "eta_schleuse": "18:40",
+      "eta_rueb": "14:36",
+      "eta_schleuse": "18:43",
       "delta_rueb_schleuse": "04:07",
-      "delta_start_rueb": "04:41"
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -402,15 +402,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 08:34:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:51",
-        "eta_rueb": "14:24",
+        "eta_schleuse": "18:57",
+        "eta_rueb": "14:30",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:38"
+        "delta_start_rueb": "04:44"
       },
-      "eta_rueb": "14:24",
-      "eta_schleuse": "18:51",
+      "eta_rueb": "14:30",
+      "eta_schleuse": "18:57",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:38"
+      "delta_start_rueb": "04:44"
     },
     {
       "is_target": false,
@@ -439,13 +439,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:37",
+        "eta_schleuse": "10:39",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "10:37",
+      "eta_schleuse": "10:39",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
