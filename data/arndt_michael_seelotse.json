@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T10:10:48",
+  "generated_at": "2026-01-15T10:12:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -157,13 +157,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:10",
+        "eta_schleuse": "10:13",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "10:10",
+      "eta_schleuse": "10:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -299,16 +299,11 @@
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "10:07",
-        "eta_rueb": "06:44",
-        "delta_rueb_schleuse": "03:23",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "06:44",
-      "eta_schleuse": "10:07",
-      "delta_rueb_schleuse": "03:23",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -460,13 +455,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:10",
+        "eta_schleuse": "10:13",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "10:10",
+      "eta_schleuse": "10:13",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -522,16 +517,11 @@
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "10:07",
-        "eta_rueb": "06:44",
-        "delta_rueb_schleuse": "03:23",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "06:44",
-      "eta_schleuse": "10:07",
-      "delta_rueb_schleuse": "03:23",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
