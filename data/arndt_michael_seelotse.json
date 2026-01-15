@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T19:48:48",
+  "generated_at": "2026-01-15T19:50:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -148,8 +148,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CONTAINERSHIPS 8",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 12:37:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -362,8 +362,8 @@
       "name": "Daniel Steinbach",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CONTAINERSHIPS 8",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 12:37:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -373,13 +373,5 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "20:15",
-      "ship": "CONTAINERSHIPS 8",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    }
-  ]
+  "ruesterbergen": []
 }
