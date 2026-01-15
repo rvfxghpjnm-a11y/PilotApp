@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T05:28:45",
+  "generated_at": "2026-01-15T05:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -169,8 +169,8 @@
       "name": "Sebastian Lüttge",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "KLARA",
+      "route": "NHF → HOS",
       "time": "Wed Jan 14 22:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
