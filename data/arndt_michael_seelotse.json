@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T12:40:46",
+  "generated_at": "2026-01-15T12:42:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -136,16 +136,11 @@
       "fahrzeug": "SEGULA",
       "route": "HOS → KLT",
       "time": "Thu Jan 15 11:10:00 CET 2026",
-      "times": {
-        "eta_schleuse": "12:37",
-        "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "06:25",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "06:12",
-      "eta_schleuse": "12:37",
-      "delta_rueb_schleuse": "06:25",
-      "delta_start_rueb": "04:14"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -337,13 +332,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:49",
+        "eta_schleuse": "12:52",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:49",
+      "eta_schleuse": "12:52",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -698,13 +693,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:49",
+        "eta_schleuse": "12:52",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:49",
+      "eta_schleuse": "12:52",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -789,7 +784,7 @@
       "route": "WAU → WAU"
     },
     {
-      "eta_rueb_kiel": "15:23",
+      "eta_rueb_kiel": "15:22",
       "eta_rueb": "15:00",
       "ship": "VISSERSBANK",
       "q_gruppe": "4",
