@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T22:56:46",
+  "generated_at": "2026-01-15T22:58:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -379,14 +379,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "00:36",
+      "eta_rueb_kiel": "00:37",
       "eta_rueb": "00:15",
       "ship": "KARILIN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "00:39",
+      "eta_rueb_kiel": "00:41",
       "eta_rueb": "00:20",
       "ship": "TRANS FJELL",
       "q_gruppe": "5",
