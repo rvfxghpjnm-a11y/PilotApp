@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T04:56:46",
+  "generated_at": "2026-01-15T04:58:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -57,14 +57,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:30",
+        "eta_schleuse": "06:31",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:30",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "06:31",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:14"
     },
     {
@@ -238,14 +238,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:30",
+        "eta_schleuse": "06:31",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:28",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:30",
-      "delta_rueb_schleuse": "03:28",
+      "eta_schleuse": "06:31",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:14"
     },
     {
@@ -364,7 +364,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "06:49",
+      "eta_rueb_kiel": "06:48",
       "eta_rueb": "06:40",
       "ship": "WILSON GDANSK",
       "q_gruppe": "5",
