@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T08:22:47",
+  "generated_at": "2026-01-15T08:24:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -186,8 +186,8 @@
       "name": "Sven Kare Tietjens",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "AMBER TRADER",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -202,8 +202,8 @@
       "name": "Janning Otten",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "JUMBO",
-      "route": "HOS → KLT",
+      "fahrzeug": "NORDIC PORTO",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
