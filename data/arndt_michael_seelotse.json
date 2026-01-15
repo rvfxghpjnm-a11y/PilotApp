@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T09:20:49",
+  "generated_at": "2026-01-15T09:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 0,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -132,13 +132,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:20",
+        "eta_schleuse": "09:22",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:20",
+      "eta_schleuse": "09:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -266,27 +266,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sven Kare",
-      "nachname": "Tietjens",
-      "name": "Sven Kare Tietjens",
-      "aufgabe": "Seebört",
-      "nr": 16,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
-      "time": "Thu Jan 15 01:50:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Janning",
       "nachname": "Otten",
       "name": "Janning Otten",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "NORDIC PORTO",
       "route": "KLT → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
@@ -302,7 +286,7 @@
       "nachname": "Krebs",
       "name": "Michael Krebs",
       "aufgabe": "Seebört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "PATRIA SEAWAYS",
       "route": "KLT → SWK",
       "time": "Thu Jan 15 00:55:00 CET 2026",
@@ -318,7 +302,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
@@ -458,13 +442,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:20",
+        "eta_schleuse": "09:22",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:20",
+      "eta_schleuse": "09:22",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -516,7 +500,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 19,
+      "nr": 18,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
