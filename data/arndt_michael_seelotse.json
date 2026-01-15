@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:42:48",
+  "generated_at": "2026-01-15T06:44:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -137,14 +137,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:49",
+        "eta_schleuse": "06:50",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:49",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "06:50",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:14"
     },
     {
@@ -173,16 +173,11 @@
       "fahrzeug": "JUMBO",
       "route": "HOS → KLT",
       "time": "Thu Jan 15 00:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:42",
-        "eta_rueb": "02:19",
-        "delta_rueb_schleuse": "04:23",
-        "delta_start_rueb": "04:37"
-      },
-      "eta_rueb": "02:19",
-      "eta_schleuse": "06:42",
-      "delta_rueb_schleuse": "04:23",
-      "delta_start_rueb": "04:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
