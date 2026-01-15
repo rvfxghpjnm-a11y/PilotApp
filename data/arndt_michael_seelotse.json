@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T20:30:48",
+  "generated_at": "2026-01-15T20:32:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -37,14 +37,14 @@
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
         "eta_schleuse": "04:16",
-        "eta_rueb": "23:02",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "23:01",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "23:02",
+      "eta_rueb": "23:01",
       "eta_schleuse": "04:16",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -219,14 +219,14 @@
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
         "eta_schleuse": "04:16",
-        "eta_rueb": "23:02",
-        "delta_rueb_schleuse": "05:14",
-        "delta_start_rueb": "03:40"
+        "eta_rueb": "23:01",
+        "delta_rueb_schleuse": "05:15",
+        "delta_start_rueb": "03:39"
       },
-      "eta_rueb": "23:02",
+      "eta_rueb": "23:01",
       "eta_schleuse": "04:16",
-      "delta_rueb_schleuse": "05:14",
-      "delta_start_rueb": "03:40"
+      "delta_rueb_schleuse": "05:15",
+      "delta_start_rueb": "03:39"
     },
     {
       "is_target": false,
@@ -321,6 +321,13 @@
       "eta_rueb_kiel": "00:51",
       "eta_rueb": "00:20",
       "ship": "TRANS FJELL",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "00:45",
+      "ship": "BALTIC SEA",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
