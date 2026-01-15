@@ -17,6 +17,12 @@
       "vorname": "Stefan",
       "nachname": "Konietzka",
       "file": "workstart_history_konietzka_stefan.json"
+    },
+    {
+      "key": "pietsch_tobias",
+      "vorname": "Tobias",
+      "nachname": "Pietsch",
+      "file": "workstart_history_pietsch_tobias.json"
     }
   ]
 }
