@@ -479,11 +479,10 @@ async function loadBoert() {
     }
     
     // Tauschpartner
-    if (data.tauschpartner.length === 0) {
+    if (Array.isArray(data.tauschpartner) && data.tauschpartner.length > 0) {
       html += '<div class="section-header">Tauschpartner</div>';
-      html += '<div style="opacity:.6; padding:8px">Keine Tauschpartner gefunden</div>';
-    }
-      
+      html += '<div class="tauschpartner-grid">';
+
       data.tauschpartner.forEach(tp => {
         let cardClass = 'tauschpartner-card';
         if (tp.verguetung) {
@@ -493,11 +492,18 @@ async function loadBoert() {
         } else if (tp.arrow === '↓' || tp.richtung === '↓') {
           cardClass += ' arrow-down';
         }
-        
+
         html += `<div class="${cardClass}">`;
         html += `<div class="tauschpartner-name">${escapeHtml(tp.vorname)} ${escapeHtml(tp.nachname)}</div>`;
-        html += '<div class="tauschpartner-info">';
-        html += `Pos ${tp.pos}`;
+        html += `<div class="tauschpartner-info">Pos ${tp.pos}</div>`;
+        html += '</div>';
+      });
+
+      html += '</div>';
+    } else {
+      html += '<div class="section-header">Tauschpartner</div>';
+      html += '<div style="opacity:.6; padding:8px">Keine Tauschpartner gefunden</div>';
+    }
         if (tp.arrow) {
           const arrowClass = tp.arrow.includes('↑') ? 'arrow-up' : (tp.arrow.includes('↓') ? 'arrow-down' : '');
           html += ` <span class="${arrowClass}">${escapeHtml(tp.arrow)}</span>`;
