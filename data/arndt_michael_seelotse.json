@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T16:36:49",
+  "generated_at": "2026-01-15T16:38:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,14 +19,9 @@
       "fahrzeug": "ASGARD",
       "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:37",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "16:37",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -296,14 +291,9 @@
       "fahrzeug": "ASGARD",
       "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:37",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
-      },
+      "times": null,
       "eta_rueb": null,
-      "eta_schleuse": "16:37",
+      "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
