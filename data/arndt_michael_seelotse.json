@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T11:14:46",
+  "generated_at": "2026-01-15T11:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 11:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:15",
+        "eta_schleuse": "11:18",
         "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "05:03",
+        "delta_rueb_schleuse": "05:06",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "06:12",
-      "eta_schleuse": "11:15",
-      "delta_rueb_schleuse": "05:03",
+      "eta_schleuse": "11:18",
+      "delta_rueb_schleuse": "05:06",
       "delta_start_rueb": "04:14"
     },
     {
@@ -74,14 +74,14 @@
       "time": "Thu Jan 15 09:55:00 CET 2026",
       "times": {
         "eta_schleuse": "15:56",
-        "eta_rueb": "11:17",
-        "delta_rueb_schleuse": "04:39",
-        "delta_start_rueb": "04:21"
+        "eta_rueb": "11:18",
+        "delta_rueb_schleuse": "04:38",
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "11:17",
+      "eta_rueb": "11:18",
       "eta_schleuse": "15:56",
-      "delta_rueb_schleuse": "04:39",
-      "delta_start_rueb": "04:21"
+      "delta_rueb_schleuse": "04:38",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -215,13 +215,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:14",
+        "eta_schleuse": "11:16",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "11:14",
+      "eta_schleuse": "11:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -377,14 +377,14 @@
       "time": "Thu Jan 15 09:55:00 CET 2026",
       "times": {
         "eta_schleuse": "15:56",
-        "eta_rueb": "11:17",
-        "delta_rueb_schleuse": "04:39",
-        "delta_start_rueb": "04:21"
+        "eta_rueb": "11:18",
+        "delta_rueb_schleuse": "04:38",
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "11:17",
+      "eta_rueb": "11:18",
       "eta_schleuse": "15:56",
-      "delta_rueb_schleuse": "04:39",
-      "delta_start_rueb": "04:21"
+      "delta_rueb_schleuse": "04:38",
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -518,13 +518,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:14",
+        "eta_schleuse": "11:16",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "11:14",
+      "eta_schleuse": "11:16",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -574,14 +574,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "13:53",
+      "eta_rueb_kiel": "13:52",
       "eta_rueb": "13:30",
       "ship": "FAIRPLAY 62 + TITAAN + WAALSTROOM",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:56",
+      "eta_rueb_kiel": "13:55",
       "eta_rueb": "13:33",
       "ship": "YARA KARA",
       "q_gruppe": "1",
