@@ -1,9 +1,122 @@
 {
-  "generated_at": "2026-01-16T00:04:47",
+  "generated_at": "2026-01-16T00:04:39",
   "status": "boert",
-  "person": null,
+  "person": {
+    "vorname": "tobias",
+    "nachname": "pietsch",
+    "pos": 12,
+    "times": {
+      "calc_div2": "Fr06:04",
+      "calc_div3": "Fr04:04",
+      "from_meldung": "Fr06:00",
+      "from_meldung_alt": "Fr09:00"
+    }
+  },
   "times": null,
-  "tauschpartner": [],
+  "tauschpartner": [
+    {
+      "is_target": false,
+      "pos": 38,
+      "vorname": "Artur",
+      "nachname": "Skawianczyk",
+      "arrow": "↑$$",
+      "richtung": "↑",
+      "verguetung": true,
+      "zeit": "Thu Jan 15 03:55:42 CET 2026",
+      "times": {
+        "calc_div2": "Fr19:04",
+        "calc_div3": "Fr12:44",
+        "from_meldung": "Fr20:00",
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 39,
+      "vorname": "Dennis",
+      "nachname": "Heyenga",
+      "arrow": "↑$$",
+      "richtung": "↑",
+      "verguetung": true,
+      "zeit": "Thu Jan 15 03:55:49 CET 2026",
+      "times": {
+        "calc_div2": "Fr19:34",
+        "calc_div3": "Fr13:04",
+        "from_meldung": "Fr22:00",
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 55,
+      "vorname": "Knut Paul",
+      "nachname": "Klüver",
+      "arrow": "↑$$",
+      "richtung": "↑",
+      "verguetung": true,
+      "zeit": "Thu Jan 15 13:28:00 CET 2026",
+      "times": {
+        "calc_div2": "Sa03:34",
+        "calc_div3": "Fr18:24",
+        "from_meldung": null,
+        "from_meldung_alt": null
+      },
+      "bemerkung": "𝗠𝗔𝗫 takt. 22,00"
+    },
+    {
+      "is_target": false,
+      "pos": 62,
+      "vorname": "Mathias",
+      "nachname": "Krügel",
+      "arrow": "↑$$",
+      "richtung": "↑",
+      "verguetung": true,
+      "zeit": "Thu Jan 15 15:50:00 CET 2026",
+      "times": {
+        "calc_div2": "Sa07:04",
+        "calc_div3": "Fr20:44",
+        "from_meldung": null,
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 63,
+      "vorname": "Peter",
+      "nachname": "Böttcher",
+      "arrow": "↑$$",
+      "richtung": "↑",
+      "verguetung": true,
+      "zeit": "Thu Jan 15 16:57:00 CET 2026",
+      "times": {
+        "calc_div2": "Sa07:34",
+        "calc_div3": "Fr21:04",
+        "from_meldung": null,
+        "from_meldung_alt": null
+      },
+      "bemerkung": ""
+    },
+    {
+      "is_target": false,
+      "pos": 69,
+      "vorname": "Mykola",
+      "nachname": "Zozulya",
+      "arrow": "↑$$",
+      "richtung": "↑",
+      "verguetung": true,
+      "zeit": "Thu Jan 15 20:26:00 CET 2026",
+      "times": {
+        "calc_div2": "Sa10:34",
+        "calc_div3": "Fr23:04",
+        "from_meldung": null,
+        "from_meldung_alt": null
+      },
+      "bemerkung": "max tkt 8"
+    }
+  ],
   "lotsen": [
     {
       "is_target": false,
@@ -193,7 +306,7 @@
       "bemerkung": ""
     },
     {
-      "is_target": false,
+      "is_target": true,
       "pos": 12,
       "vorname": "Tobias",
       "nachname": "Pietsch",
