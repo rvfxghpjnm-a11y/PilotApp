@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T08:56:55",
+  "generated_at": "2026-01-15T08:58:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -100,13 +100,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:56",
+        "eta_schleuse": "08:58",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "08:56",
+      "eta_schleuse": "08:58",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -389,13 +389,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:56",
+        "eta_schleuse": "08:58",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "08:56",
+      "eta_schleuse": "08:58",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -483,7 +483,7 @@
     },
     {
       "eta_rueb_kiel": "13:03",
-      "eta_rueb": "13:00",
+      "eta_rueb": "12:50",
       "ship": "FAIRPLAY 62 + TITAAN + WAALSTROOM",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
