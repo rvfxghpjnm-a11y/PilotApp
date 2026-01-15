@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T19:36:47",
+  "generated_at": "2026-01-15T19:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:28",
+        "eta_schleuse": "04:09",
         "eta_rueb": "23:44",
-        "delta_rueb_schleuse": "75:44",
+        "delta_rueb_schleuse": "76:25",
         "delta_start_rueb": "67:38"
       },
       "eta_rueb": "23:44",
-      "eta_schleuse": "03:28",
-      "delta_rueb_schleuse": "75:44",
+      "eta_schleuse": "04:09",
+      "delta_rueb_schleuse": "76:25",
       "delta_start_rueb": "67:38"
     },
     {
@@ -154,8 +154,8 @@
       "name": "Marius Schüler",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "ELBWIND",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -170,8 +170,8 @@
       "name": "Volker Kahler",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -186,8 +186,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -272,14 +272,14 @@
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:28",
+        "eta_schleuse": "04:09",
         "eta_rueb": "23:44",
-        "delta_rueb_schleuse": "75:44",
+        "delta_rueb_schleuse": "76:25",
         "delta_start_rueb": "67:38"
       },
       "eta_rueb": "23:44",
-      "eta_schleuse": "03:28",
-      "delta_rueb_schleuse": "75:44",
+      "eta_schleuse": "04:09",
+      "delta_rueb_schleuse": "76:25",
       "delta_start_rueb": "67:38"
     },
     {
