@@ -65,7 +65,35 @@ async function loadPersons() {
 
       personsEl.appendChild(btn);
     });
+    
+	
+    const saved = loadAppState();
 
+    if (saved) {
+      const found = data.persons.find(p => p.key === saved.personKey);
+      if (found) {
+        currentPerson = found;
+        currentView = saved.view || currentView;
+      }
+    }
+	
+	
+    [...personsEl.children].forEach((btn, idx) => {
+      btn.classList.toggle(
+        "active",
+        data.persons[idx].key === currentPerson?.key
+      );
+    });
+
+    document.querySelectorAll("[data-view]").forEach(btn => {
+      btn.classList.toggle(
+        "active",
+        btn.dataset.view === currentView
+      );
+    });
+	
+	
+	
     if (currentPerson) renderView();
 
   } catch (e) {
@@ -76,6 +104,7 @@ async function loadPersons() {
 
 function selectPerson(person, e) {
   currentPerson = person;
+  saveAppState();
   [...personsEl.children].forEach(b => b.classList.remove("active"));
   e.target.classList.add("active");
   renderView();
@@ -90,6 +119,7 @@ function bindViewButtons() {
       document.querySelectorAll("[data-view]").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       currentView = btn.dataset.view;
+      saveAppState();
       renderView();
     };
   });
@@ -355,10 +385,9 @@ async function loadBoert() {
 
     let filteredLotsen = data.lotsen || [];
 
-    const filterActive = boertFromDate || boertToDate;
+    const filterActive = Boolean(boertFromDate || boertToDate);
 
     if (filterActive) {
-      const now = new Date();
       const fromTs = boertFromDate ? boertFromDate.getTime() : null;
       const toTs   = boertToDate   ? boertToDate.getTime()   : null;
 
@@ -656,4 +685,26 @@ function parseLotseTime(val) {
   
 
   return d;
+}
+
+
+// ---------------------------------------------------------
+// STATE PERSISTENCE (localStorage)
+// ---------------------------------------------------------
+function saveAppState() {
+  if (!currentPerson) return;
+
+  localStorage.setItem("pilotapp_state", JSON.stringify({
+    personKey: currentPerson.key,
+    view: currentView
+  }));
+}
+
+function loadAppState() {
+  try {
+    const raw = localStorage.getItem("pilotapp_state");
+    return raw ? JSON.parse(raw) : null;
+  } catch {
+    return null;
+  }
 }
