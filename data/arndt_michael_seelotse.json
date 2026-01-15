@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T23:48:40",
+  "generated_at": "2026-01-15T23:50:40",
   "status": "seelotse",
   "person": {
     "vorname": "Michael",
@@ -157,8 +157,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "XING HAI WAN",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Jan 15 18:46:00 CET 2026",
       "times": null,
       "eta_rueb": null,
