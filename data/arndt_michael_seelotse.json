@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T07:16:49",
+  "generated_at": "2026-01-15T07:18:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -339,7 +339,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:11",
+      "eta_rueb_kiel": "10:10",
       "eta_rueb": "09:55",
       "ship": "BALTIC ANKA",
       "q_gruppe": "5",
