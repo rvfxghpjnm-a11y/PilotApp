@@ -437,8 +437,8 @@ async function loadBoert() {
     html += '</div>';
     
     // Person Card (Always visible)
-    if (data.person) {
-      const p = data.person;
+    if (data.person || data.target) {
+      const p = data.person || data.target;
       html += '<div class="person-card">';
       html += `<div class="person-name">${escapeHtml(p.vorname)} ${escapeHtml(p.nachname)}</div>`;
       html += `<div class="person-pos">Position ${p.pos}</div>`;
@@ -472,9 +472,10 @@ async function loadBoert() {
     }
     
     // Tauschpartner
-    if (data.tauschpartner && data.tauschpartner.length > 0) {
+    if (data.tauschpartner.length === 0) {
       html += '<div class="section-header">Tauschpartner</div>';
-      html += '<div class="tauschpartner-grid">';
+      html += '<div style="opacity:.6; padding:8px">Keine Tauschpartner gefunden</div>';
+    }
       
       data.tauschpartner.forEach(tp => {
         let cardClass = 'tauschpartner-card';
