@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T08:38:47",
+  "generated_at": "2026-01-15T08:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -84,13 +84,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:38",
+        "eta_schleuse": "08:42",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "08:38",
+      "eta_schleuse": "08:42",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -218,8 +218,8 @@
       "name": "Sven Kare Tietjens",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -357,13 +357,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:38",
+        "eta_schleuse": "08:42",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "08:38",
+      "eta_schleuse": "08:42",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
