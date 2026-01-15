@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:32:57",
+  "generated_at": "2026-01-15T06:34:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -137,14 +137,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:44",
+        "eta_schleuse": "06:45",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:42",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:44",
-      "delta_rueb_schleuse": "03:42",
+      "eta_schleuse": "06:45",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:14"
     },
     {
@@ -158,14 +158,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:33",
+        "eta_schleuse": "06:34",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:33",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "06:34",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "04:57"
     },
     {
@@ -179,14 +179,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:37",
+        "eta_schleuse": "06:38",
         "eta_rueb": "02:19",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "02:19",
-      "eta_schleuse": "06:37",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "06:38",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "04:37"
     },
     {
@@ -200,14 +200,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:33",
+        "eta_schleuse": "06:34",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:33",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "06:34",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "04:57"
     },
     {
@@ -228,32 +228,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SEGULA",
-      "route": "RÜB → UTG",
-      "time": "Thu Jan 15 00:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:42",
-        "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "06:12",
-      "eta_schleuse": "09:42",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "04:14"
-    },
-    {
-      "is_target": false,
       "vorname": "Torben",
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
@@ -267,6 +246,27 @@
       "eta_schleuse": "10:18",
       "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:21"
+    },
+    {
+      "is_target": false,
+      "vorname": "Sören",
+      "nachname": "Ehlers",
+      "name": "Sören Ehlers",
+      "aufgabe": "Kanalbört",
+      "nr": 14,
+      "fahrzeug": "SEGULA",
+      "route": "RÜB → UTG",
+      "time": "Thu Jan 15 00:14:00 CET 2026",
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": "06:12",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "06:12",
+      "eta_schleuse": "09:42",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -350,36 +350,15 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:33",
+        "eta_schleuse": "06:34",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:18",
+        "delta_rueb_schleuse": "04:19",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:33",
-      "delta_rueb_schleuse": "04:18",
+      "eta_schleuse": "06:34",
+      "delta_rueb_schleuse": "04:19",
       "delta_start_rueb": "04:57"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SEGULA",
-      "route": "RÜB → UTG",
-      "time": "Thu Jan 15 00:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:42",
-        "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "06:12",
-      "eta_schleuse": "09:42",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -387,7 +366,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
@@ -401,6 +380,27 @@
       "eta_schleuse": "10:18",
       "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:21"
+    },
+    {
+      "is_target": false,
+      "vorname": "Sören",
+      "nachname": "Ehlers",
+      "name": "Sören Ehlers",
+      "aufgabe": "Kanalbört",
+      "nr": 14,
+      "fahrzeug": "SEGULA",
+      "route": "RÜB → UTG",
+      "time": "Thu Jan 15 00:14:00 CET 2026",
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": "06:12",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "06:12",
+      "eta_schleuse": "09:42",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:14"
     }
   ],
   "meldungen_kiel": [],
