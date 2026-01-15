@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T07:42:55",
+  "generated_at": "2026-01-15T07:44:55",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -202,8 +202,8 @@
       "name": "Michael Krebs",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "PATRIA SEAWAYS",
+      "route": "KLT → SWK",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -222,14 +222,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:15",
+        "eta_schleuse": "10:14",
         "eta_rueb": "06:44",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "06:44",
-      "eta_schleuse": "10:15",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "10:14",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:20"
     },
     {
@@ -335,14 +335,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:15",
+        "eta_schleuse": "10:14",
         "eta_rueb": "06:44",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:20"
       },
       "eta_rueb": "06:44",
-      "eta_schleuse": "10:15",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "10:14",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:20"
     }
   ],
