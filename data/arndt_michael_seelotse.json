@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T17:34:49",
+  "generated_at": "2026-01-15T17:36:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,14 +89,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:45",
+        "eta_schleuse": "17:46",
         "eta_rueb": "14:08",
-        "delta_rueb_schleuse": "03:37",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "04:30"
       },
       "eta_rueb": "14:08",
-      "eta_schleuse": "17:45",
-      "delta_rueb_schleuse": "03:37",
+      "eta_schleuse": "17:46",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:30"
     },
     {
@@ -110,14 +110,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:41",
+        "eta_schleuse": "17:42",
         "eta_rueb": "14:05",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "14:05",
-      "eta_schleuse": "17:41",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "17:42",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:33"
     },
     {
@@ -130,16 +130,11 @@
       "fahrzeug": "YARA KARA",
       "route": "HOS → KLT",
       "time": "Thu Jan 15 12:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:34",
-        "eta_rueb": "13:57",
-        "delta_rueb_schleuse": "03:37",
-        "delta_start_rueb": "05:07"
-      },
-      "eta_rueb": "13:57",
-      "eta_schleuse": "17:34",
-      "delta_rueb_schleuse": "03:37",
-      "delta_start_rueb": "05:07"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -152,14 +147,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:37",
+        "eta_schleuse": "17:39",
         "eta_rueb": "13:52",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:47",
         "delta_start_rueb": "05:42"
       },
       "eta_rueb": "13:52",
-      "eta_schleuse": "17:37",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "17:39",
+      "delta_rueb_schleuse": "03:47",
       "delta_start_rueb": "05:42"
     },
     {
@@ -201,8 +196,8 @@
       "name": "Florian Koch",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "SCA ORTVIKEN",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Jan 15 11:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
