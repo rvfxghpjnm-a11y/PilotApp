@@ -510,26 +510,6 @@ async function loadBoert() {
       html += '<div class="section-header">Tauschpartner</div>';
       html += '<div style="opacity:.6; padding:8px">Keine Tauschpartner gefunden</div>';
     }
-        if (tp.arrow) {
-          const arrowClass = tp.arrow.includes('↑') ? 'arrow-up' : (tp.arrow.includes('↓') ? 'arrow-down' : '');
-          html += ` <span class="${arrowClass}">${escapeHtml(tp.arrow)}</span>`;
-        }
-        if (tp.verguetung) {
-          html += ' <span class="verguetung">$$</span>';
-        }
-        html += '</div>';
-        
-        // Times
-        if (tp.times) {
-          html += '<div style="margin-top: 8px; font-size: 13px;">';
-
-          Object.entries(tp.times).forEach(([k,v]) => {
-            if (!v) return;
-            html += `<div style="color:#9ca3af">
-              ${escapeHtml(k.replaceAll("_"," "))}:
-              <span style="color:#e6edf3">${escapeHtml(v)}</span>
-            </div>`;
-          });
 
           html += '</div>';
         }
