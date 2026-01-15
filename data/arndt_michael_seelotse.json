@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T14:28:46",
+  "generated_at": "2026-01-15T14:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -322,19 +322,14 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "CORAL IVORY",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 08:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:37",
-        "eta_rueb": "14:31",
-        "delta_rueb_schleuse": "04:06",
-        "delta_start_rueb": "04:39"
-      },
-      "eta_rueb": "14:31",
-      "eta_schleuse": "18:37",
-      "delta_rueb_schleuse": "04:06",
-      "delta_start_rueb": "04:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -379,13 +374,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:29",
+        "eta_schleuse": "14:31",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "14:29",
+      "eta_schleuse": "14:31",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -640,19 +635,14 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "CORAL IVORY",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 08:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:37",
-        "eta_rueb": "14:31",
-        "delta_rueb_schleuse": "04:06",
-        "delta_start_rueb": "04:39"
-      },
-      "eta_rueb": "14:31",
-      "eta_schleuse": "18:37",
-      "delta_rueb_schleuse": "04:06",
-      "delta_start_rueb": "04:39"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -697,13 +687,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:29",
+        "eta_schleuse": "14:31",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "14:29",
+      "eta_schleuse": "14:31",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     }
