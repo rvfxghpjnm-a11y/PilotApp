@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T00:12:46",
+  "generated_at": "2026-01-16T00:14:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -21,14 +21,14 @@
       "time": "Thu Jan 15 23:11:00 CET 2026",
       "times": {
         "eta_schleuse": "08:22",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "03:46",
+        "delta_rueb_schleuse": "04:36",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": null,
+      "eta_rueb": "03:46",
       "eta_schleuse": "08:22",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:36",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -235,14 +235,14 @@
       "time": "Thu Jan 15 23:11:00 CET 2026",
       "times": {
         "eta_schleuse": "08:22",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "03:46",
+        "delta_rueb_schleuse": "04:36",
+        "delta_start_rueb": "03:34"
       },
-      "eta_rueb": null,
+      "eta_rueb": "03:46",
       "eta_schleuse": "08:22",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:36",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -419,14 +419,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:07",
+      "eta_rueb_kiel": "04:09",
       "eta_rueb": "03:15",
       "ship": "MIRVA VG",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:11",
+      "eta_rueb_kiel": "04:13",
       "eta_rueb": "04:00",
       "ship": "NOREN",
       "q_gruppe": "4",
