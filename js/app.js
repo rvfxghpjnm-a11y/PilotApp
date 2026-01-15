@@ -50,7 +50,7 @@ async function loadPersons() {
   try {
     const res = await fetch("data/workstart_index.json", { cache: "no-store" });
     const data = await res.json();
-
+    console.log("DEBUG workstart_index:", data);
     // 🔑 Sicherstellen, dass key zu Dateinamen passt (nachname_vorname)
     data.persons.forEach(p => {
       if (!p.key && p.vorname && p.nachname) {
