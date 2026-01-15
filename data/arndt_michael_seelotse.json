@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T12:42:46",
+  "generated_at": "2026-01-15T12:44:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -332,13 +332,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:52",
+        "eta_schleuse": "12:54",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:52",
+      "eta_schleuse": "12:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -349,19 +349,14 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "KIRAN AMERICA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 06:23:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:20",
-        "eta_rueb": "12:43",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:37"
-      },
-      "eta_rueb": "12:43",
-      "eta_schleuse": "17:20",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -693,13 +688,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:52",
+        "eta_schleuse": "12:54",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:52",
+      "eta_schleuse": "12:54",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -710,19 +705,14 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Kanalbört",
       "nr": 19,
-      "fahrzeug": "KIRAN AMERICA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Thu Jan 15 06:23:00 CET 2026",
-      "times": {
-        "eta_schleuse": "17:20",
-        "eta_rueb": "12:43",
-        "delta_rueb_schleuse": "04:37",
-        "delta_start_rueb": "03:37"
-      },
-      "eta_rueb": "12:43",
-      "eta_schleuse": "17:20",
-      "delta_rueb_schleuse": "04:37",
-      "delta_start_rueb": "03:37"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -748,6 +738,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "12:45",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "13:45",
       "eta_rueb": "13:30",
