@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T07:34:55",
+  "generated_at": "2026-01-15T07:36:54",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -80,8 +80,8 @@
       "name": "Gunnar Thomsen",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "AASHEIM",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 06:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -117,14 +117,14 @@
       "time": "Thu Jan 15 05:35:00 CET 2026",
       "times": {
         "eta_schleuse": "14:37",
-        "eta_rueb": "09:57",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:29"
+        "eta_rueb": "09:56",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "09:57",
+      "eta_rueb": "09:56",
       "eta_schleuse": "14:37",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:29"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
@@ -305,14 +305,14 @@
       "time": "Thu Jan 15 05:35:00 CET 2026",
       "times": {
         "eta_schleuse": "14:37",
-        "eta_rueb": "09:57",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:29"
+        "eta_rueb": "09:56",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:28"
       },
-      "eta_rueb": "09:57",
+      "eta_rueb": "09:56",
       "eta_schleuse": "14:37",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:29"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:28"
     },
     {
       "is_target": false,
