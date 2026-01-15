@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:24:55",
+  "generated_at": "2026-01-15T06:26:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -107,45 +107,45 @@
     },
     {
       "is_target": false,
-      "vorname": "Dennis",
-      "nachname": "Heyenga",
-      "name": "Dennis Heyenga",
-      "aufgabe": "Seebört",
-      "nr": 7,
-      "fahrzeug": "RIX VOYAGER",
-      "route": "HOS → KLT",
-      "time": "Thu Jan 15 01:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:26",
-        "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:11",
-        "delta_start_rueb": "04:57"
-      },
-      "eta_rueb": "02:15",
-      "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "04:11",
-      "delta_start_rueb": "04:57"
-    },
-    {
-      "is_target": false,
       "vorname": "Sven Kare",
       "nachname": "Tietjens",
       "name": "Sven Kare Tietjens",
       "aufgabe": "Seebört",
-      "nr": 8,
+      "nr": 7,
       "fahrzeug": "AMBER TRADER",
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:37",
+        "eta_schleuse": "06:39",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:37",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "06:39",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:14"
+    },
+    {
+      "is_target": false,
+      "vorname": "Dennis",
+      "nachname": "Heyenga",
+      "name": "Dennis Heyenga",
+      "aufgabe": "Seebört",
+      "nr": 8,
+      "fahrzeug": "RIX VOYAGER",
+      "route": "HOS → KLT",
+      "time": "Thu Jan 15 01:50:00 CET 2026",
+      "times": {
+        "eta_schleuse": "06:28",
+        "eta_rueb": "02:15",
+        "delta_rueb_schleuse": "04:13",
+        "delta_start_rueb": "04:57"
+      },
+      "eta_rueb": "02:15",
+      "eta_schleuse": "06:28",
+      "delta_rueb_schleuse": "04:13",
+      "delta_start_rueb": "04:57"
     },
     {
       "is_target": false,
@@ -158,14 +158,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:30",
+        "eta_schleuse": "06:32",
         "eta_rueb": "02:19",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "02:19",
-      "eta_schleuse": "06:30",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "06:32",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:37"
     },
     {
@@ -179,14 +179,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:26",
+        "eta_schleuse": "06:28",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "06:28",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:57"
     },
     {
@@ -207,11 +207,32 @@
     },
     {
       "is_target": false,
+      "vorname": "Sören",
+      "nachname": "Ehlers",
+      "name": "Sören Ehlers",
+      "aufgabe": "Kanalbört",
+      "nr": 12,
+      "fahrzeug": "SEGULA",
+      "route": "RÜB → UTG",
+      "time": "Thu Jan 15 00:14:00 CET 2026",
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": "06:12",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "06:12",
+      "eta_schleuse": "09:42",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:14"
+    },
+    {
+      "is_target": false,
       "vorname": "Torben",
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 13,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
@@ -225,27 +246,6 @@
       "eta_schleuse": "10:18",
       "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:21"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SEGULA",
-      "route": "RÜB → UTG",
-      "time": "Thu Jan 15 00:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:43",
-        "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "06:12",
-      "eta_schleuse": "09:43",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -308,15 +308,36 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:26",
+        "eta_schleuse": "06:28",
         "eta_rueb": "02:15",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:13",
         "delta_start_rueb": "04:57"
       },
       "eta_rueb": "02:15",
-      "eta_schleuse": "06:26",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "06:28",
+      "delta_rueb_schleuse": "04:13",
       "delta_start_rueb": "04:57"
+    },
+    {
+      "is_target": false,
+      "vorname": "Sören",
+      "nachname": "Ehlers",
+      "name": "Sören Ehlers",
+      "aufgabe": "Kanalbört",
+      "nr": 12,
+      "fahrzeug": "SEGULA",
+      "route": "RÜB → UTG",
+      "time": "Thu Jan 15 00:14:00 CET 2026",
+      "times": {
+        "eta_schleuse": "09:42",
+        "eta_rueb": "06:12",
+        "delta_rueb_schleuse": "03:30",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "06:12",
+      "eta_schleuse": "09:42",
+      "delta_rueb_schleuse": "03:30",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -324,7 +345,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 12,
+      "nr": 13,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
@@ -338,27 +359,6 @@
       "eta_schleuse": "10:18",
       "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:21"
-    },
-    {
-      "is_target": false,
-      "vorname": "Sören",
-      "nachname": "Ehlers",
-      "name": "Sören Ehlers",
-      "aufgabe": "Kanalbört",
-      "nr": 13,
-      "fahrzeug": "SEGULA",
-      "route": "RÜB → UTG",
-      "time": "Thu Jan 15 00:14:00 CET 2026",
-      "times": {
-        "eta_schleuse": "09:43",
-        "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:14"
-      },
-      "eta_rueb": "06:12",
-      "eta_schleuse": "09:43",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:14"
     }
   ],
   "meldungen_kiel": [],
