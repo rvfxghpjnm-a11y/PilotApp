@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T03:58:46",
+  "generated_at": "2026-01-15T04:00:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -412,7 +412,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "06:52",
+      "eta_rueb_kiel": "06:51",
       "eta_rueb": "06:35",
       "ship": "WILSON GDANSK",
       "q_gruppe": "5",
