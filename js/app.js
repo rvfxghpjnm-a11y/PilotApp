@@ -511,18 +511,7 @@ async function loadBoert() {
       html += '<div style="opacity:.6; padding:8px">Keine Tauschpartner gefunden</div>';
     }
 
-          html += '</div>';
-        }
-        
-        if (tp.bemerkung) {
-          html += `<div style="margin-top: 8px; font-size: 12px; color: #fbbf24;">📝 ${escapeHtml(tp.bemerkung)}</div>`;
-        }
-        
-        html += '</div>';
-      });
-      
-      html += '</div>';
-    }
+	
     
     // Lotsen Liste (expandable)
     if (filteredLotsen.length > 0) {
