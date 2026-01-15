@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T19:20:50",
+  "generated_at": "2026-01-15T19:22:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,11 +19,16 @@
       "fahrzeug": "ARKLOW BEACH",
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:20",
+        "eta_rueb": "23:44",
+        "delta_rueb_schleuse": "75:36",
+        "delta_start_rueb": "67:38"
+      },
+      "eta_rueb": "23:44",
+      "eta_schleuse": "03:20",
+      "delta_rueb_schleuse": "75:36",
+      "delta_start_rueb": "67:38"
     },
     {
       "is_target": false,
@@ -51,16 +56,11 @@
       "fahrzeug": "VISSERSBANK",
       "route": "HOS → KLT",
       "time": "Thu Jan 15 18:46:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:08",
-        "eta_rueb": "15:38",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "04:52"
-      },
-      "eta_rueb": "15:38",
-      "eta_schleuse": "19:08",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "04:52"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -287,11 +287,16 @@
       "fahrzeug": "ARKLOW BEACH",
       "route": "NHF → RÜB",
       "time": "Thu Jan 15 19:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "03:20",
+        "eta_rueb": "23:44",
+        "delta_rueb_schleuse": "75:36",
+        "delta_start_rueb": "67:38"
+      },
+      "eta_rueb": "23:44",
+      "eta_schleuse": "03:20",
+      "delta_rueb_schleuse": "75:36",
+      "delta_start_rueb": "67:38"
     },
     {
       "is_target": false,
