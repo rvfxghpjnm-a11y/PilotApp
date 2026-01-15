@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T02:44:45",
+  "generated_at": "2026-01-15T02:46:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:34",
+        "eta_schleuse": "06:33",
         "eta_rueb": "03:00",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:00",
-      "eta_schleuse": "06:34",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "06:33",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:10"
     },
     {
@@ -41,14 +41,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:38",
+        "eta_schleuse": "06:37",
         "eta_rueb": "03:03",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "03:03",
-      "eta_schleuse": "06:38",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "06:37",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:15"
     },
     {
@@ -237,27 +237,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Heiko",
-      "nachname": "Hoffmann",
-      "name": "Heiko Hoffmann",
-      "aufgabe": "Distanzbört",
-      "nr": 12,
-      "fahrzeug": "SEELÖWE + PONTON",
-      "route": "HLH → HLH",
-      "time": "Wed Jan 14 22:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Helge",
       "nachname": "Buch",
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "BALTIC FIN",
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 19:34:00 CET 2026",
@@ -278,7 +262,7 @@
       "nachname": "Groen",
       "name": "Nickolaj Groen",
       "aufgabe": "Seebört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Wed Jan 14 19:00:00 CET 2026",
@@ -301,14 +285,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:34",
+        "eta_schleuse": "06:33",
         "eta_rueb": "03:00",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:00",
-      "eta_schleuse": "06:34",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "06:33",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:10"
     },
     {
@@ -322,14 +306,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:38",
+        "eta_schleuse": "06:37",
         "eta_rueb": "03:03",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "03:03",
-      "eta_schleuse": "06:38",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "06:37",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "04:15"
     },
     {
@@ -506,7 +490,7 @@
       "nachname": "Buch",
       "name": "Helge Buch",
       "aufgabe": "Kanalbört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "BALTIC FIN",
       "route": "RÜB → HOS",
       "time": "Wed Jan 14 19:34:00 CET 2026",
