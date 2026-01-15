@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T16:38:49",
+  "generated_at": "2026-01-15T16:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "ORP KONTRADMIRAL XAVERY CZERNICKI",
-      "route": "KLT → TSI",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Thu Jan 15 12:59:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -115,14 +115,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:27",
+        "eta_schleuse": "17:28",
         "eta_rueb": "13:57",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "13:57",
-      "eta_schleuse": "17:27",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "17:28",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "05:07"
     },
     {
