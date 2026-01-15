@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T12:24:49",
+  "generated_at": "2026-01-15T12:26:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 16,
     "wach": 1,
-    "see": 5
+    "see": 4
   },
   "times": null,
   "lotsen": [
@@ -116,14 +116,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 11:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:24",
+        "eta_schleuse": "12:27",
         "eta_rueb": "06:12",
-        "delta_rueb_schleuse": "06:12",
+        "delta_rueb_schleuse": "06:15",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "06:12",
-      "eta_schleuse": "12:24",
-      "delta_rueb_schleuse": "06:12",
+      "eta_schleuse": "12:27",
+      "delta_rueb_schleuse": "06:15",
       "delta_start_rueb": "04:14"
     },
     {
@@ -153,15 +153,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 10:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:44",
-        "eta_rueb": "16:18",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:34"
+        "eta_schleuse": "20:46",
+        "eta_rueb": "16:19",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:35"
       },
-      "eta_rueb": "16:18",
-      "eta_schleuse": "20:44",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:34"
+      "eta_rueb": "16:19",
+      "eta_schleuse": "20:46",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -316,13 +316,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:28",
+        "eta_schleuse": "12:33",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:28",
+      "eta_schleuse": "12:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -399,22 +399,6 @@
       "eta_schleuse": "13:29",
       "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:19"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Hilpert",
-      "name": "Jan Hilpert",
-      "aufgabe": "Seebört",
-      "nr": 22,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Thu Jan 15 03:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -509,15 +493,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 10:38:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:44",
-        "eta_rueb": "16:18",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:34"
+        "eta_schleuse": "20:46",
+        "eta_rueb": "16:19",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:35"
       },
-      "eta_rueb": "16:18",
-      "eta_schleuse": "20:44",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:34"
+      "eta_rueb": "16:19",
+      "eta_schleuse": "20:46",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:35"
     },
     {
       "is_target": false,
@@ -672,13 +656,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:28",
+        "eta_schleuse": "12:33",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "12:28",
+      "eta_schleuse": "12:33",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
