@@ -51,6 +51,13 @@ async function loadPersons() {
     const res = await fetch("data/workstart_index.json", { cache: "no-store" });
     const data = await res.json();
 
+    // 🔑 Sicherstellen, dass key zu Dateinamen passt (nachname_vorname)
+    data.persons.forEach(p => {
+      if (!p.key && p.vorname && p.nachname) {
+        p.key = `${p.nachname.toLowerCase()}_${p.vorname.toLowerCase()}`;
+      }
+    });
+	
     personsEl.innerHTML = "";
 
     data.persons.forEach((p, idx) => {
@@ -389,7 +396,7 @@ async function loadBoert() {
 
     if (filterActive) {
       const fromTs = boertFromDate ? boertFromDate.getTime() : null;
-      const toTs   = boertToDate   ? boertToDate.getTime()   : null;
+      const toTs   = boertToDate   04? boertToDate.getTime()   : null;
 
       filteredLotsen = filteredLotsen.filter(lotse => {
         if (!lotse.times) return false;
