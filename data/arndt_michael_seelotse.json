@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T15:02:48",
+  "generated_at": "2026-01-15T15:04:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,8 +32,8 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "BALTIC ANKA",
-      "route": "HOS → KLT",
+      "fahrzeug": "ORP KONTRADMIRAL XAVERY CZERNICKI",
+      "route": "KLT → TSI",
       "time": "Thu Jan 15 12:59:00 CET 2026",
       "times": null,
       "eta_rueb": null,
