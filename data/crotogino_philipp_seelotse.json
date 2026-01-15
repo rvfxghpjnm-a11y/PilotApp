@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:46:53",
+  "generated_at": "2026-01-15T06:48:56",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -137,14 +137,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 01:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:50",
+        "eta_schleuse": "06:52",
         "eta_rueb": "03:02",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "03:02",
-      "eta_schleuse": "06:50",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "06:52",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "04:14"
     },
     {
