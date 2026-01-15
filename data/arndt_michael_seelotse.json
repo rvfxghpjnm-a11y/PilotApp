@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T20:36:49",
+  "generated_at": "2026-01-15T20:38:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -148,8 +148,8 @@
       "name": "Christoph Bodmann",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "TIMCA",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 12:59:00 CET 2026",
       "times": null,
       "eta_rueb": null,
