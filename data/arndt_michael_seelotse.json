@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T23:12:40",
+  "generated_at": "2026-01-15T23:14:40",
   "status": "seelotse",
   "person": {
     "vorname": "Michael",
@@ -409,7 +409,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "01:00",
+      "eta_rueb_kiel": "00:59",
       "eta_rueb": "00:45",
       "ship": "BALTIC SEA",
       "q_gruppe": "5",
@@ -433,6 +433,13 @@
       "eta_rueb_kiel": "05:08",
       "eta_rueb": "05:10",
       "ship": "CHARLOTTA",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "05:11",
+      "eta_rueb": "05:15",
+      "ship": "SKALAR",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
