@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T09:38:46",
+  "generated_at": "2026-01-15T09:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 0,
-    "see": 7
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -132,13 +132,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:38",
+        "eta_schleuse": "09:40",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:38",
+      "eta_schleuse": "09:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -282,27 +282,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Michael",
-      "nachname": "Krebs",
-      "name": "Michael Krebs",
-      "aufgabe": "Seebört",
-      "nr": 17,
-      "fahrzeug": "PATRIA SEAWAYS",
-      "route": "KLT → SWK",
-      "time": "Thu Jan 15 00:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Torben",
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
@@ -442,13 +426,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:38",
+        "eta_schleuse": "09:40",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:38",
+      "eta_schleuse": "09:40",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -500,7 +484,7 @@
       "nachname": "Keyser",
       "name": "Torben Keyser",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "WILSON GDANSK",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 00:14:00 CET 2026",
