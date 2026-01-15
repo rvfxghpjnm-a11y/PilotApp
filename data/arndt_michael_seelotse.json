@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T09:12:48",
+  "generated_at": "2026-01-15T09:14:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -116,13 +116,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:12",
+        "eta_schleuse": "09:14",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:12",
+      "eta_schleuse": "09:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -137,15 +137,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 06:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:21",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "18:22",
+        "eta_rueb": "13:55",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:49"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "18:21",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "13:55",
+      "eta_schleuse": "18:22",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -426,13 +426,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:12",
+        "eta_schleuse": "09:14",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:12",
+      "eta_schleuse": "09:14",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -447,15 +447,15 @@
       "route": "HOS → RÜB",
       "time": "Thu Jan 15 06:23:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:21",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "18:22",
+        "eta_rueb": "13:55",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:49"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "18:21",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "13:55",
+      "eta_schleuse": "18:22",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:49"
     },
     {
       "is_target": false,
@@ -531,7 +531,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:26",
+      "eta_rueb_kiel": "13:25",
       "eta_rueb": "13:03",
       "ship": "YARA KARA",
       "q_gruppe": "1",
