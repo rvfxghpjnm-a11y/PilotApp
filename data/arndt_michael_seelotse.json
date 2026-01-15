@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T16:04:49",
+  "generated_at": "2026-01-15T16:06:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,13 +20,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:04",
+        "eta_schleuse": "16:06",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "16:04",
+      "eta_schleuse": "16:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -195,8 +195,8 @@
       "name": "Florian Koch",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "SEGULA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Jan 15 11:10:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -307,13 +307,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 13:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:04",
+        "eta_schleuse": "16:06",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "16:04",
+      "eta_schleuse": "16:06",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
