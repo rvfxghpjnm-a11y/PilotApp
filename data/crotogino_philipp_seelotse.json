@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T05:40:53",
+  "generated_at": "2026-01-15T05:42:53",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -136,14 +136,14 @@
       "route": "HOS → KLT",
       "time": "Thu Jan 15 00:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:12",
+        "eta_schleuse": "06:11",
         "eta_rueb": "02:12",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "02:12",
-      "eta_schleuse": "06:12",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "06:11",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:54"
     },
     {
@@ -332,7 +332,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:15",
+      "eta_rueb_kiel": "06:13",
       "eta_rueb": "06:10",
       "ship": "SEGULA",
       "q_gruppe": "4",
