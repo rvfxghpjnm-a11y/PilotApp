@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T09:24:47",
+  "generated_at": "2026-01-15T09:26:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -132,13 +132,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:24",
+        "eta_schleuse": "09:26",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:24",
+      "eta_schleuse": "09:26",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -442,13 +442,13 @@
       "route": "WAU → WAU",
       "time": "Thu Jan 15 06:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "09:24",
+        "eta_schleuse": "09:26",
         "eta_rueb": null,
         "delta_rueb_schleuse": null,
         "delta_start_rueb": null
       },
       "eta_rueb": null,
-      "eta_schleuse": "09:24",
+      "eta_schleuse": "09:26",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -533,21 +533,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:20",
+      "eta_rueb_kiel": "11:19",
       "eta_rueb": "11:15",
       "ship": "EMOTION",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:54",
+      "eta_rueb_kiel": "13:52",
       "eta_rueb": "12:50",
       "ship": "FAIRPLAY 62 + TITAAN + WAALSTROOM",
       "q_gruppe": "3",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:57",
+      "eta_rueb_kiel": "13:55",
       "eta_rueb": "13:03",
       "ship": "YARA KARA",
       "q_gruppe": "1",
