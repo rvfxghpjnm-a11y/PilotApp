@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T00:14:45",
+  "generated_at": "2026-01-16T00:16:44",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -84,14 +84,14 @@
       "time": "Thu Jan 15 21:21:00 CET 2026",
       "times": {
         "eta_schleuse": "06:10",
-        "eta_rueb": "01:43",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "eta_rueb": "01:42",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "01:43",
+      "eta_rueb": "01:42",
       "eta_schleuse": "06:10",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -298,14 +298,14 @@
       "time": "Thu Jan 15 21:21:00 CET 2026",
       "times": {
         "eta_schleuse": "06:10",
-        "eta_rueb": "01:43",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:33"
+        "eta_rueb": "01:42",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "01:43",
+      "eta_rueb": "01:42",
       "eta_schleuse": "06:10",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:33"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -419,28 +419,28 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:09",
+      "eta_rueb_kiel": "04:07",
       "eta_rueb": "03:15",
       "ship": "MIRVA VG",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:13",
+      "eta_rueb_kiel": "04:10",
       "eta_rueb": "04:00",
       "ship": "NOREN",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:06",
+      "eta_rueb_kiel": "05:05",
       "eta_rueb": "05:10",
       "ship": "CHARLOTTA",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:09",
+      "eta_rueb_kiel": "05:08",
       "eta_rueb": "05:15",
       "ship": "SKALAR",
       "q_gruppe": "1",
