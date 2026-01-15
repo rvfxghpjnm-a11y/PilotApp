@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T20:12:47",
+  "generated_at": "2026-01-15T20:14:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -228,8 +228,8 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "FAIRPLAY 62 + TITAAN + WAALSTROOM",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Thu Jan 15 12:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -373,5 +373,20 @@
     }
   ],
   "meldungen_kiel": [],
-  "ruesterbergen": []
+  "ruesterbergen": [
+    {
+      "eta_rueb_kiel": "00:50",
+      "eta_rueb": "00:15",
+      "ship": "KARILIN",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "00:53",
+      "eta_rueb": "00:20",
+      "ship": "TRANS FJELL",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    }
+  ]
 }
