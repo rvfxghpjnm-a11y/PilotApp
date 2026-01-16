@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T08:12:41",
+  "generated_at": "2026-01-16T08:14:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -119,14 +119,14 @@
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
         "eta_schleuse": "14:58",
-        "eta_rueb": "10:02",
-        "delta_rueb_schleuse": "04:56",
-        "delta_start_rueb": "04:22"
+        "eta_rueb": "10:01",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:21"
       },
-      "eta_rueb": "10:02",
+      "eta_rueb": "10:01",
       "eta_schleuse": "14:58",
-      "delta_rueb_schleuse": "04:56",
-      "delta_start_rueb": "04:22"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
@@ -406,14 +406,14 @@
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
         "eta_schleuse": "14:58",
-        "eta_rueb": "10:02",
-        "delta_rueb_schleuse": "04:56",
-        "delta_start_rueb": "04:22"
+        "eta_rueb": "10:01",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "04:21"
       },
-      "eta_rueb": "10:02",
+      "eta_rueb": "10:01",
       "eta_schleuse": "14:58",
-      "delta_rueb_schleuse": "04:56",
-      "delta_start_rueb": "04:22"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "04:21"
     },
     {
       "is_target": false,
