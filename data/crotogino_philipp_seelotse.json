@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T01:12:46",
+  "generated_at": "2026-01-16T01:14:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -42,14 +42,14 @@
       "time": "Thu Jan 15 21:49:00 CET 2026",
       "times": {
         "eta_schleuse": "08:22",
-        "eta_rueb": "03:09",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "04:23"
+        "eta_rueb": "03:10",
+        "delta_rueb_schleuse": "05:12",
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": "03:09",
+      "eta_rueb": "03:10",
       "eta_schleuse": "08:22",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "04:23"
+      "delta_rueb_schleuse": "05:12",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -63,14 +63,14 @@
       "time": "Thu Jan 15 21:37:00 CET 2026",
       "times": {
         "eta_schleuse": "08:19",
-        "eta_rueb": "03:06",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "03:07",
+        "delta_rueb_schleuse": "05:12",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "03:06",
+      "eta_rueb": "03:07",
       "eta_schleuse": "08:19",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "05:12",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -255,14 +255,14 @@
       "time": "Thu Jan 15 21:49:00 CET 2026",
       "times": {
         "eta_schleuse": "08:22",
-        "eta_rueb": "03:09",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "04:23"
+        "eta_rueb": "03:10",
+        "delta_rueb_schleuse": "05:12",
+        "delta_start_rueb": "04:24"
       },
-      "eta_rueb": "03:09",
+      "eta_rueb": "03:10",
       "eta_schleuse": "08:22",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "04:23"
+      "delta_rueb_schleuse": "05:12",
+      "delta_start_rueb": "04:24"
     },
     {
       "is_target": false,
@@ -276,14 +276,14 @@
       "time": "Thu Jan 15 21:37:00 CET 2026",
       "times": {
         "eta_schleuse": "08:19",
-        "eta_rueb": "03:06",
-        "delta_rueb_schleuse": "05:13",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "03:07",
+        "delta_rueb_schleuse": "05:12",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "03:06",
+      "eta_rueb": "03:07",
       "eta_schleuse": "08:19",
-      "delta_rueb_schleuse": "05:13",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "05:12",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
