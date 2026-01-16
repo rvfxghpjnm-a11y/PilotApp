@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T02:10:46",
+  "generated_at": "2026-01-16T02:12:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -189,14 +189,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:48",
+        "eta_schleuse": "04:47",
         "eta_rueb": "00:37",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:37",
-      "eta_schleuse": "04:48",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "04:47",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:33"
     },
     {
@@ -354,14 +354,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:48",
+        "eta_schleuse": "04:47",
         "eta_rueb": "00:37",
-        "delta_rueb_schleuse": "04:11",
+        "delta_rueb_schleuse": "04:10",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:37",
-      "eta_schleuse": "04:48",
-      "delta_rueb_schleuse": "04:11",
+      "eta_schleuse": "04:47",
+      "delta_rueb_schleuse": "04:10",
       "delta_start_rueb": "04:33"
     },
     {
@@ -396,7 +396,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:56",
+      "eta_rueb_kiel": "02:55",
       "eta_rueb": "03:15",
       "ship": "MIRVA VG",
       "q_gruppe": "4",
