@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T17:20:48",
+  "generated_at": "2026-01-16T17:22:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,8 +106,8 @@
       "name": "René Winkler",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "NORDIC SUND",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 12:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -227,14 +227,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:23",
+        "eta_schleuse": "19:22",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:23",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "19:22",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:59"
     },
     {
@@ -419,14 +419,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:23",
+        "eta_schleuse": "19:22",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:23",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "19:22",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:59"
     },
     {
@@ -503,7 +503,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:00",
+      "eta_rueb_kiel": "19:59",
       "eta_rueb": "19:53",
       "ship": "KATTEGAT",
       "q_gruppe": "3",
