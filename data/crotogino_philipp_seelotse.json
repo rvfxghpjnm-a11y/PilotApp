@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T04:26:46",
+  "generated_at": "2026-01-16T04:28:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -576,28 +576,28 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:10",
+      "eta_rueb_kiel": "05:09",
       "eta_rueb": "05:20",
       "ship": "FL STOROE",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:14",
+      "eta_rueb_kiel": "07:12",
       "eta_rueb": "07:15",
       "ship": "NECKARBORG",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:17",
+      "eta_rueb_kiel": "07:15",
       "eta_rueb": "07:20",
       "ship": "UHL FIGHTER",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:38",
+      "eta_rueb_kiel": "07:36",
       "eta_rueb": "07:45",
       "ship": "ELBRUNNER",
       "q_gruppe": "2",
