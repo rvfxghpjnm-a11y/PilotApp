@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T00:42:46",
+  "generated_at": "2026-01-17T00:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -175,8 +175,8 @@
       "name": "Sven Janson",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "BALTIC DREAM",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 16 18:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
