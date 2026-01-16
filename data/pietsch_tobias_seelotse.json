@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:28:40",
+  "generated_at": "2026-01-16T06:30:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -99,14 +99,14 @@
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
         "eta_schleuse": "14:58",
-        "eta_rueb": "10:06",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:26"
+        "eta_rueb": "10:05",
+        "delta_rueb_schleuse": "04:53",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "10:06",
+      "eta_rueb": "10:05",
       "eta_schleuse": "14:58",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:26"
+      "delta_rueb_schleuse": "04:53",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -434,14 +434,14 @@
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
         "eta_schleuse": "14:58",
-        "eta_rueb": "10:06",
-        "delta_rueb_schleuse": "04:52",
-        "delta_start_rueb": "04:26"
+        "eta_rueb": "10:05",
+        "delta_rueb_schleuse": "04:53",
+        "delta_start_rueb": "04:25"
       },
-      "eta_rueb": "10:06",
+      "eta_rueb": "10:05",
       "eta_schleuse": "14:58",
-      "delta_rueb_schleuse": "04:52",
-      "delta_start_rueb": "04:26"
+      "delta_rueb_schleuse": "04:53",
+      "delta_start_rueb": "04:25"
     },
     {
       "is_target": false,
@@ -645,14 +645,14 @@
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "11:12",
+      "eta_rueb_kiel": "11:11",
       "eta_rueb": "10:40",
       "ship": "PEAK BREMEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "11:14",
       "eta_rueb": "10:45",
       "ship": "PRIME",
       "q_gruppe": "2",
