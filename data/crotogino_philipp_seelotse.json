@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T22:42:46",
+  "generated_at": "2026-01-16T22:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -32,19 +32,19 @@
       "name": "Peter Böttcher",
       "aufgabe": "Seebört",
       "nr": 2,
-      "fahrzeug": "BALTICBORG",
+      "fahrzeug": "CORAL IVORY",
       "route": "HOS → KLT",
       "time": "Fri Jan 16 20:00:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:12",
-        "eta_rueb": "19:43",
+        "eta_schleuse": "23:15",
+        "eta_rueb": "19:46",
         "delta_rueb_schleuse": "03:29",
-        "delta_start_rueb": "05:01"
+        "delta_start_rueb": "04:32"
       },
-      "eta_rueb": "19:43",
-      "eta_schleuse": "23:12",
+      "eta_rueb": "19:46",
+      "eta_schleuse": "23:15",
       "delta_rueb_schleuse": "03:29",
-      "delta_start_rueb": "05:01"
+      "delta_start_rueb": "04:32"
     },
     {
       "is_target": false,
@@ -503,7 +503,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:21",
+      "eta_rueb_kiel": "02:20",
       "eta_rueb": "02:30",
       "ship": "PVT AURORA",
       "q_gruppe": "1",
