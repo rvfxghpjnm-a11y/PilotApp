@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:20:47",
+  "generated_at": "2026-01-16T12:22:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -561,7 +561,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": null,
+      "eta_rueb_kiel": "17:45",
       "eta_rueb": "17:40",
       "ship": "ECO ZEPHYR",
       "q_gruppe": "0",
