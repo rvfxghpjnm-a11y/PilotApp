@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T05:22:38",
+  "generated_at": "2026-01-16T05:24:38",
   "person": {
     "vorname": "tobias",
     "nachname": "pietsch"
@@ -1443,6 +1443,15 @@
       "from_meldung_alt": "2026-01-16 05:50",
       "calc_div2": "2026-01-16 05:52",
       "calc_div3": "2026-01-16 05:42",
+      "real_start": null
+    },
+    {
+      "ts_calc": "2026-01-16 05:24",
+      "pos": 1,
+      "from_meldung": "2026-01-16 05:50",
+      "from_meldung_alt": "2026-01-16 05:50",
+      "calc_div2": "2026-01-16 05:54",
+      "calc_div3": "2026-01-16 05:44",
       "real_start": null
     }
   ]
