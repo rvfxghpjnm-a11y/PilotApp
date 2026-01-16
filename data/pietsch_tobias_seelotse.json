@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:44:39",
+  "generated_at": "2026-01-16T10:46:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -17,9 +17,9 @@
     "see": 9
   },
   "times": {
-    "eta_schleuse": "10:46",
+    "eta_schleuse": "10:47",
     "eta_rueb": "07:06",
-    "delta_rueb_schleuse": "03:40",
+    "delta_rueb_schleuse": "03:41",
     "delta_start_rueb": "05:24"
   },
   "lotsen": [
@@ -113,14 +113,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:56",
+        "eta_schleuse": "10:58",
         "eta_rueb": "07:29",
-        "delta_rueb_schleuse": "03:27",
+        "delta_rueb_schleuse": "03:29",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "07:29",
-      "eta_schleuse": "10:56",
-      "delta_rueb_schleuse": "03:27",
+      "eta_schleuse": "10:58",
+      "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:17"
     },
     {
@@ -134,14 +134,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:49",
+        "eta_schleuse": "10:51",
         "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "05:28"
       },
       "eta_rueb": "07:08",
-      "eta_schleuse": "10:49",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "10:51",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "05:28"
     },
     {
@@ -155,14 +155,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:46",
+        "eta_schleuse": "10:47",
         "eta_rueb": "07:06",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "07:06",
-      "eta_schleuse": "10:46",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:47",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "05:24"
     },
     {
