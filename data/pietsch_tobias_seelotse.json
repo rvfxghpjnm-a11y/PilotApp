@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:14:39",
+  "generated_at": "2026-01-16T10:16:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -17,9 +17,9 @@
     "see": 9
   },
   "times": {
-    "eta_schleuse": "10:46",
+    "eta_schleuse": "10:44",
     "eta_rueb": "07:06",
-    "delta_rueb_schleuse": "03:40",
+    "delta_rueb_schleuse": "03:38",
     "delta_start_rueb": "05:24"
   },
   "lotsen": [
@@ -150,14 +150,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:46",
+        "eta_schleuse": "10:44",
         "eta_rueb": "07:06",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:38",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "07:06",
-      "eta_schleuse": "10:46",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "10:44",
+      "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "05:24"
     },
     {
