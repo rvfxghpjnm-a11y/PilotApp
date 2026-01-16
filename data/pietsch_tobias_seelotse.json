@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T13:24:41",
+  "generated_at": "2026-01-16T13:26:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -131,8 +131,8 @@
       "name": "Jörg Flink",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "SCHARHOERN ALT",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 11:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -263,8 +263,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "MERSEY",
-      "route": "NWK → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 08:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
