@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T04:30:46",
+  "generated_at": "2026-01-16T04:32:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,15 +52,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "12:32",
+        "eta_rueb": "08:05",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "08:05",
+      "eta_schleuse": "12:32",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -69,14 +69,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONGA SAPPHIRE",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:39",
+        "eta_rueb": "05:05",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "05:05",
+      "eta_schleuse": "08:39",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -85,14 +90,19 @@
       "name": "Oliver Schran",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FL STOROE",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:43",
+        "eta_rueb": "05:09",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "05:09",
+      "eta_schleuse": "08:43",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -170,14 +180,19 @@
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CHARLOTTA",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 23:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:35",
+        "eta_rueb": "05:02",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "06:14"
+      },
+      "eta_rueb": "05:02",
+      "eta_schleuse": "08:35",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "06:14"
     },
     {
       "is_target": false,
@@ -186,14 +201,19 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKALAR",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:31",
+        "eta_rueb": "04:58",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:52"
+      },
+      "eta_rueb": "04:58",
+      "eta_schleuse": "08:31",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:52"
     },
     {
       "is_target": false,
@@ -345,15 +365,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_schleuse": "12:32",
+        "eta_rueb": "08:05",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": null,
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "eta_rueb": "08:05",
+      "eta_schleuse": "12:32",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -362,14 +382,19 @@
       "name": "Henning Blome",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SONGA SAPPHIRE",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:39",
+        "eta_rueb": "05:05",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "05:05",
+      "eta_schleuse": "08:39",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -378,14 +403,19 @@
       "name": "Oliver Schran",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FL STOROE",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:43",
+        "eta_rueb": "05:09",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:41"
+      },
+      "eta_rueb": "05:09",
+      "eta_schleuse": "08:43",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:41"
     },
     {
       "is_target": false,
@@ -415,14 +445,19 @@
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "CHARLOTTA",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 23:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:35",
+        "eta_rueb": "05:02",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "06:14"
+      },
+      "eta_rueb": "05:02",
+      "eta_schleuse": "08:35",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "06:14"
     },
     {
       "is_target": false,
@@ -431,14 +466,19 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 11,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SKALAR",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:49:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:31",
+        "eta_rueb": "04:58",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "05:52"
+      },
+      "eta_rueb": "04:58",
+      "eta_schleuse": "08:31",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "05:52"
     },
     {
       "is_target": false,
@@ -564,34 +604,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "05:02",
-      "eta_rueb": "05:10",
-      "ship": "CHARLOTTA",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "04:58",
-      "eta_rueb": "05:15",
-      "ship": "SKALAR",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "05:05",
-      "eta_rueb": "05:18",
-      "ship": "SONGA SAPPHIRE",
-      "q_gruppe": "2",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "05:09",
-      "eta_rueb": "05:20",
-      "ship": "FL STOROE",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "07:12",
       "eta_rueb": "07:15",
