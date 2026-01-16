@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T05:58:38",
+  "generated_at": "2026-01-16T06:00:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -649,7 +649,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:13",
+      "eta_rueb_kiel": "07:11",
       "eta_rueb": "07:08",
       "ship": "UHL FIGHTER",
       "q_gruppe": "1",
