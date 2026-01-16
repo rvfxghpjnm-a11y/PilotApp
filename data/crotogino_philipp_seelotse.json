@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T16:30:53",
+  "generated_at": "2026-01-16T16:32:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -42,14 +42,14 @@
       "time": "Fri Jan 16 13:23:00 CET 2026",
       "times": {
         "eta_schleuse": "23:17",
-        "eta_rueb": "18:19",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "18:18",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "18:19",
+      "eta_rueb": "18:18",
       "eta_schleuse": "23:17",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -170,8 +170,8 @@
       "name": "Rainer Heeren",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SCA OBBOLA",
+      "route": "OUH → KLT",
       "time": "Fri Jan 16 10:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -206,14 +206,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:25",
+        "eta_schleuse": "19:24",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:25",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:24",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:59"
     },
     {
@@ -293,14 +293,14 @@
       "time": "Fri Jan 16 13:23:00 CET 2026",
       "times": {
         "eta_schleuse": "23:17",
-        "eta_rueb": "18:19",
-        "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "03:57"
+        "eta_rueb": "18:18",
+        "delta_rueb_schleuse": "04:59",
+        "delta_start_rueb": "03:56"
       },
-      "eta_rueb": "18:19",
+      "eta_rueb": "18:18",
       "eta_schleuse": "23:17",
-      "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "03:57"
+      "delta_rueb_schleuse": "04:59",
+      "delta_start_rueb": "03:56"
     },
     {
       "is_target": false,
@@ -361,14 +361,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:25",
+        "eta_schleuse": "19:24",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:38",
+        "delta_rueb_schleuse": "03:37",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:25",
-      "delta_rueb_schleuse": "03:38",
+      "eta_schleuse": "19:24",
+      "delta_rueb_schleuse": "03:37",
       "delta_start_rueb": "04:59"
     },
     {
@@ -445,7 +445,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:58",
+      "eta_rueb_kiel": "19:57",
       "eta_rueb": "19:50",
       "ship": "BALTIC DREAM",
       "q_gruppe": "5",
