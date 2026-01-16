@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T16:10:48",
+  "generated_at": "2026-01-16T16:12:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -122,19 +122,14 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "ARNE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 11:13:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:02",
-        "eta_rueb": "16:11",
-        "delta_rueb_schleuse": "04:51",
-        "delta_start_rueb": "03:43"
-      },
-      "eta_rueb": "16:11",
-      "eta_schleuse": "21:02",
-      "delta_rueb_schleuse": "04:51",
-      "delta_start_rueb": "03:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -143,8 +138,8 @@
       "name": "Jörg Flink",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "PEAK BREMEN",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 16 11:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -253,14 +248,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Jan 16 08:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:11",
+        "eta_schleuse": "19:10",
         "eta_rueb": "15:11",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "15:11",
-      "eta_schleuse": "19:11",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "19:10",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:23"
     }
   ],
@@ -346,19 +341,14 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "ARNE",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 11:13:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:02",
-        "eta_rueb": "16:11",
-        "delta_rueb_schleuse": "04:51",
-        "delta_start_rueb": "03:43"
-      },
-      "eta_rueb": "16:11",
-      "eta_schleuse": "21:02",
-      "delta_rueb_schleuse": "04:51",
-      "delta_start_rueb": "03:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -413,14 +403,14 @@
       "route": "RÜB → UTG",
       "time": "Fri Jan 16 08:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:11",
+        "eta_schleuse": "19:10",
         "eta_rueb": "15:11",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:23"
       },
       "eta_rueb": "15:11",
-      "eta_schleuse": "19:11",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "19:10",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:23"
     }
   ],
