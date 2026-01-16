@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:26:45",
+  "generated_at": "2026-01-16T10:28:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -99,14 +99,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:59",
+        "eta_schleuse": "10:57",
         "eta_rueb": "07:29",
-        "delta_rueb_schleuse": "03:30",
+        "delta_rueb_schleuse": "03:28",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "07:29",
-      "eta_schleuse": "10:59",
-      "delta_rueb_schleuse": "03:30",
+      "eta_schleuse": "10:57",
+      "delta_rueb_schleuse": "03:28",
       "delta_start_rueb": "04:17"
     },
     {
@@ -254,8 +254,8 @@
       "name": "Henning Blome",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "FERROMAR",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 03:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -438,21 +438,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:01",
+      "eta_rueb_kiel": "11:02",
       "eta_rueb": "11:00",
       "ship": "MAIKE",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "11:04",
+      "eta_rueb_kiel": "11:06",
       "eta_rueb": "11:03",
       "ship": "PEAK BREMEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:07",
+      "eta_rueb_kiel": "11:09",
       "eta_rueb": "11:05",
       "ship": "PRIME",
       "q_gruppe": "2",
