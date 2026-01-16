@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T13:34:49",
+  "generated_at": "2026-01-16T13:36:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -290,14 +290,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:40",
+        "eta_schleuse": "14:41",
         "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "11:05",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "14:41",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:43"
     },
     {
@@ -492,14 +492,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:40",
+        "eta_schleuse": "14:41",
         "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:36",
         "delta_start_rueb": "04:43"
       },
       "eta_rueb": "11:05",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "14:41",
+      "delta_rueb_schleuse": "03:36",
       "delta_start_rueb": "04:43"
     },
     {
@@ -527,7 +527,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:22",
+      "eta_rueb_kiel": "15:20",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
       "q_gruppe": "5",
