@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T14:46:46",
+  "generated_at": "2026-01-16T14:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -72,16 +72,11 @@
       "fahrzeug": "PRIME",
       "route": "HOS → KLT",
       "time": "Fri Jan 16 12:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:46",
-        "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "03:41",
-        "delta_start_rueb": "04:43"
-      },
-      "eta_rueb": "11:05",
-      "eta_schleuse": "14:46",
-      "delta_rueb_schleuse": "03:41",
-      "delta_start_rueb": "04:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -151,16 +146,11 @@
       "fahrzeug": "PEAK BREMEN",
       "route": "HOS → KLT",
       "time": "Fri Jan 16 11:00:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:40",
-        "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "04:42"
-      },
-      "eta_rueb": "11:02",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "04:42"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -273,16 +263,11 @@
       "fahrzeug": "PRIME",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:12:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:46",
-        "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "03:41",
-        "delta_start_rueb": "04:43"
-      },
-      "eta_rueb": "11:05",
-      "eta_schleuse": "14:46",
-      "delta_rueb_schleuse": "03:41",
-      "delta_start_rueb": "04:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -294,16 +279,11 @@
       "fahrzeug": "PEAK BREMEN",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 04:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:40",
-        "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "04:42"
-      },
-      "eta_rueb": "11:02",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "04:42"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -481,16 +461,11 @@
       "fahrzeug": "PRIME",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:12:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:46",
-        "eta_rueb": "11:05",
-        "delta_rueb_schleuse": "03:41",
-        "delta_start_rueb": "04:43"
-      },
-      "eta_rueb": "11:05",
-      "eta_schleuse": "14:46",
-      "delta_rueb_schleuse": "03:41",
-      "delta_start_rueb": "04:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -502,16 +477,11 @@
       "fahrzeug": "PEAK BREMEN",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 04:37:00 CET 2026",
-      "times": {
-        "eta_schleuse": "14:40",
-        "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "04:42"
-      },
-      "eta_rueb": "11:02",
-      "eta_schleuse": "14:40",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "04:42"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -549,6 +519,20 @@
       "eta_rueb": "17:40",
       "ship": "ECO ZEPHYR",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:14",
+      "eta_rueb": "19:00",
+      "ship": "LADY MARIE CHRISTINE",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:54",
+      "eta_rueb": "19:40",
+      "ship": "BALTICBORG",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
