@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:44:40",
+  "generated_at": "2026-01-16T12:46:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -61,14 +61,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:43",
+        "eta_schleuse": "20:44",
         "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "03:46"
       },
       "eta_rueb": "16:16",
-      "eta_schleuse": "20:43",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "20:44",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "03:46"
     },
     {
@@ -152,8 +152,8 @@
       "name": "Nils Föhring",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "MV AGUIMES",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Jan 16 10:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -396,14 +396,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:43",
+        "eta_schleuse": "20:44",
         "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "03:46"
       },
       "eta_rueb": "16:16",
-      "eta_schleuse": "20:43",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "20:44",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "03:46"
     },
     {
