@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T09:56:47",
+  "generated_at": "2026-01-16T09:58:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 10,
+    "kanal": 7,
     "wach": 0,
-    "see": 7
+    "see": 10
   },
   "times": null,
   "lotsen": [
@@ -75,34 +75,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Jakob",
-      "name": "Peter Jakob",
-      "aufgabe": "Kanalbört",
-      "nr": 5,
-      "fahrzeug": "UHL FIGHTER",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 05:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "10:51",
-        "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "05:28"
-      },
-      "eta_rueb": "07:08",
-      "eta_schleuse": "10:51",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "05:28"
-    },
-    {
-      "is_target": false,
       "vorname": "Helge",
       "nachname": "Buch",
       "name": "Helge Buch",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
+      "aufgabe": "Seebört",
+      "nr": 5,
       "fahrzeug": "ELBRUNNER",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
         "eta_schleuse": "11:00",
@@ -117,13 +96,34 @@
     },
     {
       "is_target": false,
+      "vorname": "Peter",
+      "nachname": "Jakob",
+      "name": "Peter Jakob",
+      "aufgabe": "Seebört",
+      "nr": 6,
+      "fahrzeug": "UHL FIGHTER",
+      "route": "HOS → KLT",
+      "time": "Fri Jan 16 05:50:00 CET 2026",
+      "times": {
+        "eta_schleuse": "10:51",
+        "eta_rueb": "07:08",
+        "delta_rueb_schleuse": "03:43",
+        "delta_start_rueb": "05:28"
+      },
+      "eta_rueb": "07:08",
+      "eta_schleuse": "10:51",
+      "delta_rueb_schleuse": "03:43",
+      "delta_start_rueb": "05:28"
+    },
+    {
+      "is_target": false,
       "vorname": "Tobias",
       "nachname": "Pietsch",
       "name": "Tobias Pietsch",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 7,
       "fahrzeug": "NECKARBORG",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
         "eta_schleuse": "10:46",
@@ -355,69 +355,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Jakob",
-      "name": "Peter Jakob",
-      "aufgabe": "Kanalbört",
-      "nr": 5,
-      "fahrzeug": "UHL FIGHTER",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 05:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "10:51",
-        "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "03:43",
-        "delta_start_rueb": "05:28"
-      },
-      "eta_rueb": "07:08",
-      "eta_schleuse": "10:51",
-      "delta_rueb_schleuse": "03:43",
-      "delta_start_rueb": "05:28"
-    },
-    {
-      "is_target": false,
-      "vorname": "Helge",
-      "nachname": "Buch",
-      "name": "Helge Buch",
-      "aufgabe": "Kanalbört",
-      "nr": 6,
-      "fahrzeug": "ELBRUNNER",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 05:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:00",
-        "eta_rueb": "07:29",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "07:29",
-      "eta_schleuse": "11:00",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:17"
-    },
-    {
-      "is_target": false,
-      "vorname": "Tobias",
-      "nachname": "Pietsch",
-      "name": "Tobias Pietsch",
-      "aufgabe": "Kanalbört",
-      "nr": 7,
-      "fahrzeug": "NECKARBORG",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 05:50:00 CET 2026",
-      "times": {
-        "eta_schleuse": "10:46",
-        "eta_rueb": "07:06",
-        "delta_rueb_schleuse": "03:40",
-        "delta_start_rueb": "05:24"
-      },
-      "eta_rueb": "07:06",
-      "eta_schleuse": "10:46",
-      "delta_rueb_schleuse": "03:40",
-      "delta_start_rueb": "05:24"
     },
     {
       "is_target": false,
