@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:14:46",
+  "generated_at": "2026-01-16T22:16:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 10,
     "wach": 1,
-    "see": 4
+    "see": 6
   },
   "times": null,
   "lotsen": [
@@ -69,14 +69,14 @@
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
         "eta_schleuse": "05:36",
-        "eta_rueb": "00:49",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "00:48",
+        "delta_rueb_schleuse": "04:48",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "00:49",
+      "eta_rueb": "00:48",
       "eta_schleuse": "05:36",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:48",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -89,15 +89,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 19:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:46",
-        "eta_rueb": "01:19",
+        "eta_schleuse": "05:45",
+        "eta_rueb": "01:18",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:23"
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "01:19",
-      "eta_schleuse": "05:46",
+      "eta_rueb": "01:18",
+      "eta_schleuse": "05:45",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:23"
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -152,10 +152,10 @@
       "vorname": "Jan",
       "nachname": "Hilpert",
       "name": "Jan Hilpert",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 9,
       "fahrzeug": "KATTEGAT",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Jan 16 18:30:00 CET 2026",
       "times": {
         "eta_schleuse": "23:24",
@@ -243,35 +243,30 @@
       "time": "Fri Jan 16 16:41:00 CET 2026",
       "times": {
         "eta_schleuse": "02:00",
-        "eta_rueb": "22:27",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:09"
+        "eta_rueb": "22:26",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:08"
       },
-      "eta_rueb": "22:27",
+      "eta_rueb": "22:26",
       "eta_schleuse": "02:00",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:09"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
       "vorname": "Christoph",
       "nachname": "Malik",
       "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "CORAL IVORY",
-      "route": "RÜB → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Jan 16 13:23:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:16",
-        "eta_rueb": "19:46",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "19:46",
-      "eta_schleuse": "23:16",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "04:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -361,14 +356,14 @@
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
         "eta_schleuse": "05:36",
-        "eta_rueb": "00:49",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:51"
+        "eta_rueb": "00:48",
+        "delta_rueb_schleuse": "04:48",
+        "delta_start_rueb": "03:50"
       },
-      "eta_rueb": "00:49",
+      "eta_rueb": "00:48",
       "eta_schleuse": "05:36",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:51"
+      "delta_rueb_schleuse": "04:48",
+      "delta_start_rueb": "03:50"
     },
     {
       "is_target": false,
@@ -381,36 +376,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 19:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:46",
-        "eta_rueb": "01:19",
+        "eta_schleuse": "05:45",
+        "eta_rueb": "01:18",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:23"
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "01:19",
-      "eta_schleuse": "05:46",
+      "eta_rueb": "01:18",
+      "eta_schleuse": "05:45",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:23"
-    },
-    {
-      "is_target": false,
-      "vorname": "Jan",
-      "nachname": "Hilpert",
-      "name": "Jan Hilpert",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "KATTEGAT",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 18:30:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:24",
-        "eta_rueb": "19:54",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "19:54",
-      "eta_schleuse": "23:24",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "04:20"
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -487,35 +461,14 @@
       "time": "Fri Jan 16 16:41:00 CET 2026",
       "times": {
         "eta_schleuse": "02:00",
-        "eta_rueb": "22:27",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "04:09"
+        "eta_rueb": "22:26",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "04:08"
       },
-      "eta_rueb": "22:27",
+      "eta_rueb": "22:26",
       "eta_schleuse": "02:00",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "04:09"
-    },
-    {
-      "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "CORAL IVORY",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 13:23:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:16",
-        "eta_rueb": "19:46",
-        "delta_rueb_schleuse": "03:30",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "19:46",
-      "eta_schleuse": "23:16",
-      "delta_rueb_schleuse": "03:30",
-      "delta_start_rueb": "04:32"
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "04:08"
     },
     {
       "is_target": false,
