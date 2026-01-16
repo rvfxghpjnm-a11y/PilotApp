@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:02:38",
+  "generated_at": "2026-01-16T10:04:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -205,8 +205,8 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "CHARLOTTA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 16 04:08:00 CET 2026",
       "times": null,
       "eta_rueb": null,
