@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T04:54:47",
+  "generated_at": "2026-01-16T04:56:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -110,14 +110,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:42",
+        "eta_schleuse": "08:40",
         "eta_rueb": "05:08",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "05:08",
-      "eta_schleuse": "08:42",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "08:40",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:40"
     },
     {
@@ -413,14 +413,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:42",
+        "eta_schleuse": "08:40",
         "eta_rueb": "05:08",
-        "delta_rueb_schleuse": "03:34",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "05:08",
-      "eta_schleuse": "08:42",
-      "delta_rueb_schleuse": "03:34",
+      "eta_schleuse": "08:40",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "04:40"
     },
     {
@@ -592,7 +592,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:15",
+      "eta_rueb_kiel": "07:14",
       "eta_rueb": "07:20",
       "ship": "UHL FIGHTER",
       "q_gruppe": "1",
