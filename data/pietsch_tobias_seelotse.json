@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T04:04:46",
+  "generated_at": "2026-01-16T04:06:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -280,14 +280,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:45",
+        "eta_schleuse": "04:42",
         "eta_rueb": "00:37",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:05",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:37",
-      "eta_schleuse": "04:45",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "04:42",
+      "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:33"
     },
     {
@@ -301,14 +301,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 17:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:41",
+        "eta_schleuse": "04:39",
         "eta_rueb": "00:33",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:33",
-      "eta_schleuse": "04:41",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "04:39",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:33"
     }
   ],
@@ -504,14 +504,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:10:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:45",
+        "eta_schleuse": "04:42",
         "eta_rueb": "00:37",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:05",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:37",
-      "eta_schleuse": "04:45",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "04:42",
+      "delta_rueb_schleuse": "04:05",
       "delta_start_rueb": "04:33"
     },
     {
@@ -525,14 +525,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 17:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:41",
+        "eta_schleuse": "04:39",
         "eta_rueb": "00:33",
-        "delta_rueb_schleuse": "04:08",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:33",
-      "eta_schleuse": "04:41",
-      "delta_rueb_schleuse": "04:08",
+      "eta_schleuse": "04:39",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:33"
     }
   ],
@@ -553,7 +553,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:08",
+      "eta_rueb_kiel": "05:07",
       "eta_rueb": "05:18",
       "ship": "SONGA SAPPHIRE",
       "q_gruppe": "2",
