@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T18:10:46",
+  "generated_at": "2026-01-16T18:12:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -62,14 +62,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 14:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:15",
+        "eta_schleuse": "19:14",
         "eta_rueb": "15:40",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "15:40",
-      "eta_schleuse": "19:15",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "19:14",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:52"
     },
     {
@@ -79,19 +79,14 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "TARNBRIS",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 13:23:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:12",
-        "eta_rueb": "18:11",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "03:49"
-      },
-      "eta_rueb": "18:11",
-      "eta_schleuse": "23:12",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "03:49"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -221,14 +216,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:19",
+        "eta_schleuse": "19:18",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:19",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "19:18",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:59"
     },
     {
@@ -242,14 +237,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:09",
+        "eta_schleuse": "19:08",
         "eta_rueb": "15:36",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:50"
       },
       "eta_rueb": "15:36",
-      "eta_schleuse": "19:09",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "19:08",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:50"
     },
     {
@@ -328,14 +323,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 14:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:15",
+        "eta_schleuse": "19:14",
         "eta_rueb": "15:40",
-        "delta_rueb_schleuse": "03:35",
+        "delta_rueb_schleuse": "03:34",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "15:40",
-      "eta_schleuse": "19:15",
-      "delta_rueb_schleuse": "03:35",
+      "eta_schleuse": "19:14",
+      "delta_rueb_schleuse": "03:34",
       "delta_start_rueb": "05:52"
     },
     {
@@ -345,19 +340,14 @@
       "name": "Christoph Malik",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "TARNBRIS",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 13:23:00 CET 2026",
-      "times": {
-        "eta_schleuse": "23:12",
-        "eta_rueb": "18:11",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "03:49"
-      },
-      "eta_rueb": "18:11",
-      "eta_schleuse": "23:12",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "03:49"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -423,14 +413,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:19",
+        "eta_schleuse": "19:18",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:19",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "19:18",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:59"
     },
     {
@@ -444,14 +434,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:58:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:09",
+        "eta_schleuse": "19:08",
         "eta_rueb": "15:36",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:32",
         "delta_start_rueb": "05:50"
       },
       "eta_rueb": "15:36",
-      "eta_schleuse": "19:09",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "19:08",
+      "delta_rueb_schleuse": "03:32",
       "delta_start_rueb": "05:50"
     },
     {
