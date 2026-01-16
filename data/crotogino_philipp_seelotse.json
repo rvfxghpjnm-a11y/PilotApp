@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:00:49",
+  "generated_at": "2026-01-16T12:02:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -96,14 +96,19 @@
       "name": "Rainer Heeren",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSUN",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 10:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:55",
+        "eta_rueb": "12:21",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:15"
+      },
+      "eta_rueb": "12:21",
+      "eta_schleuse": "15:55",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:15"
     },
     {
       "is_target": false,
@@ -432,14 +437,19 @@
       "name": "Rainer Heeren",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "ELBSUN",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 10:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "15:55",
+        "eta_rueb": "12:21",
+        "delta_rueb_schleuse": "03:34",
+        "delta_start_rueb": "05:15"
+      },
+      "eta_rueb": "12:21",
+      "eta_schleuse": "15:55",
+      "delta_rueb_schleuse": "03:34",
+      "delta_start_rueb": "05:15"
     },
     {
       "is_target": false,
@@ -586,13 +596,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "12:21",
-      "eta_rueb": "12:15",
-      "ship": "ELBSUN",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "12:15",
