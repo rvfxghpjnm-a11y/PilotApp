@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:04:46",
+  "generated_at": "2026-01-16T10:06:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -51,9 +51,14 @@
       "fahrzeug": "ZAPADNYY",
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 08:58:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -329,9 +334,14 @@
       "fahrzeug": "ZAPADNYY",
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 08:58:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "18:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "18:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -436,14 +446,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:18",
+      "eta_rueb_kiel": "15:51",
       "eta_rueb": "14:00",
       "ship": "ECO LEVANT",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:21",
+      "eta_rueb_kiel": "15:54",
       "eta_rueb": "14:05",
       "ship": "RUTH",
       "q_gruppe": "2",
