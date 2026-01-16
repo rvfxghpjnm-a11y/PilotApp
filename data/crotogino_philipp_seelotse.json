@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:54:45",
+  "generated_at": "2026-01-16T12:56:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -558,7 +558,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:25",
+      "eta_rueb_kiel": "15:24",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
       "q_gruppe": "5",
