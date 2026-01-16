@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T16:16:47",
+  "generated_at": "2026-01-16T16:18:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -138,8 +138,8 @@
       "name": "Jörg Flink",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "CONTAINERSHIPS AURORA",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 11:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -424,7 +424,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:14",
+      "eta_rueb_kiel": "19:13",
       "eta_rueb": "19:05",
       "ship": "LADY MARIE CHRISTINE",
       "q_gruppe": "4",
