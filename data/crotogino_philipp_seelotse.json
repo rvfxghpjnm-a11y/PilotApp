@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-16T04:52:46",
+  "generated_at": "2026-01-16T04:54:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 13,
+    "kanal": 12,
     "wach": 1,
     "see": 5
   },
@@ -222,14 +222,14 @@
       "time": "Thu Jan 15 21:49:00 CET 2026",
       "times": {
         "eta_schleuse": "08:30",
-        "eta_rueb": "04:57",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "05:51"
+        "eta_rueb": "04:55",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:49"
       },
-      "eta_rueb": "04:57",
+      "eta_rueb": "04:55",
       "eta_schleuse": "08:30",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "05:51"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:49"
     },
     {
       "is_target": false,
@@ -316,14 +316,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:53",
+        "eta_schleuse": "04:54",
         "eta_rueb": "00:53",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "04:01",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:53",
-      "eta_schleuse": "04:53",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "04:54",
+      "delta_rueb_schleuse": "04:01",
       "delta_start_rueb": "04:11"
     },
     {
@@ -336,22 +336,6 @@
       "fahrzeug": "TRANS FJELL",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Hannes",
-      "nachname": "Rink",
-      "name": "Hannes Rink",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "KARILIN",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 15 17:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -493,14 +477,14 @@
       "time": "Thu Jan 15 21:49:00 CET 2026",
       "times": {
         "eta_schleuse": "08:30",
-        "eta_rueb": "04:57",
-        "delta_rueb_schleuse": "03:33",
-        "delta_start_rueb": "05:51"
+        "eta_rueb": "04:55",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "05:49"
       },
-      "eta_rueb": "04:57",
+      "eta_rueb": "04:55",
       "eta_schleuse": "08:30",
-      "delta_rueb_schleuse": "03:33",
-      "delta_start_rueb": "05:51"
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "05:49"
     },
     {
       "is_target": false,
@@ -571,14 +555,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:53",
+        "eta_schleuse": "04:54",
         "eta_rueb": "00:53",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "04:01",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:53",
-      "eta_schleuse": "04:53",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "04:54",
+      "delta_rueb_schleuse": "04:01",
       "delta_start_rueb": "04:11"
     },
     {
@@ -591,22 +575,6 @@
       "fahrzeug": "TRANS FJELL",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:10:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Hannes",
-      "nachname": "Rink",
-      "name": "Hannes Rink",
-      "aufgabe": "Kanalbört",
-      "nr": 19,
-      "fahrzeug": "KARILIN",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 15 17:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -631,7 +599,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:36",
+      "eta_rueb_kiel": "07:35",
       "eta_rueb": "07:45",
       "ship": "ELBRUNNER",
       "q_gruppe": "2",
