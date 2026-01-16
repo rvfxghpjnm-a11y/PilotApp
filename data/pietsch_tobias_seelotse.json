@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T20:38:48",
+  "generated_at": "2026-01-16T20:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 11,
     "wach": 1,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -330,22 +330,6 @@
       "eta_schleuse": "21:49",
       "delta_rueb_schleuse": "04:14",
       "delta_start_rueb": "05:19"
-    },
-    {
-      "is_target": false,
-      "vorname": "Rainer",
-      "nachname": "Heeren",
-      "name": "Rainer Heeren",
-      "aufgabe": "Seebört",
-      "nr": 18,
-      "fahrzeug": "AMARANTH",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 16 10:55:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
