@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T14:00:40",
+  "generated_at": "2026-01-16T14:02:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -57,8 +57,8 @@
       "name": "René Winkler",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "HELGOLAND",
-      "route": "UTG → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Jan 16 12:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -115,14 +115,14 @@
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
         "eta_schleuse": "21:00",
-        "eta_rueb": "16:20",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:52"
+        "eta_rueb": "16:19",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:51"
       },
-      "eta_rueb": "16:20",
+      "eta_rueb": "16:19",
       "eta_schleuse": "21:00",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:52"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:51"
     },
     {
       "is_target": false,
@@ -131,14 +131,19 @@
       "name": "Jörg Flink",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "PEAK BREMEN",
+      "route": "HOS → KLT",
       "time": "Fri Jan 16 11:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "14:35",
+        "eta_rueb": "11:02",
+        "delta_rueb_schleuse": "03:33",
+        "delta_start_rueb": "04:42"
+      },
+      "eta_rueb": "11:02",
+      "eta_schleuse": "14:35",
+      "delta_rueb_schleuse": "03:33",
+      "delta_start_rueb": "04:42"
     },
     {
       "is_target": false,
@@ -263,8 +268,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "Leerfahrt",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Fri Jan 16 08:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -397,14 +402,14 @@
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
         "eta_schleuse": "21:00",
-        "eta_rueb": "16:20",
-        "delta_rueb_schleuse": "04:40",
-        "delta_start_rueb": "03:52"
+        "eta_rueb": "16:19",
+        "delta_rueb_schleuse": "04:41",
+        "delta_start_rueb": "03:51"
       },
-      "eta_rueb": "16:20",
+      "eta_rueb": "16:19",
       "eta_schleuse": "21:00",
-      "delta_rueb_schleuse": "04:40",
-      "delta_start_rueb": "03:52"
+      "delta_rueb_schleuse": "04:41",
+      "delta_start_rueb": "03:51"
     },
     {
       "is_target": false,
@@ -564,7 +569,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:45",
+      "eta_rueb_kiel": "17:46",
       "eta_rueb": "17:40",
       "ship": "ECO ZEPHYR",
       "q_gruppe": "0",
