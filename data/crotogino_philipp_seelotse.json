@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T02:24:45",
+  "generated_at": "2026-01-16T02:26:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -79,14 +79,19 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MIRVA VG",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:21:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:29",
+        "eta_rueb": "02:54",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:10"
+      },
+      "eta_rueb": "02:54",
+      "eta_schleuse": "06:29",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -111,8 +116,8 @@
       "name": "Alexander Migge",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SOLITAS-H",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -287,14 +292,19 @@
       "name": "Michael Arndt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MIRVA VG",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:21:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "06:29",
+        "eta_rueb": "02:54",
+        "delta_rueb_schleuse": "03:35",
+        "delta_start_rueb": "04:10"
+      },
+      "eta_rueb": "02:54",
+      "eta_schleuse": "06:29",
+      "delta_rueb_schleuse": "03:35",
+      "delta_start_rueb": "04:10"
     },
     {
       "is_target": false,
@@ -303,8 +313,8 @@
       "name": "Alexander Migge",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SOLITAS-H",
+      "route": "RÜB → HOS",
       "time": "Thu Jan 15 19:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -378,20 +388,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "02:30",
-      "ship": "SOLITAS-H",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
-      "eta_rueb_kiel": "02:54",
-      "eta_rueb": "03:15",
-      "ship": "MIRVA VG",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "04:08",
       "eta_rueb": "04:00",
