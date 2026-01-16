@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-16T09:04:47",
+  "generated_at": "2026-01-16T09:06:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 0,
     "see": 7
   },
@@ -310,22 +310,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Niels",
-      "nachname": "Münker",
-      "name": "Niels Münker",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "CHARLOTTA",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 15 23:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -518,22 +502,6 @@
       "eta_schleuse": "13:07",
       "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "05:00"
-    },
-    {
-      "is_target": false,
-      "vorname": "Niels",
-      "nachname": "Münker",
-      "name": "Niels Münker",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "CHARLOTTA",
-      "route": "RÜB → HOS",
-      "time": "Thu Jan 15 23:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
