@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T00:50:46",
+  "generated_at": "2026-01-17T00:52:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Janning Otten",
       "aufgabe": "Seebört",
       "nr": 1,
-      "fahrzeug": "BALTICBORG",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 16 22:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -53,8 +53,8 @@
       "name": "Peter Böttcher",
       "aufgabe": "Seebört",
       "nr": 3,
-      "fahrzeug": "CORAL IVORY",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 16 20:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -85,19 +85,14 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "AMADEUS DIAMOND",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 19:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "05:24",
-        "eta_rueb": "00:43",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:45"
-      },
-      "eta_rueb": "00:43",
-      "eta_schleuse": "05:24",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:45"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -143,8 +138,8 @@
       "name": "Gregor Kubica",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "LADY MARIE CHRISTINE",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 16 18:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -272,19 +267,14 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "AMADEUS DIAMOND",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 19:55:00 CET 2026",
-      "times": {
-        "eta_schleuse": "05:24",
-        "eta_rueb": "00:43",
-        "delta_rueb_schleuse": "04:41",
-        "delta_start_rueb": "03:45"
-      },
-      "eta_rueb": "00:43",
-      "eta_schleuse": "05:24",
-      "delta_rueb_schleuse": "04:41",
-      "delta_start_rueb": "03:45"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -397,14 +387,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:27",
+      "eta_rueb_kiel": "04:25",
       "eta_rueb": "04:47",
       "ship": "ROSEBURG",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:30",
+      "eta_rueb_kiel": "04:28",
       "eta_rueb": "04:49",
       "ship": "KIARA",
       "q_gruppe": "4",
