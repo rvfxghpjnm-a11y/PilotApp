@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T14:06:48",
+  "generated_at": "2026-01-16T14:08:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 10,
     "wach": 0,
-    "see": 6
+    "see": 5
   },
   "times": null,
   "lotsen": [
@@ -89,15 +89,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:41",
-        "eta_rueb": "16:14",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:44"
+        "eta_schleuse": "20:39",
+        "eta_rueb": "16:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "16:14",
-      "eta_schleuse": "20:41",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:44"
+      "eta_rueb": "16:11",
+      "eta_schleuse": "20:39",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -259,27 +259,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Stefan",
-      "nachname": "Bruhn",
-      "name": "Stefan Bruhn",
-      "aufgabe": "Seebört",
-      "nr": 14,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Fri Jan 16 08:45:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Tobias",
       "nachname": "Pietsch",
       "name": "Tobias Pietsch",
       "aufgabe": "Seebört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "TARNBRIS",
       "route": "KLT → HOS",
       "time": "Fri Jan 16 05:50:00 CET 2026",
@@ -295,7 +279,7 @@
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "PRIME",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:12:00 CET 2026",
@@ -316,7 +300,7 @@
       "nachname": "Munz",
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "PEAK BREMEN",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 04:37:00 CET 2026",
@@ -376,15 +360,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:41",
-        "eta_rueb": "16:14",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:44"
+        "eta_schleuse": "20:39",
+        "eta_rueb": "16:11",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:41"
       },
-      "eta_rueb": "16:14",
-      "eta_schleuse": "20:41",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:44"
+      "eta_rueb": "16:11",
+      "eta_schleuse": "20:39",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:41"
     },
     {
       "is_target": false,
@@ -497,7 +481,7 @@
       "nachname": "Jeske",
       "name": "Lutz Jeske",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "PRIME",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:12:00 CET 2026",
@@ -518,7 +502,7 @@
       "nachname": "Munz",
       "name": "Joachim Munz",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "PEAK BREMEN",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 04:37:00 CET 2026",
@@ -537,7 +521,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:18",
+      "eta_rueb_kiel": "15:17",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
       "q_gruppe": "5",
