@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T21:22:48",
+  "generated_at": "2026-01-16T21:24:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -106,8 +106,8 @@
       "name": "Gregor Kubica",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "TRAVIATA",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 18:47:00 CET 2026",
       "times": null,
       "eta_rueb": null,
