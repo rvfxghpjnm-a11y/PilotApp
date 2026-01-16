@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:22:39",
+  "generated_at": "2026-01-16T10:24:42",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -33,9 +33,14 @@
       "fahrzeug": "RIX LAGOON",
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 08:59:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:03",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:03",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -321,9 +326,14 @@
       "fahrzeug": "RIX LAGOON",
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 08:59:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "19:03",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "19:03",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
