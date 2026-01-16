@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T15:04:48",
+  "generated_at": "2026-01-16T15:06:50",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -16,8 +16,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 14:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -127,14 +127,14 @@
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
         "eta_schleuse": "20:58",
-        "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:48"
+        "eta_rueb": "16:15",
+        "delta_rueb_schleuse": "04:43",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "16:16",
+      "eta_rueb": "16:15",
       "eta_schleuse": "20:58",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:48"
+      "delta_rueb_schleuse": "04:43",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -267,8 +267,8 @@
       "name": "Oleif Johann Böttger",
       "aufgabe": "Kanalbört",
       "nr": 1,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 14:20:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -346,14 +346,14 @@
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
         "eta_schleuse": "20:58",
-        "eta_rueb": "16:16",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:48"
+        "eta_rueb": "16:15",
+        "delta_rueb_schleuse": "04:43",
+        "delta_start_rueb": "03:47"
       },
-      "eta_rueb": "16:16",
+      "eta_rueb": "16:15",
       "eta_schleuse": "20:58",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:48"
+      "delta_rueb_schleuse": "04:43",
+      "delta_start_rueb": "03:47"
     },
     {
       "is_target": false,
@@ -433,21 +433,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:38",
+      "eta_rueb_kiel": "15:37",
       "eta_rueb": "15:35",
       "ship": "ECO LEVANT",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:41",
+      "eta_rueb_kiel": "15:40",
       "eta_rueb": "15:38",
       "ship": "RUTH",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:47",
+      "eta_rueb_kiel": "15:45",
       "eta_rueb": "15:41",
       "ship": "LADY ELA",
       "q_gruppe": "3",
