@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:18:39",
+  "generated_at": "2026-01-16T12:20:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 10,
     "wach": 0,
-    "see": 9
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -311,8 +311,8 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "MAIKE",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -340,22 +340,6 @@
       "eta_schleuse": "13:03",
       "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "04:59"
-    },
-    {
-      "is_target": false,
-      "vorname": "Micha",
-      "nachname": "Steffens",
-      "name": "Micha Steffens",
-      "aufgabe": "Seebört",
-      "nr": 19,
-      "fahrzeug": "WL-SEE",
-      "route": "HOS → HOS",
-      "time": "Fri Jan 16 03:00:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -524,8 +508,8 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "MAIKE",
-      "route": "RÜB → KRH",
+      "fahrzeug": "Leerfahrt",
+      "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -558,13 +542,6 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "12:15",
-      "ship": "Leerfahrt",
-      "q_gruppe": "",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "15:22",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
@@ -590,6 +567,13 @@
       "eta_rueb": "15:30",
       "ship": "LADY ELA",
       "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "17:40",
+      "ship": "ECO ZEPHYR",
+      "q_gruppe": "0",
       "route": "RÜB → HOS"
     }
   ]
