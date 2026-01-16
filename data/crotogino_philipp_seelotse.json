@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T19:10:47",
+  "generated_at": "2026-01-16T19:12:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -36,14 +36,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 18:47:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:20",
+        "eta_schleuse": "19:22",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:20",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "19:22",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:59"
     },
     {
@@ -111,14 +111,14 @@
       "time": "Fri Jan 16 18:18:00 CET 2026",
       "times": {
         "eta_schleuse": "03:41",
-        "eta_rueb": "23:14",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:10"
+        "eta_rueb": "23:13",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "23:14",
+      "eta_rueb": "23:13",
       "eta_schleuse": "03:41",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:10"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -173,14 +173,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 14:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:16",
+        "eta_schleuse": "19:15",
         "eta_rueb": "15:40",
-        "delta_rueb_schleuse": "03:36",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "05:52"
       },
       "eta_rueb": "15:40",
-      "eta_schleuse": "19:16",
-      "delta_rueb_schleuse": "03:36",
+      "eta_schleuse": "19:15",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "05:52"
     },
     {
@@ -300,14 +300,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:20",
+        "eta_schleuse": "19:22",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:20",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "19:22",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:59"
     },
     {
@@ -341,16 +341,11 @@
       "fahrzeug": "HILDA B",
       "route": "RÜB → UTG",
       "time": "Fri Jan 16 08:58:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:10",
-        "eta_rueb": "15:11",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "15:11",
-      "eta_schleuse": "19:10",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -398,14 +393,14 @@
       "time": "Fri Jan 16 18:18:00 CET 2026",
       "times": {
         "eta_schleuse": "03:41",
-        "eta_rueb": "23:14",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:10"
+        "eta_rueb": "23:13",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:09"
       },
-      "eta_rueb": "23:14",
+      "eta_rueb": "23:13",
       "eta_schleuse": "03:41",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:10"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:09"
     },
     {
       "is_target": false,
@@ -534,14 +529,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:20",
+        "eta_schleuse": "19:22",
         "eta_rueb": "15:47",
-        "delta_rueb_schleuse": "03:33",
+        "delta_rueb_schleuse": "03:35",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "15:47",
-      "eta_schleuse": "19:20",
-      "delta_rueb_schleuse": "03:33",
+      "eta_schleuse": "19:22",
+      "delta_rueb_schleuse": "03:35",
       "delta_start_rueb": "04:59"
     },
     {
@@ -575,16 +570,11 @@
       "fahrzeug": "HILDA B",
       "route": "RÜB → UTG",
       "time": "Fri Jan 16 08:58:00 CET 2026",
-      "times": {
-        "eta_schleuse": "19:10",
-        "eta_rueb": "15:11",
-        "delta_rueb_schleuse": "03:59",
-        "delta_start_rueb": "04:23"
-      },
-      "eta_rueb": "15:11",
-      "eta_schleuse": "19:10",
-      "delta_rueb_schleuse": "03:59",
-      "delta_start_rueb": "04:23"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
