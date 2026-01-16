@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T14:26:48",
+  "generated_at": "2026-01-16T14:28:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -131,14 +131,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:00",
+        "eta_schleuse": "20:59",
         "eta_rueb": "16:20",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:52"
       },
       "eta_rueb": "16:20",
-      "eta_schleuse": "21:00",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "20:59",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:52"
     },
     {
@@ -402,14 +402,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:00",
+        "eta_schleuse": "20:59",
         "eta_rueb": "16:20",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:52"
       },
       "eta_rueb": "16:20",
-      "eta_schleuse": "21:00",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "20:59",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:52"
     },
     {
@@ -565,7 +565,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:46",
+      "eta_rueb_kiel": "17:45",
       "eta_rueb": "17:40",
       "ship": "ECO ZEPHYR",
       "q_gruppe": "0",
