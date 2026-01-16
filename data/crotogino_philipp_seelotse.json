@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T15:56:49",
+  "generated_at": "2026-01-16T15:58:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -468,20 +468,20 @@
     },
     {
       "eta_rueb_kiel": "19:47",
-      "eta_rueb": "19:40",
+      "eta_rueb": "19:30",
       "ship": "BALTICBORG",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "19:50",
-      "eta_rueb": "19:45",
+      "eta_rueb": "19:33",
       "ship": "CORAL IVORY",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "20:00",
+      "eta_rueb_kiel": "19:59",
       "eta_rueb": "19:50",
       "ship": "BALTIC DREAM",
       "q_gruppe": "5",
