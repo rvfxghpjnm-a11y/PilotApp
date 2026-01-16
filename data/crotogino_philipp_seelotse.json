@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T04:24:44",
+  "generated_at": "2026-01-16T04:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -132,14 +132,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 03:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:42",
+        "eta_schleuse": "12:41",
         "eta_rueb": "07:51",
-        "delta_rueb_schleuse": "04:51",
+        "delta_rueb_schleuse": "04:50",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "07:51",
-      "eta_schleuse": "12:42",
-      "delta_rueb_schleuse": "04:51",
+      "eta_schleuse": "12:41",
+      "delta_rueb_schleuse": "04:50",
       "delta_start_rueb": "04:03"
     },
     {
@@ -275,14 +275,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:49",
+        "eta_schleuse": "04:48",
         "eta_rueb": "00:53",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:53",
-      "eta_schleuse": "04:49",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "04:48",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:11"
     },
     {
@@ -317,14 +317,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 17:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:42",
+        "eta_schleuse": "04:40",
         "eta_rueb": "00:33",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:33",
-      "eta_schleuse": "04:42",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "04:40",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:33"
     }
   ],
@@ -388,14 +388,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 03:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:42",
+        "eta_schleuse": "12:41",
         "eta_rueb": "07:51",
-        "delta_rueb_schleuse": "04:51",
+        "delta_rueb_schleuse": "04:50",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "07:51",
-      "eta_schleuse": "12:42",
-      "delta_rueb_schleuse": "04:51",
+      "eta_schleuse": "12:41",
+      "delta_rueb_schleuse": "04:50",
       "delta_start_rueb": "04:03"
     },
     {
@@ -499,14 +499,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:49",
+        "eta_schleuse": "04:48",
         "eta_rueb": "00:53",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:53",
-      "eta_schleuse": "04:49",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "04:48",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:11"
     },
     {
@@ -541,21 +541,21 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 17:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:42",
+        "eta_schleuse": "04:40",
         "eta_rueb": "00:33",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:07",
         "delta_start_rueb": "04:33"
       },
       "eta_rueb": "00:33",
-      "eta_schleuse": "04:42",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "04:40",
+      "delta_rueb_schleuse": "04:07",
       "delta_start_rueb": "04:33"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "05:03",
+      "eta_rueb_kiel": "05:02",
       "eta_rueb": "05:10",
       "ship": "CHARLOTTA",
       "q_gruppe": "1",
@@ -583,14 +583,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:11",
+      "eta_rueb_kiel": "07:14",
       "eta_rueb": "07:15",
       "ship": "NECKARBORG",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:15",
+      "eta_rueb_kiel": "07:17",
       "eta_rueb": "07:20",
       "ship": "UHL FIGHTER",
       "q_gruppe": "1",
