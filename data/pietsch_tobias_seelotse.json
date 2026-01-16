@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:28:40",
+  "generated_at": "2026-01-16T10:30:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -35,14 +35,14 @@
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
         "eta_schleuse": "19:03",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "14:35",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": null,
+      "eta_rueb": "14:35",
       "eta_schleuse": "19:03",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -328,14 +328,14 @@
       "time": "Fri Jan 16 08:59:00 CET 2026",
       "times": {
         "eta_schleuse": "19:03",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "14:35",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:11"
       },
-      "eta_rueb": null,
+      "eta_rueb": "14:35",
       "eta_schleuse": "19:03",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -452,21 +452,21 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:02",
+      "eta_rueb_kiel": "11:00",
       "eta_rueb": "11:00",
       "ship": "MAIKE",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "11:06",
+      "eta_rueb_kiel": "11:03",
       "eta_rueb": "11:03",
       "ship": "PEAK BREMEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:09",
+      "eta_rueb_kiel": "11:06",
       "eta_rueb": "11:05",
       "ship": "PRIME",
       "q_gruppe": "2",
