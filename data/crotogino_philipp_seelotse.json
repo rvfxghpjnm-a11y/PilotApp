@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T00:46:47",
+  "generated_at": "2026-01-17T00:48:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,14 +89,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:25",
+        "eta_schleuse": "05:24",
         "eta_rueb": "00:43",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:45"
       },
       "eta_rueb": "00:43",
-      "eta_schleuse": "05:25",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "05:24",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:45"
     },
     {
@@ -159,8 +159,8 @@
       "name": "Jan Hilpert",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "KATTEGAT",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 18:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -175,8 +175,8 @@
       "name": "Sven Janson",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 18:30:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -276,14 +276,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:25",
+        "eta_schleuse": "05:24",
         "eta_rueb": "00:43",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "03:45"
       },
       "eta_rueb": "00:43",
-      "eta_schleuse": "05:25",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "05:24",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "03:45"
     },
     {
@@ -369,7 +369,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:15",
+      "eta_rueb_kiel": "02:13",
       "eta_rueb": "02:15",
       "ship": "LADY HARRIET",
       "q_gruppe": "5",
