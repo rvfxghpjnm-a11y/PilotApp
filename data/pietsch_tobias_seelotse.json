@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:04:39",
+  "generated_at": "2026-01-16T06:06:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -126,8 +126,8 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KARILIN",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 04:08:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -242,14 +242,14 @@
       "time": "Fri Jan 16 03:03:00 CET 2026",
       "times": {
         "eta_schleuse": "12:55",
-        "eta_rueb": "07:47",
-        "delta_rueb_schleuse": "05:08",
-        "delta_start_rueb": "03:59"
+        "eta_rueb": "07:46",
+        "delta_rueb_schleuse": "05:09",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "07:47",
+      "eta_rueb": "07:46",
       "eta_schleuse": "12:55",
-      "delta_rueb_schleuse": "05:08",
-      "delta_start_rueb": "03:59"
+      "delta_rueb_schleuse": "05:09",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
@@ -529,14 +529,14 @@
       "time": "Fri Jan 16 03:03:00 CET 2026",
       "times": {
         "eta_schleuse": "12:55",
-        "eta_rueb": "07:47",
-        "delta_rueb_schleuse": "05:08",
-        "delta_start_rueb": "03:59"
+        "eta_rueb": "07:46",
+        "delta_rueb_schleuse": "05:09",
+        "delta_start_rueb": "03:58"
       },
-      "eta_rueb": "07:47",
+      "eta_rueb": "07:46",
       "eta_schleuse": "12:55",
-      "delta_rueb_schleuse": "05:08",
-      "delta_start_rueb": "03:59"
+      "delta_rueb_schleuse": "05:09",
+      "delta_start_rueb": "03:58"
     },
     {
       "is_target": false,
