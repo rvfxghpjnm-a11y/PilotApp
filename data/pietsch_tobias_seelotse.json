@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:32:40",
+  "generated_at": "2026-01-16T12:34:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -578,7 +578,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:21",
+      "eta_rueb_kiel": "15:22",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
       "q_gruppe": "5",
