@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T02:46:46",
+  "generated_at": "2026-01-16T02:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -396,28 +396,28 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:07",
+      "eta_rueb_kiel": "05:06",
       "eta_rueb": "05:10",
       "ship": "CHARLOTTA",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:04",
+      "eta_rueb_kiel": "05:02",
       "eta_rueb": "05:15",
       "ship": "SKALAR",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:10",
+      "eta_rueb_kiel": "05:09",
       "eta_rueb": "05:18",
       "ship": "SONGA SAPPHIRE",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:13",
+      "eta_rueb_kiel": "05:12",
       "eta_rueb": "05:20",
       "ship": "FL STOROE",
       "q_gruppe": "4",
