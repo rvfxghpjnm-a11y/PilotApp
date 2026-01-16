@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T00:24:47",
+  "generated_at": "2026-01-17T00:26:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -89,14 +89,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:23",
+        "eta_schleuse": "05:24",
         "eta_rueb": "00:46",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "00:46",
-      "eta_schleuse": "05:23",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "05:24",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "03:48"
     },
     {
@@ -271,14 +271,14 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:23",
+        "eta_schleuse": "05:24",
         "eta_rueb": "00:46",
-        "delta_rueb_schleuse": "04:37",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "03:48"
       },
       "eta_rueb": "00:46",
-      "eta_schleuse": "05:23",
-      "delta_rueb_schleuse": "04:37",
+      "eta_schleuse": "05:24",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "03:48"
     },
     {
@@ -366,7 +366,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:13",
+      "eta_rueb_kiel": "02:14",
       "eta_rueb": "02:15",
       "ship": "LADY HARRIET",
       "q_gruppe": "5",
@@ -380,7 +380,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:16",
+      "eta_rueb_kiel": "04:18",
       "eta_rueb": "04:30",
       "ship": "MISSISSIPPIBORG",
       "q_gruppe": "3",
@@ -401,7 +401,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:28",
+      "eta_rueb_kiel": "04:27",
       "eta_rueb": "04:49",
       "ship": "KIARA",
       "q_gruppe": "4",
