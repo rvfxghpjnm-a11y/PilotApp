@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:06:38",
+  "generated_at": "2026-01-16T10:08:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -210,8 +210,8 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ARNE",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 04:08:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -242,8 +242,8 @@
       "name": "Oliver Schran",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "FL STOROE",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Fri Jan 16 03:35:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -453,7 +453,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:24",
+      "eta_rueb_kiel": "12:26",
       "eta_rueb": "12:15",
       "ship": "ELBSUN",
       "q_gruppe": "1",
@@ -461,14 +461,14 @@
     },
     {
       "eta_rueb_kiel": "15:51",
-      "eta_rueb": "14:00",
+      "eta_rueb": "15:30",
       "ship": "ECO LEVANT",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "15:54",
-      "eta_rueb": "14:05",
+      "eta_rueb": "15:30",
       "ship": "RUTH",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
