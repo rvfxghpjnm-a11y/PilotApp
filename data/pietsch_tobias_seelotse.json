@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T14:22:49",
+  "generated_at": "2026-01-16T14:24:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -505,14 +505,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "15:17",
+      "eta_rueb_kiel": "15:16",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "15:41",
+      "eta_rueb_kiel": "15:39",
       "eta_rueb": "15:30",
       "ship": "ECO LEVANT",
       "q_gruppe": "1",
@@ -526,7 +526,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:49",
+      "eta_rueb_kiel": "15:48",
       "eta_rueb": "15:30",
       "ship": "LADY ELA",
       "q_gruppe": "3",
