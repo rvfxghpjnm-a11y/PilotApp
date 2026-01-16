@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T16:14:46",
+  "generated_at": "2026-01-16T16:16:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -445,7 +445,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:59",
+      "eta_rueb_kiel": "19:58",
       "eta_rueb": "19:50",
       "ship": "BALTIC DREAM",
       "q_gruppe": "5",
