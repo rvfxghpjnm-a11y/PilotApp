@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T08:52:40",
+  "generated_at": "2026-01-16T08:54:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -17,9 +17,9 @@
     "see": 7
   },
   "times": {
-    "eta_schleuse": "10:51",
+    "eta_schleuse": "10:50",
     "eta_rueb": "07:06",
-    "delta_rueb_schleuse": "03:45",
+    "delta_rueb_schleuse": "03:44",
     "delta_start_rueb": "05:24"
   },
   "lotsen": [
@@ -92,14 +92,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:51",
+        "eta_schleuse": "10:50",
         "eta_rueb": "07:06",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "07:06",
-      "eta_schleuse": "10:51",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "10:50",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:24"
     },
     {
@@ -379,14 +379,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:51",
+        "eta_schleuse": "10:50",
         "eta_rueb": "07:06",
-        "delta_rueb_schleuse": "03:45",
+        "delta_rueb_schleuse": "03:44",
         "delta_start_rueb": "05:24"
       },
       "eta_rueb": "07:06",
-      "eta_schleuse": "10:51",
-      "delta_rueb_schleuse": "03:45",
+      "eta_schleuse": "10:50",
+      "delta_rueb_schleuse": "03:44",
       "delta_start_rueb": "05:24"
     },
     {
@@ -511,21 +511,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:04",
+      "eta_rueb_kiel": "11:03",
       "eta_rueb": "11:00",
       "ship": "MAIKE",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "11:08",
+      "eta_rueb_kiel": "11:07",
       "eta_rueb": "11:03",
       "ship": "PEAK BREMEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:11",
+      "eta_rueb_kiel": "11:10",
       "eta_rueb": "11:05",
       "ship": "PRIME",
       "q_gruppe": "2",
