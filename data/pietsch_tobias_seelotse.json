@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T08:16:40",
+  "generated_at": "2026-01-16T08:18:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -12,9 +12,9 @@
     "nr": 3
   },
   "gruppen": {
-    "kanal": 11,
+    "kanal": 9,
     "wach": 0,
-    "see": 4
+    "see": 6
   },
   "times": {
     "eta_schleuse": "10:52",
@@ -151,14 +151,19 @@
       "name": "Steffen Zimmermann",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "CHARLOTTA",
+      "route": "HOS → KLT",
       "time": "Fri Jan 16 04:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "08:38",
+        "eta_rueb": "05:00",
+        "delta_rueb_schleuse": "03:38",
+        "delta_start_rueb": "06:12"
+      },
+      "eta_rueb": "05:00",
+      "eta_schleuse": "08:38",
+      "delta_rueb_schleuse": "03:38",
+      "delta_start_rueb": "06:12"
     },
     {
       "is_target": false,
@@ -178,34 +183,13 @@
     },
     {
       "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Blome",
-      "name": "Henning Blome",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "SONGA SAPPHIRE",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:43",
-        "eta_rueb": "05:03",
-        "delta_rueb_schleuse": "03:40",
-        "delta_start_rueb": "04:39"
-      },
-      "eta_rueb": "05:03",
-      "eta_schleuse": "08:43",
-      "delta_rueb_schleuse": "03:40",
-      "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": false,
       "vorname": "Oliver",
       "nachname": "Schran",
       "name": "Oliver Schran",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
+      "aufgabe": "Seebört",
+      "nr": 9,
       "fahrzeug": "FL STOROE",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Fri Jan 16 03:35:00 CET 2026",
       "times": {
         "eta_schleuse": "08:46",
@@ -217,6 +201,27 @@
       "eta_schleuse": "08:46",
       "delta_rueb_schleuse": "03:38",
       "delta_start_rueb": "04:40"
+    },
+    {
+      "is_target": false,
+      "vorname": "Henning",
+      "nachname": "Blome",
+      "name": "Henning Blome",
+      "aufgabe": "Seebört",
+      "nr": 10,
+      "fahrzeug": "SONGA SAPPHIRE",
+      "route": "HOS → KLT",
+      "time": "Fri Jan 16 03:35:00 CET 2026",
+      "times": {
+        "eta_schleuse": "08:43",
+        "eta_rueb": "05:03",
+        "delta_rueb_schleuse": "03:40",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "05:03",
+      "eta_schleuse": "08:43",
+      "delta_rueb_schleuse": "03:40",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -433,48 +438,6 @@
     },
     {
       "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Blome",
-      "name": "Henning Blome",
-      "aufgabe": "Kanalbört",
-      "nr": 9,
-      "fahrzeug": "SONGA SAPPHIRE",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:43",
-        "eta_rueb": "05:03",
-        "delta_rueb_schleuse": "03:40",
-        "delta_start_rueb": "04:39"
-      },
-      "eta_rueb": "05:03",
-      "eta_schleuse": "08:43",
-      "delta_rueb_schleuse": "03:40",
-      "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": false,
-      "vorname": "Oliver",
-      "nachname": "Schran",
-      "name": "Oliver Schran",
-      "aufgabe": "Kanalbört",
-      "nr": 10,
-      "fahrzeug": "FL STOROE",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "08:46",
-        "eta_rueb": "05:08",
-        "delta_rueb_schleuse": "03:38",
-        "delta_start_rueb": "04:40"
-      },
-      "eta_rueb": "05:08",
-      "eta_schleuse": "08:46",
-      "delta_rueb_schleuse": "03:38",
-      "delta_start_rueb": "04:40"
-    },
-    {
-      "is_target": false,
       "vorname": "Gerd",
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
@@ -542,21 +505,21 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:06",
+      "eta_rueb_kiel": "11:05",
       "eta_rueb": "11:00",
       "ship": "MAIKE",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "11:10",
+      "eta_rueb_kiel": "11:09",
       "eta_rueb": "11:03",
       "ship": "PEAK BREMEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:13",
+      "eta_rueb_kiel": "11:12",
       "eta_rueb": "11:05",
       "ship": "PRIME",
       "q_gruppe": "2",
