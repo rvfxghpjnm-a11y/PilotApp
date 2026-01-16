@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T22:46:46",
+  "generated_at": "2026-01-16T22:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -248,19 +248,14 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "CONTAINERSHIPS AURORA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 17:06:00 CET 2026",
-      "times": {
-        "eta_schleuse": "03:16",
-        "eta_rueb": "22:41",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "04:43"
-      },
-      "eta_rueb": "22:41",
-      "eta_schleuse": "03:16",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "04:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -429,19 +424,14 @@
       "name": "Marco Feldes",
       "aufgabe": "Kanalbört",
       "nr": 13,
-      "fahrzeug": "CONTAINERSHIPS AURORA",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 17:06:00 CET 2026",
-      "times": {
-        "eta_schleuse": "03:16",
-        "eta_rueb": "22:41",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "04:43"
-      },
-      "eta_rueb": "22:41",
-      "eta_schleuse": "03:16",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "04:43"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -535,6 +525,13 @@
       "eta_rueb": "04:30",
       "ship": "MISSISSIPPIBORG",
       "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "04:45",
+      "ship": "EXPERT",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
