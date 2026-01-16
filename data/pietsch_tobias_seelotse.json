@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T11:04:40",
+  "generated_at": "2026-01-16T11:06:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -347,14 +347,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:07",
+        "eta_schleuse": "13:06",
         "eta_rueb": "09:23",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "09:23",
-      "eta_schleuse": "13:07",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "13:06",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:59"
     },
     {
@@ -528,14 +528,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:03:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:07",
+        "eta_schleuse": "13:06",
         "eta_rueb": "09:23",
-        "delta_rueb_schleuse": "03:44",
+        "delta_rueb_schleuse": "03:43",
         "delta_start_rueb": "04:59"
       },
       "eta_rueb": "09:23",
-      "eta_schleuse": "13:07",
-      "delta_rueb_schleuse": "03:44",
+      "eta_schleuse": "13:06",
+      "delta_rueb_schleuse": "03:43",
       "delta_start_rueb": "04:59"
     }
   ],
@@ -556,14 +556,14 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "15:50",
+      "eta_rueb_kiel": "15:49",
       "eta_rueb": "15:30",
       "ship": "ECO LEVANT",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:53",
+      "eta_rueb_kiel": "15:52",
       "eta_rueb": "15:30",
       "ship": "RUTH",
       "q_gruppe": "2",
