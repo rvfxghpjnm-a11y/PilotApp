@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:26:38",
+  "generated_at": "2026-01-16T06:28:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -151,15 +151,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:28",
-        "eta_rueb": "08:01",
+        "eta_schleuse": "12:26",
+        "eta_rueb": "07:59",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "08:01",
-      "eta_schleuse": "12:28",
+      "eta_rueb": "07:59",
+      "eta_schleuse": "12:26",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -226,8 +226,8 @@
       "name": "Sebastian Klein",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "MIRVA VG",
+      "route": "HOS → KLT",
       "time": "Fri Jan 16 03:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -454,15 +454,15 @@
       "route": "HOR → RÜB",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:28",
-        "eta_rueb": "08:01",
+        "eta_schleuse": "12:26",
+        "eta_rueb": "07:59",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "03:31"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "08:01",
-      "eta_schleuse": "12:28",
+      "eta_rueb": "07:59",
+      "eta_schleuse": "12:26",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "03:31"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -635,6 +635,27 @@
       "eta_rueb": "09:20",
       "ship": "ECO UMANDE",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "11:08",
+      "eta_rueb": "10:20",
+      "ship": "MAIKE",
+      "q_gruppe": "5",
+      "route": "RÜB → KRH"
+    },
+    {
+      "eta_rueb_kiel": "11:12",
+      "eta_rueb": "10:40",
+      "ship": "PEAK BREMEN",
+      "q_gruppe": "5",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "10:45",
+      "ship": "PRIME",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
