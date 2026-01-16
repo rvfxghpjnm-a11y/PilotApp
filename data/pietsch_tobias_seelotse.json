@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T13:30:41",
+  "generated_at": "2026-01-16T13:32:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -320,14 +320,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:34",
+        "eta_schleuse": "14:35",
         "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "11:02",
-      "eta_schleuse": "14:34",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "14:35",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:42"
     }
   ],
@@ -522,14 +522,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:34",
+        "eta_schleuse": "14:35",
         "eta_rueb": "11:02",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:33",
         "delta_start_rueb": "04:42"
       },
       "eta_rueb": "11:02",
-      "eta_schleuse": "14:34",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "14:35",
+      "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:42"
     }
   ],
@@ -550,7 +550,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:47",
+      "eta_rueb_kiel": "15:46",
       "eta_rueb": "15:30",
       "ship": "RUTH",
       "q_gruppe": "2",
