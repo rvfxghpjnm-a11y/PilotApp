@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T11:06:39",
+  "generated_at": "2026-01-16T11:08:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -294,14 +294,14 @@
       "route": "RÜB → KRH",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:35",
+        "eta_schleuse": "11:33",
         "eta_rueb": "10:59",
-        "delta_rueb_schleuse": "00:36",
+        "delta_rueb_schleuse": "00:34",
         "delta_start_rueb": "04:51"
       },
       "eta_rueb": "10:59",
-      "eta_schleuse": "11:35",
-      "delta_rueb_schleuse": "00:36",
+      "eta_schleuse": "11:33",
+      "delta_rueb_schleuse": "00:34",
       "delta_start_rueb": "04:51"
     },
     {
@@ -507,14 +507,14 @@
       "route": "RÜB → KRH",
       "time": "Fri Jan 16 03:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "11:35",
+        "eta_schleuse": "11:33",
         "eta_rueb": "10:59",
-        "delta_rueb_schleuse": "00:36",
+        "delta_rueb_schleuse": "00:34",
         "delta_start_rueb": "04:51"
       },
       "eta_rueb": "10:59",
-      "eta_schleuse": "11:35",
-      "delta_rueb_schleuse": "00:36",
+      "eta_schleuse": "11:33",
+      "delta_rueb_schleuse": "00:34",
       "delta_start_rueb": "04:51"
     },
     {
@@ -570,7 +570,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:56",
+      "eta_rueb_kiel": "15:55",
       "eta_rueb": "15:30",
       "ship": "LADY ELA",
       "q_gruppe": "3",
