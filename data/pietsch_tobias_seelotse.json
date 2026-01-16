@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T19:32:48",
+  "generated_at": "2026-01-16T19:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -110,14 +110,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 18:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:40",
+        "eta_schleuse": "03:39",
         "eta_rueb": "23:12",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "23:12",
-      "eta_schleuse": "03:40",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "03:39",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:08"
     },
     {
@@ -370,14 +370,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 18:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:40",
+        "eta_schleuse": "03:39",
         "eta_rueb": "23:12",
-        "delta_rueb_schleuse": "04:28",
+        "delta_rueb_schleuse": "04:27",
         "delta_start_rueb": "04:08"
       },
       "eta_rueb": "23:12",
-      "eta_schleuse": "03:40",
-      "delta_rueb_schleuse": "04:28",
+      "eta_schleuse": "03:39",
+      "delta_rueb_schleuse": "04:27",
       "delta_start_rueb": "04:08"
     },
     {
@@ -530,13 +530,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "19:54",
-      "eta_rueb": "19:53",
-      "ship": "KATTEGAT",
-      "q_gruppe": "3",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "23:21",
       "eta_rueb": "23:20",
