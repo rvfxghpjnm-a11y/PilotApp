@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T15:40:48",
+  "generated_at": "2026-01-16T15:42:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -42,14 +42,14 @@
       "time": "Fri Jan 16 13:23:00 CET 2026",
       "times": {
         "eta_schleuse": "23:18",
-        "eta_rueb": "18:22",
-        "delta_rueb_schleuse": "04:56",
-        "delta_start_rueb": "04:00"
+        "eta_rueb": "18:21",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "18:22",
+      "eta_rueb": "18:21",
       "eta_schleuse": "23:18",
-      "delta_rueb_schleuse": "04:56",
-      "delta_start_rueb": "04:00"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
@@ -111,14 +111,14 @@
       "time": "Fri Jan 16 11:18:00 CET 2026",
       "times": {
         "eta_schleuse": "20:30",
-        "eta_rueb": "16:04",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "16:02",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "16:04",
+      "eta_rueb": "16:02",
       "eta_schleuse": "20:30",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -131,15 +131,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:57",
-        "eta_rueb": "16:14",
+        "eta_schleuse": "20:55",
+        "eta_rueb": "16:12",
         "delta_rueb_schleuse": "04:43",
-        "delta_start_rueb": "03:46"
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "16:14",
-      "eta_schleuse": "20:57",
+      "eta_rueb": "16:12",
+      "eta_schleuse": "20:55",
       "delta_rueb_schleuse": "04:43",
-      "delta_start_rueb": "03:46"
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -308,14 +308,14 @@
       "time": "Fri Jan 16 13:23:00 CET 2026",
       "times": {
         "eta_schleuse": "23:18",
-        "eta_rueb": "18:22",
-        "delta_rueb_schleuse": "04:56",
-        "delta_start_rueb": "04:00"
+        "eta_rueb": "18:21",
+        "delta_rueb_schleuse": "04:57",
+        "delta_start_rueb": "03:59"
       },
-      "eta_rueb": "18:22",
+      "eta_rueb": "18:21",
       "eta_schleuse": "23:18",
-      "delta_rueb_schleuse": "04:56",
-      "delta_start_rueb": "04:00"
+      "delta_rueb_schleuse": "04:57",
+      "delta_start_rueb": "03:59"
     },
     {
       "is_target": false,
@@ -345,14 +345,14 @@
       "time": "Fri Jan 16 11:18:00 CET 2026",
       "times": {
         "eta_schleuse": "20:30",
-        "eta_rueb": "16:04",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "03:34"
+        "eta_rueb": "16:02",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "03:32"
       },
-      "eta_rueb": "16:04",
+      "eta_rueb": "16:02",
       "eta_schleuse": "20:30",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "03:34"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "03:32"
     },
     {
       "is_target": false,
@@ -365,15 +365,15 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:57",
-        "eta_rueb": "16:14",
+        "eta_schleuse": "20:55",
+        "eta_rueb": "16:12",
         "delta_rueb_schleuse": "04:43",
-        "delta_start_rueb": "03:46"
+        "delta_start_rueb": "03:44"
       },
-      "eta_rueb": "16:14",
-      "eta_schleuse": "20:57",
+      "eta_rueb": "16:12",
+      "eta_schleuse": "20:55",
       "delta_rueb_schleuse": "04:43",
-      "delta_start_rueb": "03:46"
+      "delta_start_rueb": "03:44"
     },
     {
       "is_target": false,
@@ -488,6 +488,13 @@
       "eta_rueb": "19:45",
       "ship": "CORAL IVORY",
       "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "20:00",
+      "eta_rueb": "19:50",
+      "ship": "BALTIC DREAM",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
