@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T12:06:40",
+  "generated_at": "2026-01-16T12:08:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -14,7 +14,7 @@
   "gruppen": {
     "kanal": 10,
     "wach": 0,
-    "see": 12
+    "see": 11
   },
   "times": null,
   "lotsen": [
@@ -354,27 +354,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Henning",
-      "nachname": "Blome",
-      "name": "Henning Blome",
-      "aufgabe": "Seebört",
-      "nr": 20,
-      "fahrzeug": "FERROMAR",
-      "route": "KLT → HOS",
-      "time": "Fri Jan 16 03:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Gerd",
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "ECO UMANDE",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:03:00 CET 2026",
@@ -395,7 +379,7 @@
       "nachname": "Steffens",
       "name": "Micha Steffens",
       "aufgabe": "Seebört",
-      "nr": 22,
+      "nr": 21,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Fri Jan 16 03:00:00 CET 2026",
@@ -587,7 +571,7 @@
       "nachname": "Pitschmann",
       "name": "Gerd Pitschmann",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "ECO UMANDE",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 03:03:00 CET 2026",
@@ -613,7 +597,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:23",
+      "eta_rueb_kiel": "15:22",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
       "q_gruppe": "5",
