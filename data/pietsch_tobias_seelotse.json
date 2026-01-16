@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:40:39",
+  "generated_at": "2026-01-16T06:42:40",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -578,7 +578,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "07:07",
+      "eta_rueb_kiel": "07:06",
       "eta_rueb": "07:05",
       "ship": "NECKARBORG",
       "q_gruppe": "4",
@@ -599,7 +599,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "09:30",
+      "eta_rueb_kiel": "09:29",
       "eta_rueb": "09:20",
       "ship": "ECO UMANDE",
       "q_gruppe": "0",
