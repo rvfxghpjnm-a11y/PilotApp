@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T22:26:47",
+  "generated_at": "2026-01-16T22:28:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -498,7 +498,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:22",
+      "eta_rueb_kiel": "02:21",
       "eta_rueb": "02:30",
       "ship": "PVT AURORA",
       "q_gruppe": "1",
