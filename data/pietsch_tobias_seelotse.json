@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T23:42:47",
+  "generated_at": "2026-01-16T23:44:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -438,7 +438,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:19",
+      "eta_rueb_kiel": "04:18",
       "eta_rueb": "04:30",
       "ship": "MISSISSIPPIBORG",
       "q_gruppe": "3",
