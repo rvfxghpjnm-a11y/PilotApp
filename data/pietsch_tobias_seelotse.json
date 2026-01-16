@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:18:39",
+  "generated_at": "2026-01-16T10:20:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -463,7 +463,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:26",
+      "eta_rueb_kiel": "12:24",
       "eta_rueb": "12:15",
       "ship": "ELBSUN",
       "q_gruppe": "1",
