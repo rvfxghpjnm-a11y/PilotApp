@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T18:20:47",
+  "generated_at": "2026-01-16T18:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -37,14 +37,14 @@
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
         "eta_schleuse": "03:26",
-        "eta_rueb": "22:59",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:01"
+        "eta_rueb": "22:24",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "22:59",
+      "eta_rueb": "22:24",
       "eta_schleuse": "03:26",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:01"
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -298,14 +298,14 @@
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
         "eta_schleuse": "03:26",
-        "eta_rueb": "22:59",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "05:01"
+        "eta_rueb": "22:24",
+        "delta_rueb_schleuse": "05:02",
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "22:59",
+      "eta_rueb": "22:24",
       "eta_schleuse": "03:26",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "05:01"
+      "delta_rueb_schleuse": "05:02",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -485,7 +485,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "19:09",
+      "eta_rueb_kiel": "19:08",
       "eta_rueb": "19:05",
       "ship": "LADY MARIE CHRISTINE",
       "q_gruppe": "4",
@@ -517,6 +517,13 @@
       "eta_rueb": "19:53",
       "ship": "KATTEGAT",
       "q_gruppe": "3",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "23:23",
+      "eta_rueb": "22:30",
+      "ship": "LIBERO",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
