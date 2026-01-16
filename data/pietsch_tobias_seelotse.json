@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T02:20:47",
+  "generated_at": "2026-01-16T02:22:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -143,8 +143,8 @@
       "name": "Ingmar Richter",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "IDA RAMBOW",
+      "route": "KLT → HOS",
       "time": "Thu Jan 15 18:46:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -163,14 +163,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:53",
+        "eta_schleuse": "04:52",
         "eta_rueb": "00:53",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:53",
-      "eta_schleuse": "04:53",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "04:52",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:11"
     },
     {
@@ -323,14 +323,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 18:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:53",
+        "eta_schleuse": "04:52",
         "eta_rueb": "00:53",
-        "delta_rueb_schleuse": "04:00",
+        "delta_rueb_schleuse": "03:59",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "00:53",
-      "eta_schleuse": "04:53",
-      "delta_rueb_schleuse": "04:00",
+      "eta_schleuse": "04:52",
+      "delta_rueb_schleuse": "03:59",
       "delta_start_rueb": "04:11"
     },
     {
@@ -386,7 +386,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:55",
+      "eta_rueb_kiel": "02:54",
       "eta_rueb": "03:15",
       "ship": "MIRVA VG",
       "q_gruppe": "4",
