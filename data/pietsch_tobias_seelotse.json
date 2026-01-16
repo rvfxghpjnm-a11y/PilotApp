@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T21:56:48",
+  "generated_at": "2026-01-16T21:58:51",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -206,14 +206,14 @@
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
         "eta_schleuse": "03:18",
-        "eta_rueb": "22:43",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "04:45"
+        "eta_rueb": "22:41",
+        "delta_rueb_schleuse": "04:37",
+        "delta_start_rueb": "04:43"
       },
-      "eta_rueb": "22:43",
+      "eta_rueb": "22:41",
       "eta_schleuse": "03:18",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "04:45"
+      "delta_rueb_schleuse": "04:37",
+      "delta_start_rueb": "04:43"
     },
     {
       "is_target": false,
@@ -429,14 +429,14 @@
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
         "eta_schleuse": "03:18",
-        "eta_rueb": "22:43",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "04:45"
+        "eta_rueb": "22:41",
+        "delta_rueb_schleuse": "04:37",
+        "delta_start_rueb": "04:43"
       },
-      "eta_rueb": "22:43",
+      "eta_rueb": "22:41",
       "eta_schleuse": "03:18",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "04:45"
+      "delta_rueb_schleuse": "04:37",
+      "delta_start_rueb": "04:43"
     },
     {
       "is_target": false,
@@ -537,7 +537,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:06",
+      "eta_rueb_kiel": "01:05",
       "eta_rueb": "01:20",
       "ship": "BIT FORCE",
       "q_gruppe": "4",
