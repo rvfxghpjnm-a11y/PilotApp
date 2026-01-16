@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:18:37",
+  "generated_at": "2026-01-16T06:20:41",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -76,9 +76,14 @@
       "fahrzeug": "STEN BERGEN",
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 05:12:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -224,9 +229,14 @@
       "fahrzeug": "STEN BERGEN",
       "route": "KLT → HOS",
       "time": "Fri Jan 16 03:05:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -320,14 +330,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:31",
+        "eta_schleuse": "07:30",
         "eta_rueb": "04:06",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "04:06",
-      "eta_schleuse": "07:31",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "07:30",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:32"
     },
     {
@@ -340,16 +350,11 @@
       "fahrzeug": "MIRVA VG",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:21:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:18",
-        "eta_rueb": "02:53",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:09"
-      },
-      "eta_rueb": "02:53",
-      "eta_schleuse": "06:18",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:09"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -427,9 +432,14 @@
       "fahrzeug": "STEN BERGEN",
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 05:12:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "15:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "15:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -591,14 +601,14 @@
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:37:00 CET 2026",
       "times": {
-        "eta_schleuse": "07:31",
+        "eta_schleuse": "07:30",
         "eta_rueb": "04:06",
-        "delta_rueb_schleuse": "03:25",
+        "delta_rueb_schleuse": "03:24",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "04:06",
-      "eta_schleuse": "07:31",
-      "delta_rueb_schleuse": "03:25",
+      "eta_schleuse": "07:30",
+      "delta_rueb_schleuse": "03:24",
       "delta_start_rueb": "04:32"
     },
     {
@@ -611,16 +621,11 @@
       "fahrzeug": "MIRVA VG",
       "route": "RÜB → HOS",
       "time": "Thu Jan 15 21:21:00 CET 2026",
-      "times": {
-        "eta_schleuse": "06:18",
-        "eta_rueb": "02:53",
-        "delta_rueb_schleuse": "03:25",
-        "delta_start_rueb": "04:09"
-      },
-      "eta_rueb": "02:53",
-      "eta_schleuse": "06:18",
-      "delta_rueb_schleuse": "03:25",
-      "delta_start_rueb": "04:09"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
