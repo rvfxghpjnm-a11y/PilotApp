@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:20:41",
+  "generated_at": "2026-01-16T06:22:38",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -99,14 +99,14 @@
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
         "eta_schleuse": "14:58",
-        "eta_rueb": "10:07",
-        "delta_rueb_schleuse": "04:51",
-        "delta_start_rueb": "04:27"
+        "eta_rueb": "10:06",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "10:07",
+      "eta_rueb": "10:06",
       "eta_schleuse": "14:58",
-      "delta_rueb_schleuse": "04:51",
-      "delta_start_rueb": "04:27"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -210,8 +210,8 @@
       "name": "Fred Spiekermann",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "BALTIC SEA",
-      "route": "HOS → KLT",
+      "fahrzeug": "Leerfahrt",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 03:05:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -455,14 +455,14 @@
       "time": "Fri Jan 16 04:37:00 CET 2026",
       "times": {
         "eta_schleuse": "14:58",
-        "eta_rueb": "10:07",
-        "delta_rueb_schleuse": "04:51",
-        "delta_start_rueb": "04:27"
+        "eta_rueb": "10:06",
+        "delta_rueb_schleuse": "04:52",
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "10:07",
+      "eta_rueb": "10:06",
       "eta_schleuse": "14:58",
-      "delta_rueb_schleuse": "04:51",
-      "delta_start_rueb": "04:27"
+      "delta_rueb_schleuse": "04:52",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
