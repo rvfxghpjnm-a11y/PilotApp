@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T10:30:47",
+  "generated_at": "2026-01-16T10:32:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -120,14 +120,14 @@
       "route": "HOS → KLT",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:49",
+        "eta_schleuse": "10:48",
         "eta_rueb": "07:08",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:40",
         "delta_start_rueb": "05:28"
       },
       "eta_rueb": "07:08",
-      "eta_schleuse": "10:49",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "10:48",
+      "delta_rueb_schleuse": "03:40",
       "delta_start_rueb": "05:28"
     },
     {
@@ -190,8 +190,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "HELGOLAND",
+      "route": "HOS → HOS",
       "time": "Fri Jan 16 04:12:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -459,7 +459,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "12:24",
+      "eta_rueb_kiel": "12:23",
       "eta_rueb": "12:15",
       "ship": "ELBSUN",
       "q_gruppe": "1",
