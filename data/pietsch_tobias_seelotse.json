@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T13:06:40",
+  "generated_at": "2026-01-16T13:08:39",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
@@ -588,7 +588,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:53",
+      "eta_rueb_kiel": "15:52",
       "eta_rueb": "15:30",
       "ship": "LADY ELA",
       "q_gruppe": "3",
