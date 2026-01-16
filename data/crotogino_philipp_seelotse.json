@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-16T13:26:47",
+  "generated_at": "2026-01-16T13:28:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 0,
     "see": 6
   },
@@ -105,14 +105,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:02",
+        "eta_schleuse": "21:01",
         "eta_rueb": "16:22",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:54"
       },
       "eta_rueb": "16:22",
-      "eta_schleuse": "21:02",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "21:01",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:54"
     },
     {
@@ -320,22 +320,6 @@
       "eta_schleuse": "14:35",
       "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Gerd",
-      "nachname": "Pitschmann",
-      "name": "Gerd Pitschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "ECO UMANDE",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 03:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -403,14 +387,14 @@
       "route": "HOS → RÜB",
       "time": "Fri Jan 16 11:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "21:02",
+        "eta_schleuse": "21:01",
         "eta_rueb": "16:22",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "03:54"
       },
       "eta_rueb": "16:22",
-      "eta_schleuse": "21:02",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "21:01",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "03:54"
     },
     {
@@ -538,22 +522,6 @@
       "eta_schleuse": "14:35",
       "delta_rueb_schleuse": "03:33",
       "delta_start_rueb": "04:42"
-    },
-    {
-      "is_target": false,
-      "vorname": "Gerd",
-      "nachname": "Pitschmann",
-      "name": "Gerd Pitschmann",
-      "aufgabe": "Kanalbört",
-      "nr": 18,
-      "fahrzeug": "ECO UMANDE",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 03:03:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -587,7 +555,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:48",
+      "eta_rueb_kiel": "17:47",
       "eta_rueb": "17:40",
       "ship": "ECO ZEPHYR",
       "q_gruppe": "0",
