@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T21:38:46",
+  "generated_at": "2026-01-16T21:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -562,7 +562,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:08",
+      "eta_rueb_kiel": "01:07",
       "eta_rueb": "01:20",
       "ship": "BIT FORCE",
       "q_gruppe": "4",
