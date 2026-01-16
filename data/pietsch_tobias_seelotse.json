@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T23:34:45",
+  "generated_at": "2026-01-16T23:36:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 7,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -260,27 +260,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Christoph",
-      "nachname": "Malik",
-      "name": "Christoph Malik",
-      "aufgabe": "Seebört",
-      "nr": 15,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Fri Jan 16 13:23:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Frank",
       "nachname": "Staedler",
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "BALTICBORG",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 12:26:00 CET 2026",
@@ -419,7 +403,7 @@
       "nachname": "Staedler",
       "name": "Frank Staedler",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "BALTICBORG",
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 12:26:00 CET 2026",
