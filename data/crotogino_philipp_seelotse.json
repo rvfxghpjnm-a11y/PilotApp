@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T00:54:46",
+  "generated_at": "2026-01-17T00:56:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -227,14 +227,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 16:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:47",
+        "eta_schleuse": "01:45",
         "eta_rueb": "22:25",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:20",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "22:25",
-      "eta_schleuse": "01:47",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "01:45",
+      "delta_rueb_schleuse": "03:20",
       "delta_start_rueb": "04:07"
     }
   ],
@@ -345,14 +345,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 16:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:47",
+        "eta_schleuse": "01:45",
         "eta_rueb": "22:25",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:20",
         "delta_start_rueb": "04:07"
       },
       "eta_rueb": "22:25",
-      "eta_schleuse": "01:47",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "01:45",
+      "delta_rueb_schleuse": "03:20",
       "delta_start_rueb": "04:07"
     }
   ],
@@ -380,7 +380,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:36",
+      "eta_rueb_kiel": "04:34",
       "eta_rueb": "04:45",
       "ship": "EXPERT",
       "q_gruppe": "1",
