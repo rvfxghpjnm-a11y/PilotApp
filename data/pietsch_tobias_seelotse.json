@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-01-16T12:08:40",
+  "generated_at": "2026-01-16T12:10:41",
   "status": "seelotse",
   "person": {
     "vorname": "Tobias",
     "nachname": "Pietsch",
     "aufgabe": "Seebört",
-    "fahrzeug": "NECKARBORG",
-    "from": "HOS",
-    "to": "KLT",
+    "fahrzeug": "TARNBRIS",
+    "from": "KLT",
+    "to": "HOS",
     "time": "Fri Jan 16 05:50:00 CET 2026",
     "nr": 13
   },
@@ -237,8 +237,8 @@
       "name": "Tobias Pietsch",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "NECKARBORG",
-      "route": "HOS → KLT",
+      "fahrzeug": "TARNBRIS",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 05:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
