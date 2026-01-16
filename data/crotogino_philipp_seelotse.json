@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T11:08:46",
+  "generated_at": "2026-01-16T11:10:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -533,14 +533,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:21",
+      "eta_rueb_kiel": "12:23",
       "eta_rueb": "12:15",
       "ship": "ELBSUN",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:26",
+      "eta_rueb_kiel": "15:25",
       "eta_rueb": "15:15",
       "ship": "HILDA B",
       "q_gruppe": "5",
