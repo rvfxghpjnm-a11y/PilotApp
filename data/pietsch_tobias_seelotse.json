@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T03:20:47",
+  "generated_at": "2026-01-16T03:22:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -85,14 +85,14 @@
       "time": "Thu Jan 15 23:11:00 CET 2026",
       "times": {
         "eta_schleuse": "08:22",
-        "eta_rueb": "03:34",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "03:22"
+        "eta_rueb": "03:33",
+        "delta_rueb_schleuse": "04:49",
+        "delta_start_rueb": "03:21"
       },
-      "eta_rueb": "03:34",
+      "eta_rueb": "03:33",
       "eta_schleuse": "08:22",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "03:22"
+      "delta_rueb_schleuse": "04:49",
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": false,
@@ -304,14 +304,14 @@
       "time": "Thu Jan 15 23:11:00 CET 2026",
       "times": {
         "eta_schleuse": "08:22",
-        "eta_rueb": "03:34",
-        "delta_rueb_schleuse": "04:48",
-        "delta_start_rueb": "03:22"
+        "eta_rueb": "03:33",
+        "delta_rueb_schleuse": "04:49",
+        "delta_start_rueb": "03:21"
       },
-      "eta_rueb": "03:34",
+      "eta_rueb": "03:33",
       "eta_schleuse": "08:22",
-      "delta_rueb_schleuse": "04:48",
-      "delta_start_rueb": "03:22"
+      "delta_rueb_schleuse": "04:49",
+      "delta_start_rueb": "03:21"
     },
     {
       "is_target": false,
@@ -456,7 +456,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:06",
+      "eta_rueb_kiel": "05:05",
       "eta_rueb": "05:10",
       "ship": "CHARLOTTA",
       "q_gruppe": "1",
@@ -470,14 +470,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:10",
+      "eta_rueb_kiel": "05:08",
       "eta_rueb": "05:18",
       "ship": "SONGA SAPPHIRE",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "05:13",
+      "eta_rueb_kiel": "05:11",
       "eta_rueb": "05:20",
       "ship": "FL STOROE",
       "q_gruppe": "4",
@@ -495,6 +495,13 @@
       "eta_rueb": "07:20",
       "ship": "UHL FIGHTER",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "07:41",
+      "eta_rueb": "07:45",
+      "ship": "ELBRUNNER",
+      "q_gruppe": "2",
       "route": "RÜB → HOS"
     }
   ]
