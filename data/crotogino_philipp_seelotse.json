@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T20:26:47",
+  "generated_at": "2026-01-16T20:28:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -574,7 +574,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "23:21",
+      "eta_rueb_kiel": "23:20",
       "eta_rueb": "23:20",
       "ship": "LIBERO",
       "q_gruppe": "5",
