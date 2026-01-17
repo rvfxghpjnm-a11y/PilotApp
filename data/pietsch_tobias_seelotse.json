@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T03:00:50",
+  "generated_at": "2026-01-17T03:02:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -430,7 +430,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "07:10",
+      "eta_rueb_kiel": "07:11",
       "eta_rueb": "06:50",
       "ship": "DELFIN",
       "q_gruppe": "5",
