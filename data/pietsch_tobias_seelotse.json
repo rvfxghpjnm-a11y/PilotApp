@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T00:20:42",
+  "generated_at": "2026-01-18T00:22:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Sun Jan 18 00:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:21",
+        "eta_schleuse": "00:23",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "00:21",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "00:23",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:32"
     },
     {
@@ -321,14 +321,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:21",
+        "eta_schleuse": "00:23",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "00:21",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "00:23",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:32"
     }
   ],
@@ -528,14 +528,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:21",
+        "eta_schleuse": "00:23",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:43",
+        "delta_rueb_schleuse": "04:45",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "00:21",
-      "delta_rueb_schleuse": "04:43",
+      "eta_schleuse": "00:23",
+      "delta_rueb_schleuse": "04:45",
       "delta_start_rueb": "04:32"
     }
   ],
@@ -580,6 +580,13 @@
       "eta_rueb_kiel": "04:11",
       "eta_rueb": "03:58",
       "ship": "CELLUS",
+      "q_gruppe": "4",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "04:45",
+      "ship": "SPANACO SIMPLICITY",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     }
