@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T04:58:47",
+  "generated_at": "2026-01-17T05:00:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -486,7 +486,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "08:45",
+      "eta_rueb_kiel": "08:46",
       "eta_rueb": "08:45",
       "ship": "ELBINSEL",
       "q_gruppe": "1",
