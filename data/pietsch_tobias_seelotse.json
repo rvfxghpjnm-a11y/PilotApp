@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T05:52:46",
+  "generated_at": "2026-01-17T05:54:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -20,14 +20,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 17 05:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:56",
+        "eta_schleuse": "05:57",
         "eta_rueb": "02:16",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "02:16",
-      "eta_schleuse": "05:56",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "05:57",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:56"
     },
     {
@@ -37,8 +37,8 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -53,8 +53,8 @@
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -69,8 +69,8 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -311,14 +311,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 18:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:56",
+        "eta_schleuse": "05:57",
         "eta_rueb": "02:16",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "02:16",
-      "eta_schleuse": "05:56",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "05:57",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:56"
     }
   ],
@@ -330,8 +330,8 @@
       "name": "Nickolaj Groen",
       "aufgabe": "Kanalbört",
       "nr": 2,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -346,8 +346,8 @@
       "name": "Gerhard Alt",
       "aufgabe": "Kanalbört",
       "nr": 3,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -362,8 +362,8 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -524,14 +524,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 18:18:00 CET 2026",
       "times": {
-        "eta_schleuse": "05:56",
+        "eta_schleuse": "05:57",
         "eta_rueb": "02:16",
-        "delta_rueb_schleuse": "03:40",
+        "delta_rueb_schleuse": "03:41",
         "delta_start_rueb": "04:56"
       },
       "eta_rueb": "02:16",
-      "eta_schleuse": "05:56",
-      "delta_rueb_schleuse": "03:40",
+      "eta_schleuse": "05:57",
+      "delta_rueb_schleuse": "03:41",
       "delta_start_rueb": "04:56"
     }
   ],
@@ -552,7 +552,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "07:06",
+      "eta_rueb_kiel": "07:04",
       "eta_rueb": "06:50",
       "ship": "DELFIN",
       "q_gruppe": "5",
