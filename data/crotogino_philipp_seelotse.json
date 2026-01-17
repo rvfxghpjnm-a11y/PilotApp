@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T17:34:38",
+  "generated_at": "2026-01-17T17:36:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -73,15 +73,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Jan 17 15:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:56",
-        "eta_rueb": "21:29",
+        "eta_schleuse": "01:55",
+        "eta_rueb": "21:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:57"
+        "delta_start_rueb": "04:56"
       },
-      "eta_rueb": "21:29",
-      "eta_schleuse": "01:56",
+      "eta_rueb": "21:28",
+      "eta_schleuse": "01:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:57"
+      "delta_start_rueb": "04:56"
     },
     {
       "is_target": false,
@@ -433,15 +433,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Jan 17 15:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:56",
-        "eta_rueb": "21:29",
+        "eta_schleuse": "01:55",
+        "eta_rueb": "21:28",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:57"
+        "delta_start_rueb": "04:56"
       },
-      "eta_rueb": "21:29",
-      "eta_schleuse": "01:56",
+      "eta_rueb": "21:28",
+      "eta_schleuse": "01:55",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:57"
+      "delta_start_rueb": "04:56"
     },
     {
       "is_target": false,
@@ -706,7 +706,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:39",
+      "eta_rueb_kiel": "19:38",
       "eta_rueb": "19:33",
       "ship": "ALEXANDER B",
       "q_gruppe": "1",
