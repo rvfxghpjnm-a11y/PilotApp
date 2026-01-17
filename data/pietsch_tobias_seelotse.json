@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T07:42:50",
+  "generated_at": "2026-01-17T07:44:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -117,8 +117,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "PATRIA SEAWAYS",
+      "route": "KLT → SWK",
       "time": "Sat Jan 17 05:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
