@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T08:50:47",
+  "generated_at": "2026-01-17T08:52:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -583,7 +583,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:55",
+      "eta_rueb_kiel": "11:54",
       "eta_rueb": "11:50",
       "ship": "CORA JO",
       "q_gruppe": "4",
