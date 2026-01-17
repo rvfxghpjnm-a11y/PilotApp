@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T12:10:46",
+  "generated_at": "2026-01-17T12:12:48",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -488,17 +488,24 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:58",
+      "eta_rueb_kiel": "14:57",
       "eta_rueb": "13:55",
       "ship": "MAASBORG",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:22",
+      "eta_rueb_kiel": "15:21",
       "eta_rueb": "15:05",
       "ship": "JUDITH",
       "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "16:30",
+      "ship": "MIRAMAR",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
