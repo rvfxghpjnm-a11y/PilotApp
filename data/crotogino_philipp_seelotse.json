@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T01:38:46",
+  "generated_at": "2026-01-17T01:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -169,14 +169,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:33",
+        "eta_schleuse": "04:32",
         "eta_rueb": "01:02",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "01:02",
-      "eta_schleuse": "04:33",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "04:32",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:34"
     },
     {
@@ -282,14 +282,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:33",
+        "eta_schleuse": "04:32",
         "eta_rueb": "01:02",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "01:02",
-      "eta_schleuse": "04:33",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "04:32",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:34"
     },
     {
@@ -317,14 +317,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "02:15",
+      "eta_rueb_kiel": "02:17",
       "eta_rueb": "02:15",
       "ship": "LADY HARRIET",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:19",
+      "eta_rueb_kiel": "02:20",
       "eta_rueb": "02:30",
       "ship": "PVT AURORA",
       "q_gruppe": "1",
