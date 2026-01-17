@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T06:04:47",
+  "generated_at": "2026-01-17T06:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,14 +64,19 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STAV VIKING",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 05:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:25",
+        "eta_rueb": "06:31",
+        "delta_rueb_schleuse": "03:54",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "06:31",
+      "eta_schleuse": "10:25",
+      "delta_rueb_schleuse": "03:54",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -101,14 +106,14 @@
       "time": "Sat Jan 17 04:40:00 CET 2026",
       "times": {
         "eta_schleuse": "14:04",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "09:38",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
+      "eta_rueb": "09:38",
       "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -169,14 +174,14 @@
       "route": "OYUJ2/9193783 (RÜB → HOS",
       "time": "Sat Jan 17 02:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:17",
+        "eta_schleuse": "08:18",
         "eta_rueb": "04:30",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "04:30",
-      "eta_schleuse": "08:17",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "08:18",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:10"
     },
     {
@@ -190,14 +195,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 02:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:13",
+        "eta_schleuse": "08:14",
         "eta_rueb": "04:23",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "04:23",
-      "eta_schleuse": "08:13",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "08:14",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "05:07"
     },
     {
@@ -211,14 +216,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 02:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:10",
+        "eta_schleuse": "08:11",
         "eta_rueb": "04:18",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "04:18",
-      "eta_schleuse": "08:10",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "08:11",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:16"
     },
     {
@@ -248,14 +253,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 22:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:02",
+        "eta_schleuse": "08:03",
         "eta_rueb": "04:12",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "04:12",
-      "eta_schleuse": "08:02",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "04:54"
     },
     {
@@ -269,14 +274,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:06",
+        "eta_schleuse": "08:07",
         "eta_rueb": "04:15",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "04:15",
-      "eta_schleuse": "08:06",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "08:07",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:15"
     },
     {
@@ -352,14 +357,19 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "STAV VIKING",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 05:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:25",
+        "eta_rueb": "06:31",
+        "delta_rueb_schleuse": "03:54",
+        "delta_start_rueb": "04:39"
+      },
+      "eta_rueb": "06:31",
+      "eta_schleuse": "10:25",
+      "delta_rueb_schleuse": "03:54",
+      "delta_start_rueb": "04:39"
     },
     {
       "is_target": false,
@@ -373,14 +383,14 @@
       "time": "Sat Jan 17 04:40:00 CET 2026",
       "times": {
         "eta_schleuse": "14:04",
-        "eta_rueb": null,
-        "delta_rueb_schleuse": null,
-        "delta_start_rueb": null
+        "eta_rueb": "09:38",
+        "delta_rueb_schleuse": "04:26",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": null,
+      "eta_rueb": "09:38",
       "eta_schleuse": "14:04",
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "delta_rueb_schleuse": "04:26",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -393,14 +403,14 @@
       "route": "OYUJ2/9193783 (RÜB → HOS",
       "time": "Sat Jan 17 02:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:17",
+        "eta_schleuse": "08:18",
         "eta_rueb": "04:30",
-        "delta_rueb_schleuse": "03:47",
+        "delta_rueb_schleuse": "03:48",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "04:30",
-      "eta_schleuse": "08:17",
-      "delta_rueb_schleuse": "03:47",
+      "eta_schleuse": "08:18",
+      "delta_rueb_schleuse": "03:48",
       "delta_start_rueb": "04:10"
     },
     {
@@ -414,14 +424,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 02:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:13",
+        "eta_schleuse": "08:14",
         "eta_rueb": "04:23",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "05:07"
       },
       "eta_rueb": "04:23",
-      "eta_schleuse": "08:13",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "08:14",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "05:07"
     },
     {
@@ -435,14 +445,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 02:50:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:10",
+        "eta_schleuse": "08:11",
         "eta_rueb": "04:18",
-        "delta_rueb_schleuse": "03:52",
+        "delta_rueb_schleuse": "03:53",
         "delta_start_rueb": "04:16"
       },
       "eta_rueb": "04:18",
-      "eta_schleuse": "08:10",
-      "delta_rueb_schleuse": "03:52",
+      "eta_schleuse": "08:11",
+      "delta_rueb_schleuse": "03:53",
       "delta_start_rueb": "04:16"
     },
     {
@@ -456,14 +466,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 22:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:02",
+        "eta_schleuse": "08:03",
         "eta_rueb": "04:12",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "04:12",
-      "eta_schleuse": "08:02",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "08:03",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "04:54"
     },
     {
@@ -477,14 +487,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 19:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:06",
+        "eta_schleuse": "08:07",
         "eta_rueb": "04:15",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:15"
       },
       "eta_rueb": "04:15",
-      "eta_schleuse": "08:06",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "08:07",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:15"
     },
     {
@@ -522,13 +532,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "06:31",
-      "eta_rueb": "06:45",
-      "ship": "STAV VIKING",
-      "q_gruppe": "1",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:37",
       "eta_rueb": "06:47",
