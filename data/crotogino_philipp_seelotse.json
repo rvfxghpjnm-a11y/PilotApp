@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T13:12:47",
+  "generated_at": "2026-01-17T13:14:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -127,14 +127,14 @@
       "time": "Sat Jan 17 09:12:00 CET 2026",
       "times": {
         "eta_schleuse": "18:34",
-        "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:23"
+        "eta_rueb": "13:46",
+        "delta_rueb_schleuse": "04:48",
+        "delta_start_rueb": "03:22"
       },
-      "eta_rueb": "13:47",
+      "eta_rueb": "13:46",
       "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:23"
+      "delta_rueb_schleuse": "04:48",
+      "delta_start_rueb": "03:22"
     },
     {
       "is_target": false,
@@ -222,8 +222,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FIONA B",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:52:03 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -311,14 +311,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 04:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:56",
+        "eta_schleuse": "14:55",
         "eta_rueb": "10:33",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "10:33",
-      "eta_schleuse": "14:56",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "14:55",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "04:13"
     }
   ],
@@ -425,14 +425,14 @@
       "time": "Sat Jan 17 09:12:00 CET 2026",
       "times": {
         "eta_schleuse": "18:34",
-        "eta_rueb": "13:47",
-        "delta_rueb_schleuse": "04:47",
-        "delta_start_rueb": "03:23"
+        "eta_rueb": "13:46",
+        "delta_rueb_schleuse": "04:48",
+        "delta_start_rueb": "03:22"
       },
-      "eta_rueb": "13:47",
+      "eta_rueb": "13:46",
       "eta_schleuse": "18:34",
-      "delta_rueb_schleuse": "04:47",
-      "delta_start_rueb": "03:23"
+      "delta_rueb_schleuse": "04:48",
+      "delta_start_rueb": "03:22"
     },
     {
       "is_target": false,
@@ -504,8 +504,8 @@
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
       "nr": 12,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "FIONA B",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:52:03 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -545,29 +545,22 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 04:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "14:56",
+        "eta_schleuse": "14:55",
         "eta_rueb": "10:33",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "04:13"
       },
       "eta_rueb": "10:33",
-      "eta_schleuse": "14:56",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "14:55",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "04:13"
     }
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "13:40",
-      "ship": "FIONA B",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
-    {
       "eta_rueb_kiel": "14:55",
-      "eta_rueb": "13:55",
+      "eta_rueb": "14:55",
       "ship": "MAASBORG",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
