@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T07:32:45",
+  "generated_at": "2026-01-17T07:34:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -117,8 +117,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "PVT AURORA",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 17 05:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
