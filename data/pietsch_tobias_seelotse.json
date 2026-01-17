@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T09:32:47",
+  "generated_at": "2026-01-17T09:34:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -623,7 +623,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "10:36",
+      "eta_rueb_kiel": "10:35",
       "eta_rueb": "10:35",
       "ship": "ELBSUMMER",
       "q_gruppe": "1",
@@ -648,6 +648,13 @@
       "eta_rueb": "12:50",
       "ship": "MIAMI LIGHT",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "13:45",
+      "ship": "FIONA B",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
