@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T17:56:39",
+  "generated_at": "2026-01-17T17:58:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -384,14 +384,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 09:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:04",
+        "eta_schleuse": "19:03",
         "eta_rueb": "15:08",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "15:08",
-      "eta_schleuse": "19:04",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "19:03",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:14"
     },
     {
@@ -680,14 +680,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 09:12:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:04",
+        "eta_schleuse": "19:03",
         "eta_rueb": "15:08",
-        "delta_rueb_schleuse": "03:56",
+        "delta_rueb_schleuse": "03:55",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "15:08",
-      "eta_schleuse": "19:04",
-      "delta_rueb_schleuse": "03:56",
+      "eta_schleuse": "19:03",
+      "delta_rueb_schleuse": "03:55",
       "delta_start_rueb": "04:14"
     },
     {
