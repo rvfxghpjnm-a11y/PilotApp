@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T16:58:46",
+  "generated_at": "2026-01-17T17:00:49",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,16 +35,11 @@
       "fahrzeug": "MIAMI LIGHT",
       "route": "HOS → KLT",
       "time": "Sat Jan 17 16:24:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:58",
-        "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "04:04",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "12:54",
-      "eta_schleuse": "16:58",
-      "delta_rueb_schleuse": "04:04",
-      "delta_start_rueb": "04:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -409,16 +404,11 @@
       "fahrzeug": "MIAMI LIGHT",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:11:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:58",
-        "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "04:04",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "12:54",
-      "eta_schleuse": "16:58",
-      "delta_rueb_schleuse": "04:04",
-      "delta_start_rueb": "04:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -737,16 +727,11 @@
       "fahrzeug": "MIAMI LIGHT",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:11:00 CET 2026",
-      "times": {
-        "eta_schleuse": "16:58",
-        "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "04:04",
-        "delta_start_rueb": "04:22"
-      },
-      "eta_rueb": "12:54",
-      "eta_schleuse": "16:58",
-      "delta_rueb_schleuse": "04:04",
-      "delta_start_rueb": "04:22"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -769,14 +754,14 @@
   "ruesterbergen": [
     {
       "eta_rueb_kiel": "19:34",
-      "eta_rueb": "19:15",
+      "eta_rueb": "19:30",
       "ship": "SUPRA MONARCH",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "19:41",
-      "eta_rueb": "19:17",
+      "eta_rueb": "19:33",
       "ship": "ALEXANDER B",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
