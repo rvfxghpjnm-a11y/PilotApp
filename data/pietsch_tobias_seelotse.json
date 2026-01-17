@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T12:26:46",
+  "generated_at": "2026-01-17T12:28:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -120,14 +120,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 17 07:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:29",
+        "eta_schleuse": "12:30",
         "eta_rueb": "08:36",
-        "delta_rueb_schleuse": "03:53",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:44"
       },
       "eta_rueb": "08:36",
-      "eta_schleuse": "12:29",
-      "delta_rueb_schleuse": "03:53",
+      "eta_schleuse": "12:30",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:44"
     },
     {
@@ -137,14 +137,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MIAMI LIGHT",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:00",
+        "eta_rueb": "12:55",
+        "delta_rueb_schleuse": "04:05",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "12:55",
+      "eta_schleuse": "17:00",
+      "delta_rueb_schleuse": "04:05",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -382,14 +387,19 @@
       "name": "Olaf Tontarra",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "MIAMI LIGHT",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:11:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "17:00",
+        "eta_rueb": "12:55",
+        "delta_rueb_schleuse": "04:05",
+        "delta_start_rueb": "04:23"
+      },
+      "eta_rueb": "12:55",
+      "eta_schleuse": "17:00",
+      "delta_rueb_schleuse": "04:05",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -473,13 +483,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "12:54",
-      "eta_rueb": "12:50",
-      "ship": "MIAMI LIGHT",
-      "q_gruppe": "0",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": null,
       "eta_rueb": "13:40",
