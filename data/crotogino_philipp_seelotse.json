@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T13:36:47",
+  "generated_at": "2026-01-17T13:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -200,14 +200,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:11:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:59",
+        "eta_schleuse": "17:00",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:59",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "17:00",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:22"
     },
     {
@@ -482,14 +482,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:11:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:59",
+        "eta_schleuse": "17:00",
         "eta_rueb": "12:54",
-        "delta_rueb_schleuse": "04:05",
+        "delta_rueb_schleuse": "04:06",
         "delta_start_rueb": "04:22"
       },
       "eta_rueb": "12:54",
-      "eta_schleuse": "16:59",
-      "delta_rueb_schleuse": "04:05",
+      "eta_schleuse": "17:00",
+      "delta_rueb_schleuse": "04:06",
       "delta_start_rueb": "04:22"
     },
     {
@@ -610,7 +610,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:47",
+      "eta_rueb_kiel": "16:45",
       "eta_rueb": "16:45",
       "ship": "CM COAST",
       "q_gruppe": "5",
