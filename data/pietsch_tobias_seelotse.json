@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T21:10:39",
+  "generated_at": "2026-01-17T21:12:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 12,
+    "kanal": 11,
     "wach": 1,
-    "see": 7
+    "see": 8
   },
   "times": null,
   "lotsen": [
@@ -267,10 +267,10 @@
       "vorname": "Peter",
       "nachname": "Jakob",
       "name": "Peter Jakob",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 14,
       "fahrzeug": "CM COAST",
-      "route": "RÜB → UTG",
+      "route": "UTG → HOS",
       "time": "Sat Jan 17 15:15:00 CET 2026",
       "times": {
         "eta_schleuse": "18:46",
@@ -526,27 +526,6 @@
       "eta_schleuse": "02:54",
       "delta_rueb_schleuse": "05:32",
       "delta_start_rueb": "04:50"
-    },
-    {
-      "is_target": false,
-      "vorname": "Peter",
-      "nachname": "Jakob",
-      "name": "Peter Jakob",
-      "aufgabe": "Kanalbört",
-      "nr": 14,
-      "fahrzeug": "CM COAST",
-      "route": "RÜB → UTG",
-      "time": "Sat Jan 17 15:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "18:46",
-        "eta_rueb": "16:39",
-        "delta_rueb_schleuse": "2286482:07",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "16:39",
-      "eta_schleuse": "18:46",
-      "delta_rueb_schleuse": "2286482:07",
-      "delta_start_rueb": "04:17"
     },
     {
       "is_target": false,
