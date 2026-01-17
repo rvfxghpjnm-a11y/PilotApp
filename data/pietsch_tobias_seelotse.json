@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T13:14:46",
+  "generated_at": "2026-01-17T13:16:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -594,7 +594,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:48",
+      "eta_rueb_kiel": "16:47",
       "eta_rueb": "16:45",
       "ship": "CM COAST",
       "q_gruppe": "5",
