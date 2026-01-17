@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T12:54:46",
+  "generated_at": "2026-01-17T12:56:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -557,7 +557,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:19",
+      "eta_rueb_kiel": "15:18",
       "eta_rueb": "15:05",
       "ship": "JUDITH",
       "q_gruppe": "1",
@@ -592,7 +592,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:06",
+      "eta_rueb_kiel": "17:08",
       "eta_rueb": "16:50",
       "ship": "GT CETUS",
       "q_gruppe": "5",
