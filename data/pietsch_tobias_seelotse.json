@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T14:24:46",
+  "generated_at": "2026-01-17T14:26:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -569,14 +569,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "14:56",
+      "eta_rueb_kiel": "14:55",
       "eta_rueb": "14:55",
       "ship": "MAASBORG",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:11",
+      "eta_rueb_kiel": "15:10",
       "eta_rueb": "15:05",
       "ship": "JUDITH",
       "q_gruppe": "1",
