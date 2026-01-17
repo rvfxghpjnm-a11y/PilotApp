@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T07:04:45",
+  "generated_at": "2026-01-17T07:06:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -126,14 +126,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:20",
+        "eta_schleuse": "10:19",
         "eta_rueb": "06:29",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "06:29",
-      "eta_schleuse": "10:20",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "10:19",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "04:37"
     },
     {
@@ -143,8 +143,8 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "YARA KARA",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Jan 17 04:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -445,14 +445,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:20",
+        "eta_schleuse": "10:19",
         "eta_rueb": "06:29",
-        "delta_rueb_schleuse": "03:51",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "06:29",
-      "eta_schleuse": "10:20",
-      "delta_rueb_schleuse": "03:51",
+      "eta_schleuse": "10:19",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "04:37"
     },
     {
