@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-17T15:18:46",
+  "generated_at": "2026-01-17T15:20:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 17,
+    "kanal": 16,
     "wach": 0,
     "see": 5
   },
@@ -67,16 +67,11 @@
       "fahrzeug": "CORA JO",
       "route": "HOS → KLT",
       "time": "Sat Jan 17 14:42:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:16",
-        "eta_rueb": "11:45",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "11:45",
-      "eta_schleuse": "15:16",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -357,16 +352,11 @@
       "fahrzeug": "CORA JO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:08:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:16",
-        "eta_rueb": "11:45",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "11:45",
-      "eta_schleuse": "15:16",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -394,22 +384,6 @@
       "fahrzeug": "FREDO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:07:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Gunnar",
-      "nachname": "Thomsen",
-      "name": "Gunnar Thomsen",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "ELBSUMMER",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 17 04:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
@@ -676,16 +650,11 @@
       "fahrzeug": "CORA JO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:08:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:16",
-        "eta_rueb": "11:45",
-        "delta_rueb_schleuse": "03:31",
-        "delta_start_rueb": "04:15"
-      },
-      "eta_rueb": "11:45",
-      "eta_schleuse": "15:16",
-      "delta_rueb_schleuse": "03:31",
-      "delta_start_rueb": "04:15"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -713,22 +682,6 @@
       "fahrzeug": "FREDO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:07:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Gunnar",
-      "nachname": "Thomsen",
-      "name": "Gunnar Thomsen",
-      "aufgabe": "Kanalbört",
-      "nr": 22,
-      "fahrzeug": "ELBSUMMER",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 17 04:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
       "eta_schleuse": null,
