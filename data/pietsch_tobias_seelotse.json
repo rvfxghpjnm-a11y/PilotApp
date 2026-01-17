@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T15:38:45",
+  "generated_at": "2026-01-17T15:40:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -200,14 +200,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Jan 17 12:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:49",
+        "eta_schleuse": "22:48",
         "eta_rueb": "17:27",
-        "delta_rueb_schleuse": "05:22",
+        "delta_rueb_schleuse": "05:21",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "17:27",
-      "eta_schleuse": "22:49",
-      "delta_rueb_schleuse": "05:22",
+      "eta_schleuse": "22:48",
+      "delta_rueb_schleuse": "05:21",
       "delta_start_rueb": "03:35"
     },
     {
@@ -530,14 +530,14 @@
       "route": "HOR → RÜB",
       "time": "Sat Jan 17 12:41:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:49",
+        "eta_schleuse": "22:48",
         "eta_rueb": "17:27",
-        "delta_rueb_schleuse": "05:22",
+        "delta_rueb_schleuse": "05:21",
         "delta_start_rueb": "03:35"
       },
       "eta_rueb": "17:27",
-      "eta_schleuse": "22:49",
-      "delta_rueb_schleuse": "05:22",
+      "eta_schleuse": "22:48",
+      "delta_rueb_schleuse": "05:21",
       "delta_start_rueb": "03:35"
     },
     {
@@ -727,7 +727,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:35",
+      "eta_rueb_kiel": "19:34",
       "eta_rueb": "19:15",
       "ship": "SUPRA MONARCH",
       "q_gruppe": "0",
