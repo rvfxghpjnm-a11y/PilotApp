@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T18:52:40",
+  "generated_at": "2026-01-17T18:54:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -746,7 +746,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:37",
+      "eta_rueb_kiel": "19:35",
       "eta_rueb": "19:33",
       "ship": "ALEXANDER B",
       "q_gruppe": "1",
@@ -760,7 +760,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:59",
+      "eta_rueb_kiel": "00:00",
       "eta_rueb": "23:00",
       "ship": "OTELLO",
       "q_gruppe": "4",
