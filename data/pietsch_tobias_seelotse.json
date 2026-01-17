@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T07:50:46",
+  "generated_at": "2026-01-17T07:52:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -81,7 +81,7 @@
       "aufgabe": "Kanalbört",
       "nr": 5,
       "fahrzeug": "MANISA EMY",
-      "route": "RÜB → UTG",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:20:00 CET 2026",
       "times": {
         "eta_schleuse": "11:17",
@@ -469,7 +469,7 @@
       "aufgabe": "Kanalbört",
       "nr": 5,
       "fahrzeug": "MANISA EMY",
-      "route": "RÜB → UTG",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:20:00 CET 2026",
       "times": {
         "eta_schleuse": "11:17",
