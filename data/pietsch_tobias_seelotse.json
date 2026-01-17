@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T01:24:46",
+  "generated_at": "2026-01-17T01:26:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -363,7 +363,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:20",
+      "eta_rueb_kiel": "04:19",
       "eta_rueb": "04:30",
       "ship": "MISSISSIPPIBORG",
       "q_gruppe": "3",
@@ -377,14 +377,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:24",
+      "eta_rueb_kiel": "04:22",
       "eta_rueb": "04:47",
       "ship": "ROSEBURG",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:27",
+      "eta_rueb_kiel": "04:26",
       "eta_rueb": "04:49",
       "ship": "KIARA",
       "q_gruppe": "4",
