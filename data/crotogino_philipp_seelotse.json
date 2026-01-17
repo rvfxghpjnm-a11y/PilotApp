@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-17T01:56:45",
+  "generated_at": "2026-01-17T01:58:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 6,
+    "kanal": 5,
     "wach": 1,
     "see": 4
   },
@@ -188,27 +188,6 @@
       "eta_schleuse": "04:31",
       "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:34"
-    },
-    {
-      "is_target": false,
-      "vorname": "Kai",
-      "nachname": "Heyenga",
-      "name": "Kai Heyenga",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "LIBERO",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 16:41:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:46",
-        "eta_rueb": "22:25",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "04:07"
-      },
-      "eta_rueb": "22:25",
-      "eta_schleuse": "01:46",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "04:07"
     }
   ],
   "kanallotsen": [
@@ -311,27 +290,6 @@
       "eta_schleuse": "04:31",
       "delta_rueb_schleuse": "03:29",
       "delta_start_rueb": "04:34"
-    },
-    {
-      "is_target": false,
-      "vorname": "Kai",
-      "nachname": "Heyenga",
-      "name": "Kai Heyenga",
-      "aufgabe": "Kanalbört",
-      "nr": 11,
-      "fahrzeug": "LIBERO",
-      "route": "RÜB → HOS",
-      "time": "Fri Jan 16 16:41:00 CET 2026",
-      "times": {
-        "eta_schleuse": "01:46",
-        "eta_rueb": "22:25",
-        "delta_rueb_schleuse": "03:21",
-        "delta_start_rueb": "04:07"
-      },
-      "eta_rueb": "22:25",
-      "eta_schleuse": "01:46",
-      "delta_rueb_schleuse": "03:21",
-      "delta_start_rueb": "04:07"
     }
   ],
   "meldungen_kiel": [],
@@ -377,6 +335,13 @@
       "ship": "STAV VIKING",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "06:49",
+      "eta_rueb": "06:47",
+      "ship": "MANAS",
+      "q_gruppe": "3",
+      "route": "RÜB → UTG"
     }
   ]
 }
