@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T21:36:39",
+  "generated_at": "2026-01-17T21:38:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
     "kanal": 9,
     "wach": 1,
-    "see": 8
+    "see": 7
   },
   "times": null,
   "lotsen": [
@@ -58,14 +58,14 @@
       "time": "Sat Jan 17 19:21:00 CET 2026",
       "times": {
         "eta_schleuse": "05:20",
-        "eta_rueb": "00:36",
-        "delta_rueb_schleuse": "04:44",
-        "delta_start_rueb": "03:36"
+        "eta_rueb": "00:35",
+        "delta_rueb_schleuse": "04:45",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "00:36",
+      "eta_rueb": "00:35",
       "eta_schleuse": "05:20",
-      "delta_rueb_schleuse": "04:44",
-      "delta_start_rueb": "03:36"
+      "delta_rueb_schleuse": "04:45",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -132,14 +132,14 @@
       "time": "Sat Jan 17 18:16:00 CET 2026",
       "times": {
         "eta_schleuse": "05:10",
-        "eta_rueb": "00:25",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "03:53"
+        "eta_rueb": "00:24",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "00:25",
+      "eta_rueb": "00:24",
       "eta_schleuse": "05:10",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "03:53"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -260,27 +260,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Seebört",
-      "nr": 15,
-      "fahrzeug": "HOS",
-      "route": null,
-      "time": "Sat Jan 17 15:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Hartmut",
       "nachname": "Köller",
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "SAN BACCO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
@@ -301,7 +285,7 @@
       "nachname": "Münker",
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "ALEXANDER B",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
@@ -322,7 +306,7 @@
       "nachname": "Kahler",
       "name": "Volker Kahler",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SUPRA MONARCH",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 12:57:00 CET 2026",
@@ -372,14 +356,14 @@
       "time": "Sat Jan 17 19:21:00 CET 2026",
       "times": {
         "eta_schleuse": "05:20",
-        "eta_rueb": "00:36",
-        "delta_rueb_schleuse": "04:44",
-        "delta_start_rueb": "03:36"
+        "eta_rueb": "00:35",
+        "delta_rueb_schleuse": "04:45",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "00:36",
+      "eta_rueb": "00:35",
       "eta_schleuse": "05:20",
-      "delta_rueb_schleuse": "04:44",
-      "delta_start_rueb": "03:36"
+      "delta_rueb_schleuse": "04:45",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -414,14 +398,14 @@
       "time": "Sat Jan 17 18:16:00 CET 2026",
       "times": {
         "eta_schleuse": "05:10",
-        "eta_rueb": "00:25",
-        "delta_rueb_schleuse": "04:45",
-        "delta_start_rueb": "03:53"
+        "eta_rueb": "00:24",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "03:52"
       },
-      "eta_rueb": "00:25",
+      "eta_rueb": "00:24",
       "eta_schleuse": "05:10",
-      "delta_rueb_schleuse": "04:45",
-      "delta_start_rueb": "03:53"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "03:52"
     },
     {
       "is_target": false,
@@ -461,7 +445,7 @@
       "nachname": "Köller",
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "SAN BACCO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
@@ -482,7 +466,7 @@
       "nachname": "Münker",
       "name": "Niels Münker",
       "aufgabe": "Kanalbört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "ALEXANDER B",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
@@ -503,7 +487,7 @@
       "nachname": "Kahler",
       "name": "Volker Kahler",
       "aufgabe": "Kanalbört",
-      "nr": 18,
+      "nr": 17,
       "fahrzeug": "SUPRA MONARCH",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 12:57:00 CET 2026",
@@ -522,7 +506,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:56",
+      "eta_rueb_kiel": "01:55",
       "eta_rueb": "01:45",
       "ship": "PULPCA",
       "q_gruppe": "0",
