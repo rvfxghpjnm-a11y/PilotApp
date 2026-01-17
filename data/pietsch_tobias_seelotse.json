@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T09:42:45",
+  "generated_at": "2026-01-17T09:44:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -360,8 +360,8 @@
       "name": "Michael Krebs",
       "aufgabe": "Seebört",
       "nr": 20,
-      "fahrzeug": "EXPERT",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 17 02:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
