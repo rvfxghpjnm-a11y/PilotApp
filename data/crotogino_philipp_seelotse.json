@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T18:02:39",
+  "generated_at": "2026-01-17T18:04:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -280,19 +280,14 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RIX RIVER",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 12:41:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:45",
-        "eta_rueb": "17:24",
-        "delta_rueb_schleuse": "05:21",
-        "delta_start_rueb": "03:32"
-      },
-      "eta_rueb": "17:24",
-      "eta_schleuse": "22:45",
-      "delta_rueb_schleuse": "05:21",
-      "delta_start_rueb": "03:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -592,19 +587,14 @@
       "name": "Dolf Jenckel",
       "aufgabe": "Kanalbört",
       "nr": 15,
-      "fahrzeug": "RIX RIVER",
-      "route": "HOR → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 12:41:00 CET 2026",
-      "times": {
-        "eta_schleuse": "22:45",
-        "eta_rueb": "17:24",
-        "delta_rueb_schleuse": "05:21",
-        "delta_start_rueb": "03:32"
-      },
-      "eta_rueb": "17:24",
-      "eta_schleuse": "22:45",
-      "delta_rueb_schleuse": "05:21",
-      "delta_start_rueb": "03:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
