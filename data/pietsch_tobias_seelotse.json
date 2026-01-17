@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T05:54:49",
+  "generated_at": "2026-01-17T05:56:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -538,7 +538,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:32",
+      "eta_rueb_kiel": "06:31",
       "eta_rueb": "06:45",
       "ship": "STAV VIKING",
       "q_gruppe": "1",
@@ -566,7 +566,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "08:44",
+      "eta_rueb_kiel": "08:43",
       "eta_rueb": "08:45",
       "ship": "ELBINSEL",
       "q_gruppe": "1",
