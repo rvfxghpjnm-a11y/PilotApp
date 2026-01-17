@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T22:26:38",
+  "generated_at": "2026-01-17T22:28:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -549,7 +549,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:56",
+      "eta_rueb_kiel": "01:55",
       "eta_rueb": "01:45",
       "ship": "PULPCA",
       "q_gruppe": "0",
