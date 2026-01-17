@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T13:42:46",
+  "generated_at": "2026-01-17T13:44:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -594,21 +594,21 @@
     },
     {
       "eta_rueb_kiel": "16:41",
-      "eta_rueb": "16:40",
+      "eta_rueb": "16:25",
       "ship": "JOHANNA HELENA",
       "q_gruppe": "4",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "16:45",
-      "eta_rueb": "16:45",
+      "eta_rueb": "16:28",
       "ship": "CM COAST",
       "q_gruppe": "5",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "17:06",
-      "eta_rueb": "16:50",
+      "eta_rueb_kiel": "17:05",
+      "eta_rueb": "16:30",
       "ship": "GT CETUS",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
