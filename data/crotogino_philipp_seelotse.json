@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T23:40:39",
+  "generated_at": "2026-01-17T23:42:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -332,14 +332,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:45",
+        "eta_schleuse": "23:47",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:45",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "23:47",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:32"
     },
     {
@@ -555,14 +555,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:45",
+        "eta_schleuse": "23:47",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:07",
+        "delta_rueb_schleuse": "04:09",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:45",
-      "delta_rueb_schleuse": "04:07",
+      "eta_schleuse": "23:47",
+      "delta_rueb_schleuse": "04:09",
       "delta_start_rueb": "04:32"
     },
     {
@@ -585,14 +585,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:53",
+      "eta_rueb_kiel": "01:52",
       "eta_rueb": "01:45",
       "ship": "PULPCA",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:44",
+      "eta_rueb_kiel": "02:43",
       "eta_rueb": "02:30",
       "ship": "LINDEBORG",
       "q_gruppe": "5",
