@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T01:18:46",
+  "generated_at": "2026-01-17T01:20:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -101,19 +101,14 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "AMARANTH",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 19:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "05:43",
-        "eta_rueb": "01:16",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "01:16",
-      "eta_schleuse": "05:43",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -206,14 +201,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:34",
+        "eta_schleuse": "04:33",
         "eta_rueb": "01:02",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "01:02",
-      "eta_schleuse": "04:34",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "04:33",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:34"
     },
     {
@@ -283,19 +278,14 @@
       "name": "Artur Skawianczyk",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "AMARANTH",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Fri Jan 16 19:48:00 CET 2026",
-      "times": {
-        "eta_schleuse": "05:43",
-        "eta_rueb": "01:16",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:20"
-      },
-      "eta_rueb": "01:16",
-      "eta_schleuse": "05:43",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:20"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -324,14 +314,14 @@
       "route": "RÜB → HOS",
       "time": "Fri Jan 16 17:06:00 CET 2026",
       "times": {
-        "eta_schleuse": "04:34",
+        "eta_schleuse": "04:33",
         "eta_rueb": "01:02",
-        "delta_rueb_schleuse": "03:32",
+        "delta_rueb_schleuse": "03:31",
         "delta_start_rueb": "04:34"
       },
       "eta_rueb": "01:02",
-      "eta_schleuse": "04:34",
-      "delta_rueb_schleuse": "03:32",
+      "eta_schleuse": "04:33",
+      "delta_rueb_schleuse": "03:31",
       "delta_start_rueb": "04:34"
     },
     {
@@ -373,7 +363,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:21",
+      "eta_rueb_kiel": "04:20",
       "eta_rueb": "04:30",
       "ship": "MISSISSIPPIBORG",
       "q_gruppe": "3",
