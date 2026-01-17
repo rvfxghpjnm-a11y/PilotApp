@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T00:26:40",
+  "generated_at": "2026-01-18T00:28:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -153,19 +153,14 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EEMS SPIRIT",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 19:20:00 CET 2026",
-      "times": {
-        "eta_schleuse": "05:32",
-        "eta_rueb": "00:27",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:33"
-      },
-      "eta_rueb": "00:27",
-      "eta_schleuse": "05:32",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -419,19 +414,14 @@
       "name": "Jens Michael Rohn",
       "aufgabe": "Kanalbört",
       "nr": 8,
-      "fahrzeug": "EEMS SPIRIT",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sat Jan 17 19:20:00 CET 2026",
-      "times": {
-        "eta_schleuse": "05:32",
-        "eta_rueb": "00:27",
-        "delta_rueb_schleuse": "05:05",
-        "delta_start_rueb": "03:33"
-      },
-      "eta_rueb": "00:27",
-      "eta_schleuse": "05:32",
-      "delta_rueb_schleuse": "05:05",
-      "delta_start_rueb": "03:33"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -531,6 +521,13 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "00:30",
+      "ship": "Leerfahrt",
+      "q_gruppe": "",
+      "route": "RÜB → HOS"
+    },
     {
       "eta_rueb_kiel": "01:50",
       "eta_rueb": "01:45",
