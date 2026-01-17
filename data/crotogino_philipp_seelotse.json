@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T22:40:39",
+  "generated_at": "2026-01-17T22:42:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -212,8 +212,8 @@
       "name": "Tom Weise",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "BRISOTE",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 17 16:24:00 CET 2026",
       "times": null,
       "eta_rueb": null,
