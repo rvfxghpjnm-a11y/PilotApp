@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T16:40:47",
+  "generated_at": "2026-01-17T16:42:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -90,14 +90,19 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GT CETUS",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 15:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:35",
+        "eta_rueb": "17:06",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "07:40"
+      },
+      "eta_rueb": "17:06",
+      "eta_schleuse": "21:35",
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "07:40"
     },
     {
       "is_target": false,
@@ -477,14 +482,19 @@
       "name": "Ingmar Richter",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "GT CETUS",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 15:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "21:35",
+        "eta_rueb": "17:06",
+        "delta_rueb_schleuse": "04:29",
+        "delta_start_rueb": "07:40"
+      },
+      "eta_rueb": "17:06",
+      "eta_schleuse": "21:35",
+      "delta_rueb_schleuse": "04:29",
+      "delta_start_rueb": "07:40"
     },
     {
       "is_target": false,
@@ -757,13 +767,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "17:06",
-      "eta_rueb": "16:45",
-      "ship": "GT CETUS",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "19:31",
       "eta_rueb": "19:15",
