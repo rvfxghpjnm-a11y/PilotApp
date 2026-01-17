@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T11:52:48",
+  "generated_at": "2026-01-17T11:54:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -243,8 +243,8 @@
       "name": "Thomas Schmidt",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "RIX MELODY",
+      "route": "KLT → HOS",
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -511,7 +511,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:24",
+      "eta_rueb_kiel": "15:22",
       "eta_rueb": "14:15",
       "ship": "JUDITH",
       "q_gruppe": "1",
