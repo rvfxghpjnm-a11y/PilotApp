@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-17T10:46:46",
+  "generated_at": "2026-01-17T10:48:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 11,
+    "kanal": 10,
     "wach": 0,
     "see": 6
   },
@@ -37,14 +37,14 @@
       "time": "Sat Jan 17 09:25:00 CET 2026",
       "times": {
         "eta_schleuse": "18:49",
-        "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "14:03",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "14:07",
+      "eta_rueb": "14:03",
       "eta_schleuse": "18:49",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -58,14 +58,14 @@
       "time": "Sat Jan 17 09:12:00 CET 2026",
       "times": {
         "eta_schleuse": "18:45",
-        "eta_rueb": "14:03",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "14:00",
+        "delta_rueb_schleuse": "04:45",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "14:03",
+      "eta_rueb": "14:00",
       "eta_schleuse": "18:45",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:45",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -227,27 +227,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Gerhard",
-      "nachname": "Alt",
-      "name": "Gerhard Alt",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "MANAS",
-      "route": "RÜB → UTG",
-      "time": "Sat Jan 17 05:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Thomas",
       "nachname": "Schmidt",
       "name": "Thomas Schmidt",
       "aufgabe": "Seebört",
-      "nr": 13,
+      "nr": 12,
       "fahrzeug": "STAV VIKING",
       "route": "HOS → KLT",
       "time": "Sat Jan 17 05:15:00 CET 2026",
@@ -263,7 +247,7 @@
       "nachname": "Klüver",
       "name": "Knut Paul Klüver",
       "aufgabe": "Seebört",
-      "nr": 14,
+      "nr": 13,
       "fahrzeug": "KLT",
       "route": null,
       "time": "Sat Jan 17 04:45:00 CET 2026",
@@ -279,7 +263,7 @@
       "nachname": "Thomsen",
       "name": "Gunnar Thomsen",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "ELBSUMMER",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 04:40:00 CET 2026",
@@ -300,7 +284,7 @@
       "nachname": "Ehlers",
       "name": "Sören Ehlers",
       "aufgabe": "Seebört",
-      "nr": 16,
+      "nr": 15,
       "fahrzeug": "HOR",
       "route": null,
       "time": "Sat Jan 17 03:33:00 CET 2026",
@@ -316,7 +300,7 @@
       "nachname": "Lüttge",
       "name": "Sebastian Lüttge",
       "aufgabe": "Seebört",
-      "nr": 17,
+      "nr": 16,
       "fahrzeug": "WL-SEE",
       "route": "HOS → HOS",
       "time": "Sat Jan 17 03:00:00 CET 2026",
@@ -356,14 +340,14 @@
       "time": "Sat Jan 17 09:25:00 CET 2026",
       "times": {
         "eta_schleuse": "18:49",
-        "eta_rueb": "14:07",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "14:03",
+        "delta_rueb_schleuse": "04:46",
+        "delta_start_rueb": "03:35"
       },
-      "eta_rueb": "14:07",
+      "eta_rueb": "14:03",
       "eta_schleuse": "18:49",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:46",
+      "delta_start_rueb": "03:35"
     },
     {
       "is_target": false,
@@ -377,14 +361,14 @@
       "time": "Sat Jan 17 09:12:00 CET 2026",
       "times": {
         "eta_schleuse": "18:45",
-        "eta_rueb": "14:03",
-        "delta_rueb_schleuse": "04:42",
-        "delta_start_rueb": "03:39"
+        "eta_rueb": "14:00",
+        "delta_rueb_schleuse": "04:45",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "14:03",
+      "eta_rueb": "14:00",
       "eta_schleuse": "18:45",
-      "delta_rueb_schleuse": "04:42",
-      "delta_start_rueb": "03:39"
+      "delta_rueb_schleuse": "04:45",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -509,27 +493,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Gerhard",
-      "nachname": "Alt",
-      "name": "Gerhard Alt",
-      "aufgabe": "Kanalbört",
-      "nr": 12,
-      "fahrzeug": "MANAS",
-      "route": "RÜB → UTG",
-      "time": "Sat Jan 17 05:15:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Gunnar",
       "nachname": "Thomsen",
       "name": "Gunnar Thomsen",
       "aufgabe": "Kanalbört",
-      "nr": 15,
+      "nr": 14,
       "fahrzeug": "ELBSUMMER",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 04:40:00 CET 2026",
@@ -576,7 +544,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:07",
+      "eta_rueb_kiel": "15:03",
       "eta_rueb": "13:55",
       "ship": "MAASBORG",
       "q_gruppe": "4",
