@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-17T15:44:45",
+  "generated_at": "2026-01-17T15:46:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 0,
     "see": 5
   },
@@ -355,27 +355,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Roman",
-      "nachname": "Spiller",
-      "name": "Roman Spiller",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "CORA JO",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 17 07:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Christian",
       "nachname": "Lehwald",
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "FIONA B",
       "route": "RÜB → UTG",
       "time": "Sat Jan 17 06:52:03 CET 2026",
@@ -653,27 +637,11 @@
     },
     {
       "is_target": false,
-      "vorname": "Roman",
-      "nachname": "Spiller",
-      "name": "Roman Spiller",
-      "aufgabe": "Kanalbört",
-      "nr": 20,
-      "fahrzeug": "CORA JO",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 17 07:08:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
       "vorname": "Christian",
       "nachname": "Lehwald",
       "name": "Christian Lehwald",
       "aufgabe": "Kanalbört",
-      "nr": 21,
+      "nr": 20,
       "fahrzeug": "FIONA B",
       "route": "RÜB → UTG",
       "time": "Sat Jan 17 06:52:03 CET 2026",
@@ -701,7 +669,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "16:38",
+      "eta_rueb_kiel": "16:36",
       "eta_rueb": "16:25",
       "ship": "JOHANNA HELENA",
       "q_gruppe": "4",
