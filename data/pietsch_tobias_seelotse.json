@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T09:50:45",
+  "generated_at": "2026-01-17T09:52:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -226,14 +226,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:16",
+        "eta_schleuse": "10:14",
         "eta_rueb": "06:35",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "06:35",
-      "eta_schleuse": "10:16",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "10:14",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:41"
     },
     {
@@ -296,8 +296,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Seebört",
       "nr": 16,
-      "fahrzeug": "MISSISSIPPIBORG",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 17 03:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -572,14 +572,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:16",
+        "eta_schleuse": "10:14",
         "eta_rueb": "06:35",
-        "delta_rueb_schleuse": "03:41",
+        "delta_rueb_schleuse": "03:39",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "06:35",
-      "eta_schleuse": "10:16",
-      "delta_rueb_schleuse": "03:41",
+      "eta_schleuse": "10:14",
+      "delta_rueb_schleuse": "03:39",
       "delta_start_rueb": "04:41"
     },
     {
@@ -658,7 +658,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "14:26",
+      "eta_rueb_kiel": "14:25",
       "eta_rueb": "13:55",
       "ship": "MAASBORG",
       "q_gruppe": "4",
