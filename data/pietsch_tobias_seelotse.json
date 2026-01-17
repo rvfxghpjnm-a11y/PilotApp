@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T04:42:46",
+  "generated_at": "2026-01-17T04:44:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -507,7 +507,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:42",
+      "eta_rueb_kiel": "06:41",
       "eta_rueb": "06:47",
       "ship": "MANAS",
       "q_gruppe": "3",
@@ -521,14 +521,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "07:43",
+      "eta_rueb_kiel": "07:44",
       "eta_rueb": "07:45",
       "ship": "MANISA EMY",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "08:40",
+      "eta_rueb_kiel": "08:39",
       "eta_rueb": "08:45",
       "ship": "ELBINSEL",
       "q_gruppe": "1",
