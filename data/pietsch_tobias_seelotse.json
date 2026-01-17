@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T15:10:46",
+  "generated_at": "2026-01-17T15:12:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -362,16 +362,11 @@
       "fahrzeug": "FREDO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:07:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:08",
-        "eta_rueb": "11:42",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "11:42",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:12"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -638,16 +633,11 @@
       "fahrzeug": "FREDO",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 06:07:00 CET 2026",
-      "times": {
-        "eta_schleuse": "15:08",
-        "eta_rueb": "11:42",
-        "delta_rueb_schleuse": "03:26",
-        "delta_start_rueb": "04:12"
-      },
-      "eta_rueb": "11:42",
-      "eta_schleuse": "15:08",
-      "delta_rueb_schleuse": "03:26",
-      "delta_start_rueb": "04:12"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -669,7 +659,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "16:32",
+      "eta_rueb_kiel": "16:31",
       "eta_rueb": "16:20",
       "ship": "MIRAMAR",
       "q_gruppe": "5",
@@ -697,7 +687,7 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "17:13",
+      "eta_rueb_kiel": "17:12",
       "eta_rueb": "16:45",
       "ship": "GT CETUS",
       "q_gruppe": "5",
@@ -708,6 +698,13 @@
       "eta_rueb": "19:15",
       "ship": "SUPRA MONARCH",
       "q_gruppe": "0",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "19:38",
+      "eta_rueb": "19:17",
+      "ship": "ALEXANDER B",
+      "q_gruppe": "1",
       "route": "RÜB → HOS"
     }
   ]
