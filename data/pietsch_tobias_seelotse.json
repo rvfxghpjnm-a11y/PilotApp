@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T09:48:46",
+  "generated_at": "2026-01-17T09:50:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -185,8 +185,8 @@
       "name": "Mykola Zozulya",
       "aufgabe": "Seebört",
       "nr": 10,
-      "fahrzeug": "PATRIA SEAWAYS",
-      "route": "KLT → SWK",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Jan 17 05:31:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -205,14 +205,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:23",
+        "eta_schleuse": "10:21",
         "eta_rueb": "07:01",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:20",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "07:01",
-      "eta_schleuse": "10:23",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "10:21",
+      "delta_rueb_schleuse": "03:20",
       "delta_start_rueb": "04:45"
     },
     {
@@ -551,14 +551,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 05:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "10:23",
+        "eta_schleuse": "10:21",
         "eta_rueb": "07:01",
-        "delta_rueb_schleuse": "03:22",
+        "delta_rueb_schleuse": "03:20",
         "delta_start_rueb": "04:45"
       },
       "eta_rueb": "07:01",
-      "eta_schleuse": "10:23",
-      "delta_rueb_schleuse": "03:22",
+      "eta_schleuse": "10:21",
+      "delta_rueb_schleuse": "03:20",
       "delta_start_rueb": "04:45"
     },
     {
