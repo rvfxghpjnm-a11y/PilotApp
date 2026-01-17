@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T09:54:44",
+  "generated_at": "2026-01-17T09:56:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -644,7 +644,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "13:00",
+      "eta_rueb_kiel": "12:59",
       "eta_rueb": "12:50",
       "ship": "MIAMI LIGHT",
       "q_gruppe": "0",
