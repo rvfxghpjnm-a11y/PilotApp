@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T20:14:39",
+  "generated_at": "2026-01-17T20:16:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 1,
-    "see": 8
+    "see": 9
   },
   "times": null,
   "lotsen": [
@@ -181,14 +181,14 @@
       "time": "Sat Jan 17 16:17:00 CET 2026",
       "times": {
         "eta_schleuse": "03:03",
-        "eta_rueb": "21:32",
-        "delta_rueb_schleuse": "05:31",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "21:31",
+        "delta_rueb_schleuse": "05:32",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "21:32",
+      "eta_rueb": "21:31",
       "eta_schleuse": "03:03",
-      "delta_rueb_schleuse": "05:31",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "05:32",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -253,20 +253,20 @@
       "vorname": "Daniel",
       "nachname": "Steinbach",
       "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
+      "aufgabe": "Seebört",
       "nr": 15,
       "fahrzeug": "JOHANNA HELENA",
-      "route": "RÜB → HOS",
+      "route": "HOS → KLT",
       "time": "Sat Jan 17 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:25",
+        "eta_schleuse": "20:27",
         "eta_rueb": "16:35",
-        "delta_rueb_schleuse": "03:50",
+        "delta_rueb_schleuse": "03:52",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "16:35",
-      "eta_schleuse": "20:25",
-      "delta_rueb_schleuse": "03:50",
+      "eta_schleuse": "20:27",
+      "delta_rueb_schleuse": "03:52",
       "delta_start_rueb": "04:03"
     },
     {
@@ -386,14 +386,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:20",
+        "eta_schleuse": "20:22",
         "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:31",
-      "eta_schleuse": "20:20",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "20:22",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "04:17"
     },
     {
@@ -407,14 +407,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:16",
+        "eta_schleuse": "20:18",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "20:16",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "20:18",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "04:18"
     }
   ],
@@ -495,14 +495,14 @@
       "time": "Sat Jan 17 16:17:00 CET 2026",
       "times": {
         "eta_schleuse": "03:03",
-        "eta_rueb": "21:32",
-        "delta_rueb_schleuse": "05:31",
-        "delta_start_rueb": "04:24"
+        "eta_rueb": "21:31",
+        "delta_rueb_schleuse": "05:32",
+        "delta_start_rueb": "04:23"
       },
-      "eta_rueb": "21:32",
+      "eta_rueb": "21:31",
       "eta_schleuse": "03:03",
-      "delta_rueb_schleuse": "05:31",
-      "delta_start_rueb": "04:24"
+      "delta_rueb_schleuse": "05:32",
+      "delta_start_rueb": "04:23"
     },
     {
       "is_target": false,
@@ -561,27 +561,6 @@
       "eta_schleuse": null,
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
-    },
-    {
-      "is_target": false,
-      "vorname": "Daniel",
-      "nachname": "Steinbach",
-      "name": "Daniel Steinbach",
-      "aufgabe": "Kanalbört",
-      "nr": 15,
-      "fahrzeug": "JOHANNA HELENA",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 17 15:15:00 CET 2026",
-      "times": {
-        "eta_schleuse": "20:25",
-        "eta_rueb": "16:35",
-        "delta_rueb_schleuse": "03:50",
-        "delta_start_rueb": "04:03"
-      },
-      "eta_rueb": "16:35",
-      "eta_schleuse": "20:25",
-      "delta_rueb_schleuse": "03:50",
-      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -652,14 +631,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:20",
+        "eta_schleuse": "20:22",
         "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "03:49",
+        "delta_rueb_schleuse": "03:51",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:31",
-      "eta_schleuse": "20:20",
-      "delta_rueb_schleuse": "03:49",
+      "eta_schleuse": "20:22",
+      "delta_rueb_schleuse": "03:51",
       "delta_start_rueb": "04:17"
     },
     {
@@ -673,14 +652,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:16",
+        "eta_schleuse": "20:18",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "03:48",
+        "delta_rueb_schleuse": "03:50",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "20:16",
-      "delta_rueb_schleuse": "03:48",
+      "eta_schleuse": "20:18",
+      "delta_rueb_schleuse": "03:50",
       "delta_start_rueb": "04:18"
     }
   ],
@@ -694,7 +673,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:56",
+      "eta_rueb_kiel": "23:55",
       "eta_rueb": "23:30",
       "ship": "OTELLO",
       "q_gruppe": "4",
