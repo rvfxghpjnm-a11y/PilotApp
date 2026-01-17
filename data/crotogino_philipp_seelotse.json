@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T21:12:39",
+  "generated_at": "2026-01-17T21:14:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -188,16 +188,11 @@
       "fahrzeug": "BRISOTE",
       "route": "HOS → KLT",
       "time": "Sat Jan 17 16:24:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:09",
-        "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "16:31",
-      "eta_schleuse": "21:09",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -306,14 +301,19 @@
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SAN BACCO",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:40",
+        "eta_rueb": "21:41",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:15"
+      },
+      "eta_rueb": "21:41",
+      "eta_schleuse": "01:40",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -367,16 +367,11 @@
       "fahrzeug": "BRISOTE",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:09",
-        "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "16:31",
-      "eta_schleuse": "21:09",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -534,14 +529,19 @@
       "name": "Hartmut Köller",
       "aufgabe": "Kanalbört",
       "nr": 16,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "SAN BACCO",
+      "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:40",
+        "eta_rueb": "21:41",
+        "delta_rueb_schleuse": "03:59",
+        "delta_start_rueb": "04:15"
+      },
+      "eta_rueb": "21:41",
+      "eta_schleuse": "01:40",
+      "delta_rueb_schleuse": "03:59",
+      "delta_start_rueb": "04:15"
     },
     {
       "is_target": false,
@@ -595,16 +595,11 @@
       "fahrzeug": "BRISOTE",
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
-      "times": {
-        "eta_schleuse": "21:09",
-        "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "04:38",
-        "delta_start_rueb": "04:17"
-      },
-      "eta_rueb": "16:31",
-      "eta_schleuse": "21:09",
-      "delta_rueb_schleuse": "04:38",
-      "delta_start_rueb": "04:17"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -630,13 +625,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "21:42",
-      "eta_rueb": "21:40",
-      "ship": "SAN BACCO",
-      "q_gruppe": "4",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "23:53",
       "eta_rueb": "23:30",
