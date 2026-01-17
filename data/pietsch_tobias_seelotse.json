@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T03:20:48",
+  "generated_at": "2026-01-17T03:22:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -112,8 +112,8 @@
       "name": "Peter Böttcher",
       "aufgabe": "Seebört",
       "nr": 7,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "KEY OCEAN",
+      "route": "KLT → HOS",
       "time": "Fri Jan 16 20:00:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -451,6 +451,13 @@
       "ship": "DELFIN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "07:42",
+      "eta_rueb": "07:45",
+      "ship": "MANISA EMY",
+      "q_gruppe": "4",
+      "route": "RÜB → UTG"
     },
     {
       "eta_rueb_kiel": "08:42",
