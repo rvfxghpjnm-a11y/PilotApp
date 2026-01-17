@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T21:44:39",
+  "generated_at": "2026-01-17T21:46:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -570,14 +570,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "01:55",
+      "eta_rueb_kiel": "01:56",
       "eta_rueb": "01:45",
       "ship": "PULPCA",
       "q_gruppe": "0",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "23:52",
+      "eta_rueb_kiel": "23:51",
       "eta_rueb": "23:45",
       "ship": "OTELLO",
       "q_gruppe": "4",
