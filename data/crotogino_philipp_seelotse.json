@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T11:28:45",
+  "generated_at": "2026-01-17T11:30:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -115,14 +115,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:31",
+        "eta_schleuse": "12:30",
         "eta_rueb": "08:36",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:44"
       },
       "eta_rueb": "08:36",
-      "eta_schleuse": "12:31",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "12:30",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:44"
     },
     {
@@ -193,16 +193,11 @@
       "fahrzeug": "MANISA EMY",
       "route": "HOS → KLT",
       "time": "Sat Jan 17 06:20:00 CET 2026",
-      "times": {
-        "eta_schleuse": "11:28",
-        "eta_rueb": "07:44",
-        "delta_rueb_schleuse": "03:44",
-        "delta_start_rueb": "04:32"
-      },
-      "eta_rueb": "07:44",
-      "eta_schleuse": "11:28",
-      "delta_rueb_schleuse": "03:44",
-      "delta_start_rueb": "04:32"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -402,14 +397,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 07:20:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:31",
+        "eta_schleuse": "12:30",
         "eta_rueb": "08:36",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:54",
         "delta_start_rueb": "05:44"
       },
       "eta_rueb": "08:36",
-      "eta_schleuse": "12:31",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "12:30",
+      "delta_rueb_schleuse": "03:54",
       "delta_start_rueb": "05:44"
     },
     {
@@ -516,14 +511,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "11:43",
+      "eta_rueb_kiel": "11:42",
       "eta_rueb": "11:40",
       "ship": "FREDO",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:46",
+      "eta_rueb_kiel": "11:45",
       "eta_rueb": "11:45",
       "ship": "CORA JO",
       "q_gruppe": "4",
