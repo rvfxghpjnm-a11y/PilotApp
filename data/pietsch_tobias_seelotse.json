@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T12:08:46",
+  "generated_at": "2026-01-17T12:10:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -474,7 +474,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:57",
+      "eta_rueb_kiel": "12:55",
       "eta_rueb": "12:50",
       "ship": "MIAMI LIGHT",
       "q_gruppe": "0",
