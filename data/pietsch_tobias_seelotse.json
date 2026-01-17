@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-17T19:26:39",
+  "generated_at": "2026-01-17T19:28:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 14,
+    "kanal": 13,
     "wach": 0,
     "see": 9
   },
@@ -232,14 +232,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:58",
+        "eta_schleuse": "19:56",
         "eta_rueb": "16:35",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:21",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "16:35",
-      "eta_schleuse": "19:58",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:03"
     },
     {
@@ -380,14 +380,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:54",
+        "eta_schleuse": "19:53",
         "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:31",
-      "eta_schleuse": "19:54",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "19:53",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:17"
     },
     {
@@ -410,22 +410,6 @@
       "eta_schleuse": "19:49",
       "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Florian",
-      "nachname": "Koch",
-      "name": "Florian Koch",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "JUDITH",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 17 09:12:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -572,14 +556,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:58",
+        "eta_schleuse": "19:56",
         "eta_rueb": "16:35",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:21",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "16:35",
-      "eta_schleuse": "19:58",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "19:56",
+      "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:03"
     },
     {
@@ -656,14 +640,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "19:54",
+        "eta_schleuse": "19:53",
         "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "03:23",
+        "delta_rueb_schleuse": "03:22",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:31",
-      "eta_schleuse": "19:54",
-      "delta_rueb_schleuse": "03:23",
+      "eta_schleuse": "19:53",
+      "delta_rueb_schleuse": "03:22",
       "delta_start_rueb": "04:17"
     },
     {
@@ -686,22 +670,6 @@
       "eta_schleuse": "19:49",
       "delta_rueb_schleuse": "03:21",
       "delta_start_rueb": "04:18"
-    },
-    {
-      "is_target": false,
-      "vorname": "Florian",
-      "nachname": "Koch",
-      "name": "Florian Koch",
-      "aufgabe": "Kanalbört",
-      "nr": 23,
-      "fahrzeug": "JUDITH",
-      "route": "RÜB → HOS",
-      "time": "Sat Jan 17 09:12:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
