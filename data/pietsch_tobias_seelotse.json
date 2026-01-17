@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T16:36:46",
+  "generated_at": "2026-01-17T16:38:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -110,14 +110,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Jan 17 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:10",
+        "eta_schleuse": "20:09",
         "eta_rueb": "16:39",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:39",
-      "eta_schleuse": "20:10",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "20:09",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:17"
     },
     {
@@ -148,8 +148,8 @@
       "name": "Arne Schulz",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "CORA JO",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 17 14:42:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -168,15 +168,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Jan 17 14:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:18",
-        "eta_rueb": "19:51",
+        "eta_schleuse": "00:19",
+        "eta_rueb": "19:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:21"
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "19:51",
-      "eta_schleuse": "00:18",
+      "eta_rueb": "19:52",
+      "eta_schleuse": "00:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:21"
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -497,14 +497,14 @@
       "route": "RÜB → UTG",
       "time": "Sat Jan 17 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:10",
+        "eta_schleuse": "20:09",
         "eta_rueb": "16:39",
-        "delta_rueb_schleuse": "03:31",
+        "delta_rueb_schleuse": "03:30",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:39",
-      "eta_schleuse": "20:10",
-      "delta_rueb_schleuse": "03:31",
+      "eta_schleuse": "20:09",
+      "delta_rueb_schleuse": "03:30",
       "delta_start_rueb": "04:17"
     },
     {
@@ -539,15 +539,15 @@
       "route": "HOS → RÜB",
       "time": "Sat Jan 17 14:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:18",
-        "eta_rueb": "19:51",
+        "eta_schleuse": "00:19",
+        "eta_rueb": "19:52",
         "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:21"
+        "delta_start_rueb": "04:22"
       },
-      "eta_rueb": "19:51",
-      "eta_schleuse": "00:18",
+      "eta_rueb": "19:52",
+      "eta_schleuse": "00:19",
       "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:21"
+      "delta_start_rueb": "04:22"
     },
     {
       "is_target": false,
@@ -772,7 +772,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "19:40",
+      "eta_rueb_kiel": "19:41",
       "eta_rueb": "19:17",
       "ship": "ALEXANDER B",
       "q_gruppe": "1",
