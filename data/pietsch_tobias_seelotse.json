@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T20:48:40",
+  "generated_at": "2026-01-17T20:50:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -153,14 +153,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 17 16:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:54",
+        "eta_schleuse": "20:56",
         "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:25",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:31",
-      "eta_schleuse": "20:54",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "20:56",
+      "delta_rueb_schleuse": "04:25",
       "delta_start_rueb": "04:17"
     },
     {
@@ -174,14 +174,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 17 16:24:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:50",
+        "eta_schleuse": "20:52",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "20:50",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "20:52",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:18"
     },
     {
@@ -274,14 +274,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 17 15:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:59",
+        "eta_schleuse": "21:01",
         "eta_rueb": "16:35",
-        "delta_rueb_schleuse": "04:24",
+        "delta_rueb_schleuse": "04:26",
         "delta_start_rueb": "04:03"
       },
       "eta_rueb": "16:35",
-      "eta_schleuse": "20:59",
-      "delta_rueb_schleuse": "04:24",
+      "eta_schleuse": "21:01",
+      "delta_rueb_schleuse": "04:26",
       "delta_start_rueb": "04:03"
     },
     {
@@ -353,14 +353,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:54",
+        "eta_schleuse": "20:56",
         "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:25",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:31",
-      "eta_schleuse": "20:54",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "20:56",
+      "delta_rueb_schleuse": "04:25",
       "delta_start_rueb": "04:17"
     },
     {
@@ -374,14 +374,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:50",
+        "eta_schleuse": "20:52",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "20:50",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "20:52",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:18"
     }
   ],
@@ -603,14 +603,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 10:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:54",
+        "eta_schleuse": "20:56",
         "eta_rueb": "16:31",
-        "delta_rueb_schleuse": "04:23",
+        "delta_rueb_schleuse": "04:25",
         "delta_start_rueb": "04:17"
       },
       "eta_rueb": "16:31",
-      "eta_schleuse": "20:54",
-      "delta_rueb_schleuse": "04:23",
+      "eta_schleuse": "20:56",
+      "delta_rueb_schleuse": "04:25",
       "delta_start_rueb": "04:17"
     },
     {
@@ -624,14 +624,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 09:25:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:50",
+        "eta_schleuse": "20:52",
         "eta_rueb": "16:28",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "16:28",
-      "eta_schleuse": "20:50",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "20:52",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:18"
     }
   ],
