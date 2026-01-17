@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T11:06:45",
+  "generated_at": "2026-01-17T11:08:47",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -538,7 +538,7 @@
     },
     {
       "eta_rueb_kiel": null,
-      "eta_rueb": "13:45",
+      "eta_rueb": "13:40",
       "ship": "FIONA B",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
@@ -552,7 +552,7 @@
     },
     {
       "eta_rueb_kiel": "15:24",
-      "eta_rueb": "16:00",
+      "eta_rueb": "14:15",
       "ship": "JUDITH",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
