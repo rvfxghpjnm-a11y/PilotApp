@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T06:10:45",
+  "generated_at": "2026-01-17T06:12:45",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -143,8 +143,8 @@
       "name": "Torben Keyser",
       "aufgabe": "Seebört",
       "nr": 8,
-      "fahrzeug": "BIT FORCE",
-      "route": "HOS → KLT",
+      "fahrzeug": "SPANACO LOYALTY",
+      "route": "KLT → HOS",
       "time": "Sat Jan 17 03:55:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -543,7 +543,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "07:04",
+      "eta_rueb_kiel": "07:03",
       "eta_rueb": "06:50",
       "ship": "DELFIN",
       "q_gruppe": "5",
