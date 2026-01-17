@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T00:00:41",
+  "generated_at": "2026-01-18T00:02:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -300,14 +300,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:04",
+        "eta_schleuse": "00:06",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "00:04",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "00:06",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:32"
     }
   ],
@@ -507,14 +507,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "00:04",
+        "eta_schleuse": "00:06",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:26",
+        "delta_rueb_schleuse": "04:28",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "00:04",
-      "delta_rueb_schleuse": "04:26",
+      "eta_schleuse": "00:06",
+      "delta_rueb_schleuse": "04:28",
       "delta_start_rueb": "04:32"
     }
   ],
@@ -542,7 +542,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "04:07",
+      "eta_rueb_kiel": "04:06",
       "eta_rueb": "03:53",
       "ship": "OSK RENDSBURG",
       "q_gruppe": "5",
