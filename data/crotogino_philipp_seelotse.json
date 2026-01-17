@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T11:40:48",
+  "generated_at": "2026-01-17T11:42:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -259,8 +259,8 @@
       "name": "Knut Paul Klüver",
       "aufgabe": "Seebört",
       "nr": 14,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "LADY MONIQUE",
+      "route": "KLT → HOS",
       "time": "Sat Jan 17 04:45:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -490,7 +490,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "12:58",
+      "eta_rueb_kiel": "12:57",
       "eta_rueb": "12:50",
       "ship": "MIAMI LIGHT",
       "q_gruppe": "0",
