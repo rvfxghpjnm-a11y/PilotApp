@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T17:36:40",
+  "generated_at": "2026-01-17T17:38:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -206,8 +206,8 @@
       "name": "René Winkler",
       "aufgabe": "Seebört",
       "nr": 11,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "EEMS SPIRIT",
+      "route": "KLT → HOS",
       "time": "Sat Jan 17 14:25:00 CET 2026",
       "times": null,
       "eta_rueb": null,
