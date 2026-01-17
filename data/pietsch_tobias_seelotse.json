@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T13:40:47",
+  "generated_at": "2026-01-17T13:42:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -565,7 +565,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "14:53",
+      "eta_rueb_kiel": "14:52",
       "eta_rueb": "14:55",
       "ship": "MAASBORG",
       "q_gruppe": "4",
@@ -580,14 +580,14 @@
     },
     {
       "eta_rueb_kiel": "16:34",
-      "eta_rueb": "16:30",
+      "eta_rueb": "16:20",
       "ship": "MIRAMAR",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
       "eta_rueb_kiel": "16:37",
-      "eta_rueb": "16:35",
+      "eta_rueb": "16:23",
       "ship": "BRISOTE",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
