@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-17T23:54:39",
+  "generated_at": "2026-01-17T23:56:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -300,14 +300,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:58",
+        "eta_schleuse": "00:00",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:58",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "00:00",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "04:32"
     },
     {
@@ -523,14 +523,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 13:31:00 CET 2026",
       "times": {
-        "eta_schleuse": "23:58",
+        "eta_schleuse": "00:00",
         "eta_rueb": "19:38",
-        "delta_rueb_schleuse": "04:20",
+        "delta_rueb_schleuse": "04:22",
         "delta_start_rueb": "04:32"
       },
       "eta_rueb": "19:38",
-      "eta_schleuse": "23:58",
-      "delta_rueb_schleuse": "04:20",
+      "eta_schleuse": "00:00",
+      "delta_rueb_schleuse": "04:22",
       "delta_start_rueb": "04:32"
     },
     {
@@ -560,7 +560,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "02:43",
+      "eta_rueb_kiel": "02:42",
       "eta_rueb": "02:30",
       "ship": "LINDEBORG",
       "q_gruppe": "5",
