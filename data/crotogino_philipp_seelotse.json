@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:38:39",
+  "generated_at": "2026-01-18T14:40:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -397,14 +397,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:16",
+        "eta_schleuse": "17:15",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:16",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "17:15",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:25"
     },
     {
@@ -685,14 +685,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:16",
+        "eta_schleuse": "17:15",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:21",
+        "delta_rueb_schleuse": "04:20",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:16",
-      "delta_rueb_schleuse": "04:21",
+      "eta_schleuse": "17:15",
+      "delta_rueb_schleuse": "04:20",
       "delta_start_rueb": "04:25"
     },
     {
@@ -729,14 +729,14 @@
       "route": "RÜB → UTG"
     },
     {
-      "eta_rueb_kiel": "15:13",
+      "eta_rueb_kiel": "15:12",
       "eta_rueb": "15:05",
       "ship": "RIX MISTRAL",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:16",
+      "eta_rueb_kiel": "15:15",
       "eta_rueb": "15:10",
       "ship": "KAILI",
       "q_gruppe": "5",
@@ -750,7 +750,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:23",
+      "eta_rueb_kiel": "15:22",
       "eta_rueb": "15:20",
       "ship": "PRIMA LADY",
       "q_gruppe": "5",
