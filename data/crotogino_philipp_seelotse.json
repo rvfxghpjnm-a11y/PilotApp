@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T05:44:38",
+  "generated_at": "2026-01-18T05:46:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -111,14 +111,14 @@
       "time": "Sun Jan 18 02:13:00 CET 2026",
       "times": {
         "eta_schleuse": "12:08",
-        "eta_rueb": "07:42",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:04"
+        "eta_rueb": "07:41",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:03"
       },
-      "eta_rueb": "07:42",
+      "eta_rueb": "07:41",
       "eta_schleuse": "12:08",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:04"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -175,14 +175,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "UNITAR",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:41",
+        "eta_rueb": "06:13",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:11"
+      },
+      "eta_rueb": "06:13",
+      "eta_schleuse": "10:41",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -393,14 +398,14 @@
       "time": "Sun Jan 18 02:13:00 CET 2026",
       "times": {
         "eta_schleuse": "12:08",
-        "eta_rueb": "07:42",
-        "delta_rueb_schleuse": "04:26",
-        "delta_start_rueb": "04:04"
+        "eta_rueb": "07:41",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "04:03"
       },
-      "eta_rueb": "07:42",
+      "eta_rueb": "07:41",
       "eta_schleuse": "12:08",
-      "delta_rueb_schleuse": "04:26",
-      "delta_start_rueb": "04:04"
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "04:03"
     },
     {
       "is_target": false,
@@ -457,14 +462,19 @@
       "name": "Martin Wachsmuth",
       "aufgabe": "Kanalbört",
       "nr": 10,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "UNITAR",
+      "route": "RÜB → HOS",
       "time": "Sun Jan 18 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "10:41",
+        "eta_rueb": "06:13",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:11"
+      },
+      "eta_rueb": "06:13",
+      "eta_schleuse": "10:41",
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:11"
     },
     {
       "is_target": false,
@@ -590,13 +600,6 @@
   ],
   "meldungen_kiel": [],
   "ruesterbergen": [
-    {
-      "eta_rueb_kiel": "06:13",
-      "eta_rueb": "06:10",
-      "ship": "UNITAR",
-      "q_gruppe": "5",
-      "route": "RÜB → HOS"
-    },
     {
       "eta_rueb_kiel": "06:18",
       "eta_rueb": "06:15",
