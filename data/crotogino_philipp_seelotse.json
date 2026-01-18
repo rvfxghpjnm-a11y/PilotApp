@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:10:39",
+  "generated_at": "2026-01-18T14:12:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -383,7 +383,7 @@
       "aufgabe": "Seebört",
       "nr": 22,
       "fahrzeug": "KLAVERBANK",
-      "route": "KLT → HOS",
+      "route": "HOS → UTG",
       "time": "Sun Jan 18 07:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -797,7 +797,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:21",
+      "eta_rueb_kiel": "15:20",
       "eta_rueb": "15:15",
       "ship": "SOLEA",
       "q_gruppe": "5",
