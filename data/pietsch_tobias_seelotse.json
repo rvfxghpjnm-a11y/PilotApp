@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T12:22:39",
+  "generated_at": "2026-01-18T12:24:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -238,8 +238,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "KLAVERBANK",
+      "route": "KLT → HOS",
       "time": "Sun Jan 18 07:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -396,14 +396,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 00:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:50",
+        "eta_schleuse": "12:49",
         "eta_rueb": "08:41",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "08:41",
-      "eta_schleuse": "12:50",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "12:49",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:41"
     }
   ],
@@ -651,14 +651,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 00:40:00 CET 2026",
       "times": {
-        "eta_schleuse": "12:50",
+        "eta_schleuse": "12:49",
         "eta_rueb": "08:41",
-        "delta_rueb_schleuse": "04:09",
+        "delta_rueb_schleuse": "04:08",
         "delta_start_rueb": "04:41"
       },
       "eta_rueb": "08:41",
-      "eta_schleuse": "12:50",
-      "delta_rueb_schleuse": "04:09",
+      "eta_schleuse": "12:49",
+      "delta_rueb_schleuse": "04:08",
       "delta_start_rueb": "04:41"
     }
   ],
