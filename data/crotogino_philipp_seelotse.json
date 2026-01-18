@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T05:40:37",
+  "generated_at": "2026-01-18T05:42:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -327,14 +327,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 16:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:13",
+        "eta_schleuse": "06:12",
         "eta_rueb": "01:48",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "01:48",
-      "eta_schleuse": "06:13",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "06:12",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:18"
     }
   ],
@@ -577,14 +577,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 16:17:00 CET 2026",
       "times": {
-        "eta_schleuse": "06:13",
+        "eta_schleuse": "06:12",
         "eta_rueb": "01:48",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:18"
       },
       "eta_rueb": "01:48",
-      "eta_schleuse": "06:13",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "06:12",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:18"
     }
   ],
@@ -598,7 +598,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:19",
+      "eta_rueb_kiel": "06:18",
       "eta_rueb": "06:15",
       "ship": "LADY ARIANE",
       "q_gruppe": "5",
@@ -619,14 +619,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:49",
+      "eta_rueb_kiel": "08:48",
       "eta_rueb": "08:30",
       "ship": "BRENTHOLMEN",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:53",
+      "eta_rueb_kiel": "08:52",
       "eta_rueb": "08:35",
       "ship": "BEATRIX",
       "q_gruppe": "1",
