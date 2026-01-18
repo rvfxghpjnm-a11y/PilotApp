@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T01:14:39",
+  "generated_at": "2026-01-18T01:16:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -250,8 +250,8 @@
       "name": "Oliver Schran",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "CELINA",
-      "route": "KLT → HOS",
+      "fahrzeug": "HOS",
+      "route": null,
       "time": "Sat Jan 17 17:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
