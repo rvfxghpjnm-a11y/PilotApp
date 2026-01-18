@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T12:18:38",
+  "generated_at": "2026-01-18T12:20:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -238,8 +238,8 @@
       "name": "Stefan Bruhn",
       "aufgabe": "Seebört",
       "nr": 13,
-      "fahrzeug": "UNITAR",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Jan 18 07:50:00 CET 2026",
       "times": null,
       "eta_rueb": null,
