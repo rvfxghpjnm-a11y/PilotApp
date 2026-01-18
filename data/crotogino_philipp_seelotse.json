@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T04:48:39",
+  "generated_at": "2026-01-18T04:50:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -668,7 +668,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:44",
+      "eta_rueb_kiel": "08:45",
       "eta_rueb": "08:25",
       "ship": "FRI SKIEN",
       "q_gruppe": "5",
