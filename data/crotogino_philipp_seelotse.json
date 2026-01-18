@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T04:08:40",
+  "generated_at": "2026-01-18T04:10:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -127,14 +127,14 @@
       "time": "Sun Jan 18 00:40:00 CET 2026",
       "times": {
         "eta_schleuse": "10:01",
-        "eta_rueb": "05:31",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:37"
+        "eta_rueb": "05:30",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "05:31",
+      "eta_rueb": "05:30",
       "eta_schleuse": "10:01",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:37"
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -482,14 +482,14 @@
       "time": "Sun Jan 18 00:40:00 CET 2026",
       "times": {
         "eta_schleuse": "10:01",
-        "eta_rueb": "05:31",
-        "delta_rueb_schleuse": "04:30",
-        "delta_start_rueb": "03:37"
+        "eta_rueb": "05:30",
+        "delta_rueb_schleuse": "04:31",
+        "delta_start_rueb": "03:36"
       },
-      "eta_rueb": "05:31",
+      "eta_rueb": "05:30",
       "eta_schleuse": "10:01",
-      "delta_rueb_schleuse": "04:30",
-      "delta_start_rueb": "03:37"
+      "delta_rueb_schleuse": "04:31",
+      "delta_start_rueb": "03:36"
     },
     {
       "is_target": false,
@@ -732,6 +732,20 @@
       "eta_rueb": "08:30",
       "ship": "BRENTHOLMEN",
       "q_gruppe": "2",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": "08:55",
+      "eta_rueb": "08:35",
+      "ship": "BEATRIX",
+      "q_gruppe": "1",
+      "route": "RÜB → HOS"
+    },
+    {
+      "eta_rueb_kiel": null,
+      "eta_rueb": "08:40",
+      "ship": "FRI SKIEN",
+      "q_gruppe": "5",
       "route": "RÜB → HOS"
     }
   ]
