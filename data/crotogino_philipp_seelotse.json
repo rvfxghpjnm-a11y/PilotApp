@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T03:06:40",
+  "generated_at": "2026-01-18T03:08:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -169,8 +169,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 9,
-      "fahrzeug": "SAN BACCO",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sat Jan 17 22:48:00 CET 2026",
       "times": null,
       "eta_rueb": null,
