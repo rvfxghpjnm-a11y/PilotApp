@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T05:56:39",
+  "generated_at": "2026-01-18T05:58:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -622,14 +622,14 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:29",
+      "eta_rueb_kiel": "06:30",
       "eta_rueb": "06:20",
       "ship": "CONTSHIPS BOREALIS",
       "q_gruppe": "1",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:45",
+      "eta_rueb_kiel": "08:44",
       "eta_rueb": "08:25",
       "ship": "FRI SKIEN",
       "q_gruppe": "5",
