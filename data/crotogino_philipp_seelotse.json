@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:52:40",
+  "generated_at": "2026-01-18T07:54:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -265,8 +265,8 @@
       "name": "Alexander Migge",
       "aufgabe": "Seebört",
       "nr": 15,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "SCA OSTRAND",
+      "route": "KLT → OUH",
       "time": "Sun Jan 18 00:04:00 CET 2026",
       "times": null,
       "eta_rueb": null,
