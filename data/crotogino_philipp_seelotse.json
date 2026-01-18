@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T05:38:39",
+  "generated_at": "2026-01-18T05:40:37",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -605,7 +605,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:30",
+      "eta_rueb_kiel": "06:29",
       "eta_rueb": "06:20",
       "ship": "CONTSHIPS BOREALIS",
       "q_gruppe": "1",
