@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T11:30:40",
+  "generated_at": "2026-01-18T11:32:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -221,14 +221,14 @@
       "route": "NHF → RÜB",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:21",
+        "eta_schleuse": "16:20",
         "eta_rueb": "11:56",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:00"
       },
       "eta_rueb": "11:56",
-      "eta_schleuse": "16:21",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "16:20",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:00"
     },
     {
@@ -529,14 +529,14 @@
       "route": "NHF → RÜB",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:21",
+        "eta_schleuse": "16:20",
         "eta_rueb": "11:56",
-        "delta_rueb_schleuse": "04:25",
+        "delta_rueb_schleuse": "04:24",
         "delta_start_rueb": "04:00"
       },
       "eta_rueb": "11:56",
-      "eta_schleuse": "16:21",
-      "delta_rueb_schleuse": "04:25",
+      "eta_schleuse": "16:20",
+      "delta_rueb_schleuse": "04:24",
       "delta_start_rueb": "04:00"
     },
     {
@@ -634,7 +634,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "13:00",
+      "eta_rueb_kiel": "12:59",
       "eta_rueb": "12:45",
       "ship": "ANOUK",
       "q_gruppe": "5",
@@ -683,7 +683,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:30",
+      "eta_rueb_kiel": "17:33",
       "eta_rueb": "15:40",
       "ship": "SELENE PRAHM",
       "q_gruppe": "5",
