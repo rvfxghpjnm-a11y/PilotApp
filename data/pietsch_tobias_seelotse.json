@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T08:02:39",
+  "generated_at": "2026-01-18T08:04:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,15 +52,15 @@
       "route": "NHF → RÜB",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:20",
-        "eta_rueb": "11:19",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "03:23"
+        "eta_schleuse": "16:21",
+        "eta_rueb": "11:21",
+        "delta_rueb_schleuse": "05:00",
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "11:19",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "03:23"
+      "eta_rueb": "11:21",
+      "eta_schleuse": "16:21",
+      "delta_rueb_schleuse": "05:00",
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
@@ -90,8 +90,8 @@
       "name": "Carsten Bachholz",
       "aufgabe": "Seebört",
       "nr": 5,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "ICE CRYSTAL",
+      "route": "KLT → HOS",
       "time": "Sun Jan 18 05:44:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -387,15 +387,15 @@
       "route": "NHF → RÜB",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:20",
-        "eta_rueb": "11:19",
-        "delta_rueb_schleuse": "05:01",
-        "delta_start_rueb": "03:23"
+        "eta_schleuse": "16:21",
+        "eta_rueb": "11:21",
+        "delta_rueb_schleuse": "05:00",
+        "delta_start_rueb": "03:25"
       },
-      "eta_rueb": "11:19",
-      "eta_schleuse": "16:20",
-      "delta_rueb_schleuse": "05:01",
-      "delta_start_rueb": "03:23"
+      "eta_rueb": "11:21",
+      "eta_schleuse": "16:21",
+      "delta_rueb_schleuse": "05:00",
+      "delta_start_rueb": "03:25"
     },
     {
       "is_target": false,
