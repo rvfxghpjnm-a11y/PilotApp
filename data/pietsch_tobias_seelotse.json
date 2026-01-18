@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T06:58:39",
+  "generated_at": "2026-01-18T07:00:46",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -585,21 +585,28 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "08:48",
+      "eta_rueb_kiel": null,
+      "eta_rueb": "07:00",
+      "ship": "FALKENSTEIN + HÖRN20",
+      "q_gruppe": "4",
+      "route": "NOB → LÜW"
+    },
+    {
+      "eta_rueb_kiel": "08:49",
       "eta_rueb": "08:25",
       "ship": "FRI SKIEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:45",
+      "eta_rueb_kiel": "08:46",
       "eta_rueb": "08:30",
       "ship": "BRENTHOLMEN",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:51",
+      "eta_rueb_kiel": "08:52",
       "eta_rueb": "08:35",
       "ship": "BEATRIX",
       "q_gruppe": "1",
