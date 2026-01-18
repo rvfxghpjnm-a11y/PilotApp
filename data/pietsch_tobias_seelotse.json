@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T05:16:40",
+  "generated_at": "2026-01-18T05:18:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -628,7 +628,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:20",
+      "eta_rueb_kiel": "06:19",
       "eta_rueb": "06:15",
       "ship": "LADY ARIANE",
       "q_gruppe": "5",
