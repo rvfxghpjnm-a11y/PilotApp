@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T03:52:37",
+  "generated_at": "2026-01-18T03:54:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -178,14 +178,14 @@
       "route": "HOS → KLT",
       "time": "Sun Jan 18 00:04:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:58",
+        "eta_schleuse": "03:59",
         "eta_rueb": "23:42",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "23:42",
-      "eta_schleuse": "03:58",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "03:59",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:54"
     },
     {
@@ -368,14 +368,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 15:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:58",
+        "eta_schleuse": "03:59",
         "eta_rueb": "23:42",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "23:42",
-      "eta_schleuse": "03:58",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "03:59",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:54"
     }
   ],
@@ -654,14 +654,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 15:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "03:58",
+        "eta_schleuse": "03:59",
         "eta_rueb": "23:42",
-        "delta_rueb_schleuse": "04:16",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:54"
       },
       "eta_rueb": "23:42",
-      "eta_schleuse": "03:58",
-      "delta_rueb_schleuse": "04:16",
+      "eta_schleuse": "03:59",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:54"
     }
   ],
@@ -682,7 +682,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:24",
+      "eta_rueb_kiel": "06:23",
       "eta_rueb": "06:18",
       "ship": "LADY ARIANE",
       "q_gruppe": "5",
