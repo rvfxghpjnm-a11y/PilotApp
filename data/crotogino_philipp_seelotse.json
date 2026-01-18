@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T08:06:40",
+  "generated_at": "2026-01-18T08:08:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -52,15 +52,15 @@
       "route": "NHF → RÜB",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:21",
-        "eta_rueb": "11:23",
+        "eta_schleuse": "16:23",
+        "eta_rueb": "11:25",
         "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "11:23",
-      "eta_schleuse": "16:21",
+      "eta_rueb": "11:25",
+      "eta_schleuse": "16:23",
       "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -74,14 +74,14 @@
       "time": "Sun Jan 18 06:28:00 CET 2026",
       "times": {
         "eta_schleuse": "16:34",
-        "eta_rueb": "12:07",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:27"
+        "eta_rueb": "12:06",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "12:07",
+      "eta_rueb": "12:06",
       "eta_schleuse": "16:34",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:27"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -387,15 +387,15 @@
       "route": "NHF → RÜB",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "16:21",
-        "eta_rueb": "11:23",
+        "eta_schleuse": "16:23",
+        "eta_rueb": "11:25",
         "delta_rueb_schleuse": "04:58",
-        "delta_start_rueb": "03:27"
+        "delta_start_rueb": "03:29"
       },
-      "eta_rueb": "11:23",
-      "eta_schleuse": "16:21",
+      "eta_rueb": "11:25",
+      "eta_schleuse": "16:23",
       "delta_rueb_schleuse": "04:58",
-      "delta_start_rueb": "03:27"
+      "delta_start_rueb": "03:29"
     },
     {
       "is_target": false,
@@ -409,14 +409,14 @@
       "time": "Sun Jan 18 06:28:00 CET 2026",
       "times": {
         "eta_schleuse": "16:34",
-        "eta_rueb": "12:07",
-        "delta_rueb_schleuse": "04:27",
-        "delta_start_rueb": "04:27"
+        "eta_rueb": "12:06",
+        "delta_rueb_schleuse": "04:28",
+        "delta_start_rueb": "04:26"
       },
-      "eta_rueb": "12:07",
+      "eta_rueb": "12:06",
       "eta_schleuse": "16:34",
-      "delta_rueb_schleuse": "04:27",
-      "delta_start_rueb": "04:27"
+      "delta_rueb_schleuse": "04:28",
+      "delta_start_rueb": "04:26"
     },
     {
       "is_target": false,
@@ -647,14 +647,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:59",
+      "eta_rueb_kiel": "11:00",
       "eta_rueb": "10:23",
       "ship": "ARKLOW WILLOW",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "11:02",
+      "eta_rueb_kiel": "11:03",
       "eta_rueb": "10:26",
       "ship": "IDA RAMBOW",
       "q_gruppe": "2",
