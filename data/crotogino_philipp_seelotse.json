@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:34:39",
+  "generated_at": "2026-01-18T14:36:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -722,7 +722,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "15:10",
+      "eta_rueb_kiel": "15:09",
       "eta_rueb": "15:00",
       "ship": "KILSTRAUM",
       "q_gruppe": "4",
@@ -757,14 +757,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "17:27",
+      "eta_rueb_kiel": "17:24",
       "eta_rueb": "17:15",
       "ship": "SELENE PRAHM",
       "q_gruppe": "5",
       "route": "RÜB → KRH"
     },
     {
-      "eta_rueb_kiel": "17:23",
+      "eta_rueb_kiel": "17:21",
       "eta_rueb": "17:18",
       "ship": "BAYMAR",
       "q_gruppe": "4",
