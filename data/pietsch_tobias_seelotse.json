@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T01:32:41",
+  "generated_at": "2026-01-18T01:34:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -96,14 +96,19 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "HOS",
-      "route": null,
+      "fahrzeug": "SAN BACCO",
+      "route": "HOS → KLT",
       "time": "Sat Jan 17 22:48:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "01:37",
+        "eta_rueb": "21:40",
+        "delta_rueb_schleuse": "03:57",
+        "delta_start_rueb": "04:14"
+      },
+      "eta_rueb": "21:40",
+      "eta_schleuse": "01:37",
+      "delta_rueb_schleuse": "03:57",
+      "delta_start_rueb": "04:14"
     },
     {
       "is_target": false,
@@ -296,14 +301,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:35",
+        "eta_schleuse": "01:37",
         "eta_rueb": "21:40",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "21:40",
-      "eta_schleuse": "01:35",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "01:37",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "04:14"
     }
   ],
@@ -515,14 +520,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:35",
+        "eta_schleuse": "01:37",
         "eta_rueb": "21:40",
-        "delta_rueb_schleuse": "03:55",
+        "delta_rueb_schleuse": "03:57",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "21:40",
-      "eta_schleuse": "01:35",
-      "delta_rueb_schleuse": "03:55",
+      "eta_schleuse": "01:37",
+      "delta_rueb_schleuse": "03:57",
       "delta_start_rueb": "04:14"
     }
   ],
@@ -543,7 +548,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "03:59",
+      "eta_rueb_kiel": "03:58",
       "eta_rueb": "03:53",
       "ship": "OSK RENDSBURG",
       "q_gruppe": "5",
