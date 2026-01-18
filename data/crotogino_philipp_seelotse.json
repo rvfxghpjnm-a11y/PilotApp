@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T08:56:38",
+  "generated_at": "2026-01-18T08:58:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -493,14 +493,14 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:55",
+      "eta_rueb_kiel": "10:50",
       "eta_rueb": "10:40",
       "ship": "ARKLOW WILLOW",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:58",
+      "eta_rueb_kiel": "10:54",
       "eta_rueb": "10:43",
       "ship": "IDA RAMBOW",
       "q_gruppe": "2",
