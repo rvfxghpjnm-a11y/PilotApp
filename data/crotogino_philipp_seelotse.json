@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T01:52:42",
+  "generated_at": "2026-01-18T01:54:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -19,9 +19,14 @@
       "fahrzeug": "ASTREA",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 00:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -35,9 +40,14 @@
       "fahrzeug": "AMADEUS AMETHIST",
       "route": "HOR → RÜB",
       "time": "Sun Jan 18 00:34:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -51,11 +61,16 @@
       "fahrzeug": "CELINA",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:55",
+        "eta_rueb": "05:28",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:34"
+      },
+      "eta_rueb": "05:28",
+      "eta_schleuse": "09:55",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -67,11 +82,16 @@
       "fahrzeug": "FAROMAR",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:51",
+        "eta_rueb": "05:24",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "05:24",
+      "eta_schleuse": "09:51",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -100,14 +120,14 @@
       "route": "HOS → KLT",
       "time": "Sat Jan 17 22:48:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:55",
+        "eta_schleuse": "01:57",
         "eta_rueb": "21:40",
-        "delta_rueb_schleuse": "04:15",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "21:40",
-      "eta_schleuse": "01:55",
-      "delta_rueb_schleuse": "04:15",
+      "eta_schleuse": "01:57",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:14"
     },
     {
@@ -285,14 +305,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:55",
+        "eta_schleuse": "01:57",
         "eta_rueb": "21:40",
-        "delta_rueb_schleuse": "04:15",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "21:40",
-      "eta_schleuse": "01:55",
-      "delta_rueb_schleuse": "04:15",
+      "eta_schleuse": "01:57",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:14"
     }
   ],
@@ -307,9 +327,14 @@
       "fahrzeug": "ASTREA",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 00:40:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "10:02",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "10:02",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -323,9 +348,14 @@
       "fahrzeug": "AMADEUS AMETHIST",
       "route": "HOR → RÜB",
       "time": "Sun Jan 18 00:34:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "09:59",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "09:59",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -339,11 +369,16 @@
       "fahrzeug": "CELINA",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:55",
+        "eta_rueb": "05:28",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:34"
+      },
+      "eta_rueb": "05:28",
+      "eta_schleuse": "09:55",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:34"
     },
     {
       "is_target": false,
@@ -355,11 +390,16 @@
       "fahrzeug": "FAROMAR",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 00:30:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
+      "times": {
+        "eta_schleuse": "09:51",
+        "eta_rueb": "05:24",
+        "delta_rueb_schleuse": "04:27",
+        "delta_start_rueb": "03:30"
+      },
+      "eta_rueb": "05:24",
+      "eta_schleuse": "09:51",
+      "delta_rueb_schleuse": "04:27",
+      "delta_start_rueb": "03:30"
     },
     {
       "is_target": false,
@@ -504,14 +544,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 14:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "01:55",
+        "eta_schleuse": "01:57",
         "eta_rueb": "21:40",
-        "delta_rueb_schleuse": "04:15",
+        "delta_rueb_schleuse": "04:17",
         "delta_start_rueb": "04:14"
       },
       "eta_rueb": "21:40",
-      "eta_schleuse": "01:55",
-      "delta_rueb_schleuse": "04:15",
+      "eta_schleuse": "01:57",
+      "delta_rueb_schleuse": "04:17",
       "delta_start_rueb": "04:14"
     }
   ],
