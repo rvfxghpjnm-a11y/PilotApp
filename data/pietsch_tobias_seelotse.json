@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T10:02:40",
+  "generated_at": "2026-01-18T10:04:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -96,8 +96,8 @@
       "name": "Michael Berkenheger",
       "aufgabe": "Seebört",
       "nr": 6,
-      "fahrzeug": "SWE-BULK",
-      "route": "HOS → KLT",
+      "fahrzeug": "KLT",
+      "route": null,
       "time": "Sun Jan 18 07:59:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -644,7 +644,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:52",
+      "eta_rueb_kiel": "10:51",
       "eta_rueb": "10:43",
       "ship": "IDA RAMBOW",
       "q_gruppe": "2",
