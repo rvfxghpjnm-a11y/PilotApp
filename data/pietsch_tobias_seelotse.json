@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T09:52:39",
+  "generated_at": "2026-01-18T09:54:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -646,7 +646,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "10:23",
+      "eta_rueb_kiel": "10:22",
       "eta_rueb": "10:20",
       "ship": "RIX ATLANTIC",
       "q_gruppe": "5",
