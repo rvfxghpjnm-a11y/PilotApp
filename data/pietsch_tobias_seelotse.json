@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T13:42:39",
+  "generated_at": "2026-01-18T13:44:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -84,14 +84,14 @@
       "route": "HOS → KLT",
       "time": "Sun Jan 18 12:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:47",
+        "eta_schleuse": "13:49",
         "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "04:55",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "08:52",
-      "eta_schleuse": "13:47",
-      "delta_rueb_schleuse": "04:55",
+      "eta_schleuse": "13:49",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:40"
     },
     {
@@ -105,14 +105,14 @@
       "route": "HOS → KLT",
       "time": "Sun Jan 18 12:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:44",
+        "eta_schleuse": "13:45",
         "eta_rueb": "08:47",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:58",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "08:47",
-      "eta_schleuse": "13:44",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "13:45",
+      "delta_rueb_schleuse": "04:58",
       "delta_start_rueb": "04:39"
     },
     {
@@ -125,16 +125,11 @@
       "fahrzeug": "BRENTHOLMEN",
       "route": "HOS → KLT",
       "time": "Sun Jan 18 11:41:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:30",
-        "eta_rueb": "08:41",
-        "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "04:41"
-      },
-      "eta_rueb": "08:41",
-      "eta_schleuse": "13:30",
-      "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "04:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     },
     {
       "is_target": false,
@@ -427,14 +422,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 02:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:47",
+        "eta_schleuse": "13:49",
         "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "04:55",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "08:52",
-      "eta_schleuse": "13:47",
-      "delta_rueb_schleuse": "04:55",
+      "eta_schleuse": "13:49",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:40"
     },
     {
@@ -448,14 +443,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 02:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:44",
+        "eta_schleuse": "13:45",
         "eta_rueb": "08:47",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:58",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "08:47",
-      "eta_schleuse": "13:44",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "13:45",
+      "delta_rueb_schleuse": "04:58",
       "delta_start_rueb": "04:39"
     },
     {
@@ -468,16 +463,11 @@
       "fahrzeug": "BRENTHOLMEN",
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 00:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:30",
-        "eta_rueb": "08:41",
-        "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "04:41"
-      },
-      "eta_rueb": "08:41",
-      "eta_schleuse": "13:30",
-      "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "04:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -740,14 +730,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 02:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:47",
+        "eta_schleuse": "13:49",
         "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "04:55",
+        "delta_rueb_schleuse": "04:57",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "08:52",
-      "eta_schleuse": "13:47",
-      "delta_rueb_schleuse": "04:55",
+      "eta_schleuse": "13:49",
+      "delta_rueb_schleuse": "04:57",
       "delta_start_rueb": "04:40"
     },
     {
@@ -761,14 +751,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 02:13:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:44",
+        "eta_schleuse": "13:45",
         "eta_rueb": "08:47",
-        "delta_rueb_schleuse": "04:57",
+        "delta_rueb_schleuse": "04:58",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "08:47",
-      "eta_schleuse": "13:44",
-      "delta_rueb_schleuse": "04:57",
+      "eta_schleuse": "13:45",
+      "delta_rueb_schleuse": "04:58",
       "delta_start_rueb": "04:39"
     },
     {
@@ -781,16 +771,11 @@
       "fahrzeug": "BRENTHOLMEN",
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 00:40:00 CET 2026",
-      "times": {
-        "eta_schleuse": "13:30",
-        "eta_rueb": "08:41",
-        "delta_rueb_schleuse": "04:49",
-        "delta_start_rueb": "04:41"
-      },
-      "eta_rueb": "08:41",
-      "eta_schleuse": "13:30",
-      "delta_rueb_schleuse": "04:49",
-      "delta_start_rueb": "04:41"
+      "times": null,
+      "eta_rueb": null,
+      "eta_schleuse": null,
+      "delta_rueb_schleuse": null,
+      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -824,7 +809,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:21",
+      "eta_rueb_kiel": "15:20",
       "eta_rueb": "15:10",
       "ship": "KAILI",
       "q_gruppe": "5",
