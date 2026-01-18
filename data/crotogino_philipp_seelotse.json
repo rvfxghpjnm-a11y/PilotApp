@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:04:39",
+  "generated_at": "2026-01-18T07:06:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -332,14 +332,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:24",
+        "eta_schleuse": "08:23",
         "eta_rueb": "03:48",
-        "delta_rueb_schleuse": "04:36",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:48",
-      "eta_schleuse": "08:24",
-      "delta_rueb_schleuse": "04:36",
+      "eta_schleuse": "08:23",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -571,14 +571,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:24",
+        "eta_schleuse": "08:23",
         "eta_rueb": "03:48",
-        "delta_rueb_schleuse": "04:36",
+        "delta_rueb_schleuse": "04:35",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:48",
-      "eta_schleuse": "08:24",
-      "delta_rueb_schleuse": "04:36",
+      "eta_schleuse": "08:23",
+      "delta_rueb_schleuse": "04:35",
       "delta_start_rueb": "04:10"
     }
   ],
@@ -592,21 +592,21 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "08:51",
+      "eta_rueb_kiel": "08:52",
       "eta_rueb": "08:25",
       "ship": "FRI SKIEN",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:45",
+      "eta_rueb_kiel": "08:46",
       "eta_rueb": "08:30",
       "ship": "BRENTHOLMEN",
       "q_gruppe": "2",
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:48",
+      "eta_rueb_kiel": "08:49",
       "eta_rueb": "08:35",
       "ship": "BEATRIX",
       "q_gruppe": "1",
