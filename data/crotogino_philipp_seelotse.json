@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:18:38",
+  "generated_at": "2026-01-18T14:20:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -64,8 +64,8 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -80,8 +80,8 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -96,8 +96,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -112,8 +112,8 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -302,14 +302,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:31",
+        "eta_schleuse": "15:28",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "15:31",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "15:28",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "04:39"
     },
     {
@@ -323,14 +323,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:22",
+        "eta_schleuse": "15:21",
         "eta_rueb": "10:21",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "10:21",
-      "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "15:21",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:11"
     },
     {
@@ -344,14 +344,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:27",
+        "eta_schleuse": "15:24",
         "eta_rueb": "10:47",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "10:47",
-      "eta_schleuse": "15:27",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "15:24",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "04:37"
     },
     {
@@ -397,14 +397,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:17",
+        "eta_schleuse": "17:16",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:17",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "17:16",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:25"
     },
     {
@@ -480,8 +480,8 @@
       "name": "Sören Ehlers",
       "aufgabe": "Kanalbört",
       "nr": 4,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:41:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -496,8 +496,8 @@
       "name": "Heiko Hoffmann",
       "aufgabe": "Kanalbört",
       "nr": 5,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -512,8 +512,8 @@
       "name": "Dennis Heyenga",
       "aufgabe": "Kanalbört",
       "nr": 6,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -528,8 +528,8 @@
       "name": "Sören Engler",
       "aufgabe": "Kanalbört",
       "nr": 7,
-      "fahrzeug": "Leerfahrt",
-      "route": "HOS → RÜB",
+      "fahrzeug": "RÜB",
+      "route": null,
       "time": "Sun Jan 18 13:40:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -622,14 +622,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:31",
+        "eta_schleuse": "15:28",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "04:42",
+        "delta_rueb_schleuse": "04:39",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "15:31",
-      "delta_rueb_schleuse": "04:42",
+      "eta_schleuse": "15:28",
+      "delta_rueb_schleuse": "04:39",
       "delta_start_rueb": "04:39"
     },
     {
@@ -643,14 +643,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:22",
+        "eta_schleuse": "15:21",
         "eta_rueb": "10:21",
-        "delta_rueb_schleuse": "05:01",
+        "delta_rueb_schleuse": "05:00",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "10:21",
-      "eta_schleuse": "15:22",
-      "delta_rueb_schleuse": "05:01",
+      "eta_schleuse": "15:21",
+      "delta_rueb_schleuse": "05:00",
       "delta_start_rueb": "04:11"
     },
     {
@@ -664,14 +664,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:27",
+        "eta_schleuse": "15:24",
         "eta_rueb": "10:47",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:37",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "10:47",
-      "eta_schleuse": "15:27",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "15:24",
+      "delta_rueb_schleuse": "04:37",
       "delta_start_rueb": "04:37"
     },
     {
@@ -685,14 +685,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:17",
+        "eta_schleuse": "17:16",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:21",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:17",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "17:16",
+      "delta_rueb_schleuse": "04:21",
       "delta_start_rueb": "04:25"
     },
     {
