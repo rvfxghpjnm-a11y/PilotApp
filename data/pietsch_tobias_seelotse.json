@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T05:34:38",
+  "generated_at": "2026-01-18T05:36:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -207,8 +207,8 @@
       "name": "Tim Merschmann",
       "aufgabe": "Seebört",
       "nr": 12,
-      "fahrzeug": "KLT",
-      "route": null,
+      "fahrzeug": "STEN BALTIC",
+      "route": "KLT → HOS",
       "time": "Sat Jan 17 22:48:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -591,7 +591,7 @@
   "meldungen_kiel": [],
   "ruesterbergen": [
     {
-      "eta_rueb_kiel": "06:14",
+      "eta_rueb_kiel": "06:13",
       "eta_rueb": "06:10",
       "ship": "UNITAR",
       "q_gruppe": "5",
