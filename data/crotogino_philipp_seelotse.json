@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:24:39",
+  "generated_at": "2026-01-18T14:26:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -283,7 +283,7 @@
       "aufgabe": "Kanalbört",
       "nr": 17,
       "fahrzeug": "LEVENSAU",
-      "route": "AHL → BRB",
+      "route": "AHL → RÜB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -302,14 +302,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:29",
+        "eta_schleuse": "15:30",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "15:29",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "15:30",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:39"
     },
     {
@@ -603,7 +603,7 @@
       "aufgabe": "Kanalbört",
       "nr": 17,
       "fahrzeug": "LEVENSAU",
-      "route": "AHL → BRB",
+      "route": "AHL → RÜB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -622,14 +622,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:29",
+        "eta_schleuse": "15:30",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "15:29",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "15:30",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:39"
     },
     {
@@ -722,7 +722,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "15:11",
+      "eta_rueb_kiel": "15:10",
       "eta_rueb": "15:00",
       "ship": "KILSTRAUM",
       "q_gruppe": "4",
