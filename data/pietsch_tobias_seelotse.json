@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:34:38",
+  "generated_at": "2026-01-18T07:36:40",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -584,7 +584,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "08:49",
+      "eta_rueb_kiel": "08:50",
       "eta_rueb": "08:35",
       "ship": "BEATRIX",
       "q_gruppe": "1",
