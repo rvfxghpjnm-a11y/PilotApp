@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T04:56:40",
+  "generated_at": "2026-01-18T04:58:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -153,14 +153,14 @@
       "time": "Sun Jan 18 00:34:00 CET 2026",
       "times": {
         "eta_schleuse": "09:56",
-        "eta_rueb": "05:21",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "03:27"
+        "eta_rueb": "05:20",
+        "delta_rueb_schleuse": "04:36",
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "05:21",
+      "eta_rueb": "05:20",
       "eta_schleuse": "09:56",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "03:27"
+      "delta_rueb_schleuse": "04:36",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -174,14 +174,14 @@
       "time": "Sun Jan 18 00:30:00 CET 2026",
       "times": {
         "eta_schleuse": "09:51",
-        "eta_rueb": "05:17",
-        "delta_rueb_schleuse": "04:34",
-        "delta_start_rueb": "03:23"
+        "eta_rueb": "05:16",
+        "delta_rueb_schleuse": "04:35",
+        "delta_start_rueb": "03:22"
       },
-      "eta_rueb": "05:17",
+      "eta_rueb": "05:16",
       "eta_schleuse": "09:51",
-      "delta_rueb_schleuse": "04:34",
-      "delta_start_rueb": "03:23"
+      "delta_rueb_schleuse": "04:35",
+      "delta_start_rueb": "03:22"
     },
     {
       "is_target": false,
@@ -471,14 +471,14 @@
       "time": "Sun Jan 18 00:34:00 CET 2026",
       "times": {
         "eta_schleuse": "09:56",
-        "eta_rueb": "05:21",
-        "delta_rueb_schleuse": "04:35",
-        "delta_start_rueb": "03:27"
+        "eta_rueb": "05:20",
+        "delta_rueb_schleuse": "04:36",
+        "delta_start_rueb": "03:26"
       },
-      "eta_rueb": "05:21",
+      "eta_rueb": "05:20",
       "eta_schleuse": "09:56",
-      "delta_rueb_schleuse": "04:35",
-      "delta_start_rueb": "03:27"
+      "delta_rueb_schleuse": "04:36",
+      "delta_start_rueb": "03:26"
     },
     {
       "is_target": false,
@@ -492,14 +492,14 @@
       "time": "Sun Jan 18 00:30:00 CET 2026",
       "times": {
         "eta_schleuse": "09:51",
-        "eta_rueb": "05:17",
-        "delta_rueb_schleuse": "04:34",
-        "delta_start_rueb": "03:23"
+        "eta_rueb": "05:16",
+        "delta_rueb_schleuse": "04:35",
+        "delta_start_rueb": "03:22"
       },
-      "eta_rueb": "05:17",
+      "eta_rueb": "05:16",
       "eta_schleuse": "09:51",
-      "delta_rueb_schleuse": "04:34",
-      "delta_start_rueb": "03:23"
+      "delta_rueb_schleuse": "04:35",
+      "delta_start_rueb": "03:22"
     },
     {
       "is_target": false,
@@ -661,7 +661,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "06:32",
+      "eta_rueb_kiel": "06:31",
       "eta_rueb": "06:20",
       "ship": "CONTSHIPS BOREALIS",
       "q_gruppe": "1",
