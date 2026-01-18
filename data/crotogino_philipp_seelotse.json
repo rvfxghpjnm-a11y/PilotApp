@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T06:20:40",
+  "generated_at": "2026-01-18T06:22:38",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -295,14 +295,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:31",
+        "eta_schleuse": "08:30",
         "eta_rueb": "03:50",
-        "delta_rueb_schleuse": "04:41",
+        "delta_rueb_schleuse": "04:40",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "03:50",
-      "eta_schleuse": "08:31",
-      "delta_rueb_schleuse": "04:41",
+      "eta_schleuse": "08:30",
+      "delta_rueb_schleuse": "04:40",
       "delta_start_rueb": "04:12"
     },
     {
@@ -316,14 +316,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:28",
+        "eta_schleuse": "08:26",
         "eta_rueb": "03:48",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:48",
-      "eta_schleuse": "08:28",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "08:26",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "04:10"
     },
     {
@@ -534,14 +534,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:31",
+        "eta_schleuse": "08:30",
         "eta_rueb": "03:50",
-        "delta_rueb_schleuse": "04:41",
+        "delta_rueb_schleuse": "04:40",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "03:50",
-      "eta_schleuse": "08:31",
-      "delta_rueb_schleuse": "04:41",
+      "eta_schleuse": "08:30",
+      "delta_rueb_schleuse": "04:40",
       "delta_start_rueb": "04:12"
     },
     {
@@ -555,14 +555,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:21:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:28",
+        "eta_schleuse": "08:26",
         "eta_rueb": "03:48",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:38",
         "delta_start_rueb": "04:10"
       },
       "eta_rueb": "03:48",
-      "eta_schleuse": "08:28",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "08:26",
+      "delta_rueb_schleuse": "04:38",
       "delta_start_rueb": "04:10"
     },
     {
@@ -607,7 +607,7 @@
     },
     {
       "eta_rueb_kiel": "10:34",
-      "eta_rueb": "10:50",
+      "eta_rueb": "10:20",
       "ship": "RIX ATLANTIC",
       "q_gruppe": "5",
       "route": "RÜB → HOS"
