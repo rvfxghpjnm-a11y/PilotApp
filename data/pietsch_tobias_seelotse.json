@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T13:58:39",
+  "generated_at": "2026-01-18T14:00:42",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -380,14 +380,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:17",
+        "eta_schleuse": "17:18",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:17",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "17:18",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:25"
     },
     {
@@ -683,14 +683,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 07:30:00 CET 2026",
       "times": {
-        "eta_schleuse": "17:17",
+        "eta_schleuse": "17:18",
         "eta_rueb": "12:55",
-        "delta_rueb_schleuse": "04:22",
+        "delta_rueb_schleuse": "04:23",
         "delta_start_rueb": "04:25"
       },
       "eta_rueb": "12:55",
-      "eta_schleuse": "17:17",
-      "delta_rueb_schleuse": "04:22",
+      "eta_schleuse": "17:18",
+      "delta_rueb_schleuse": "04:23",
       "delta_start_rueb": "04:25"
     },
     {
@@ -771,7 +771,7 @@
       "route": "AHL → BRB"
     },
     {
-      "eta_rueb_kiel": "15:17",
+      "eta_rueb_kiel": "15:15",
       "eta_rueb": "15:05",
       "ship": "RIX MISTRAL",
       "q_gruppe": "5",
