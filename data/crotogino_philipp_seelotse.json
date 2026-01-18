@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-01-18T13:50:46",
+  "generated_at": "2026-01-18T13:52:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
-    "kanal": 16,
+    "kanal": 15,
     "wach": 0,
     "see": 10
   },
@@ -100,14 +100,14 @@
       "route": "HOS → KLT",
       "time": "Sun Jan 18 12:55:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:52",
+        "eta_schleuse": "13:53",
         "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "05:00",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "08:52",
-      "eta_schleuse": "13:52",
-      "delta_rueb_schleuse": "05:00",
+      "eta_schleuse": "13:53",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "04:40"
     },
     {
@@ -290,14 +290,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:29",
+        "eta_schleuse": "15:30",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "15:29",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "15:30",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:39"
     },
     {
@@ -311,14 +311,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:21",
+        "eta_schleuse": "15:23",
         "eta_rueb": "10:21",
-        "delta_rueb_schleuse": "05:00",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "10:21",
-      "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "05:00",
+      "eta_schleuse": "15:23",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "04:11"
     },
     {
@@ -332,14 +332,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:25",
+        "eta_schleuse": "15:27",
         "eta_rueb": "10:47",
-        "delta_rueb_schleuse": "04:38",
+        "delta_rueb_schleuse": "04:40",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "10:47",
-      "eta_schleuse": "15:25",
-      "delta_rueb_schleuse": "04:38",
+      "eta_schleuse": "15:27",
+      "delta_rueb_schleuse": "04:40",
       "delta_start_rueb": "04:37"
     },
     {
@@ -438,14 +438,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 02:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:52",
+        "eta_schleuse": "13:53",
         "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "05:00",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "08:52",
-      "eta_schleuse": "13:52",
-      "delta_rueb_schleuse": "05:00",
+      "eta_schleuse": "13:53",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "04:40"
     },
     {
@@ -468,22 +468,6 @@
       "eta_schleuse": "13:50",
       "delta_rueb_schleuse": "05:03",
       "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": false,
-      "vorname": "Steffen",
-      "nachname": "Zimmermann",
-      "name": "Steffen Zimmermann",
-      "aufgabe": "Kanalbört",
-      "nr": 26,
-      "fahrzeug": "BRENTHOLMEN",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 18 00:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "kanallotsen": [
@@ -646,14 +630,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:29",
+        "eta_schleuse": "15:30",
         "eta_rueb": "10:49",
-        "delta_rueb_schleuse": "04:40",
+        "delta_rueb_schleuse": "04:41",
         "delta_start_rueb": "04:39"
       },
       "eta_rueb": "10:49",
-      "eta_schleuse": "15:29",
-      "delta_rueb_schleuse": "04:40",
+      "eta_schleuse": "15:30",
+      "delta_rueb_schleuse": "04:41",
       "delta_start_rueb": "04:39"
     },
     {
@@ -667,14 +651,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:21",
+        "eta_schleuse": "15:23",
         "eta_rueb": "10:21",
-        "delta_rueb_schleuse": "05:00",
+        "delta_rueb_schleuse": "05:02",
         "delta_start_rueb": "04:11"
       },
       "eta_rueb": "10:21",
-      "eta_schleuse": "15:21",
-      "delta_rueb_schleuse": "05:00",
+      "eta_schleuse": "15:23",
+      "delta_rueb_schleuse": "05:02",
       "delta_start_rueb": "04:11"
     },
     {
@@ -688,14 +672,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 09:05:00 CET 2026",
       "times": {
-        "eta_schleuse": "15:25",
+        "eta_schleuse": "15:27",
         "eta_rueb": "10:47",
-        "delta_rueb_schleuse": "04:38",
+        "delta_rueb_schleuse": "04:40",
         "delta_start_rueb": "04:37"
       },
       "eta_rueb": "10:47",
-      "eta_schleuse": "15:25",
-      "delta_rueb_schleuse": "04:38",
+      "eta_schleuse": "15:27",
+      "delta_rueb_schleuse": "04:40",
       "delta_start_rueb": "04:37"
     },
     {
@@ -746,14 +730,14 @@
       "route": "RÜB → HOS",
       "time": "Sun Jan 18 02:32:00 CET 2026",
       "times": {
-        "eta_schleuse": "13:52",
+        "eta_schleuse": "13:53",
         "eta_rueb": "08:52",
-        "delta_rueb_schleuse": "05:00",
+        "delta_rueb_schleuse": "05:01",
         "delta_start_rueb": "04:40"
       },
       "eta_rueb": "08:52",
-      "eta_schleuse": "13:52",
-      "delta_rueb_schleuse": "05:00",
+      "eta_schleuse": "13:53",
+      "delta_rueb_schleuse": "05:01",
       "delta_start_rueb": "04:40"
     },
     {
@@ -776,22 +760,6 @@
       "eta_schleuse": "13:50",
       "delta_rueb_schleuse": "05:03",
       "delta_start_rueb": "04:39"
-    },
-    {
-      "is_target": false,
-      "vorname": "Steffen",
-      "nachname": "Zimmermann",
-      "name": "Steffen Zimmermann",
-      "aufgabe": "Kanalbört",
-      "nr": 26,
-      "fahrzeug": "BRENTHOLMEN",
-      "route": "RÜB → HOS",
-      "time": "Sun Jan 18 00:40:00 CET 2026",
-      "times": null,
-      "eta_rueb": null,
-      "eta_schleuse": null,
-      "delta_rueb_schleuse": null,
-      "delta_start_rueb": null
     }
   ],
   "meldungen_kiel": [],
@@ -839,7 +807,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "15:27",
+      "eta_rueb_kiel": "15:26",
       "eta_rueb": "15:20",
       "ship": "PRIMA LADY",
       "q_gruppe": "5",
