@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T14:14:39",
+  "generated_at": "2026-01-18T14:16:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -180,14 +180,14 @@
       "route": "UTG → RÜB",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:22",
+        "eta_schleuse": "20:27",
         "eta_rueb": "15:55",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "15:55",
-      "eta_schleuse": "20:22",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "20:27",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "05:23"
     },
     {
@@ -201,14 +201,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 11:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:17",
+        "eta_schleuse": "22:42",
         "eta_rueb": "17:50",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:52",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "17:50",
-      "eta_schleuse": "22:17",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "22:42",
+      "delta_rueb_schleuse": "04:52",
       "delta_start_rueb": "04:36"
     },
     {
@@ -282,8 +282,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LEVENSAU",
+      "route": "AHL → BRB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -548,14 +548,14 @@
       "route": "UTG → RÜB",
       "time": "Sun Jan 18 11:35:00 CET 2026",
       "times": {
-        "eta_schleuse": "20:22",
+        "eta_schleuse": "20:27",
         "eta_rueb": "15:55",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:32",
         "delta_start_rueb": "05:23"
       },
       "eta_rueb": "15:55",
-      "eta_schleuse": "20:22",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "20:27",
+      "delta_rueb_schleuse": "04:32",
       "delta_start_rueb": "05:23"
     },
     {
@@ -569,14 +569,14 @@
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 11:15:00 CET 2026",
       "times": {
-        "eta_schleuse": "22:17",
+        "eta_schleuse": "22:42",
         "eta_rueb": "17:50",
-        "delta_rueb_schleuse": "04:27",
+        "delta_rueb_schleuse": "04:52",
         "delta_start_rueb": "04:36"
       },
       "eta_rueb": "17:50",
-      "eta_schleuse": "22:17",
-      "delta_rueb_schleuse": "04:27",
+      "eta_schleuse": "22:42",
+      "delta_rueb_schleuse": "04:52",
       "delta_start_rueb": "04:36"
     },
     {
@@ -602,8 +602,8 @@
       "name": "Kevin Koslik",
       "aufgabe": "Kanalbört",
       "nr": 17,
-      "fahrzeug": "RÜB",
-      "route": null,
+      "fahrzeug": "LEVENSAU",
+      "route": "AHL → BRB",
       "time": "Sun Jan 18 09:07:00 CET 2026",
       "times": null,
       "eta_rueb": null,
@@ -727,13 +727,6 @@
       "ship": "KILSTRAUM",
       "q_gruppe": "4",
       "route": "RÜB → UTG"
-    },
-    {
-      "eta_rueb_kiel": null,
-      "eta_rueb": "15:00",
-      "ship": "LEVENSAU",
-      "q_gruppe": "5",
-      "route": "AHL → BRB"
     },
     {
       "eta_rueb_kiel": "15:14",
