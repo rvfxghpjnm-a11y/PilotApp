@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:38:40",
+  "generated_at": "2026-01-18T07:40:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -35,9 +35,14 @@
       "fahrzeug": "STEN BALTIC",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 06:28:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:34",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:34",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -301,14 +306,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:25",
+        "eta_schleuse": "08:24",
         "eta_rueb": "03:50",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "03:50",
-      "eta_schleuse": "08:25",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "08:24",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "04:12"
     },
     {
@@ -360,9 +365,14 @@
       "fahrzeug": "STEN BALTIC",
       "route": "HOS → RÜB",
       "time": "Sun Jan 18 06:28:00 CET 2026",
-      "times": null,
+      "times": {
+        "eta_schleuse": "16:34",
+        "eta_rueb": null,
+        "delta_rueb_schleuse": null,
+        "delta_start_rueb": null
+      },
       "eta_rueb": null,
-      "eta_schleuse": null,
+      "eta_schleuse": "16:34",
       "delta_rueb_schleuse": null,
       "delta_start_rueb": null
     },
@@ -525,14 +535,14 @@
       "route": "RÜB → HOS",
       "time": "Sat Jan 17 19:54:00 CET 2026",
       "times": {
-        "eta_schleuse": "08:25",
+        "eta_schleuse": "08:24",
         "eta_rueb": "03:50",
-        "delta_rueb_schleuse": "04:35",
+        "delta_rueb_schleuse": "04:34",
         "delta_start_rueb": "04:12"
       },
       "eta_rueb": "03:50",
-      "eta_schleuse": "08:25",
-      "delta_rueb_schleuse": "04:35",
+      "eta_schleuse": "08:24",
+      "delta_rueb_schleuse": "04:34",
       "delta_start_rueb": "04:12"
     },
     {
@@ -567,7 +577,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "08:46",
+      "eta_rueb_kiel": "08:45",
       "eta_rueb": "08:30",
       "ship": "BRENTHOLMEN",
       "q_gruppe": "2",
