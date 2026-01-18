@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:08:41",
+  "generated_at": "2026-01-18T07:10:39",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -592,7 +592,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "08:52",
+      "eta_rueb_kiel": "08:53",
       "eta_rueb": "08:25",
       "ship": "FRI SKIEN",
       "q_gruppe": "5",
@@ -613,7 +613,7 @@
       "route": "RÜB → HOS"
     },
     {
-      "eta_rueb_kiel": "10:31",
+      "eta_rueb_kiel": "10:29",
       "eta_rueb": "10:20",
       "ship": "RIX ATLANTIC",
       "q_gruppe": "5",
