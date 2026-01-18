@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T12:14:39",
+  "generated_at": "2026-01-18T12:16:41",
   "status": "not_in_seelotse",
   "person": null,
   "gruppen": {
@@ -688,7 +688,7 @@
       "route": "NOB → LÜW"
     },
     {
-      "eta_rueb_kiel": "12:58",
+      "eta_rueb_kiel": "12:57",
       "eta_rueb": "12:45",
       "ship": "ANOUK",
       "q_gruppe": "5",
