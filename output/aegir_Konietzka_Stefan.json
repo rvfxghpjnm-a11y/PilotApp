@@ -1,0 +1,1408 @@
+{
+  "generated_at": "2026-01-27 17:07",
+  "lotse": {
+    "vorname": "Stefan",
+    "nachname": "Konietzka"
+  },
+  "state": null,
+  "workstart": null,
+  "positions": {
+    "own": {
+      "position": null,
+      "arrow": null,
+      "has_bonus": false,
+      "is_good_arrow": false
+    },
+    "raw_count": 86
+  },
+  "aegir": {
+    "status": {
+      "text": "LOTSENBRÜDERSCHAFT: Hauptbört Willkommen Stefan Konietzka Zuletzt: 27.01.-11:00 ASS Nächster Urlaub: 23.02.2026 Lotsensuche LOTSENBRÜDERSCHAFT NOK II/Kiel/Lübeck/Flensburg Home // Bezirk Kiel // Bezirk Lübeck // Dokumente // Abstimmungen // Statistik // Fortbildungen // Freizeit // Nutzerprofil // Information Wache Logout Bezirk Kiel Aktuelle Lage Gesamtbört Meldungen Kiel Meldungen Rüsterbergen Abgeteilte Seelotsen Aus der Bört Flensburgbört Distanz Übersee Wachbört Lage Rüsterbergen (Status Tue Jan 27 09:38:51 CET 2026) gut Wachleiter: Jensen, F. Leuchtturm Kiel (Status Tue Jan 27 15:46:10 CET 2026) ESE 3-4 | gut | KLT dunkel Wachleiter: Konietzka, S. Holtenau (Status Tue Jan 27 16:57:55 CET 2026) Seelotsschiffe im NOK: 11 Wachleiter: Hodt, T. Operator: Hansen, S. Hauptbört / N T W Lotse Q was Zeit Bemerkung 1 55,0 Kordt, Remo 0 ABR Tue Jan 27 16:20:59 CET 2026 2 57,0 Skairies, Thomas 0 ZEN Tue Jan 27 08:58:00 CET 2026 3 58,0 Bachholz, Carsten 0 ZEN Tue Jan 27 09:45:00 CET 2026 4 59,0 Jenckel, Dolf 0 ZEN Tue Jan 27 10:15:00 CET 2026 max. takt. 48 5 60,0 Pitschmann, Gerd 0 ZEN Tue Jan 27 11:00:00 CET 2026 6 61,0 Nagel, Volker 3 ZEN Tue Jan 27 11:25:00 CET 2026 7 63,0 Tietjens, Sven Kare 0 ZEN Tue Jan 27 11:55:00 CET 2026 8 64,0 Krause, Malte 0 ZEN Tue Jan 27 12:36:00 CET 2026 9 66,0 Krebs, Michael 0 ZEN Tue Jan 27 14:51:00 CET 2026 10 68,0 Röhl, Jens 0 ZEN Tue Jan 27 16:30:00 CET 2026 11 69,0 Schran, Oliver 0 ZUG Sun Jan 25 23:32:00 CET 2026 12 70,0 Heyenga, Dennis 5 ZUG Sun Jan 25 23:32:00 CET 2026 13 72,0 Skawianczyk, Artur 0 ZUG Mon Jan 26 00:06:00 CET 2026 14 73,0 Dalecki, Niklas 0 ZUG Mon Jan 26 00:06:00 CET 2026 15 75,0 Hilpert, Jan 0 ZUG Mon Jan 26 00:53:00 CET 2026 16 76,0 Köhler, Olaf 0 ZUG Mon Jan 26 01:43:00 CET 2026 17 76,1 Buch, Helge 1 ZLN Mon Jan 26 09:00:00 CET 2026 18 77,0 Kubica, Gregor 0 ZUG Mon Jan 26 01:43:00 CET 2026 19 79,0 Kurfeld, Jan 3 ZUG Mon Jan 26 02:34:00 CET 2026 30 Min. 20 80,0 Petersen, Yannick 3 ZUG Mon Jan 26 03:00:00 CET 2026 21 80,1 Demant, Tom 5 AdB Mon Jan 26 09:05:26 CET 2026 22 81,0 Weise, Carsten 0 ZUG Mon Jan 26 03:33:00 CET 2026 23 82,0 Glenewinkel, Jan-Steffen 0 IdB Mon Jan 26 04:30:00 CET 2026 24 83,0 Domeier, Stefan 0 ZUG Mon Jan 26 04:57:00 CET 2026 25 83,1 Wald, Mark 3 ZLN Mon Jan 26 09:00:00 CET 2026 26 84,0 Fricke, Michell 0 ZUG Mon Jan 26 06:46:00 CET 2026 27 85,0 Schmidt, Thomas 0 ZUG Mon Jan 26 07:28:00 CET 2026 28 85,1 Türk, Maximilian 0 ZLN Mon Jan 26 09:00:00 CET 2026 29 86,0 Ehlers, Sören 3 IdB Mon Jan 26 07:36:00 CET 2026 max takt 74 30 87,0 Sattler, Olaf 0 ZUG Mon Jan 26 08:21:00 CET 2026 31 88,0 Hren, Alexander 0 ZUG Mon Jan 26 08:27:00 CET 2026 32 90,0 Matysik, Eike 0 ZUG Mon Jan 26 10:20:00 CET 2026 120 ' 33 91,0 Bodmann, Christoph 0 ZUG Mon Jan 26 10:25:00 CET 2026 34 92,0 Wulff, Stephan 0 ZUG Mon Jan 26 12:22:00 CET 2026 35 93,0 Thomaßen, Stephan 0 ZUG Mon Jan 26 12:23:00 CET 2026 36 95,0 Klein, Sebastian 0 ZUG Mon Jan 26 14:16:00 CET 2026 37 97,0 Spiller, Roman 0 ZUG Mon Jan 26 15:31:00 CET 2026 38 98,0 Röhrs, Johannes 0 ZUG Mon Jan 26 17:02:00 CET 2026 39 99,0 Spiekermann, Fred 0 ZUG Mon Jan 26 17:05:00 CET 2026 40 100,0 Föhring, Nils 0 ZUG Mon Jan 26 17:22:00 CET 2026 41 1,0 Münker, Niels 0 ZUG Mon Jan 26 18:37:00 CET 2026 42 2,0 Doering, Lars 0 AdB Tue Jan 27 08:02:45 CET 2026 Ausbildung 43 3,0 Hewig, Marius Paul 3 ZUG Mon Jan 26 20:03:00 CET 2026 44 4,0 Bruhn, Stefan 0 ZUG Mon Jan 26 20:56:00 CET 2026 45 5,0 Börnsen, Curt 0 ZUG Mon Jan 26 21:27:00 CET 2026 46 7,0 Kaschke, Henning 0 ZUG Mon Jan 26 22:57:00 CET 2026 47 8,0 Jeschek, Hauke 0 ZUG Mon Jan 26 23:09:00 CET 2026 48 9,0 Böttger, Oleif Johann 0 ZUG Mon Jan 26 23:30:07 CET 2026 49 10,0 Wäntig, Lutz 0 ZUG Mon Jan 26 23:30:19 CET 2026 50 11,0 Eidenschink, Klaus 0 ZUG Tue Jan 27 00:02:00 CET 2026 51 12,0 Tontarra, Olaf 0 ZUG Tue Jan 27 00:59:00 CET 2026 52 13,0 Diekmann, Ulrich 0 ZUG Tue Jan 27 00:59:00 CET 2026 53 14,0 Heyenga, Kai 0 ZUG Tue Jan 27 01:00:00 CET 2026 54 15,0 Malik, Christoph 0 ZUG Tue Jan 27 01:21:00 CET 2026 55 16,0 Christiansen, Jan 0 ZUG Tue Jan 27 01:22:00 CET 2026 56 17,0 Lüdtke, Jan-Torben 0 ZUG Tue Jan 27 01:47:00 CET 2026 57 18,0 Haala, Klaus Werner 0 ZUG Tue Jan 27 02:58:00 CET 2026 58 19,0 Stoislow, Alexander 5 ZUG Tue Jan 27 03:03:00 CET 2026 59 20,0 Migge, Alexander 0 ZUG Tue Jan 27 03:03:00 CET 2026 60 21,0 Hansen, Hinnerk 0 ZUG Tue Jan 27 03:03:00 CET 2026 61 22,0 Laudan, Sven 0 ZUG Tue Jan 27 03:03:00 CET 2026 62 23,0 Richter, Ingmar 0 ZUG Tue Jan 27 04:30:00 CET 2026 63 24,0 Lehwald, Christian 5 ZUG Tue Jan 27 05:05:00 CET 2026 max. takt. 1 64 25,0 Hüpers, Peter 0 ZUG Tue Jan 27 06:10:00 CET 2026 65 26,0 Krämer, Jonas 0 ZUG Tue Jan 27 07:49:00 CET 2026 66 27,0 Woitanowski, Tim 3 ZUG Tue Jan 27 08:40:00 CET 2026 67 28,0 Wille, Christian 0 ZUG Tue Jan 27 08:41:00 CET 2026 max takt 70 68 29,0 Dietrich, Thomas 0 ZUG Tue Jan 27 08:42:00 CET 2026 69 30,0 Weise, Tom 0 ZUG Tue Jan 27 09:22:00 CET 2026 70 31,0 Hoffmann, Heiko 0 ZUG Tue Jan 27 09:28:00 CET 2026 71 32,0 Keyser, Torben 0 ZUG Tue Jan 27 09:45:00 CET 2026 72 33,0 Hahn, Peter 0 ZLN Tue Jan 27 10:15:00 CET 2026 73 34,0 Heeren, Rainer 0 IdB Tue Jan 27 10:27:00 CET 2026 74 35,0 Meise, Gregor 0 ZUG Tue Jan 27 12:08:00 CET 2026 75 36,0 Krüger, Caspar-Maria 5 IdB Tue Jan 27 12:30:29 CET 2026 76 37,0 Arndt, Michael 0 ZUG Tue Jan 27 12:55:00 CET 2026 77 38,0 Reimer, Sven 0 ZUG Tue Jan 27 12:55:00 CET 2026 78 39,0 Krügel, Mathias 2 ZUG Tue Jan 27 12:55:00 CET 2026 79 40,0 Blome, Henning 0 ZUG Tue Jan 27 13:26:00 CET 2026 80 41,0 Jakob, Peter 0 ZUG Tue Jan 27 13:32:00 CET 2026 81 42,0 Steffens, Micha 5 ZUG Tue Jan 27 13:50:00 CET 2026 82 43,0 Koslik, Kevin 0 ZUG Tue Jan 27 13:56:00 CET 2026 83 44,0 Otten, Janning 0 ZUG Tue Jan 27 15:32:00 CET 2026 84 45,0 Heyder, Justus 3 ZUG Tue Jan 27 15:33:00 CET 2026 85 46,0 Plaisant, Julian 5 ZUG Tue Jan 27 15:43:00 CET 2026 86 47,0 Schuh, Erskine 0 ZUG Tue Jan 27 15:43:00 CET 2026",
+      "raw": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\r\n<html>\r\n<head>\r\n\t\r\n\t<title>LOTSENBRÜDERSCHAFT: Hauptbört</title>\r\n\r\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"/aegir/styles/default.css\" title=\"defaultcss\" />\r\n\t<script type=\"text/javascript\" src=\"/aegir/scripts/jquery-1.7.1.min.js\"></script>\r\n\t<script type=\"text/javascript\" src=\"/aegir/scripts/jquery-ui-1.8.18.custom.min.js\"></script>\r\n\r\n\t\r\n</head>\r\n<body>\r\n\t\t<!--header -->\r\n        <div id=\"headerBackground\">\r\n    \t\t<div id=\"header\">\r\n\r\n            \r\n    \t\t\t\r\n                    <div id=\"header-links\">\r\n                        <div id=\"logo-container\">\r\n                            &nbsp;\r\n                        </div>              \r\n                        <div id=\"login-info\">\r\n                            Willkommen Stefan Konietzka <br/>\r\n                            \r\n                                Zuletzt: 27.01.-11:00 ASS<br>\r\n                            \r\n                                Nächster Urlaub: 23.02.2026<br>\r\n                            \r\n                        </div>\r\n                    </div>      \r\n                \r\n                \r\n                \r\n                    \r\n                        <div id=\"pilotSearch\">\r\n                            <h3>Lotsensuche</h3>   \r\n                            <form method=\"post\" action=\"/aegir/pilotSearch\" onsubmit=\"return $('#pilotSearchTextbox').val().trim().length != 0;\" class=\"searchform\">\r\n                                <p>\r\n                                <input name=\"searchQuery\" id=\"pilotSearchTextbox\" type=\"text\" class=\"textbox\" />\r\n                                <input name=\"search\" type=\"submit\" class=\"button\" value=\"Suche\" />\r\n                                </p>\r\n                            <div style=\"display: none;\"><input type=\"hidden\" name=\"_sourcePage\" value=\"CHm8fH6PDbGQkD46-VXrlWviKeK7BP5DtkuY18JKOHA=\" /><input type=\"hidden\" name=\"__fp\" value=\"8krYntDyUCY=\" /></div></form>\r\n                        </div>  \r\n                    \r\n                \r\n                \r\n                <div id=\"logoTextContainer\">\r\n                \t\t\r\n                        \t<a href=\"/aegir/news?filterTagId=-3\"><img src=\"/aegir/images/logo.png\" alt=\"LOTSENBRÜDERSCHAFT\" class=\"logo\" /></a>\r\n                    <h1 id=\"logo-text\"><a href=\"/aegir/news?filterTagId=-3\">LOTSENBRÜDERSCHAFT</a></h1>\t\t\r\n                    <p id=\"slogan\">NOK II/Kiel/Lübeck/Flensburg</p>\r\n                    \t\t\r\n    \t\t\t</div>\r\n\r\n    \t\t</div>\r\n        \r\n            <!-- menu -->\r\n            \r\n            <div id=\"menuBackground\">\r\n                <div id=\"menu\">\r\n                    <ul>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/news?filterTagId=-3\">Home</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                            \r\n                        \r\n                        <li class=\"current \">\r\n                            <a href=\"/aegir/info\">Bezirk Kiel</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/luebeckInfo\">Bezirk Lübeck</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/uploads\">Dokumente</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/voting\">Abstimmungen</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/statistics\">Statistik</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/training/personal\">Fortbildungen</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/freetime\">Freizeit</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/pilot\">Nutzerprofil</a> \r\n                             //\r\n                        </li>\r\n                    \r\n                        \r\n                        <li class=\" \">\r\n                            <a href=\"/aegir/operatorInfo\">Information Wache</a> \r\n                            \r\n                        </li>\r\n                    \r\n                    </ul>\r\n                    \r\n                    <a id=\"logoutLink\" href=\"/aegir/j_spring_security_logout\">Logout</a>\r\n                </div>\r\n            </div>\r\n            \r\n\t\t</div>\r\n\t\r\n\t\t\t\r\n\t\t<!-- content-wrap starts here -->\r\n\t\t<div id=\"content-wrap\">\r\n\t\t\t\t\r\n\t\t\t\t<div id=\"sidebar\">\r\n\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<div class=\"sideContent traffic\">\r\n\t\t\t\t\t\t\t<h3 class=\"traffic\">Bezirk Kiel</h3>\r\n\t\t\t\t\t\t\t<ul class=\"sidemenu\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/info\">Aktuelle Lage</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"current\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/board?boardId=-1\">Gesamtbört</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/trips?region=TRIPS_AREA_1\">Meldungen Kiel</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/trips?region=TRIPS_AREA_2\">Meldungen Rüsterbergen</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/workingPilots\">Abgeteilte Seelotsen</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/dropouts\">Aus der Bört</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/board?boardId=-5\">Flensburgbört</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/board?boardId=-2\">Distanz</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/board?boardId=-3\">Übersee</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<li class=\"\">\r\n\t\t\t\t\t\t\t\t\t\t<a href=\"/aegir/board?boardId=-4\">Wachbört</a>\r\n\t\t\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\t\n\n\n\n\n\n\r\n\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<div class=\"sideContent\">\r\n\t<h3 class=\"status\"> Lage </h3>\r\n\t\r\n\t\t<div class=\"location notLast\">\r\n\t\t\t<h4>Rüsterbergen</h4>\r\n\t\t\t<p>\r\n\t\t\t\t<span class=\"label\">(Status Tue Jan 27 09:38:51 CET 2026)</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>gut</span>\r\n\t\t\t</p>\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span class=\"label\">Wachleiter:</span>\r\n\t\t\t\t\t<span>Jensen, F.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\r\n\t\t\t\r\n\t\t</div>\r\n\t\r\n\t\t<div class=\"location notLast\">\r\n\t\t\t<h4>Leuchtturm Kiel</h4>\r\n\t\t\t<p>\r\n\t\t\t\t<span class=\"label\">(Status Tue Jan 27 15:46:10 CET 2026)</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>ESE 3-4 | gut | KLT dunkel</span>\r\n\t\t\t</p>\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span class=\"label\">Wachleiter:</span>\r\n\t\t\t\t\t<span>Konietzka, S.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\r\n\t\t\t\r\n\t\t</div>\r\n\t\r\n\t\t<div class=\"location \">\r\n\t\t\t<h4>Holtenau</h4>\r\n\t\t\t<p>\r\n\t\t\t\t<span class=\"label\">(Status Tue Jan 27 16:57:55 CET 2026)</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span></span>\r\n\t\t\t</p>\r\n\t\t\t\r\n\t\t\t\t<p><span class=\"value\">Seelotsschiffe im NOK: 11</span></p>\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span class=\"label\">Wachleiter:</span>\r\n\t\t\t\t\t<span>Hodt, T.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span class=\"label\">Operator:</span>\r\n\t\t\t\t\t<span>Hansen, S.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\r\n\t\t</div>\r\n\t\r\n</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t<div id=\"main\">\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t<h2>Hauptbört</h2>\r\n\r\n\t\t<table>\r\n\t\t\t<tr>\r\n\t\t\t\t<th title=\"Listennummer\" class=\"rightAlignCol\">/</th>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t<th title=\"Taktische Nummer\" class=\"rightAlignCol\">N</th>\r\n\t\t\t\t\r\n\t\t\t\t<th title=\"Tauschwunsch\">T</th>\r\n\t\t\t\t<th title=\"10.Wache mitgeteilt\">W</th>\r\n\t\t\t\t\r\n\t\t\t\t<th title=\"Name des Lotsen\">Lotse </th>\r\n\t\t\t\t<th title=\"Qualifikation\">Q</th>\r\n\t\t\t\t<th title=\"Zustand des Lotsen\">was</th>\r\n\t\t\t\t<th title=\"Zeit des Zustandwechsels\">Zeit</th>\r\n\t\t\t\t<th title=\"Bemerkung zum B&ouml;rteintrag\">Bemerkung</th>\r\n\t\t\t\t\r\n\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"color: #999;\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">1</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">55,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Kordt, Remo\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ABR</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 16:20:59 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">2</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">57,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Skairies, Thomas\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 08:58:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">3</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">58,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Bachholz, Carsten\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 09:45:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">4</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">59,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Jenckel, Dolf\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 10:15:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tmax. takt. 48\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">5</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">60,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Pitschmann, Gerd\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 11:00:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">6</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">61,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Nagel, Volker\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 11:25:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">7</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">63,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Tietjens, Sven Kare\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 11:55:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">8</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">64,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Krause, Malte\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 12:36:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">9</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">66,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Krebs, Michael\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 14:51:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"firstRows\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">10</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">68,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t <img src=\"/aegir/images/arrow_left_green_pilot.png\" alt=\"standby\" style=\"display: block;\" />\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Röhl, Jens\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZEN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 16:30:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">11</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">69,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Schran, Oliver\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Sun Jan 25 23:32:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">12</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">70,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Heyenga, Dennis\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>5</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Sun Jan 25 23:32:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">13</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">72,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Skawianczyk, Artur\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 00:06:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">14</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">73,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Dalecki, Niklas\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 00:06:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">15</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">75,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Hilpert, Jan\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 00:53:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">16</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">76,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Köhler, Olaf\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 01:43:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">17</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">76,1</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Buch, Helge\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>1</td>\r\n\t\t\t\t\t<td>ZLN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 09:00:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">18</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">77,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Kubica, Gregor\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 01:43:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">19</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">79,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Kurfeld, Jan\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 02:34:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t30 Min.\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">20</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">80,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Petersen, Yannick\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 03:00:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"color: #999;\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">21</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">80,1</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Demant, Tom\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>5</td>\r\n\t\t\t\t\t<td>AdB</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 09:05:26 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">22</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">81,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Weise, Carsten\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 03:33:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">23</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">82,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Glenewinkel, Jan-Steffen\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>IdB</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 04:30:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">24</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">83,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Domeier, Stefan\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 04:57:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">25</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">83,1</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Wald, Mark\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>ZLN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 09:00:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">26</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">84,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Fricke, Michell\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 06:46:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">27</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">85,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Schmidt, Thomas\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 07:28:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">28</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">85,1</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Türk, Maximilian\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZLN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 09:00:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">29</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">86,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Ehlers, Sören\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>IdB</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 07:36:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tmax takt 74\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">30</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">87,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Sattler, Olaf\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 08:21:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">31</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">88,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Hren, Alexander\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 08:27:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">32</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">90,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Matysik, Eike\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 10:20:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t120 '\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">33</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">91,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Bodmann, Christoph\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 10:25:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">34</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">92,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Wulff, Stephan\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 12:22:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">35</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">93,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Thomaßen, Stephan\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 12:23:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">36</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">95,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Klein, Sebastian\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 14:16:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">37</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">97,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Spiller, Roman\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 15:31:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">38</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">98,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Röhrs, Johannes\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 17:02:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">39</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">99,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Spiekermann, Fred\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 17:05:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">40</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">100,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Föhring, Nils\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 17:22:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">41</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">1,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Münker, Niels\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 18:37:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"color: #999;\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">42</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">2,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Doering, Lars\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>AdB</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 08:02:45 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tAusbildung\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">43</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">3,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Hewig, Marius Paul\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 20:03:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">44</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">4,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Bruhn, Stefan\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 20:56:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">45</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">5,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Börnsen, Curt\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 21:27:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">46</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">7,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Kaschke, Henning\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 22:57:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">47</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">8,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Jeschek, Hauke\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 23:09:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">48</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">9,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Böttger, Oleif Johann\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 23:30:07 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">49</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">10,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Wäntig, Lutz\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Mon Jan 26 23:30:19 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">50</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">11,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Eidenschink, Klaus\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 00:02:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">51</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">12,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Tontarra, Olaf\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 00:59:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">52</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">13,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Diekmann, Ulrich\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 00:59:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">53</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">14,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Heyenga, Kai\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 01:00:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">54</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">15,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Malik, Christoph\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 01:21:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">55</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">16,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Christiansen, Jan\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 01:22:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">56</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">17,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_down_blue16.png\" alt=\"Tausch zurück\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Lüdtke, Jan-Torben\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 01:47:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">57</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">18,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Haala, Klaus Werner\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 02:58:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">58</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">19,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Stoislow, Alexander\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>5</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 03:03:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">59</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">20,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Migge, Alexander\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 03:03:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">60</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">21,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Hansen, Hinnerk\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 03:03:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">61</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">22,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Laudan, Sven\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 03:03:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">62</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">23,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Richter, Ingmar\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 04:30:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">63</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">24,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Lehwald, Christian\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>5</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 05:05:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tmax. takt. 1\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">64</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">25,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Hüpers, Peter\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 06:10:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">65</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">26,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Krämer, Jonas\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 07:49:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">66</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">27,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Woitanowski, Tim\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 08:40:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">67</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">28,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Wille, Christian \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 08:41:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\tmax takt 70\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">68</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">29,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Dietrich, Thomas\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 08:42:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">69</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">30,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Weise, Tom\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 09:22:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">70</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">31,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Hoffmann, Heiko\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 09:28:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">71</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">32,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Keyser, Torben\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 09:45:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">72</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">33,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Hahn, Peter\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZLN</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 10:15:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">73</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">34,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Heeren, Rainer\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>IdB</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 10:27:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">74</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">35,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Meise, Gregor \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 12:08:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">75</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">36,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Krüger, Caspar-Maria\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>5</td>\r\n\t\t\t\t\t<td>IdB</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 12:30:29 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">76</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">37,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Arndt, Michael\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 12:55:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">77</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">38,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Reimer, Sven\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 12:55:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">78</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">39,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Krügel, Mathias\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>2</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 12:55:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">79</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">40,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<img src=\"/aegir/images/arrow_up_blue_with_clock_16.png\" alt=\"Tausch voraus mit Vergütung\" style=\"display: block;\" />\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Blome, Henning\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 13:26:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">80</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">41,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Jakob, Peter\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 13:32:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">81</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">42,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Steffens, Micha\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>5</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 13:50:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">82</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">43,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Koslik, Kevin\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 13:56:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">83</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">44,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Otten, Janning\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 15:32:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">84</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">45,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Heyder, Justus\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>3</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 15:33:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">85</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">46,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Plaisant, Julian\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>5</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 15:43:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\t\t\t\t<tr style=\"\" class=\"\">\r\n\t\t\t\t\t<td class=\"rightAlignCol\">86</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<td class=\"rightAlignCol\">47,0</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"padding: 1px 0 1px 0;\">\r\n\t\t\t\t\t   \r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t    \r\n\t\t\t\t\t       Schuh, Erskine\r\n\t\t\t\t\t       \r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td>0</td>\r\n\t\t\t\t\t<td>ZUG</td>\r\n\t\t\t\t\t<td style=\"width: 90px;\">Tue Jan 27 15:43:00 CET 2026</td>\r\n\t\t\t\t\t<td>\r\n\t\t\t\t\t   \r\n\t\t\t\t\t\t   \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t    \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t   \r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t\r\n\t\t\t\t</tr>\r\n\t\t\t\r\n\t\t</table>\r\n\r\n\t\r\n\t\t\t</div>\r\n\t\t<div style=\"clear: both;\" ></div>\t\r\n\t\t<!-- content-wrap ends here -->\t\r\n\t\t</div>\r\n\t\t<div style=\"clear: both;\" ></div>\r\n\t\t\r\n\t\t\r\n\t        \r\n        \r\n\t\t\t\t\t\r\n</body>\r\n</html>\r\n"
+    },
+    "gesamtboert": [
+      {
+        "position": 1,
+        "raw": "1 | 55,0 |  |  | Kordt, Remo | 0 | ABR | Tue Jan 27 16:20:59 CET 2026 | ",
+        "cols": [
+          "1",
+          "55,0",
+          "",
+          "",
+          "Kordt, Remo",
+          "0",
+          "ABR",
+          "Tue Jan 27 16:20:59 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 2,
+        "raw": "2 | 57,0 |  |  | Skairies, Thomas | 0 | ZEN | Tue Jan 27 08:58:00 CET 2026 | ",
+        "cols": [
+          "2",
+          "57,0",
+          "",
+          "",
+          "Skairies, Thomas",
+          "0",
+          "ZEN",
+          "Tue Jan 27 08:58:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 3,
+        "raw": "3 | 58,0 |  |  | Bachholz, Carsten | 0 | ZEN | Tue Jan 27 09:45:00 CET 2026 | ",
+        "cols": [
+          "3",
+          "58,0",
+          "",
+          "",
+          "Bachholz, Carsten",
+          "0",
+          "ZEN",
+          "Tue Jan 27 09:45:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 4,
+        "raw": "4 | 59,0 |  |  | Jenckel, Dolf | 0 | ZEN | Tue Jan 27 10:15:00 CET 2026 | max. takt. 48",
+        "cols": [
+          "4",
+          "59,0",
+          "",
+          "",
+          "Jenckel, Dolf",
+          "0",
+          "ZEN",
+          "Tue Jan 27 10:15:00 CET 2026",
+          "max. takt. 48"
+        ]
+      },
+      {
+        "position": 5,
+        "raw": "5 | 60,0 |  |  | Pitschmann, Gerd | 0 | ZEN | Tue Jan 27 11:00:00 CET 2026 | ",
+        "cols": [
+          "5",
+          "60,0",
+          "",
+          "",
+          "Pitschmann, Gerd",
+          "0",
+          "ZEN",
+          "Tue Jan 27 11:00:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 6,
+        "raw": "6 | 61,0 |  |  | Nagel, Volker | 3 | ZEN | Tue Jan 27 11:25:00 CET 2026 | ",
+        "cols": [
+          "6",
+          "61,0",
+          "",
+          "",
+          "Nagel, Volker",
+          "3",
+          "ZEN",
+          "Tue Jan 27 11:25:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 7,
+        "raw": "7 | 63,0 |  |  | Tietjens, Sven Kare | 0 | ZEN | Tue Jan 27 11:55:00 CET 2026 | ",
+        "cols": [
+          "7",
+          "63,0",
+          "",
+          "",
+          "Tietjens, Sven Kare",
+          "0",
+          "ZEN",
+          "Tue Jan 27 11:55:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 8,
+        "raw": "8 | 64,0 |  |  | Krause, Malte | 0 | ZEN | Tue Jan 27 12:36:00 CET 2026 | ",
+        "cols": [
+          "8",
+          "64,0",
+          "",
+          "",
+          "Krause, Malte",
+          "0",
+          "ZEN",
+          "Tue Jan 27 12:36:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 9,
+        "raw": "9 | 66,0 |  |  | Krebs, Michael | 0 | ZEN | Tue Jan 27 14:51:00 CET 2026 | ",
+        "cols": [
+          "9",
+          "66,0",
+          "",
+          "",
+          "Krebs, Michael",
+          "0",
+          "ZEN",
+          "Tue Jan 27 14:51:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 10,
+        "raw": "10 | 68,0 |  |  | Röhl, Jens | 0 | ZEN | Tue Jan 27 16:30:00 CET 2026 | ",
+        "cols": [
+          "10",
+          "68,0",
+          "",
+          "",
+          "Röhl, Jens",
+          "0",
+          "ZEN",
+          "Tue Jan 27 16:30:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 11,
+        "raw": "11 | 69,0 |  |  | Schran, Oliver | 0 | ZUG | Sun Jan 25 23:32:00 CET 2026 | ",
+        "cols": [
+          "11",
+          "69,0",
+          "",
+          "",
+          "Schran, Oliver",
+          "0",
+          "ZUG",
+          "Sun Jan 25 23:32:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 12,
+        "raw": "12 | 70,0 |  |  | Heyenga, Dennis | 5 | ZUG | Sun Jan 25 23:32:00 CET 2026 | ",
+        "cols": [
+          "12",
+          "70,0",
+          "",
+          "",
+          "Heyenga, Dennis",
+          "5",
+          "ZUG",
+          "Sun Jan 25 23:32:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 13,
+        "raw": "13 | 72,0 |  |  | Skawianczyk, Artur | 0 | ZUG | Mon Jan 26 00:06:00 CET 2026 | ",
+        "cols": [
+          "13",
+          "72,0",
+          "",
+          "",
+          "Skawianczyk, Artur",
+          "0",
+          "ZUG",
+          "Mon Jan 26 00:06:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 14,
+        "raw": "14 | 73,0 |  |  | Dalecki, Niklas | 0 | ZUG | Mon Jan 26 00:06:00 CET 2026 | ",
+        "cols": [
+          "14",
+          "73,0",
+          "",
+          "",
+          "Dalecki, Niklas",
+          "0",
+          "ZUG",
+          "Mon Jan 26 00:06:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 15,
+        "raw": "15 | 75,0 |  |  | Hilpert, Jan | 0 | ZUG | Mon Jan 26 00:53:00 CET 2026 | ",
+        "cols": [
+          "15",
+          "75,0",
+          "",
+          "",
+          "Hilpert, Jan",
+          "0",
+          "ZUG",
+          "Mon Jan 26 00:53:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 16,
+        "raw": "16 | 76,0 |  |  | Köhler, Olaf | 0 | ZUG | Mon Jan 26 01:43:00 CET 2026 | ",
+        "cols": [
+          "16",
+          "76,0",
+          "",
+          "",
+          "Köhler, Olaf",
+          "0",
+          "ZUG",
+          "Mon Jan 26 01:43:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 17,
+        "raw": "17 | 76,1 |  |  | Buch, Helge | 1 | ZLN | Mon Jan 26 09:00:00 CET 2026 | ",
+        "cols": [
+          "17",
+          "76,1",
+          "",
+          "",
+          "Buch, Helge",
+          "1",
+          "ZLN",
+          "Mon Jan 26 09:00:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 18,
+        "raw": "18 | 77,0 |  |  | Kubica, Gregor | 0 | ZUG | Mon Jan 26 01:43:00 CET 2026 | ",
+        "cols": [
+          "18",
+          "77,0",
+          "",
+          "",
+          "Kubica, Gregor",
+          "0",
+          "ZUG",
+          "Mon Jan 26 01:43:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 19,
+        "raw": "19 | 79,0 |  |  | Kurfeld, Jan | 3 | ZUG | Mon Jan 26 02:34:00 CET 2026 | 30 Min.",
+        "cols": [
+          "19",
+          "79,0",
+          "",
+          "",
+          "Kurfeld, Jan",
+          "3",
+          "ZUG",
+          "Mon Jan 26 02:34:00 CET 2026",
+          "30 Min."
+        ]
+      },
+      {
+        "position": 20,
+        "raw": "20 | 80,0 |  |  | Petersen, Yannick | 3 | ZUG | Mon Jan 26 03:00:00 CET 2026 | ",
+        "cols": [
+          "20",
+          "80,0",
+          "",
+          "",
+          "Petersen, Yannick",
+          "3",
+          "ZUG",
+          "Mon Jan 26 03:00:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 21,
+        "raw": "21 | 80,1 |  |  | Demant, Tom | 5 | AdB | Mon Jan 26 09:05:26 CET 2026 | ",
+        "cols": [
+          "21",
+          "80,1",
+          "",
+          "",
+          "Demant, Tom",
+          "5",
+          "AdB",
+          "Mon Jan 26 09:05:26 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 22,
+        "raw": "22 | 81,0 |  |  | Weise, Carsten | 0 | ZUG | Mon Jan 26 03:33:00 CET 2026 | ",
+        "cols": [
+          "22",
+          "81,0",
+          "",
+          "",
+          "Weise, Carsten",
+          "0",
+          "ZUG",
+          "Mon Jan 26 03:33:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 23,
+        "raw": "23 | 82,0 |  |  | Glenewinkel, Jan-Steffen | 0 | IdB | Mon Jan 26 04:30:00 CET 2026 | ",
+        "cols": [
+          "23",
+          "82,0",
+          "",
+          "",
+          "Glenewinkel, Jan-Steffen",
+          "0",
+          "IdB",
+          "Mon Jan 26 04:30:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 24,
+        "raw": "24 | 83,0 |  |  | Domeier, Stefan | 0 | ZUG | Mon Jan 26 04:57:00 CET 2026 | ",
+        "cols": [
+          "24",
+          "83,0",
+          "",
+          "",
+          "Domeier, Stefan",
+          "0",
+          "ZUG",
+          "Mon Jan 26 04:57:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 25,
+        "raw": "25 | 83,1 |  |  | Wald, Mark | 3 | ZLN | Mon Jan 26 09:00:00 CET 2026 | ",
+        "cols": [
+          "25",
+          "83,1",
+          "",
+          "",
+          "Wald, Mark",
+          "3",
+          "ZLN",
+          "Mon Jan 26 09:00:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 26,
+        "raw": "26 | 84,0 |  |  | Fricke, Michell | 0 | ZUG | Mon Jan 26 06:46:00 CET 2026 | ",
+        "cols": [
+          "26",
+          "84,0",
+          "",
+          "",
+          "Fricke, Michell",
+          "0",
+          "ZUG",
+          "Mon Jan 26 06:46:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 27,
+        "raw": "27 | 85,0 |  |  | Schmidt, Thomas | 0 | ZUG | Mon Jan 26 07:28:00 CET 2026 | ",
+        "cols": [
+          "27",
+          "85,0",
+          "",
+          "",
+          "Schmidt, Thomas",
+          "0",
+          "ZUG",
+          "Mon Jan 26 07:28:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 28,
+        "raw": "28 | 85,1 |  |  | Türk, Maximilian | 0 | ZLN | Mon Jan 26 09:00:00 CET 2026 | ",
+        "cols": [
+          "28",
+          "85,1",
+          "",
+          "",
+          "Türk, Maximilian",
+          "0",
+          "ZLN",
+          "Mon Jan 26 09:00:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 29,
+        "raw": "29 | 86,0 |  |  | Ehlers, Sören | 3 | IdB | Mon Jan 26 07:36:00 CET 2026 | max takt 74",
+        "cols": [
+          "29",
+          "86,0",
+          "",
+          "",
+          "Ehlers, Sören",
+          "3",
+          "IdB",
+          "Mon Jan 26 07:36:00 CET 2026",
+          "max takt 74"
+        ]
+      },
+      {
+        "position": 30,
+        "raw": "30 | 87,0 |  |  | Sattler, Olaf | 0 | ZUG | Mon Jan 26 08:21:00 CET 2026 | ",
+        "cols": [
+          "30",
+          "87,0",
+          "",
+          "",
+          "Sattler, Olaf",
+          "0",
+          "ZUG",
+          "Mon Jan 26 08:21:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 31,
+        "raw": "31 | 88,0 |  |  | Hren, Alexander | 0 | ZUG | Mon Jan 26 08:27:00 CET 2026 | ",
+        "cols": [
+          "31",
+          "88,0",
+          "",
+          "",
+          "Hren, Alexander",
+          "0",
+          "ZUG",
+          "Mon Jan 26 08:27:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 32,
+        "raw": "32 | 90,0 |  |  | Matysik, Eike | 0 | ZUG | Mon Jan 26 10:20:00 CET 2026 | 120 '",
+        "cols": [
+          "32",
+          "90,0",
+          "",
+          "",
+          "Matysik, Eike",
+          "0",
+          "ZUG",
+          "Mon Jan 26 10:20:00 CET 2026",
+          "120 '"
+        ]
+      },
+      {
+        "position": 33,
+        "raw": "33 | 91,0 |  |  | Bodmann, Christoph | 0 | ZUG | Mon Jan 26 10:25:00 CET 2026 | ",
+        "cols": [
+          "33",
+          "91,0",
+          "",
+          "",
+          "Bodmann, Christoph",
+          "0",
+          "ZUG",
+          "Mon Jan 26 10:25:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 34,
+        "raw": "34 | 92,0 |  |  | Wulff, Stephan | 0 | ZUG | Mon Jan 26 12:22:00 CET 2026 | ",
+        "cols": [
+          "34",
+          "92,0",
+          "",
+          "",
+          "Wulff, Stephan",
+          "0",
+          "ZUG",
+          "Mon Jan 26 12:22:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 35,
+        "raw": "35 | 93,0 |  |  | Thomaßen, Stephan | 0 | ZUG | Mon Jan 26 12:23:00 CET 2026 | ",
+        "cols": [
+          "35",
+          "93,0",
+          "",
+          "",
+          "Thomaßen, Stephan",
+          "0",
+          "ZUG",
+          "Mon Jan 26 12:23:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 36,
+        "raw": "36 | 95,0 |  |  | Klein, Sebastian | 0 | ZUG | Mon Jan 26 14:16:00 CET 2026 | ",
+        "cols": [
+          "36",
+          "95,0",
+          "",
+          "",
+          "Klein, Sebastian",
+          "0",
+          "ZUG",
+          "Mon Jan 26 14:16:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 37,
+        "raw": "37 | 97,0 |  |  | Spiller, Roman | 0 | ZUG | Mon Jan 26 15:31:00 CET 2026 | ",
+        "cols": [
+          "37",
+          "97,0",
+          "",
+          "",
+          "Spiller, Roman",
+          "0",
+          "ZUG",
+          "Mon Jan 26 15:31:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 38,
+        "raw": "38 | 98,0 |  |  | Röhrs, Johannes | 0 | ZUG | Mon Jan 26 17:02:00 CET 2026 | ",
+        "cols": [
+          "38",
+          "98,0",
+          "",
+          "",
+          "Röhrs, Johannes",
+          "0",
+          "ZUG",
+          "Mon Jan 26 17:02:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 39,
+        "raw": "39 | 99,0 |  |  | Spiekermann, Fred | 0 | ZUG | Mon Jan 26 17:05:00 CET 2026 | ",
+        "cols": [
+          "39",
+          "99,0",
+          "",
+          "",
+          "Spiekermann, Fred",
+          "0",
+          "ZUG",
+          "Mon Jan 26 17:05:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 40,
+        "raw": "40 | 100,0 |  |  | Föhring, Nils | 0 | ZUG | Mon Jan 26 17:22:00 CET 2026 | ",
+        "cols": [
+          "40",
+          "100,0",
+          "",
+          "",
+          "Föhring, Nils",
+          "0",
+          "ZUG",
+          "Mon Jan 26 17:22:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 41,
+        "raw": "41 | 1,0 |  |  | Münker, Niels | 0 | ZUG | Mon Jan 26 18:37:00 CET 2026 | ",
+        "cols": [
+          "41",
+          "1,0",
+          "",
+          "",
+          "Münker, Niels",
+          "0",
+          "ZUG",
+          "Mon Jan 26 18:37:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 42,
+        "raw": "42 | 2,0 |  |  | Doering, Lars | 0 | AdB | Tue Jan 27 08:02:45 CET 2026 | Ausbildung",
+        "cols": [
+          "42",
+          "2,0",
+          "",
+          "",
+          "Doering, Lars",
+          "0",
+          "AdB",
+          "Tue Jan 27 08:02:45 CET 2026",
+          "Ausbildung"
+        ]
+      },
+      {
+        "position": 43,
+        "raw": "43 | 3,0 |  |  | Hewig, Marius Paul | 3 | ZUG | Mon Jan 26 20:03:00 CET 2026 | ",
+        "cols": [
+          "43",
+          "3,0",
+          "",
+          "",
+          "Hewig, Marius Paul",
+          "3",
+          "ZUG",
+          "Mon Jan 26 20:03:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 44,
+        "raw": "44 | 4,0 |  |  | Bruhn, Stefan | 0 | ZUG | Mon Jan 26 20:56:00 CET 2026 | ",
+        "cols": [
+          "44",
+          "4,0",
+          "",
+          "",
+          "Bruhn, Stefan",
+          "0",
+          "ZUG",
+          "Mon Jan 26 20:56:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 45,
+        "raw": "45 | 5,0 |  |  | Börnsen, Curt | 0 | ZUG | Mon Jan 26 21:27:00 CET 2026 | ",
+        "cols": [
+          "45",
+          "5,0",
+          "",
+          "",
+          "Börnsen, Curt",
+          "0",
+          "ZUG",
+          "Mon Jan 26 21:27:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 46,
+        "raw": "46 | 7,0 |  |  | Kaschke, Henning | 0 | ZUG | Mon Jan 26 22:57:00 CET 2026 | ",
+        "cols": [
+          "46",
+          "7,0",
+          "",
+          "",
+          "Kaschke, Henning",
+          "0",
+          "ZUG",
+          "Mon Jan 26 22:57:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 47,
+        "raw": "47 | 8,0 |  |  | Jeschek, Hauke | 0 | ZUG | Mon Jan 26 23:09:00 CET 2026 | ",
+        "cols": [
+          "47",
+          "8,0",
+          "",
+          "",
+          "Jeschek, Hauke",
+          "0",
+          "ZUG",
+          "Mon Jan 26 23:09:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 48,
+        "raw": "48 | 9,0 |  |  | Böttger, Oleif Johann | 0 | ZUG | Mon Jan 26 23:30:07 CET 2026 | ",
+        "cols": [
+          "48",
+          "9,0",
+          "",
+          "",
+          "Böttger, Oleif Johann",
+          "0",
+          "ZUG",
+          "Mon Jan 26 23:30:07 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 49,
+        "raw": "49 | 10,0 |  |  | Wäntig, Lutz | 0 | ZUG | Mon Jan 26 23:30:19 CET 2026 | ",
+        "cols": [
+          "49",
+          "10,0",
+          "",
+          "",
+          "Wäntig, Lutz",
+          "0",
+          "ZUG",
+          "Mon Jan 26 23:30:19 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 50,
+        "raw": "50 | 11,0 |  |  | Eidenschink, Klaus | 0 | ZUG | Tue Jan 27 00:02:00 CET 2026 | ",
+        "cols": [
+          "50",
+          "11,0",
+          "",
+          "",
+          "Eidenschink, Klaus",
+          "0",
+          "ZUG",
+          "Tue Jan 27 00:02:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 51,
+        "raw": "51 | 12,0 |  |  | Tontarra, Olaf | 0 | ZUG | Tue Jan 27 00:59:00 CET 2026 | ",
+        "cols": [
+          "51",
+          "12,0",
+          "",
+          "",
+          "Tontarra, Olaf",
+          "0",
+          "ZUG",
+          "Tue Jan 27 00:59:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 52,
+        "raw": "52 | 13,0 |  |  | Diekmann, Ulrich | 0 | ZUG | Tue Jan 27 00:59:00 CET 2026 | ",
+        "cols": [
+          "52",
+          "13,0",
+          "",
+          "",
+          "Diekmann, Ulrich",
+          "0",
+          "ZUG",
+          "Tue Jan 27 00:59:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 53,
+        "raw": "53 | 14,0 |  |  | Heyenga, Kai | 0 | ZUG | Tue Jan 27 01:00:00 CET 2026 | ",
+        "cols": [
+          "53",
+          "14,0",
+          "",
+          "",
+          "Heyenga, Kai",
+          "0",
+          "ZUG",
+          "Tue Jan 27 01:00:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 54,
+        "raw": "54 | 15,0 |  |  | Malik, Christoph | 0 | ZUG | Tue Jan 27 01:21:00 CET 2026 | ",
+        "cols": [
+          "54",
+          "15,0",
+          "",
+          "",
+          "Malik, Christoph",
+          "0",
+          "ZUG",
+          "Tue Jan 27 01:21:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 55,
+        "raw": "55 | 16,0 |  |  | Christiansen, Jan | 0 | ZUG | Tue Jan 27 01:22:00 CET 2026 | ",
+        "cols": [
+          "55",
+          "16,0",
+          "",
+          "",
+          "Christiansen, Jan",
+          "0",
+          "ZUG",
+          "Tue Jan 27 01:22:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 56,
+        "raw": "56 | 17,0 |  |  | Lüdtke, Jan-Torben | 0 | ZUG | Tue Jan 27 01:47:00 CET 2026 | ",
+        "cols": [
+          "56",
+          "17,0",
+          "",
+          "",
+          "Lüdtke, Jan-Torben",
+          "0",
+          "ZUG",
+          "Tue Jan 27 01:47:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 57,
+        "raw": "57 | 18,0 |  |  | Haala, Klaus Werner | 0 | ZUG | Tue Jan 27 02:58:00 CET 2026 | ",
+        "cols": [
+          "57",
+          "18,0",
+          "",
+          "",
+          "Haala, Klaus Werner",
+          "0",
+          "ZUG",
+          "Tue Jan 27 02:58:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 58,
+        "raw": "58 | 19,0 |  |  | Stoislow, Alexander | 5 | ZUG | Tue Jan 27 03:03:00 CET 2026 | ",
+        "cols": [
+          "58",
+          "19,0",
+          "",
+          "",
+          "Stoislow, Alexander",
+          "5",
+          "ZUG",
+          "Tue Jan 27 03:03:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 59,
+        "raw": "59 | 20,0 |  |  | Migge, Alexander | 0 | ZUG | Tue Jan 27 03:03:00 CET 2026 | ",
+        "cols": [
+          "59",
+          "20,0",
+          "",
+          "",
+          "Migge, Alexander",
+          "0",
+          "ZUG",
+          "Tue Jan 27 03:03:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 60,
+        "raw": "60 | 21,0 |  |  | Hansen, Hinnerk | 0 | ZUG | Tue Jan 27 03:03:00 CET 2026 | ",
+        "cols": [
+          "60",
+          "21,0",
+          "",
+          "",
+          "Hansen, Hinnerk",
+          "0",
+          "ZUG",
+          "Tue Jan 27 03:03:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 61,
+        "raw": "61 | 22,0 |  |  | Laudan, Sven | 0 | ZUG | Tue Jan 27 03:03:00 CET 2026 | ",
+        "cols": [
+          "61",
+          "22,0",
+          "",
+          "",
+          "Laudan, Sven",
+          "0",
+          "ZUG",
+          "Tue Jan 27 03:03:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 62,
+        "raw": "62 | 23,0 |  |  | Richter, Ingmar | 0 | ZUG | Tue Jan 27 04:30:00 CET 2026 | ",
+        "cols": [
+          "62",
+          "23,0",
+          "",
+          "",
+          "Richter, Ingmar",
+          "0",
+          "ZUG",
+          "Tue Jan 27 04:30:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 63,
+        "raw": "63 | 24,0 |  |  | Lehwald, Christian | 5 | ZUG | Tue Jan 27 05:05:00 CET 2026 | max. takt. 1",
+        "cols": [
+          "63",
+          "24,0",
+          "",
+          "",
+          "Lehwald, Christian",
+          "5",
+          "ZUG",
+          "Tue Jan 27 05:05:00 CET 2026",
+          "max. takt. 1"
+        ]
+      },
+      {
+        "position": 64,
+        "raw": "64 | 25,0 |  |  | Hüpers, Peter | 0 | ZUG | Tue Jan 27 06:10:00 CET 2026 | ",
+        "cols": [
+          "64",
+          "25,0",
+          "",
+          "",
+          "Hüpers, Peter",
+          "0",
+          "ZUG",
+          "Tue Jan 27 06:10:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 65,
+        "raw": "65 | 26,0 |  |  | Krämer, Jonas | 0 | ZUG | Tue Jan 27 07:49:00 CET 2026 | ",
+        "cols": [
+          "65",
+          "26,0",
+          "",
+          "",
+          "Krämer, Jonas",
+          "0",
+          "ZUG",
+          "Tue Jan 27 07:49:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 66,
+        "raw": "66 | 27,0 |  |  | Woitanowski, Tim | 3 | ZUG | Tue Jan 27 08:40:00 CET 2026 | ",
+        "cols": [
+          "66",
+          "27,0",
+          "",
+          "",
+          "Woitanowski, Tim",
+          "3",
+          "ZUG",
+          "Tue Jan 27 08:40:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 67,
+        "raw": "67 | 28,0 |  |  | Wille, Christian | 0 | ZUG | Tue Jan 27 08:41:00 CET 2026 | max takt 70",
+        "cols": [
+          "67",
+          "28,0",
+          "",
+          "",
+          "Wille, Christian",
+          "0",
+          "ZUG",
+          "Tue Jan 27 08:41:00 CET 2026",
+          "max takt 70"
+        ]
+      },
+      {
+        "position": 68,
+        "raw": "68 | 29,0 |  |  | Dietrich, Thomas | 0 | ZUG | Tue Jan 27 08:42:00 CET 2026 | ",
+        "cols": [
+          "68",
+          "29,0",
+          "",
+          "",
+          "Dietrich, Thomas",
+          "0",
+          "ZUG",
+          "Tue Jan 27 08:42:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 69,
+        "raw": "69 | 30,0 |  |  | Weise, Tom | 0 | ZUG | Tue Jan 27 09:22:00 CET 2026 | ",
+        "cols": [
+          "69",
+          "30,0",
+          "",
+          "",
+          "Weise, Tom",
+          "0",
+          "ZUG",
+          "Tue Jan 27 09:22:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 70,
+        "raw": "70 | 31,0 |  |  | Hoffmann, Heiko | 0 | ZUG | Tue Jan 27 09:28:00 CET 2026 | ",
+        "cols": [
+          "70",
+          "31,0",
+          "",
+          "",
+          "Hoffmann, Heiko",
+          "0",
+          "ZUG",
+          "Tue Jan 27 09:28:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 71,
+        "raw": "71 | 32,0 |  |  | Keyser, Torben | 0 | ZUG | Tue Jan 27 09:45:00 CET 2026 | ",
+        "cols": [
+          "71",
+          "32,0",
+          "",
+          "",
+          "Keyser, Torben",
+          "0",
+          "ZUG",
+          "Tue Jan 27 09:45:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 72,
+        "raw": "72 | 33,0 |  |  | Hahn, Peter | 0 | ZLN | Tue Jan 27 10:15:00 CET 2026 | ",
+        "cols": [
+          "72",
+          "33,0",
+          "",
+          "",
+          "Hahn, Peter",
+          "0",
+          "ZLN",
+          "Tue Jan 27 10:15:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 73,
+        "raw": "73 | 34,0 |  |  | Heeren, Rainer | 0 | IdB | Tue Jan 27 10:27:00 CET 2026 | ",
+        "cols": [
+          "73",
+          "34,0",
+          "",
+          "",
+          "Heeren, Rainer",
+          "0",
+          "IdB",
+          "Tue Jan 27 10:27:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 74,
+        "raw": "74 | 35,0 |  |  | Meise, Gregor | 0 | ZUG | Tue Jan 27 12:08:00 CET 2026 | ",
+        "cols": [
+          "74",
+          "35,0",
+          "",
+          "",
+          "Meise, Gregor",
+          "0",
+          "ZUG",
+          "Tue Jan 27 12:08:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 75,
+        "raw": "75 | 36,0 |  |  | Krüger, Caspar-Maria | 5 | IdB | Tue Jan 27 12:30:29 CET 2026 | ",
+        "cols": [
+          "75",
+          "36,0",
+          "",
+          "",
+          "Krüger, Caspar-Maria",
+          "5",
+          "IdB",
+          "Tue Jan 27 12:30:29 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 76,
+        "raw": "76 | 37,0 |  |  | Arndt, Michael | 0 | ZUG | Tue Jan 27 12:55:00 CET 2026 | ",
+        "cols": [
+          "76",
+          "37,0",
+          "",
+          "",
+          "Arndt, Michael",
+          "0",
+          "ZUG",
+          "Tue Jan 27 12:55:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 77,
+        "raw": "77 | 38,0 |  |  | Reimer, Sven | 0 | ZUG | Tue Jan 27 12:55:00 CET 2026 | ",
+        "cols": [
+          "77",
+          "38,0",
+          "",
+          "",
+          "Reimer, Sven",
+          "0",
+          "ZUG",
+          "Tue Jan 27 12:55:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 78,
+        "raw": "78 | 39,0 |  |  | Krügel, Mathias | 2 | ZUG | Tue Jan 27 12:55:00 CET 2026 | ",
+        "cols": [
+          "78",
+          "39,0",
+          "",
+          "",
+          "Krügel, Mathias",
+          "2",
+          "ZUG",
+          "Tue Jan 27 12:55:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 79,
+        "raw": "79 | 40,0 |  |  | Blome, Henning | 0 | ZUG | Tue Jan 27 13:26:00 CET 2026 | ",
+        "cols": [
+          "79",
+          "40,0",
+          "",
+          "",
+          "Blome, Henning",
+          "0",
+          "ZUG",
+          "Tue Jan 27 13:26:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 80,
+        "raw": "80 | 41,0 |  |  | Jakob, Peter | 0 | ZUG | Tue Jan 27 13:32:00 CET 2026 | ",
+        "cols": [
+          "80",
+          "41,0",
+          "",
+          "",
+          "Jakob, Peter",
+          "0",
+          "ZUG",
+          "Tue Jan 27 13:32:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 81,
+        "raw": "81 | 42,0 |  |  | Steffens, Micha | 5 | ZUG | Tue Jan 27 13:50:00 CET 2026 | ",
+        "cols": [
+          "81",
+          "42,0",
+          "",
+          "",
+          "Steffens, Micha",
+          "5",
+          "ZUG",
+          "Tue Jan 27 13:50:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 82,
+        "raw": "82 | 43,0 |  |  | Koslik, Kevin | 0 | ZUG | Tue Jan 27 13:56:00 CET 2026 | ",
+        "cols": [
+          "82",
+          "43,0",
+          "",
+          "",
+          "Koslik, Kevin",
+          "0",
+          "ZUG",
+          "Tue Jan 27 13:56:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 83,
+        "raw": "83 | 44,0 |  |  | Otten, Janning | 0 | ZUG | Tue Jan 27 15:32:00 CET 2026 | ",
+        "cols": [
+          "83",
+          "44,0",
+          "",
+          "",
+          "Otten, Janning",
+          "0",
+          "ZUG",
+          "Tue Jan 27 15:32:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 84,
+        "raw": "84 | 45,0 |  |  | Heyder, Justus | 3 | ZUG | Tue Jan 27 15:33:00 CET 2026 | ",
+        "cols": [
+          "84",
+          "45,0",
+          "",
+          "",
+          "Heyder, Justus",
+          "3",
+          "ZUG",
+          "Tue Jan 27 15:33:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 85,
+        "raw": "85 | 46,0 |  |  | Plaisant, Julian | 5 | ZUG | Tue Jan 27 15:43:00 CET 2026 | ",
+        "cols": [
+          "85",
+          "46,0",
+          "",
+          "",
+          "Plaisant, Julian",
+          "5",
+          "ZUG",
+          "Tue Jan 27 15:43:00 CET 2026",
+          ""
+        ]
+      },
+      {
+        "position": 86,
+        "raw": "86 | 47,0 |  |  | Schuh, Erskine | 0 | ZUG | Tue Jan 27 15:43:00 CET 2026 | ",
+        "cols": [
+          "86",
+          "47,0",
+          "",
+          "",
+          "Schuh, Erskine",
+          "0",
+          "ZUG",
+          "Tue Jan 27 15:43:00 CET 2026",
+          ""
+        ]
+      }
+    ],
+    "seelotsen": [
+      {
+        "nachname": "Escher",
+        "vorname": "Franck",
+        "task": "Seebört",
+        "fahrzeug": "SKORPION",
+        "zeit": "Tue Jan 27 16:30:00 CET 2026",
+        "raw": "1 | Escher, Franck | Tue Jan 27 16:30:00 CET 2026 | Seebört | SKORPION (HER-OUH)",
+        "is_target": false
+      },
+      {
+        "nachname": "Feldes",
+        "vorname": "Marco",
+        "task": "Seebört",
+        "fahrzeug": "KLT",
+        "zeit": "Tue Jan 27 14:51:00 CET 2026",
+        "raw": "2 | Feldes, Marco | Tue Jan 27 14:51:00 CET 2026 | Seebört | KLT",
+        "is_target": false
+      },
+      {
+        "nachname": "Wachsmuth",
+        "vorname": "Martin",
+        "task": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "zeit": "Tue Jan 27 12:36:00 CET 2026",
+        "raw": "3 | Wachsmuth, Martin | Tue Jan 27 12:36:00 CET 2026 | Kanalbört | RÜB",
+        "is_target": false
+      },
+      {
+        "nachname": "Lielienthal",
+        "vorname": "Jörn",
+        "task": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "zeit": "Tue Jan 27 11:55:00 CET 2026",
+        "raw": "4 | Lielienthal, Jörn | Tue Jan 27 11:55:00 CET 2026 | Kanalbört | RÜB",
+        "is_target": false
+      },
+      {
+        "nachname": "Fehse",
+        "vorname": "Torsten",
+        "task": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "zeit": "Tue Jan 27 11:25:00 CET 2026",
+        "raw": "5 | Fehse, Torsten | Tue Jan 27 11:25:00 CET 2026 | Kanalbört | RÜB",
+        "is_target": false
+      },
+      {
+        "nachname": "Konietzka",
+        "vorname": "Stefan",
+        "task": "Seebört",
+        "fahrzeug": "WL-SEE",
+        "zeit": "Tue Jan 27 11:00:00 CET 2026",
+        "raw": "6 | Konietzka, Stefan | Tue Jan 27 11:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)",
+        "is_target": true
+      },
+      {
+        "nachname": "Schüler",
+        "vorname": "Marius",
+        "task": "Seebört",
+        "fahrzeug": "Leerfahrt",
+        "zeit": "Tue Jan 27 10:15:00 CET 2026",
+        "raw": "7 | Schüler, Marius | Tue Jan 27 10:15:00 CET 2026 | Seebört | Leerfahrt (KLT-HOS)",
+        "is_target": false
+      },
+      {
+        "nachname": "Engel",
+        "vorname": "Alexander",
+        "task": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "zeit": "Tue Jan 27 08:52:00 CET 2026",
+        "raw": "8 | Engel, Alexander | Tue Jan 27 08:52:00 CET 2026 | Kanalbört | RÜB",
+        "is_target": false
+      },
+      {
+        "nachname": "Engler",
+        "vorname": "Sören",
+        "task": "Kanalbört",
+        "fahrzeug": "EKNOE",
+        "zeit": "Tue Jan 27 08:37:00 CET 2026",
+        "raw": "9 | Engler, Sören | Tue Jan 27 08:37:00 CET 2026 | Kanalbört | EKNOE (RÜB-HOS)",
+        "is_target": false
+      },
+      {
+        "nachname": "Zimmermann",
+        "vorname": "Martin",
+        "task": "Kanalbört",
+        "fahrzeug": "ELBSPRING",
+        "zeit": "Tue Jan 27 07:52:00 CET 2026",
+        "raw": "10 | Zimmermann, Martin | Tue Jan 27 07:52:00 CET 2026 | Kanalbört | ELBSPRING (RÜB-HOS)",
+        "is_target": false
+      }
+    ]
+  }
+}

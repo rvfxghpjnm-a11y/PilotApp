@@ -1,0 +1,6 @@
+PilotApp v2
+- WSV vollständig integriert (4 Queues)
+- First-Seen Logik aktiv
+- merge_sources stabil
+- keine Push-/Drive-Nutzung
+Stand: WSV OK
