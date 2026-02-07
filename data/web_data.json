@@ -1,25 +1,13 @@
 {
   "targets": [
-    "KONIETZKA"
+    "KONIETZKA",
+    "CROTOGINO"
   ],
   "gesamtboert": {
-    "generated_at": "2026-02-07 18:31",
+    "generated_at": "2026-02-07 19:11",
     "entries": [
       {
         "pos": 1,
-        "nachname": "Marth",
-        "vorname": "Jürgen",
-        "takt": "81,0",
-        "q_gruppe": "0",
-        "was": "ZEN",
-        "zeit": "Sat Feb 07 11:36:00 CET 2026",
-        "bemerkung": "",
-        "richtung": null,
-        "verguetung": false,
-        "raw": "1 | Marth, Jürgen | 81,0 | 0 | ZEN | Sat Feb 07 11:36:00 CET 2026"
-      },
-      {
-        "pos": 2,
         "nachname": "Krüger",
         "vorname": "Caspar-Maria",
         "takt": "82,0",
@@ -29,10 +17,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "2 | Krüger, Caspar-Maria | 82,0 | 5 | ZEN | Sat Feb 07 11:49:00 CET 2026"
+        "raw": "1 | Krüger, Caspar-Maria | 82,0 | 5 | ZEN | Sat Feb 07 11:49:00 CET 2026"
       },
       {
-        "pos": 3,
+        "pos": 2,
         "nachname": "Kordt",
         "vorname": "Remo",
         "takt": "83,0",
@@ -42,10 +30,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "3 | Kordt, Remo | 83,0 | 0 | ZEN | Sat Feb 07 11:50:00 CET 2026"
+        "raw": "2 | Kordt, Remo | 83,0 | 0 | ZEN | Sat Feb 07 11:50:00 CET 2026"
       },
       {
-        "pos": 4,
+        "pos": 3,
         "nachname": "Munz",
         "vorname": "Joachim",
         "takt": "84,0",
@@ -55,10 +43,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "4 | Munz, Joachim | 84,0 | 0 | ZEN | Sat Feb 07 12:37:00 CET 2026"
+        "raw": "3 | Munz, Joachim | 84,0 | 0 | ZEN | Sat Feb 07 12:37:00 CET 2026"
       },
       {
-        "pos": 5,
+        "pos": 4,
         "nachname": "Plaisant",
         "vorname": "Julian",
         "takt": "85,0",
@@ -68,10 +56,10 @@
         "bemerkung": "90 Min.",
         "richtung": null,
         "verguetung": false,
-        "raw": "5 | Plaisant, Julian | 85,0 | 5 | ZEN | Sat Feb 07 15:16:00 CET 2026 | 90 Min."
+        "raw": "4 | Plaisant, Julian | 85,0 | 5 | ZEN | Sat Feb 07 15:16:00 CET 2026 | 90 Min."
       },
       {
-        "pos": 6,
+        "pos": 5,
         "nachname": "Escher",
         "vorname": "Franck",
         "takt": "86,0",
@@ -81,10 +69,10 @@
         "bemerkung": "45 Min.",
         "richtung": null,
         "verguetung": false,
-        "raw": "6 | Escher, Franck | 86,0 | 0 | ZEN | Sat Feb 07 16:27:00 CET 2026 | 45 Min."
+        "raw": "5 | Escher, Franck | 86,0 | 0 | ZEN | Sat Feb 07 16:27:00 CET 2026 | 45 Min."
       },
       {
-        "pos": 7,
+        "pos": 6,
         "nachname": "Krebs",
         "vorname": "Michael",
         "takt": "87,0",
@@ -94,10 +82,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "7 | Krebs, Michael | 87,0 | 0 | ZEN | Sat Feb 07 16:30:00 CET 2026"
+        "raw": "6 | Krebs, Michael | 87,0 | 0 | ZEN | Sat Feb 07 16:30:00 CET 2026"
       },
       {
-        "pos": 8,
+        "pos": 7,
         "nachname": "Schran",
         "vorname": "Oliver",
         "takt": "88,0",
@@ -107,10 +95,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "8 | Schran, Oliver | 88,0 | 0 | ZEN | Sat Feb 07 16:45:00 CET 2026"
+        "raw": "7 | Schran, Oliver | 88,0 | 0 | ZEN | Sat Feb 07 16:45:00 CET 2026"
       },
       {
-        "pos": 9,
+        "pos": 8,
         "nachname": "Glenewinkel",
         "vorname": "Jan-Steffen",
         "takt": "89,0",
@@ -120,36 +108,36 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "9 | Glenewinkel, Jan-Steffen | 89,0 | 0 | ZEN | Sat Feb 07 18:02:00 CET 2026"
+        "raw": "8 | Glenewinkel, Jan-Steffen | 89,0 | 0 | ZEN | Sat Feb 07 18:02:00 CET 2026"
       },
       {
-        "pos": 10,
+        "pos": 9,
         "nachname": "Wald",
         "vorname": "Mark",
         "takt": "90,0",
         "q_gruppe": "3",
         "was": "ZEN",
         "zeit": "Sat Feb 07 18:09:00 CET 2026",
-        "bemerkung": "",
+        "bemerkung": "35 Min.",
         "richtung": null,
         "verguetung": false,
-        "raw": "10 | Wald, Mark | 90,0 | 3 | ZEN | Sat Feb 07 18:09:00 CET 2026"
+        "raw": "9 | Wald, Mark | 90,0 | 3 | ZEN | Sat Feb 07 18:09:00 CET 2026 | 35 Min."
       },
       {
-        "pos": 11,
+        "pos": 10,
         "nachname": "Hansen",
         "vorname": "Hinnerk",
         "takt": "91,0",
         "q_gruppe": "0",
-        "was": "ZUG",
-        "zeit": "Fri Feb 06 15:12:00 CET 2026",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 19:00:00 CET 2026",
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "11 | Hansen, Hinnerk | 91,0 | 0 | ZUG | Fri Feb 06 15:12:00 CET 2026"
+        "raw": "10 | Hansen, Hinnerk | 91,0 | 0 | ZEN | Sat Feb 07 19:00:00 CET 2026"
       },
       {
-        "pos": 12,
+        "pos": 11,
         "nachname": "Wäntig",
         "vorname": "Lutz",
         "takt": "92,0",
@@ -159,10 +147,10 @@
         "bemerkung": "45 Min.",
         "richtung": null,
         "verguetung": false,
-        "raw": "12 | Wäntig, Lutz | 92,0 | 0 | ZUG | Fri Feb 06 15:29:00 CET 2026 | 45 Min."
+        "raw": "11 | Wäntig, Lutz | 92,0 | 0 | ZUG | Fri Feb 06 15:29:00 CET 2026 | 45 Min."
       },
       {
-        "pos": 13,
+        "pos": 12,
         "nachname": "Lehwald",
         "vorname": "Christian",
         "takt": "93,0",
@@ -172,10 +160,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "13 | Lehwald, Christian | 93,0 | 5 | ZUG | Fri Feb 06 15:29:00 CET 2026"
+        "raw": "12 | Lehwald, Christian | 93,0 | 5 | ZUG | Fri Feb 06 15:29:00 CET 2026"
       },
       {
-        "pos": 14,
+        "pos": 13,
         "nachname": "Dalecki",
         "vorname": "Niklas",
         "takt": "94,0",
@@ -185,23 +173,23 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "14 | Dalecki, Niklas | 94,0 | 0 | ZUG | Fri Feb 06 15:30:00 CET 2026"
+        "raw": "13 | Dalecki, Niklas | 94,0 | 0 | ZUG | Fri Feb 06 15:30:00 CET 2026"
       },
       {
-        "pos": 15,
+        "pos": 14,
         "nachname": "Hewig",
         "vorname": "Marius Paul",
         "takt": "95,0",
         "q_gruppe": "3",
         "was": "ZUG",
         "zeit": "Fri Feb 06 16:04:00 CET 2026",
-        "bemerkung": "max takt 3",
+        "bemerkung": "max takt 6",
         "richtung": "↓",
-        "verguetung": false,
-        "raw": "15 | Hewig, Marius Paul | 95,0 | 3 | ZUG | Fri Feb 06 16:04:00 CET 2026 | ↓ | max takt 3"
+        "verguetung": true,
+        "raw": "14 | Hewig, Marius Paul | 95,0 | 3 | ZUG | Fri Feb 06 16:04:00 CET 2026 | ↓$$ | max takt 6"
       },
       {
-        "pos": 16,
+        "pos": 15,
         "nachname": "Petersen",
         "vorname": "Yannick",
         "takt": "96,0",
@@ -211,10 +199,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "16 | Petersen, Yannick | 96,0 | 3 | ZUG | Fri Feb 06 16:04:00 CET 2026"
+        "raw": "15 | Petersen, Yannick | 96,0 | 3 | ZUG | Fri Feb 06 16:04:00 CET 2026"
       },
       {
-        "pos": 17,
+        "pos": 16,
         "nachname": "Malik",
         "vorname": "Christoph",
         "takt": "97,0",
@@ -224,10 +212,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "17 | Malik, Christoph | 97,0 | 0 | ZUG | Fri Feb 06 17:18:00 CET 2026"
+        "raw": "16 | Malik, Christoph | 97,0 | 0 | ZUG | Fri Feb 06 17:18:00 CET 2026"
       },
       {
-        "pos": 18,
+        "pos": 17,
         "nachname": "Tietjens",
         "vorname": "Sven Kare",
         "takt": "98,0",
@@ -237,10 +225,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "18 | Tietjens, Sven Kare | 98,0 | 0 | ZUG | Fri Feb 06 17:28:00 CET 2026"
+        "raw": "17 | Tietjens, Sven Kare | 98,0 | 0 | ZUG | Fri Feb 06 17:28:00 CET 2026"
       },
       {
-        "pos": 19,
+        "pos": 18,
         "nachname": "Bruhn",
         "vorname": "Stefan",
         "takt": "99,0",
@@ -250,10 +238,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "19 | Bruhn, Stefan | 99,0 | 0 | ZUG | Fri Feb 06 18:17:00 CET 2026"
+        "raw": "18 | Bruhn, Stefan | 99,0 | 0 | ZUG | Fri Feb 06 18:17:00 CET 2026"
       },
       {
-        "pos": 20,
+        "pos": 19,
         "nachname": "Föhring",
         "vorname": "Nils",
         "takt": "100,0",
@@ -263,10 +251,10 @@
         "bemerkung": "",
         "richtung": "↓",
         "verguetung": false,
-        "raw": "20 | Föhring, Nils | 100,0 | 0 | ZUG | Fri Feb 06 18:47:00 CET 2026 | ↓"
+        "raw": "19 | Föhring, Nils | 100,0 | 0 | ZUG | Fri Feb 06 18:47:00 CET 2026 | ↓"
       },
       {
-        "pos": 21,
+        "pos": 20,
         "nachname": "Heyder",
         "vorname": "Justus",
         "takt": "1,0",
@@ -276,10 +264,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "21 | Heyder, Justus | 1,0 | 3 | IdB | Fri Feb 06 20:30:00 CET 2026"
+        "raw": "20 | Heyder, Justus | 1,0 | 3 | IdB | Fri Feb 06 20:30:00 CET 2026"
       },
       {
-        "pos": 22,
+        "pos": 21,
         "nachname": "Wulff",
         "vorname": "Stephan",
         "takt": "2,0",
@@ -289,10 +277,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "22 | Wulff, Stephan | 2,0 | 0 | ZUG | Fri Feb 06 20:49:00 CET 2026"
+        "raw": "21 | Wulff, Stephan | 2,0 | 0 | ZUG | Fri Feb 06 20:49:00 CET 2026"
       },
       {
-        "pos": 23,
+        "pos": 22,
         "nachname": "Bodmann",
         "vorname": "Christoph",
         "takt": "3,0",
@@ -302,10 +290,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "23 | Bodmann, Christoph | 3,0 | 0 | ZUG | Fri Feb 06 21:02:00 CET 2026"
+        "raw": "22 | Bodmann, Christoph | 3,0 | 0 | ZUG | Fri Feb 06 21:02:00 CET 2026"
       },
       {
-        "pos": 24,
+        "pos": 23,
         "nachname": "Wille",
         "vorname": "Christian",
         "takt": "4,0",
@@ -315,10 +303,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "24 | Wille, Christian | 4,0 | 0 | ZUG | Fri Feb 06 21:37:00 CET 2026"
+        "raw": "23 | Wille, Christian | 4,0 | 0 | ZUG | Fri Feb 06 21:37:00 CET 2026"
       },
       {
-        "pos": 25,
+        "pos": 24,
         "nachname": "Koslik",
         "vorname": "Kevin",
         "takt": "5,0",
@@ -328,10 +316,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "25 | Koslik, Kevin | 5,0 | 0 | ZUG | Fri Feb 06 22:12:00 CET 2026"
+        "raw": "24 | Koslik, Kevin | 5,0 | 0 | ZUG | Fri Feb 06 22:12:00 CET 2026"
       },
       {
-        "pos": 26,
+        "pos": 25,
         "nachname": "Suermann",
         "vorname": "Nik",
         "takt": "6,0",
@@ -341,10 +329,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "26 | Suermann, Nik | 6,0 | 0 | ZUG | Fri Feb 06 22:19:00 CET 2026"
+        "raw": "25 | Suermann, Nik | 6,0 | 0 | ZUG | Fri Feb 06 22:19:00 CET 2026"
       },
       {
-        "pos": 27,
+        "pos": 26,
         "nachname": "Münker",
         "vorname": "Niels",
         "takt": "7,0",
@@ -354,10 +342,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "27 | Münker, Niels | 7,0 | 0 | ZUG | Fri Feb 06 22:22:00 CET 2026"
+        "raw": "26 | Münker, Niels | 7,0 | 0 | ZUG | Fri Feb 06 22:22:00 CET 2026"
       },
       {
-        "pos": 28,
+        "pos": 27,
         "nachname": "Klein",
         "vorname": "Sebastian",
         "takt": "8,0",
@@ -367,10 +355,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "28 | Klein, Sebastian | 8,0 | 0 | ZUG | Fri Feb 06 22:31:00 CET 2026"
+        "raw": "27 | Klein, Sebastian | 8,0 | 0 | ZUG | Fri Feb 06 22:31:00 CET 2026"
       },
       {
-        "pos": 29,
+        "pos": 28,
         "nachname": "Türk",
         "vorname": "Maximilian",
         "takt": "9,0",
@@ -380,10 +368,10 @@
         "bemerkung": "",
         "richtung": "↓",
         "verguetung": false,
-        "raw": "29 | Türk, Maximilian | 9,0 | 0 | ZUG | Sat Feb 07 00:18:00 CET 2026 | ↓"
+        "raw": "28 | Türk, Maximilian | 9,0 | 0 | ZUG | Sat Feb 07 00:18:00 CET 2026 | ↓"
       },
       {
-        "pos": 30,
+        "pos": 29,
         "nachname": "Skairies",
         "vorname": "Thomas",
         "takt": "10,0",
@@ -393,10 +381,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "30 | Skairies, Thomas | 10,0 | 0 | ZUG | Sat Feb 07 00:32:00 CET 2026"
+        "raw": "29 | Skairies, Thomas | 10,0 | 0 | ZUG | Sat Feb 07 00:32:00 CET 2026"
       },
       {
-        "pos": 31,
+        "pos": 30,
         "nachname": "Domeier",
         "vorname": "Stefan",
         "takt": "11,0",
@@ -406,10 +394,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "31 | Domeier, Stefan | 11,0 | 0 | ZUG | Sat Feb 07 00:36:00 CET 2026"
+        "raw": "30 | Domeier, Stefan | 11,0 | 0 | ZUG | Sat Feb 07 00:36:00 CET 2026"
       },
       {
-        "pos": 32,
+        "pos": 31,
         "nachname": "Engel",
         "vorname": "Alexander",
         "takt": "12,0",
@@ -419,10 +407,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "32 | Engel, Alexander | 12,0 | 3 | ZUG | Sat Feb 07 00:38:00 CET 2026"
+        "raw": "31 | Engel, Alexander | 12,0 | 3 | ZUG | Sat Feb 07 00:38:00 CET 2026"
       },
       {
-        "pos": 33,
+        "pos": 32,
         "nachname": "Jakob",
         "vorname": "Peter",
         "takt": "13,0",
@@ -432,10 +420,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "33 | Jakob, Peter | 13,0 | 0 | ZUG | Sat Feb 07 03:08:00 CET 2026"
+        "raw": "32 | Jakob, Peter | 13,0 | 0 | ZUG | Sat Feb 07 03:08:00 CET 2026"
       },
       {
-        "pos": 34,
+        "pos": 33,
         "nachname": "Börnsen",
         "vorname": "Curt",
         "takt": "14,0",
@@ -443,12 +431,12 @@
         "was": "ZUG",
         "zeit": "Sat Feb 07 03:18:00 CET 2026",
         "bemerkung": "",
-        "richtung": null,
+        "richtung": "↓",
         "verguetung": false,
-        "raw": "34 | Börnsen, Curt | 14,0 | 0 | ZUG | Sat Feb 07 03:18:00 CET 2026"
+        "raw": "33 | Börnsen, Curt | 14,0 | 0 | ZUG | Sat Feb 07 03:18:00 CET 2026 | ↓"
       },
       {
-        "pos": 35,
+        "pos": 34,
         "nachname": "Külzer",
         "vorname": "Sascha",
         "takt": "15,0",
@@ -458,10 +446,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "35 | Külzer, Sascha | 15,0 | 3 | ZUG | Sat Feb 07 03:21:00 CET 2026"
+        "raw": "34 | Külzer, Sascha | 15,0 | 3 | ZUG | Sat Feb 07 03:21:00 CET 2026"
       },
       {
-        "pos": 36,
+        "pos": 35,
         "nachname": "Spiekermann",
         "vorname": "Fred",
         "takt": "16,0",
@@ -471,10 +459,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "36 | Spiekermann, Fred | 16,0 | 0 | ZUG | Sat Feb 07 03:53:00 CET 2026"
+        "raw": "35 | Spiekermann, Fred | 16,0 | 0 | ZUG | Sat Feb 07 03:53:00 CET 2026"
       },
       {
-        "pos": 37,
+        "pos": 36,
         "nachname": "Woitanowski",
         "vorname": "Tim",
         "takt": "17,0",
@@ -484,10 +472,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "37 | Woitanowski, Tim | 17,0 | 3 | ZUG | Sat Feb 07 04:00:00 CET 2026"
+        "raw": "36 | Woitanowski, Tim | 17,0 | 3 | ZUG | Sat Feb 07 04:00:00 CET 2026"
       },
       {
-        "pos": 38,
+        "pos": 37,
         "nachname": "Hüpers",
         "vorname": "Peter",
         "takt": "18,0",
@@ -497,10 +485,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "38 | Hüpers, Peter | 18,0 | 0 | ZUG | Sat Feb 07 04:14:00 CET 2026"
+        "raw": "37 | Hüpers, Peter | 18,0 | 0 | ZUG | Sat Feb 07 04:14:00 CET 2026"
       },
       {
-        "pos": 39,
+        "pos": 38,
         "nachname": "Feldes",
         "vorname": "Marco",
         "takt": "19,0",
@@ -510,10 +498,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "39 | Feldes, Marco | 19,0 | 0 | ZUG | Sat Feb 07 04:35:00 CET 2026"
+        "raw": "38 | Feldes, Marco | 19,0 | 0 | ZUG | Sat Feb 07 04:35:00 CET 2026"
       },
       {
-        "pos": 40,
+        "pos": 39,
         "nachname": "Krämer",
         "vorname": "Jonas",
         "takt": "20,0",
@@ -523,10 +511,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "40 | Krämer, Jonas | 20,0 | 0 | ZUG | Sat Feb 07 06:28:00 CET 2026"
+        "raw": "39 | Krämer, Jonas | 20,0 | 0 | ZUG | Sat Feb 07 06:28:00 CET 2026"
       },
       {
-        "pos": 41,
+        "pos": 40,
         "nachname": "Doering",
         "vorname": "Lars",
         "takt": "21,0",
@@ -536,10 +524,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "41 | Doering, Lars | 21,0 | 0 | IdB | Sat Feb 07 06:40:00 CET 2026"
+        "raw": "40 | Doering, Lars | 21,0 | 0 | IdB | Sat Feb 07 06:40:00 CET 2026"
       },
       {
-        "pos": 42,
+        "pos": 41,
         "nachname": "Crotogino",
         "vorname": "Philipp",
         "takt": "22,0",
@@ -549,10 +537,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "42 | Crotogino, Philipp | 22,0 | 0 | ZUG | Sat Feb 07 06:45:00 CET 2026"
+        "raw": "41 | Crotogino, Philipp | 22,0 | 0 | ZUG | Sat Feb 07 06:45:00 CET 2026"
       },
       {
-        "pos": 43,
+        "pos": 42,
         "nachname": "Sattler",
         "vorname": "Olaf",
         "takt": "23,0",
@@ -562,10 +550,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "43 | Sattler, Olaf | 23,0 | 0 | ZUG | Sat Feb 07 07:24:00 CET 2026"
+        "raw": "42 | Sattler, Olaf | 23,0 | 0 | ZUG | Sat Feb 07 07:24:00 CET 2026"
       },
       {
-        "pos": 44,
+        "pos": 43,
         "nachname": "Kurfeld",
         "vorname": "Jan",
         "takt": "24,0",
@@ -575,10 +563,10 @@
         "bemerkung": "",
         "richtung": "↓",
         "verguetung": false,
-        "raw": "44 | Kurfeld, Jan | 24,0 | 3 | ZUG | Sat Feb 07 07:32:00 CET 2026 | ↓"
+        "raw": "43 | Kurfeld, Jan | 24,0 | 3 | ZUG | Sat Feb 07 07:32:00 CET 2026 | ↓"
       },
       {
-        "pos": 45,
+        "pos": 44,
         "nachname": "Lielienthal",
         "vorname": "Jörn",
         "takt": "25,0",
@@ -588,10 +576,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "45 | Lielienthal, Jörn | 25,0 | 0 | ZUG | Sat Feb 07 07:43:00 CET 2026"
+        "raw": "44 | Lielienthal, Jörn | 25,0 | 0 | ZUG | Sat Feb 07 07:43:00 CET 2026"
       },
       {
-        "pos": 46,
+        "pos": 45,
         "nachname": "Ehlers",
         "vorname": "Sören",
         "takt": "26,0",
@@ -601,10 +589,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "46 | Ehlers, Sören | 26,0 | 3 | ZUG | Sat Feb 07 08:33:00 CET 2026"
+        "raw": "45 | Ehlers, Sören | 26,0 | 3 | ZUG | Sat Feb 07 08:33:00 CET 2026"
       },
       {
-        "pos": 47,
+        "pos": 46,
         "nachname": "Blome",
         "vorname": "Henning",
         "takt": "27,0",
@@ -614,10 +602,10 @@
         "bemerkung": "max tkt 95",
         "richtung": "↑",
         "verguetung": true,
-        "raw": "47 | Blome, Henning | 27,0 | 0 | ZUG | Sat Feb 07 08:50:00 CET 2026 | ↑$$ | max tkt 95"
+        "raw": "46 | Blome, Henning | 27,0 | 0 | ZUG | Sat Feb 07 08:50:00 CET 2026 | ↑$$ | max tkt 95"
       },
       {
-        "pos": 48,
+        "pos": 47,
         "nachname": "Hahn",
         "vorname": "Peter",
         "takt": "28,0",
@@ -627,10 +615,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "48 | Hahn, Peter | 28,0 | 0 | ZUG | Sat Feb 07 09:32:00 CET 2026"
+        "raw": "47 | Hahn, Peter | 28,0 | 0 | ZUG | Sat Feb 07 09:32:00 CET 2026"
       },
       {
-        "pos": 49,
+        "pos": 48,
         "nachname": "Dietrich",
         "vorname": "Thomas",
         "takt": "29,0",
@@ -640,10 +628,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "49 | Dietrich, Thomas | 29,0 | 0 | ZUG | Sat Feb 07 09:42:00 CET 2026"
+        "raw": "48 | Dietrich, Thomas | 29,0 | 0 | ZUG | Sat Feb 07 09:42:00 CET 2026"
       },
       {
-        "pos": 50,
+        "pos": 49,
         "nachname": "Eidenschink",
         "vorname": "Klaus",
         "takt": "30,0",
@@ -653,10 +641,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "50 | Eidenschink, Klaus | 30,0 | 0 | ZUG | Sat Feb 07 09:43:00 CET 2026"
+        "raw": "49 | Eidenschink, Klaus | 30,0 | 0 | ZUG | Sat Feb 07 09:43:00 CET 2026"
       },
       {
-        "pos": 51,
+        "pos": 50,
         "nachname": "Haala",
         "vorname": "Klaus Werner",
         "takt": "31,0",
@@ -666,10 +654,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "51 | Haala, Klaus Werner | 31,0 | 0 | ZUG | Sat Feb 07 09:44:00 CET 2026"
+        "raw": "50 | Haala, Klaus Werner | 31,0 | 0 | ZUG | Sat Feb 07 09:44:00 CET 2026"
       },
       {
-        "pos": 52,
+        "pos": 51,
         "nachname": "Keyser",
         "vorname": "Torben",
         "takt": "32,0",
@@ -679,10 +667,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "52 | Keyser, Torben | 32,0 | 0 | ZUG | Sat Feb 07 10:43:00 CET 2026"
+        "raw": "51 | Keyser, Torben | 32,0 | 0 | ZUG | Sat Feb 07 10:43:00 CET 2026"
       },
       {
-        "pos": 53,
+        "pos": 52,
         "nachname": "Engler",
         "vorname": "Sören",
         "takt": "33,0",
@@ -692,10 +680,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "53 | Engler, Sören | 33,0 | 3 | ZUG | Sat Feb 07 11:05:00 CET 2026"
+        "raw": "52 | Engler, Sören | 33,0 | 3 | ZUG | Sat Feb 07 11:05:00 CET 2026"
       },
       {
-        "pos": 54,
+        "pos": 53,
         "nachname": "Fricke",
         "vorname": "Michell",
         "takt": "34,0",
@@ -705,10 +693,10 @@
         "bemerkung": "",
         "richtung": "↓",
         "verguetung": false,
-        "raw": "54 | Fricke, Michell | 34,0 | 0 | ZUG | Sat Feb 07 11:10:00 CET 2026 | ↓"
+        "raw": "53 | Fricke, Michell | 34,0 | 0 | ZUG | Sat Feb 07 11:10:00 CET 2026 | ↓"
       },
       {
-        "pos": 55,
+        "pos": 54,
         "nachname": "Krause",
         "vorname": "Malte",
         "takt": "35,0",
@@ -718,10 +706,10 @@
         "bemerkung": "",
         "richtung": "↓",
         "verguetung": false,
-        "raw": "55 | Krause, Malte | 35,0 | 0 | ZUG | Sat Feb 07 11:15:00 CET 2026 | ↓"
+        "raw": "54 | Krause, Malte | 35,0 | 0 | ZUG | Sat Feb 07 11:15:00 CET 2026 | ↓"
       },
       {
-        "pos": 56,
+        "pos": 55,
         "nachname": "Köhler",
         "vorname": "Olaf",
         "takt": "36,0",
@@ -731,10 +719,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "56 | Köhler, Olaf | 36,0 | 0 | ZUG | Sat Feb 07 11:22:00 CET 2026"
+        "raw": "55 | Köhler, Olaf | 36,0 | 0 | ZUG | Sat Feb 07 11:22:00 CET 2026"
       },
       {
-        "pos": 57,
+        "pos": 56,
         "nachname": "Wachs",
         "vorname": "Merten",
         "takt": "37,0",
@@ -744,10 +732,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "57 | Wachs, Merten | 37,0 | 0 | ZUG | Sat Feb 07 12:05:00 CET 2026"
+        "raw": "56 | Wachs, Merten | 37,0 | 0 | ZUG | Sat Feb 07 12:05:00 CET 2026"
       },
       {
-        "pos": 58,
+        "pos": 57,
         "nachname": "Steffens",
         "vorname": "Micha",
         "takt": "38,0",
@@ -757,10 +745,10 @@
         "bemerkung": "max takt 100 / WL-See=75 Min",
         "richtung": "↑",
         "verguetung": true,
-        "raw": "58 | Steffens, Micha | 38,0 | 5 | ZUG | Sat Feb 07 12:30:00 CET 2026 | ↑$$ | max takt 100 / WL-See=75 Min"
+        "raw": "57 | Steffens, Micha | 38,0 | 5 | ZUG | Sat Feb 07 12:30:00 CET 2026 | ↑$$ | max takt 100 / WL-See=75 Min"
       },
       {
-        "pos": 59,
+        "pos": 58,
         "nachname": "Matysik",
         "vorname": "Eike",
         "takt": "39,0",
@@ -770,10 +758,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "59 | Matysik, Eike | 39,0 | 0 | ZUG | Sat Feb 07 13:12:00 CET 2026"
+        "raw": "58 | Matysik, Eike | 39,0 | 0 | ZUG | Sat Feb 07 13:12:00 CET 2026"
       },
       {
-        "pos": 60,
+        "pos": 59,
         "nachname": "Jeske",
         "vorname": "Lutz",
         "takt": "40,0",
@@ -783,10 +771,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "60 | Jeske, Lutz | 40,0 | 0 | ZUG | Sat Feb 07 14:35:00 CET 2026"
+        "raw": "59 | Jeske, Lutz | 40,0 | 0 | ZUG | Sat Feb 07 14:35:00 CET 2026"
       },
       {
-        "pos": 61,
+        "pos": 60,
         "nachname": "Bachholz",
         "vorname": "Carsten",
         "takt": "41,0",
@@ -796,10 +784,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "61 | Bachholz, Carsten | 41,0 | 0 | ZUG | Sat Feb 07 14:35:00 CET 2026"
+        "raw": "60 | Bachholz, Carsten | 41,0 | 0 | ZUG | Sat Feb 07 14:35:00 CET 2026"
       },
       {
-        "pos": 62,
+        "pos": 61,
         "nachname": "Hoffmann",
         "vorname": "Heiko",
         "takt": "42,0",
@@ -809,10 +797,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "62 | Hoffmann, Heiko | 42,0 | 0 | ZUG | Sat Feb 07 14:36:00 CET 2026"
+        "raw": "61 | Hoffmann, Heiko | 42,0 | 0 | ZUG | Sat Feb 07 14:36:00 CET 2026"
       },
       {
-        "pos": 63,
+        "pos": 62,
         "nachname": "Schuh",
         "vorname": "Erskine",
         "takt": "43,0",
@@ -822,10 +810,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "63 | Schuh, Erskine | 43,0 | 0 | ZUG | Sat Feb 07 15:08:00 CET 2026"
+        "raw": "62 | Schuh, Erskine | 43,0 | 0 | ZUG | Sat Feb 07 15:08:00 CET 2026"
       },
       {
-        "pos": 64,
+        "pos": 63,
         "nachname": "Reimer",
         "vorname": "Sven",
         "takt": "44,0",
@@ -835,10 +823,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "64 | Reimer, Sven | 44,0 | 0 | ZUG | Sat Feb 07 15:39:00 CET 2026"
+        "raw": "63 | Reimer, Sven | 44,0 | 0 | ZUG | Sat Feb 07 15:39:00 CET 2026"
       },
       {
-        "pos": 65,
+        "pos": 64,
         "nachname": "Kaschke",
         "vorname": "Henning",
         "takt": "45,0",
@@ -848,10 +836,10 @@
         "bemerkung": "",
         "richtung": "↓",
         "verguetung": true,
-        "raw": "65 | Kaschke, Henning | 45,0 | 0 | ZUG | Sat Feb 07 15:46:00 CET 2026 | ↓$$"
+        "raw": "64 | Kaschke, Henning | 45,0 | 0 | ZUG | Sat Feb 07 15:46:00 CET 2026 | ↓$$"
       },
       {
-        "pos": 66,
+        "pos": 65,
         "nachname": "Zimmermann",
         "vorname": "Martin",
         "takt": "46,0",
@@ -861,10 +849,10 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "66 | Zimmermann, Martin | 46,0 | 0 | ZUG | Sat Feb 07 17:09:00 CET 2026"
+        "raw": "65 | Zimmermann, Martin | 46,0 | 0 | ZUG | Sat Feb 07 17:09:00 CET 2026"
       },
       {
-        "pos": 67,
+        "pos": 66,
         "nachname": "Krügel",
         "vorname": "Mathias",
         "takt": "47,0",
@@ -874,70 +862,133 @@
         "bemerkung": "",
         "richtung": null,
         "verguetung": false,
-        "raw": "67 | Krügel, Mathias | 47,0 | 2 | ZUG | Sat Feb 07 17:29:00 CET 2026"
+        "raw": "66 | Krügel, Mathias | 47,0 | 2 | ZUG | Sat Feb 07 17:29:00 CET 2026"
+      },
+      {
+        "pos": 67,
+        "nachname": "Stürenburg",
+        "vorname": "Jan",
+        "takt": "48,0",
+        "q_gruppe": "0",
+        "was": "IdB",
+        "zeit": "Sat Feb 07 18:43:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "67 | Stürenburg, Jan | 48,0 | 0 | IdB | Sat Feb 07 18:43:00 CET 2026"
+      },
+      {
+        "pos": 68,
+        "nachname": "Buch",
+        "vorname": "Helge",
+        "takt": "49,0",
+        "q_gruppe": "1",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 18:51:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "68 | Buch, Helge | 49,0 | 1 | ZUG | Sat Feb 07 18:51:00 CET 2026"
+      },
+      {
+        "pos": 69,
+        "nachname": "Jeschek",
+        "vorname": "Hauke",
+        "takt": "50,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 19:03:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "69 | Jeschek, Hauke | 50,0 | 0 | ZUG | Sat Feb 07 19:03:00 CET 2026"
+      },
+      {
+        "pos": 70,
+        "nachname": "Hren",
+        "vorname": "Alexander",
+        "takt": "51,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 19:03:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "70 | Hren, Alexander | 51,0 | 0 | ZUG | Sat Feb 07 19:03:00 CET 2026"
       }
     ]
   },
   "seelotsen": {
-    "generated_at": "2026-02-07 18:32",
+    "generated_at": "2026-02-07 19:11",
     "entries": [
       {
         "nr": 1,
+        "nachname": "Marth",
+        "vorname": "Jürgen",
+        "zeit": "Sat Feb 07 19:00:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "WL-SEE",
+        "from": "HOS",
+        "to": "HOS",
+        "raw": "1 | Marth, Jürgen | Sat Feb 07 19:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)"
+      },
+      {
+        "nr": 2,
         "nachname": "Weise",
         "vorname": "Tom",
         "zeit": "Sat Feb 07 18:09:00 CET 2026",
         "aufgabe": "Seebört",
-        "fahrzeug": "HOS",
-        "from": null,
-        "to": null,
-        "raw": "1 | Weise, Tom | Sat Feb 07 18:09:00 CET 2026 | Seebört | HOS"
+        "fahrzeug": "LADY MATHILDE",
+        "from": "HOS",
+        "to": "KLT",
+        "raw": "2 | Weise, Tom | Sat Feb 07 18:09:00 CET 2026 | Seebört | LADY MATHILDE (HOS-KLT)"
       },
       {
-        "nr": 2,
+        "nr": 3,
         "nachname": "Pitschmann",
         "vorname": "Gerd",
         "zeit": "Sat Feb 07 18:02:00 CET 2026",
         "aufgabe": "Seebört",
-        "fahrzeug": "HOS",
-        "from": null,
-        "to": null,
-        "raw": "2 | Pitschmann, Gerd | Sat Feb 07 18:02:00 CET 2026 | Seebört | HOS"
+        "fahrzeug": "ELBIA",
+        "from": "HOS",
+        "to": "KLT",
+        "raw": "3 | Pitschmann, Gerd | Sat Feb 07 18:02:00 CET 2026 | Seebört | ELBIA (HOS-KLT)"
       },
       {
-        "nr": 3,
+        "nr": 4,
         "nachname": "Nagel",
         "vorname": "Volker",
         "zeit": "Sat Feb 07 16:45:00 CET 2026",
         "aufgabe": "Seebört",
-        "fahrzeug": "Leerfahrt",
-        "from": "KLT",
-        "to": "HOS",
-        "raw": "3 | Nagel, Volker | Sat Feb 07 16:45:00 CET 2026 | Seebört | Leerfahrt (KLT-HOS)"
+        "fahrzeug": "DREAM SYRAX",
+        "from": "HOS",
+        "to": "KLT",
+        "raw": "4 | Nagel, Volker | Sat Feb 07 16:45:00 CET 2026 | Seebört | DREAM SYRAX (HOS-KLT)"
       },
       {
-        "nr": 4,
+        "nr": 5,
         "nachname": "Czurda",
         "vorname": "Crischan",
         "zeit": "Sat Feb 07 16:30:00 CET 2026",
         "aufgabe": "Seebört",
-        "fahrzeug": "PATRIA SEAWAYS",
-        "from": "SWK",
-        "to": "KLT",
-        "raw": "4 | Czurda, Crischan | Sat Feb 07 16:30:00 CET 2026 | Seebört | PATRIA SEAWAYS (SWK-KLT)"
+        "fahrzeug": "Leerfahrt",
+        "from": "KLT",
+        "to": "HOS",
+        "raw": "5 | Czurda, Crischan | Sat Feb 07 16:30:00 CET 2026 | Seebört | Leerfahrt (KLT-HOS)"
       },
       {
-        "nr": 5,
+        "nr": 6,
         "nachname": "Arndt",
         "vorname": "Michael",
         "zeit": "Sat Feb 07 16:27:00 CET 2026",
         "aufgabe": "Seebört",
         "fahrzeug": "JOHN T. ESSBERGER",
-        "from": "KLT",
-        "to": "HOS",
-        "raw": "5 | Arndt, Michael | Sat Feb 07 16:27:00 CET 2026 | Seebört | JOHN T. ESSBERGER (KLT-HOS)"
+        "from": "HOS",
+        "to": "UTG",
+        "raw": "6 | Arndt, Michael | Sat Feb 07 16:27:00 CET 2026 | Seebört | JOHN T. ESSBERGER (HOS-UTG)"
       },
       {
-        "nr": 6,
+        "nr": 7,
         "nachname": "Röhl",
         "vorname": "Jens",
         "zeit": "Sat Feb 07 15:16:00 CET 2026",
@@ -945,29 +996,18 @@
         "fahrzeug": "UNITAR",
         "from": "HOS",
         "to": "RÜB",
-        "raw": "6 | Röhl, Jens | Sat Feb 07 15:16:00 CET 2026 | Kanalbört | UNITAR (HOS-RÜB)"
+        "raw": "7 | Röhl, Jens | Sat Feb 07 15:16:00 CET 2026 | Kanalbört | UNITAR (HOS-RÜB)"
       },
       {
-        "nr": 7,
+        "nr": 8,
         "nachname": "Heeren",
         "vorname": "Rainer",
         "zeit": "Sat Feb 07 12:37:00 CET 2026",
         "aufgabe": "Kanalbört",
-        "fahrzeug": "RÜB",
-        "from": null,
-        "to": null,
-        "raw": "7 | Heeren, Rainer | Sat Feb 07 12:37:00 CET 2026 | Kanalbört | RÜB"
-      },
-      {
-        "nr": 8,
-        "nachname": "Jeschek",
-        "vorname": "Hauke",
-        "zeit": "Sat Feb 07 11:50:00 CET 2026",
-        "aufgabe": "Seebört",
-        "fahrzeug": "Leerfahrt",
-        "from": "KLT",
+        "fahrzeug": "CHARLOTTE ESSBERGER",
+        "from": "RÜB",
         "to": "HOS",
-        "raw": "8 | Jeschek, Hauke | Sat Feb 07 11:50:00 CET 2026 | Seebört | Leerfahrt (KLT-HOS)"
+        "raw": "8 | Heeren, Rainer | Sat Feb 07 12:37:00 CET 2026 | Kanalbört | CHARLOTTE ESSBERGER (RÜB-HOS)"
       },
       {
         "nr": 9,
@@ -975,10 +1015,10 @@
         "vorname": "Torsten",
         "zeit": "Sat Feb 07 11:49:00 CET 2026",
         "aufgabe": "Kanalbört",
-        "fahrzeug": "RÜB",
-        "from": null,
-        "to": null,
-        "raw": "9 | Fehse, Torsten | Sat Feb 07 11:49:00 CET 2026 | Kanalbört | RÜB"
+        "fahrzeug": "ZAANBORG",
+        "from": "RÜB",
+        "to": "UTG",
+        "raw": "9 | Fehse, Torsten | Sat Feb 07 11:49:00 CET 2026 | Kanalbört | ZAANBORG (RÜB-UTG)"
       },
       {
         "nr": 10,
@@ -986,10 +1026,10 @@
         "vorname": "Alexander",
         "zeit": "Sat Feb 07 11:36:00 CET 2026",
         "aufgabe": "Kanalbört",
-        "fahrzeug": "RÜB",
-        "from": null,
-        "to": null,
-        "raw": "10 | Stoislow, Alexander | Sat Feb 07 11:36:00 CET 2026 | Kanalbört | RÜB"
+        "fahrzeug": "AMADEUS AQUAMARIJN",
+        "from": "RÜB",
+        "to": "HOS",
+        "raw": "10 | Stoislow, Alexander | Sat Feb 07 11:36:00 CET 2026 | Kanalbört | AMADEUS AQUAMARIJN (RÜB-HOS)"
       },
       {
         "nr": 11,
@@ -997,10 +1037,10 @@
         "vorname": "Oleif Johann",
         "zeit": "Sat Feb 07 11:08:00 CET 2026",
         "aufgabe": "Kanalbört",
-        "fahrzeug": "RÜB",
-        "from": null,
-        "to": null,
-        "raw": "11 | Böttger, Oleif Johann | Sat Feb 07 11:08:00 CET 2026 | Kanalbört | RÜB"
+        "fahrzeug": "LADY ANNEKE",
+        "from": "RÜB",
+        "to": "HOS",
+        "raw": "11 | Böttger, Oleif Johann | Sat Feb 07 11:08:00 CET 2026 | Kanalbört | LADY ANNEKE (RÜB-HOS)"
       },
       {
         "nr": 12,
@@ -1045,182 +1085,160 @@
         "from": "RÜB",
         "to": "HOS",
         "raw": "15 | Vogel, Peter | Sat Feb 07 09:38:00 CET 2026 | Kanalbört | JAN D (RÜB-HOS)"
-      },
-      {
-        "nr": 16,
-        "nachname": "Hren",
-        "vorname": "Alexander",
-        "zeit": "Sat Feb 07 09:30:00 CET 2026",
-        "aufgabe": "Kanalbört",
-        "fahrzeug": "DREAM SYRAX",
-        "from": "RÜB",
-        "to": "HOS",
-        "raw": "16 | Hren, Alexander | Sat Feb 07 09:30:00 CET 2026 | Kanalbört | DREAM SYRAX (RÜB-HOS)"
-      },
-      {
-        "nr": 17,
-        "nachname": "Buch",
-        "vorname": "Helge",
-        "zeit": "Sat Feb 07 08:48:00 CET 2026",
-        "aufgabe": "Kanalbört",
-        "fahrzeug": "ELBIA",
-        "from": "RÜB",
-        "to": "HOS",
-        "raw": "17 | Buch, Helge | Sat Feb 07 08:48:00 CET 2026 | Kanalbört | ELBIA (RÜB-HOS)"
       }
     ]
   },
   "kanal": {
-    "generated_at": "2026-02-07T18:32:19.215228+01:00",
+    "generated_at": "2026-02-07T19:12:18.037719+01:00",
     "ships": [
       {
         "name": "AMADEUSAQUAMARIJN",
         "first_seen": "2026-02-07T15:45:30.902112+01:00",
-        "rueb_eta": "2026-02-07T19:41:35+01:00",
-        "lock_eta": "2026-02-08T00:15:00+01:00",
-        "delta_first_rueb_min": 236,
-        "delta_first_rueb_hm": "03:56",
-        "delta_rueb_lock_min": 273,
-        "delta_rueb_lock_hm": "04:33",
+        "rueb_eta": "2026-02-07T19:39:09+01:00",
+        "lock_eta": "2026-02-08T00:12:00+01:00",
+        "delta_first_rueb_min": 233,
+        "delta_first_rueb_hm": "03:53",
+        "delta_rueb_lock_min": 272,
+        "delta_rueb_lock_hm": "04:32",
         "track": {
-          "lat": "54.17589604854584",
-          "lon": "9.453526139259338",
-          "sog": "3.5794552658190883"
-        }
-      },
-      {
-        "name": "DUENE",
-        "first_seen": "2026-02-07T13:20:25.304004+01:00",
-        "rueb_eta": "2026-02-07T18:18:12+01:00",
-        "lock_eta": "2026-02-07T19:52:00+01:00",
-        "delta_first_rueb_min": 297,
-        "delta_first_rueb_hm": "04:57",
-        "delta_rueb_lock_min": 93,
-        "delta_rueb_lock_hm": "01:33",
-        "track": {
-          "lat": "54.26972508430481",
-          "lon": "9.628813862800598",
-          "sog": "3.48209706929603"
+          "lat": "54.20654833316803",
+          "lon": "9.569370746612549",
+          "sog": "3.553167600887974"
         }
       },
       {
         "name": "LADYANNEKE",
         "first_seen": "2026-02-07T13:20:25.304027+01:00",
-        "rueb_eta": "2026-02-07T19:28:09+01:00",
-        "lock_eta": "2026-02-08T00:01:00+01:00",
-        "delta_first_rueb_min": 367,
-        "delta_first_rueb_hm": "06:07",
-        "delta_rueb_lock_min": 272,
-        "delta_rueb_lock_hm": "04:32",
+        "rueb_eta": "2026-02-07T19:25:09+01:00",
+        "lock_eta": "2026-02-07T23:59:00+01:00",
+        "delta_first_rueb_min": 364,
+        "delta_first_rueb_hm": "06:04",
+        "delta_rueb_lock_min": 273,
+        "delta_rueb_lock_hm": "04:33",
         "track": {
-          "lat": "54.18406069278717",
-          "lon": "9.491972923278809",
-          "sog": "3.48209706929603"
+          "lat": "54.223430156707764",
+          "lon": "9.598703384399414",
+          "sog": "3.473110997362451"
+        }
+      },
+      {
+        "name": "LADYMATHILDE",
+        "first_seen": "2026-02-07T13:20:25.303192+01:00",
+        "rueb_eta": "2026-02-07T12:53:11+01:00",
+        "lock_eta": null,
+        "delta_first_rueb_min": -27,
+        "delta_first_rueb_hm": "-00:27",
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "54.36799049377442",
+          "lon": "10.130472779273985",
+          "sog": "0.5"
         }
       },
       {
         "name": "MARJATTA",
         "first_seen": "2026-02-07T13:20:25.303878+01:00",
-        "rueb_eta": "2026-02-07T21:41:09+01:00",
-        "lock_eta": "2026-02-08T02:14:00+01:00",
-        "delta_first_rueb_min": 500,
-        "delta_first_rueb_hm": "08:20",
-        "delta_rueb_lock_min": 272,
-        "delta_rueb_lock_hm": "04:32",
+        "rueb_eta": "2026-02-07T21:37:39+01:00",
+        "lock_eta": "2026-02-08T02:11:00+01:00",
+        "delta_first_rueb_min": 497,
+        "delta_first_rueb_hm": "08:17",
+        "delta_rueb_lock_min": 273,
+        "delta_rueb_lock_hm": "04:33",
         "track": {
-          "lat": "54.012892842292786",
-          "lon": "9.29668128490448",
-          "sog": "3.0413812651491097"
+          "lat": "54.07987833023071",
+          "lon": "9.319222569465637",
+          "sog": "3.881043674065006"
         }
       },
       {
         "name": "BREBCUXHAVEN",
         "first_seen": "2026-02-07T15:45:30.902407+01:00",
-        "rueb_eta": "2026-02-07T22:42:09+01:00",
-        "lock_eta": "2026-02-08T03:39:00+01:00",
-        "delta_first_rueb_min": 416,
-        "delta_first_rueb_hm": "06:56",
-        "delta_rueb_lock_min": 296,
-        "delta_rueb_lock_hm": "04:56",
+        "rueb_eta": "2026-02-07T22:39:09+01:00",
+        "lock_eta": "2026-02-08T03:12:00+01:00",
+        "delta_first_rueb_min": 413,
+        "delta_first_rueb_hm": "06:53",
+        "delta_rueb_lock_min": 272,
+        "delta_rueb_lock_hm": "04:32",
         "track": {
-          "lat": "53.91531944274903",
-          "lon": "9.185460805892944",
+          "lat": "53.97477865219116",
+          "lon": "9.26890969276428",
           "sog": "3.553167600887974"
         }
       },
       {
         "name": "LADYMONIQUE",
         "first_seen": "2026-02-07T15:45:30.902377+01:00",
-        "rueb_eta": "2026-02-07T23:44:37+01:00",
-        "lock_eta": "2026-02-08T04:18:00+01:00",
-        "delta_first_rueb_min": 479,
-        "delta_first_rueb_hm": "07:59",
-        "delta_rueb_lock_min": 273,
-        "delta_rueb_lock_hm": "04:33",
+        "rueb_eta": "2026-02-07T23:42:09+01:00",
+        "lock_eta": "2026-02-08T04:15:00+01:00",
+        "delta_first_rueb_min": 476,
+        "delta_first_rueb_hm": "07:56",
+        "delta_rueb_lock_min": 272,
+        "delta_rueb_lock_hm": "04:32",
         "track": {
-          "lat": "53.909574151039116",
-          "lon": "9.175032377243042",
-          "sog": "3.553167600887974"
+          "lat": "53.944748640060425",
+          "lon": "9.228574633598328",
+          "sog": "0.0"
         }
       },
       {
         "name": "LAURA",
         "first_seen": "2026-02-07T15:45:30.902442+01:00",
-        "rueb_eta": "2026-02-07T23:47:39+01:00",
-        "lock_eta": "2026-02-08T04:22:00+01:00",
-        "delta_first_rueb_min": 482,
-        "delta_first_rueb_hm": "08:02",
-        "delta_rueb_lock_min": 274,
-        "delta_rueb_lock_hm": "04:34",
+        "rueb_eta": "2026-02-07T23:45:39+01:00",
+        "lock_eta": "2026-02-08T04:19:00+01:00",
+        "delta_first_rueb_min": 480,
+        "delta_first_rueb_hm": "08:00",
+        "delta_rueb_lock_min": 273,
+        "delta_rueb_lock_hm": "04:33",
         "track": {
-          "lat": "53.90497148036957",
-          "lon": "9.16584849357605",
-          "sog": "3.3634060117684275"
+          "lat": "53.94197523593902",
+          "lon": "9.224476218223572",
+          "sog": "0.0"
         }
       },
       {
         "name": "JAND.",
         "first_seen": "2026-02-07T13:20:25.303367+01:00",
         "rueb_eta": "2026-02-07T17:14:10+01:00",
-        "lock_eta": "2026-02-07T21:46:00+01:00",
+        "lock_eta": "2026-02-07T21:44:00+01:00",
         "delta_first_rueb_min": 233,
         "delta_first_rueb_hm": "03:53",
-        "delta_rueb_lock_min": 271,
-        "delta_rueb_lock_hm": "04:31",
+        "delta_rueb_lock_min": 269,
+        "delta_rueb_lock_hm": "04:29",
         "track": {
-          "lat": "54.34683859348297",
-          "lon": "9.760719537734985",
-          "sog": "3.3634060117684275"
+          "lat": "54.35740649700165",
+          "lon": "9.877932071685793",
+          "sog": "3.473110997362451"
         }
       },
       {
         "name": "CHARLOTTEESSBERGER",
         "first_seen": "2026-02-07T13:20:25.304050+01:00",
-        "rueb_eta": "2026-02-07T19:37:09+01:00",
-        "lock_eta": "2026-02-08T00:10:00+01:00",
-        "delta_first_rueb_min": 376,
-        "delta_first_rueb_hm": "06:16",
+        "rueb_eta": "2026-02-07T19:35:09+01:00",
+        "lock_eta": "2026-02-08T00:08:00+01:00",
+        "delta_first_rueb_min": 374,
+        "delta_first_rueb_hm": "06:14",
         "delta_rueb_lock_min": 272,
         "delta_rueb_lock_hm": "04:32",
         "track": {
-          "lat": "54.17828321456909",
-          "lon": "9.464405179023741",
-          "sog": "3.48209706929603"
+          "lat": "54.21083986759185",
+          "lon": "9.57832396030426",
+          "sog": "3.3634060117684275"
         }
       },
       {
         "name": "DREAMSYRAX",
         "first_seen": "2026-02-07T13:20:25.303387+01:00",
         "rueb_eta": "2026-02-07T15:13:41+01:00",
-        "lock_eta": "2026-02-07T19:38:00+01:00",
+        "lock_eta": null,
         "delta_first_rueb_min": 113,
         "delta_first_rueb_hm": "01:53",
-        "delta_rueb_lock_min": 264,
-        "delta_rueb_lock_hm": "04:24",
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.36913311481476",
-          "lon": "10.119105577468872",
-          "sog": "2.304886114323222"
+          "lat": "54.365968108177185",
+          "lon": "10.140214562416077",
+          "sog": "0.0"
         }
       },
       {
@@ -1233,189 +1251,204 @@
         "delta_rueb_lock_min": 274,
         "delta_rueb_lock_hm": "04:34",
         "track": {
-          "lat": "54.02452290058136",
-          "lon": "9.29991602897644",
-          "sog": "3.2882366094914763"
+          "lat": "54.09444808959961",
+          "lon": "9.327043890953064",
+          "sog": "3.4003676271838605"
         }
       },
       {
         "name": "GASPEACE",
         "first_seen": "2026-02-07T13:20:25.303959+01:00",
-        "rueb_eta": "2026-02-07T21:32:40+01:00",
+        "rueb_eta": "2026-02-07T21:32:39+01:00",
         "lock_eta": "2026-02-08T02:06:00+01:00",
         "delta_first_rueb_min": 492,
         "delta_first_rueb_hm": "08:12",
         "delta_rueb_lock_min": 273,
         "delta_rueb_lock_hm": "04:33",
         "track": {
-          "lat": "54.018391370773315",
-          "lon": "9.297861456871033",
-          "sog": "3.0413812651491097"
+          "lat": "54.08807516098022",
+          "lon": "9.3234121799469",
+          "sog": "2.9261749776799064"
         }
       },
       {
         "name": "OHIOBORG",
         "first_seen": "2026-02-07T13:20:25.303411+01:00",
         "rueb_eta": "2026-02-07T17:27:41+01:00",
-        "lock_eta": "2026-02-07T21:57:00+01:00",
+        "lock_eta": "2026-02-07T21:54:00+01:00",
         "delta_first_rueb_min": 247,
         "delta_first_rueb_hm": "04:07",
-        "delta_rueb_lock_min": 269,
-        "delta_rueb_lock_hm": "04:29",
+        "delta_rueb_lock_min": 266,
+        "delta_rueb_lock_hm": "04:26",
         "track": {
-          "lat": "54.3351012468338",
-          "lon": "9.737727642059328",
-          "sog": "3.553167600887974"
+          "lat": "54.36342537403106",
+          "lon": "9.852397441864014",
+          "sog": "3.5089172119045497"
         }
       },
       {
         "name": "ELBIA",
         "first_seen": "2026-02-07T13:20:25.303431+01:00",
         "rueb_eta": "2026-02-07T15:07:07+01:00",
-        "lock_eta": "2026-02-07T19:32:00+01:00",
+        "lock_eta": null,
         "delta_first_rueb_min": 106,
         "delta_first_rueb_hm": "01:46",
-        "delta_rueb_lock_min": 264,
-        "delta_rueb_lock_hm": "04:24",
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.36657965183258",
-          "lon": "10.133777260780334",
-          "sog": "1.7677669529663689"
+          "lat": "54.36549067497253",
+          "lon": "10.142349600791931",
+          "sog": "0.0"
         }
       },
       {
         "name": "LADYARIANE",
         "first_seen": "2026-02-07T13:20:25.303519+01:00",
         "rueb_eta": "2026-02-07T17:21:35+01:00",
-        "lock_eta": "2026-02-07T21:50:00+01:00",
+        "lock_eta": "2026-02-07T21:48:00+01:00",
         "delta_first_rueb_min": 241,
         "delta_first_rueb_hm": "04:01",
-        "delta_rueb_lock_min": 268,
-        "delta_rueb_lock_hm": "04:28",
+        "delta_rueb_lock_min": 266,
+        "delta_rueb_lock_hm": "04:26",
         "track": {
-          "lat": "54.3427187204361",
-          "lon": "9.75313425064087",
-          "sog": "3.553167600887974"
+          "lat": "54.36086118221283",
+          "lon": "9.867101311683655",
+          "sog": "3.5794552658190883"
         }
       },
       {
         "name": "ELBSPRING",
         "first_seen": "2026-02-07T13:20:25.303936+01:00",
-        "rueb_eta": "2026-02-07T21:44:39+01:00",
-        "lock_eta": "2026-02-08T02:18:00+01:00",
-        "delta_first_rueb_min": 504,
-        "delta_first_rueb_hm": "08:24",
+        "rueb_eta": "2026-02-07T21:42:39+01:00",
+        "lock_eta": "2026-02-08T02:16:00+01:00",
+        "delta_first_rueb_min": 502,
+        "delta_first_rueb_hm": "08:22",
         "delta_rueb_lock_min": 273,
         "delta_rueb_lock_hm": "04:33",
         "track": {
-          "lat": "53.998392820358276",
-          "lon": "9.291971325874329",
-          "sog": "3.7165171868296265"
+          "lat": "54.071375727653496",
+          "lon": "9.314754009246826",
+          "sog": "2.850438562747845"
         }
       },
       {
         "name": "ZAANBORG",
         "first_seen": "2026-02-07T13:20:25.303982+01:00",
-        "rueb_eta": "2026-02-07T19:33:42+01:00",
-        "lock_eta": "2026-02-08T00:04:00+01:00",
-        "delta_first_rueb_min": 373,
-        "delta_first_rueb_hm": "06:13",
+        "rueb_eta": "2026-02-07T19:30:39+01:00",
+        "lock_eta": "2026-02-08T00:01:00+01:00",
+        "delta_first_rueb_min": 370,
+        "delta_first_rueb_hm": "06:10",
         "delta_rueb_lock_min": 270,
         "delta_rueb_lock_hm": "04:30",
         "track": {
-          "lat": "54.18052554130554",
-          "lon": "9.475611448287964",
-          "sog": "3.4003676271838605"
+          "lat": "54.216005802154534",
+          "lon": "9.588462710380552",
+          "sog": "3.5355339059327378"
+        }
+      },
+      {
+        "name": "ORANESS",
+        "first_seen": null,
+        "rueb_eta": null,
+        "lock_eta": null,
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "54.68183040618896",
+          "lon": "10.830910205841064",
+          "sog": "21.64"
         }
       },
       {
         "name": "JOHNT.ESSBERGER",
         "first_seen": "2026-02-07T17:26:55.452869+01:00",
         "rueb_eta": null,
-        "lock_eta": "2026-02-07T19:38:00+01:00",
+        "lock_eta": null,
         "delta_first_rueb_min": null,
         "delta_first_rueb_hm": null,
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.37358558177947",
-          "lon": "10.178757905960083",
-          "sog": "14.98"
+          "lat": "54.365957379341125",
+          "lon": "10.141925811767578",
+          "sog": "0.00"
         }
       },
       {
         "name": "BALTICSPLIT",
         "first_seen": "2026-02-07T13:20:25.303638+01:00",
         "rueb_eta": "2026-02-07T15:34:12+01:00",
-        "lock_eta": "2026-02-07T21:33:00+01:00",
+        "lock_eta": "2026-02-07T21:31:00+01:00",
         "delta_first_rueb_min": 133,
         "delta_first_rueb_hm": "02:13",
-        "delta_rueb_lock_min": 358,
-        "delta_rueb_lock_hm": "05:58",
+        "delta_rueb_lock_min": 356,
+        "delta_rueb_lock_hm": "05:56",
         "track": {
-          "lat": "54.04485940933227",
-          "lon": "9.303880333900452",
-          "sog": "0.5"
+          "lat": "54.00191187858581",
+          "lon": "9.293301701545715",
+          "sog": "3.3354160160315836"
         }
       },
       {
         "name": "SALTSTRAUM",
         "first_seen": "2026-02-07T13:20:25.303673+01:00",
         "rueb_eta": "2026-02-07T15:27:42+01:00",
-        "lock_eta": "2026-02-07T21:38:00+01:00",
+        "lock_eta": "2026-02-07T21:35:00+01:00",
         "delta_first_rueb_min": 127,
         "delta_first_rueb_hm": "02:07",
-        "delta_rueb_lock_min": 370,
-        "delta_rueb_lock_hm": "06:10",
+        "delta_rueb_lock_min": 367,
+        "delta_rueb_lock_hm": "06:07",
         "track": {
-          "lat": "54.084287881851196",
-          "lon": "9.321545362472534",
-          "sog": "3.640054944640259"
+          "lat": "54.010505676269524",
+          "lon": "9.29587125778198",
+          "sog": "3.2882366094914763"
         }
       },
       {
         "name": "FREJ",
         "first_seen": "2026-02-07T13:20:25.303691+01:00",
         "rueb_eta": "2026-02-07T16:54:38+01:00",
-        "lock_eta": "2026-02-07T23:43:00+01:00",
+        "lock_eta": "2026-02-07T23:41:00+01:00",
         "delta_first_rueb_min": 214,
         "delta_first_rueb_hm": "03:34",
-        "delta_rueb_lock_min": 408,
-        "delta_rueb_lock_hm": "06:48",
+        "delta_rueb_lock_min": 406,
+        "delta_rueb_lock_hm": "06:46",
         "track": {
-          "lat": "54.151675701141365",
-          "lon": "9.368666410446165",
-          "sog": "2.358495283014151"
+          "lat": "54.14862334728241",
+          "lon": "9.358892440795897",
+          "sog": "0.0"
         }
       },
       {
         "name": "KRISLIN",
         "first_seen": "2026-02-07T13:20:25.303712+01:00",
         "rueb_eta": "2026-02-07T16:59:07+01:00",
-        "lock_eta": "2026-02-07T23:47:00+01:00",
+        "lock_eta": "2026-02-07T23:45:00+01:00",
         "delta_first_rueb_min": 218,
         "delta_first_rueb_hm": "03:38",
-        "delta_rueb_lock_min": 407,
-        "delta_rueb_lock_hm": "06:47",
+        "delta_rueb_lock_min": 405,
+        "delta_rueb_lock_hm": "06:45",
         "track": {
-          "lat": "54.15509283542633",
-          "lon": "9.378638863563538",
-          "sog": "2.2360679774997902"
+          "lat": "54.14983570575714",
+          "lon": "9.362218379974365",
+          "sog": "0.0"
         }
       },
       {
         "name": "STOCMARCIA",
         "first_seen": "2026-02-07T13:20:25.303748+01:00",
         "rueb_eta": "2026-02-07T14:02:08+01:00",
-        "lock_eta": "2026-02-07T19:41:00+01:00",
+        "lock_eta": null,
         "delta_first_rueb_min": 41,
         "delta_first_rueb_hm": "00:41",
-        "delta_rueb_lock_min": 338,
-        "delta_rueb_lock_hm": "05:38",
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.90248775482178",
-          "lon": "9.160269498825073",
-          "sog": "2.1213203435596424"
+          "lat": "53.89466643333434",
+          "lon": "9.146193265914917",
+          "sog": "0.0"
         }
       },
       {
@@ -1428,114 +1461,99 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.89419972896576",
-          "lon": "9.145233035087585",
-          "sog": "0.3535533905932738"
+          "lat": "53.89392614364623",
+          "lon": "9.144750237464905",
+          "sog": "0.0"
         }
       },
       {
         "name": "STOLTJAEGER",
         "first_seen": "2026-02-07T13:20:25.303784+01:00",
         "rueb_eta": "2026-02-07T15:32:03+01:00",
-        "lock_eta": "2026-02-07T21:29:00+01:00",
+        "lock_eta": "2026-02-07T21:28:00+01:00",
         "delta_first_rueb_min": 131,
         "delta_first_rueb_hm": "02:11",
-        "delta_rueb_lock_min": 356,
-        "delta_rueb_lock_hm": "05:56",
+        "delta_rueb_lock_min": 355,
+        "delta_rueb_lock_hm": "05:55",
         "track": {
-          "lat": "54.03966665267944",
-          "lon": "9.302764534950256",
-          "sog": "0.0"
+          "lat": "53.99699807167053",
+          "lon": "9.291075468063354",
+          "sog": "3.4003676271838605"
         }
       },
       {
         "name": "FALSTRIASWAN",
         "first_seen": "2026-02-07T13:20:25.303570+01:00",
         "rueb_eta": "2026-02-07T17:36:09+01:00",
-        "lock_eta": "2026-02-07T23:42:00+01:00",
+        "lock_eta": "2026-02-07T23:40:00+01:00",
         "delta_first_rueb_min": 255,
         "delta_first_rueb_hm": "04:15",
-        "delta_rueb_lock_min": 365,
-        "delta_rueb_lock_hm": "06:05",
+        "delta_rueb_lock_min": 363,
+        "delta_rueb_lock_hm": "06:03",
         "track": {
-          "lat": "54.182488918304436",
-          "lon": "9.483341574668884",
-          "sog": "3.4003676271838605"
+          "lat": "54.15386974811554",
+          "lon": "9.37584936618805",
+          "sog": "1.4577379737113254"
         }
       },
       {
         "name": "BREBTIMBER",
         "first_seen": "2026-02-07T13:20:25.303802+01:00",
         "rueb_eta": "2026-02-07T17:03:05+01:00",
-        "lock_eta": "2026-02-07T23:50:00+01:00",
+        "lock_eta": "2026-02-07T23:48:00+01:00",
         "delta_first_rueb_min": 222,
         "delta_first_rueb_hm": "03:42",
-        "delta_rueb_lock_min": 406,
-        "delta_rueb_lock_hm": "06:46",
+        "delta_rueb_lock_min": 404,
+        "delta_rueb_lock_hm": "06:44",
         "track": {
-          "lat": "54.159706234931946",
-          "lon": "9.395949840545654",
-          "sog": "2.3717082451262845"
+          "lat": "54.15060818195343",
+          "lon": "9.363951086997986",
+          "sog": "0.0"
         }
       },
       {
         "name": "AMARANTH",
         "first_seen": "2026-02-07T13:20:25.303838+01:00",
         "rueb_eta": "2026-02-07T13:58:30+01:00",
-        "lock_eta": "2026-02-07T19:37:00+01:00",
+        "lock_eta": null,
         "delta_first_rueb_min": 38,
         "delta_first_rueb_hm": "00:38",
-        "delta_rueb_lock_min": 338,
-        "delta_rueb_lock_hm": "05:38",
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.89864683151245",
-          "lon": "9.15312945842743",
-          "sog": "1.9525624189766635"
+          "lat": "53.89480590820313",
+          "lon": "9.145710468292236",
+          "sog": "0.0"
         }
       },
       {
         "name": "UNITAR",
         "first_seen": "2026-02-07T15:45:30.902312+01:00",
-        "rueb_eta": "2026-02-07T19:48:09+01:00",
-        "lock_eta": "2026-02-08T01:59:00+01:00",
-        "delta_first_rueb_min": 242,
-        "delta_first_rueb_hm": "04:02",
-        "delta_rueb_lock_min": 370,
-        "delta_rueb_lock_hm": "06:10",
+        "rueb_eta": "2026-02-07T19:45:09+01:00",
+        "lock_eta": "2026-02-08T01:57:00+01:00",
+        "delta_first_rueb_min": 239,
+        "delta_first_rueb_hm": "03:59",
+        "delta_rueb_lock_min": 371,
+        "delta_rueb_lock_hm": "06:11",
         "track": {
-          "lat": "54.341511726379395",
-          "lon": "9.748821258544924",
-          "sog": "3.553167600887974"
-        }
-      },
-      {
-        "name": "ECOKHAMSIN",
-        "first_seen": "2026-02-07T13:20:25.303856+01:00",
-        "rueb_eta": "2026-02-07T13:55:12+01:00",
-        "lock_eta": "2026-02-07T19:34:00+01:00",
-        "delta_first_rueb_min": 34,
-        "delta_first_rueb_hm": "00:34",
-        "delta_rueb_lock_min": 338,
-        "delta_rueb_lock_hm": "05:38",
-        "track": {
-          "lat": "53.895546197891235",
-          "lon": "9.149036407470703",
-          "sog": "1.25"
+          "lat": "54.29050147533417",
+          "lon": "9.663516283035278",
+          "sog": "3.640054944640259"
         }
       },
       {
         "name": "PRIMALADY",
         "first_seen": null,
         "rueb_eta": null,
-        "lock_eta": "2026-02-07T22:35:00+01:00",
+        "lock_eta": "2026-02-07T23:12:00+01:00",
         "delta_first_rueb_min": null,
         "delta_first_rueb_hm": null,
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.96512806415558",
-          "lon": "8.552137613296509",
-          "sog": "13.77"
+          "lat": "53.92657935619354",
+          "lon": "8.661319613456726",
+          "sog": "11.73"
         }
       },
       {
@@ -1548,24 +1566,54 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.015655517578125",
-          "lon": "8.057017922401428",
-          "sog": "18.20"
+          "lat": "54.09242033958435",
+          "lon": "8.080272674560547",
+          "sog": "5.09"
         }
       },
       {
-        "name": "ALTO",
+        "name": "LADYALEXANDRA",
         "first_seen": null,
         "rueb_eta": null,
-        "lock_eta": "2026-02-07T20:50:00+01:00",
+        "lock_eta": "2026-02-08T01:25:00+01:00",
         "delta_first_rueb_min": null,
         "delta_first_rueb_hm": null,
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.871792554855354",
-          "lon": "8.718498945236206",
-          "sog": "22.36"
+          "lat": "53.984713554382324",
+          "lon": "8.14986526966095",
+          "sog": "13.77"
+        }
+      },
+      {
+        "name": "ALTO",
+        "first_seen": "2026-02-07T19:12:17.818338+01:00",
+        "rueb_eta": null,
+        "lock_eta": "2026-02-07T20:48:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.84408533573151",
+          "lon": "8.920968174934387",
+          "sog": "22.06"
+        }
+      },
+      {
+        "name": "KILSTRAUM",
+        "first_seen": null,
+        "rueb_eta": null,
+        "lock_eta": "2026-02-07T22:00:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.94285500049592",
+          "lon": "8.64199697971344",
+          "sog": "18.55"
         }
       },
       {
@@ -1578,24 +1626,24 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.88285398483276",
-          "lon": "9.107977151870728",
-          "sog": "0.00"
+          "lat": "53.88341724872589",
+          "lon": "9.105863571166992",
+          "sog": "0.90"
         }
       },
       {
         "name": "MISJEFLORA",
-        "first_seen": null,
+        "first_seen": "2026-02-07T19:12:17.818465+01:00",
         "rueb_eta": null,
-        "lock_eta": "2026-02-07T20:58:00+01:00",
+        "lock_eta": "2026-02-07T21:01:00+01:00",
         "delta_first_rueb_min": null,
         "delta_first_rueb_hm": null,
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.858102560043335",
-          "lon": "8.743894100189209",
-          "sog": "18.47"
+          "lat": "53.84176254272461",
+          "lon": "8.911623358726501",
+          "sog": "16.60"
         }
       },
       {
@@ -1608,30 +1656,15 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.88215124607086",
-          "lon": "9.097886681556702",
+          "lat": "53.881899118423455",
+          "lon": "9.096958637237549",
           "sog": "0.00"
-        }
-      },
-      {
-        "name": "KILSTRAUM",
-        "first_seen": null,
-        "rueb_eta": null,
-        "lock_eta": "2026-02-07T22:05:00+01:00",
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.976886868476875",
-          "lon": "8.455202579498293",
-          "sog": "19.24"
         }
       }
     ]
   },
   "start_work_targets_history": {
     "targets": {},
-    "generated_at": "2026-02-07T18:32:19.501778+01:00"
+    "generated_at": "2026-02-07T19:12:18.322364+01:00"
   }
 }

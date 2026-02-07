@@ -1,58 +1,47 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PilotApp v4</title>
-
-<link rel="stylesheet" href="css/style.css">
-
-<style>
-body{
-    background:#0f1115;
-    color:#e6e6e6;
-    font-family:system-ui;
-    margin:0;
-    padding:0;
-}
-header{
-    padding:12px;
-    background:#171a21;
-    border-bottom:1px solid #2a2f3a;
-}
-select{
-    background:#1f2430;
-    color:#fff;
-    border:1px solid #333;
-    padding:6px;
-    margin-right:10px;
-}
-#content{
-    padding:12px;
-    font-size:14px;
-}
-pre{
-    white-space:pre-wrap;
-    font-size:13px;
-}
-</style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PilotApp v4</title>
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 
 <body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="dot"></div>
+      <div>
+        <div class="title">PilotApp v4</div>
+        <div class="sub" id="statusLine">lädt…</div>
+      </div>
+    </div>
 
-<header>
-<select id="lotseSelect"></select>
+    <div class="controls">
+      <label class="ctrl">
+        <span>Ziellotse</span>
+        <select id="lotseSelect"></select>
+      </label>
 
-<select id="viewSelect">
-  <option value="gesamtboert">Gesamtbört</option>
-  <option value="seelotsen">Seelotsen</option>
-  <option value="kanal">Kanal</option>
-  <option value="graph">Work Start Graph</option>
-</select>
-</header>
+      <label class="ctrl">
+        <span>Ansicht</span>
+        <select id="viewSelect">
+          <option value="gesamtboert">Gesamtbört</option>
+          <option value="seelotsen">Abgeteilte Seelotsen</option>
+          <option value="kanal">Kanal</option>
+          <option value="graph">Work Start Graph</option>
+          <option value="meldungen_kiel">Meldungen Kiel</option>
+        </select>
+      </label>
 
-<div id="content">lade…</div>
+      <button id="refreshBtn" class="btn">↻</button>
+    </div>
+  </header>
 
-<script src="js/app.js"></script>
+  <main class="container">
+    <div id="content" class="content"></div>
+  </main>
+
+  <script src="js/app.js"></script>
 </body>
 </html>
