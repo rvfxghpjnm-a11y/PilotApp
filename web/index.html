@@ -1,58 +1,32 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>PilotApp</title>
-  <link rel="stylesheet" href="style.css"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PilotApp v4</title>
+
+<link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
 
-<header class="topbar">
-  <h1>PilotApp 🚨 TEST 🚨</h1>
-  <div class="tabs">
-    <button class="tab active" data-view="lage">Lage</button>
-    <button class="tab" data-view="boert">Bört</button>
-    <button class="tab" data-view="pilot">Pilot</button>
+<header>
+  <div class="controls">
+    <select id="lotseSelect"></select>
+
+    <select id="viewSelect">
+      <option value="boert">Gesamtbört</option>
+      <option value="seelotsen">Abgeteilte Seelotsen</option>
+      <option value="graph">Work-Start-Graph</option>
+      <option value="meldungen_kiel">Meldungen Kiel</option>
+      <option value="meldungen_rueb">Meldungen Rüsterbergen</option>
+      <option value="kanal">Kanal</option>
+    </select>
   </div>
 </header>
 
-<main class="content">
+<main id="content"></main>
 
-  <!-- LAGE -->
-  <section class="card view active" id="view-lage">
-    <h2>Aktuelle Lage</h2>
-
-    <div class="lage-block">
-      <h3>Rüsterbergen</h3>
-      <div id="lage-ruesterbergen">– wird geladen –</div>
-    </div>
-
-    <div class="lage-block">
-      <h3>Leuchtturm Kiel</h3>
-      <div id="lage-leuchtturm-kiel">– wird geladen –</div>
-    </div>
-
-    <div class="lage-block">
-      <h3>Holtenau</h3>
-      <div id="lage-holtenau">– wird geladen –</div>
-    </div>
-  </section>
-
-  <!-- BÖRT -->
-  <section class="card view" id="view-boert">
-    <h2>Gesamtbört</h2>
-    <div id="boert-list">– wird geladen –</div>
-  </section>
-
-  <!-- PILOT -->
-  <section class="card view" id="view-pilot">
-    <h2>Pilot</h2>
-    <p class="muted">– folgt –</p>
-  </section>
-
-</main>
-
-<script src="app.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
