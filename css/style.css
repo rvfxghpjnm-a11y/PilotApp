@@ -1,31 +1,25 @@
 body {
-  margin:0;
-  background:#0f1116;
-  color:#e6e6e6;
+  background: #0f1116;
+  color: #fff;
   font-family: system-ui;
 }
 
-header {
-  background:#151922;
-  padding:12px;
-  border-bottom:1px solid #222;
-}
-
-.controls {
-  display:flex;
-  gap:10px;
-}
-
 select {
-  background:#1d2230;
-  color:#fff;
-  border:1px solid #333;
-  padding:6px;
+  padding: 6px;
+  margin: 10px;
+  background: #1c1f26;
+  color: white;
+  border: 1px solid #444;
+  border-radius: 6px;
 }
 
-.card {
-  background:#161b26;
-  margin:10px;
-  padding:10px;
-  border-radius:8px;
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 10px;
+}
+
+td, th {
+  border-bottom: 1px solid #333;
+  padding: 6px;
 }
