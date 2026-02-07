@@ -1,1311 +1,1637 @@
 {
-  "generated_at": "2026-02-07T18:11:45.035152+01:00",
-  "channel": [
-    {
-      "name": "AMADEUSAQUAMARIJN",
-      "first_seen": "2026-02-07T15:45:30.902112+01:00",
-      "rueb_eta": "2026-02-07T19:41:35+01:00",
-      "lock_eta": "2026-02-08T00:15:00+01:00",
-      "delta_first_rueb_min": 236,
-      "delta_first_rueb_hm": "03:56",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
-      "track": {
-        "lat": "54.159218072891235",
-        "lon": "9.39454436302185",
-        "sog": "3.48209706929603"
-      }
-    },
-    {
-      "name": "DUENE",
-      "first_seen": "2026-02-07T13:20:25.304004+01:00",
-      "rueb_eta": "2026-02-07T18:18:12+01:00",
-      "lock_eta": "2026-02-07T19:52:00+01:00",
-      "delta_first_rueb_min": 297,
-      "delta_first_rueb_hm": "04:57",
-      "delta_rueb_lock_min": 93,
-      "delta_rueb_lock_hm": "01:33",
-      "track": {
-        "lat": "54.23374593257905",
-        "lon": "9.60703432559967",
-        "sog": "3.48209706929603"
-      }
-    },
-    {
-      "name": "LADYANNEKE",
-      "first_seen": "2026-02-07T13:20:25.304027+01:00",
-      "rueb_eta": "2026-02-07T19:29:12+01:00",
-      "lock_eta": "2026-02-08T00:02:00+01:00",
-      "delta_first_rueb_min": 368,
-      "delta_first_rueb_hm": "06:08",
-      "delta_rueb_lock_min": 272,
-      "delta_rueb_lock_hm": "04:32",
-      "track": {
-        "lat": "54.16881501674653",
-        "lon": "9.43128526210785",
-        "sog": "3.3541019662496847"
-      }
-    },
-    {
-      "name": "MARJATTA",
-      "first_seen": "2026-02-07T13:20:25.303878+01:00",
-      "rueb_eta": "2026-02-07T21:45:12+01:00",
-      "lock_eta": "2026-02-08T02:18:00+01:00",
-      "delta_first_rueb_min": 504,
-      "delta_first_rueb_hm": "08:24",
-      "delta_rueb_lock_min": 272,
-      "delta_rueb_lock_hm": "04:32",
-      "track": {
-        "lat": "53.978168964385986",
-        "lon": "9.273388981819153",
-        "sog": "3.553167600887974"
-      }
-    },
-    {
-      "name": "JAND.",
-      "first_seen": "2026-02-07T13:20:25.303367+01:00",
-      "rueb_eta": "2026-02-07T17:14:10+01:00",
-      "lock_eta": "2026-02-07T21:47:00+01:00",
-      "delta_first_rueb_min": 233,
-      "delta_first_rueb_hm": "03:53",
-      "delta_rueb_lock_min": 272,
-      "delta_rueb_lock_hm": "04:32",
-      "track": {
-        "lat": "54.31967318058013",
-        "lon": "9.713947176933289",
-        "sog": "3.5794552658190883"
-      }
-    },
-    {
-      "name": "CHARLOTTEESSBERGER",
-      "first_seen": "2026-02-07T13:20:25.304050+01:00",
-      "rueb_eta": "2026-02-07T19:38:09+01:00",
-      "lock_eta": "2026-02-08T00:11:00+01:00",
-      "delta_first_rueb_min": 377,
-      "delta_first_rueb_hm": "06:17",
-      "delta_rueb_lock_min": 272,
-      "delta_rueb_lock_hm": "04:32",
-      "track": {
-        "lat": "54.16182518005371",
-        "lon": "9.405933022499084",
-        "sog": "3.48209706929603"
-      }
-    },
-    {
-      "name": "DREAMSYRAX",
-      "first_seen": "2026-02-07T13:20:25.303387+01:00",
-      "rueb_eta": "2026-02-07T15:13:41+01:00",
-      "lock_eta": "2026-02-07T19:38:00+01:00",
-      "delta_first_rueb_min": 113,
-      "delta_first_rueb_hm": "01:53",
-      "delta_rueb_lock_min": 264,
-      "delta_rueb_lock_hm": "04:24",
-      "track": {
-        "lat": "54.36157464981079",
-        "lon": "10.064114928245544",
-        "sog": "3.4003676271838605"
-      }
-    },
-    {
-      "name": "COEGISELA",
-      "first_seen": "2026-02-07T15:45:30.902511+01:00",
-      "rueb_eta": "2026-02-07T21:29:42+01:00",
-      "lock_eta": "2026-02-08T02:03:00+01:00",
-      "delta_first_rueb_min": 344,
-      "delta_first_rueb_hm": "05:44",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
-      "track": {
-        "lat": "53.98741185665131",
-        "lon": "9.284353852272034",
-        "sog": "3.473110997362451"
-      }
-    },
-    {
-      "name": "GASPEACE",
-      "first_seen": "2026-02-07T13:20:25.303959+01:00",
-      "rueb_eta": "2026-02-07T21:32:40+01:00",
-      "lock_eta": "2026-02-08T02:06:00+01:00",
-      "delta_first_rueb_min": 492,
-      "delta_first_rueb_hm": "08:12",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
-      "track": {
-        "lat": "53.98302376270294",
-        "lon": "9.27944540977478",
-        "sog": "3.2015621187164243"
-      }
-    },
-    {
-      "name": "OHIOBORG",
-      "first_seen": "2026-02-07T13:20:25.303411+01:00",
-      "rueb_eta": "2026-02-07T17:27:41+01:00",
-      "lock_eta": "2026-02-07T21:58:00+01:00",
-      "delta_first_rueb_min": 247,
-      "delta_first_rueb_hm": "04:07",
-      "delta_rueb_lock_min": 270,
-      "delta_rueb_lock_hm": "04:30",
-      "track": {
-        "lat": "54.30171847343445",
-        "lon": "9.707118272781372",
-        "sog": "3.4003676271838605"
-      }
-    },
-    {
-      "name": "ELBIA",
-      "first_seen": "2026-02-07T13:20:25.303431+01:00",
-      "rueb_eta": "2026-02-07T15:07:07+01:00",
-      "lock_eta": "2026-02-07T19:30:00+01:00",
-      "delta_first_rueb_min": 106,
-      "delta_first_rueb_hm": "01:46",
-      "delta_rueb_lock_min": 262,
-      "delta_rueb_lock_hm": "04:22",
-      "track": {
-        "lat": "54.36966955661774",
-        "lon": "10.081173777580261",
-        "sog": "3.3541019662496847"
-      }
-    },
-    {
-      "name": "LADYARIANE",
-      "first_seen": "2026-02-07T13:20:25.303519+01:00",
-      "rueb_eta": "2026-02-07T17:21:35+01:00",
-      "lock_eta": "2026-02-07T21:51:00+01:00",
-      "delta_first_rueb_min": 241,
-      "delta_first_rueb_hm": "04:01",
-      "delta_rueb_lock_min": 269,
-      "delta_rueb_lock_hm": "04:29",
-      "track": {
-        "lat": "54.31298911571503",
-        "lon": "9.712632894515991",
-        "sog": "3.5355339059327378"
-      }
-    },
-    {
-      "name": "ELBSPRING",
-      "first_seen": "2026-02-07T13:20:25.303936+01:00",
-      "rueb_eta": "2026-02-07T21:48:12+01:00",
-      "lock_eta": "2026-02-08T02:22:00+01:00",
-      "delta_first_rueb_min": 507,
-      "delta_first_rueb_hm": "08:27",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
-      "track": {
-        "lat": "53.9652568101883",
-        "lon": "9.255611300468445",
-        "sog": "3.2015621187164243"
-      }
-    },
-    {
-      "name": "ZAANBORG",
-      "first_seen": "2026-02-07T13:20:25.303982+01:00",
-      "rueb_eta": "2026-02-07T19:33:42+01:00",
-      "lock_eta": "2026-02-08T00:05:00+01:00",
-      "delta_first_rueb_min": 373,
-      "delta_first_rueb_hm": "06:13",
-      "delta_rueb_lock_min": 271,
-      "delta_rueb_lock_hm": "04:31",
-      "track": {
-        "lat": "54.164244532585144",
-        "lon": "9.415851831436157",
-        "sog": "3.25"
-      }
-    },
-    {
-      "name": "JOHNT.ESSBERGER",
-      "first_seen": "2026-02-07T17:26:55.452869+01:00",
-      "rueb_eta": null,
-      "lock_eta": "2026-02-07T19:38:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "54.41754698753357",
-        "lon": "10.20953893661499",
-        "sog": "14.84"
-      }
-    },
-    {
-      "name": "BALTICSPLIT",
-      "first_seen": "2026-02-07T13:20:25.303638+01:00",
-      "rueb_eta": "2026-02-07T15:34:12+01:00",
-      "lock_eta": "2026-02-07T21:33:00+01:00",
-      "delta_first_rueb_min": 133,
-      "delta_first_rueb_hm": "02:13",
-      "delta_rueb_lock_min": 358,
-      "delta_rueb_lock_hm": "05:58",
-      "track": {
-        "lat": "54.05676305294037",
-        "lon": "9.30842936038971",
-        "sog": "2.0615528128088303"
-      }
-    },
-    {
-      "name": "SALTSTRAUM",
-      "first_seen": "2026-02-07T13:20:25.303673+01:00",
-      "rueb_eta": "2026-02-07T15:27:42+01:00",
-      "lock_eta": "2026-02-07T21:39:00+01:00",
-      "delta_first_rueb_min": 127,
-      "delta_first_rueb_hm": "02:07",
-      "delta_rueb_lock_min": 371,
-      "delta_rueb_lock_hm": "06:11",
-      "track": {
-        "lat": "54.123249650001526",
-        "lon": "9.329050183296204",
-        "sog": "3.5355339059327378"
-      }
-    },
-    {
-      "name": "FREJ",
-      "first_seen": "2026-02-07T13:20:25.303691+01:00",
-      "rueb_eta": "2026-02-07T16:54:38+01:00",
-      "lock_eta": "2026-02-07T23:47:00+01:00",
-      "delta_first_rueb_min": 214,
-      "delta_first_rueb_hm": "03:34",
-      "delta_rueb_lock_min": 412,
-      "delta_rueb_lock_hm": "06:52",
-      "track": {
-        "lat": "54.166975021362305",
-        "lon": "9.424332976341248",
-        "sog": "3.3541019662496847"
-      }
-    },
-    {
-      "name": "KRISLIN",
-      "first_seen": "2026-02-07T13:20:25.303712+01:00",
-      "rueb_eta": "2026-02-07T16:59:07+01:00",
-      "lock_eta": "2026-02-07T23:50:00+01:00",
-      "delta_first_rueb_min": 218,
-      "delta_first_rueb_hm": "03:38",
-      "delta_rueb_lock_min": 410,
-      "delta_rueb_lock_hm": "06:50",
-      "track": {
-        "lat": "54.169678688049316",
-        "lon": "9.432739019393921",
-        "sog": "3.3541019662496847"
-      }
-    },
-    {
-      "name": "STOCMARCIA",
-      "first_seen": "2026-02-07T13:20:25.303748+01:00",
-      "rueb_eta": "2026-02-07T14:02:08+01:00",
-      "lock_eta": "2026-02-07T19:35:00+01:00",
-      "delta_first_rueb_min": 41,
-      "delta_first_rueb_hm": "00:41",
-      "delta_rueb_lock_min": 332,
-      "delta_rueb_lock_hm": "05:32",
-      "track": {
-        "lat": "53.92338216304779",
-        "lon": "9.197933077812195",
-        "sog": "3.553167600887974"
-      }
-    },
-    {
-      "name": "ALANA",
-      "first_seen": "2026-02-07T13:20:25.303766+01:00",
-      "rueb_eta": "2026-02-07T13:32:40+01:00",
-      "lock_eta": "2026-02-07T19:24:00+01:00",
-      "delta_first_rueb_min": 12,
-      "delta_first_rueb_hm": "00:12",
-      "delta_rueb_lock_min": 351,
-      "delta_rueb_lock_hm": "05:51",
-      "track": {
-        "lat": "53.90986382961274",
-        "lon": "9.17456567287445",
-        "sog": "3.3634060117684275"
-      }
-    },
-    {
-      "name": "STOLTJAEGER",
-      "first_seen": "2026-02-07T13:20:25.303784+01:00",
-      "rueb_eta": "2026-02-07T15:32:03+01:00",
-      "lock_eta": "2026-02-07T21:29:00+01:00",
-      "delta_first_rueb_min": 131,
-      "delta_first_rueb_hm": "02:11",
-      "delta_rueb_lock_min": 356,
-      "delta_rueb_lock_hm": "05:56",
-      "track": {
-        "lat": "54.04996097087861",
-        "lon": "9.306272864341736",
-        "sog": "2.0155644370746373"
-      }
-    },
-    {
-      "name": "FALSTRIASWAN",
-      "first_seen": "2026-02-07T13:20:25.303570+01:00",
-      "rueb_eta": "2026-02-07T17:36:09+01:00",
-      "lock_eta": "2026-02-07T23:45:00+01:00",
-      "delta_first_rueb_min": 255,
-      "delta_first_rueb_hm": "04:15",
-      "delta_rueb_lock_min": 368,
-      "delta_rueb_lock_hm": "06:08",
-      "track": {
-        "lat": "54.19560492038727",
-        "lon": "9.542972445487976",
-        "sog": "3.132491021535417"
-      }
-    },
-    {
-      "name": "BREBTIMBER",
-      "first_seen": "2026-02-07T13:20:25.303802+01:00",
-      "rueb_eta": "2026-02-07T17:03:05+01:00",
-      "lock_eta": "2026-02-07T23:54:00+01:00",
-      "delta_first_rueb_min": 222,
-      "delta_first_rueb_hm": "03:42",
-      "delta_rueb_lock_min": 410,
-      "delta_rueb_lock_hm": "06:50",
-      "track": {
-        "lat": "54.17363226413727",
-        "lon": "9.445114731788635",
-        "sog": "3.3541019662496847"
-      }
-    },
-    {
-      "name": "AMARANTH",
-      "first_seen": "2026-02-07T13:20:25.303838+01:00",
-      "rueb_eta": "2026-02-07T13:58:30+01:00",
-      "lock_eta": "2026-02-07T19:32:00+01:00",
-      "delta_first_rueb_min": 38,
-      "delta_first_rueb_hm": "00:38",
-      "delta_rueb_lock_min": 333,
-      "delta_rueb_lock_hm": "05:33",
-      "track": {
-        "lat": "53.91896188259125",
-        "lon": "9.191345572471619",
-        "sog": "3.5355339059327378"
-      }
-    },
-    {
-      "name": "UNITAR",
-      "first_seen": "2026-02-07T15:45:30.902312+01:00",
-      "rueb_eta": "2026-02-07T19:50:12+01:00",
-      "lock_eta": "2026-02-08T02:02:00+01:00",
-      "delta_first_rueb_min": 244,
-      "delta_first_rueb_hm": "04:04",
-      "delta_rueb_lock_min": 371,
-      "delta_rueb_lock_hm": "06:11",
-      "track": {
-        "lat": "54.36334490776062",
-        "lon": "9.804761409759521",
-        "sog": "3.5089172119045497"
-      }
-    },
-    {
-      "name": "ECOKHAMSIN",
-      "first_seen": "2026-02-07T13:20:25.303856+01:00",
-      "rueb_eta": "2026-02-07T13:55:12+01:00",
-      "lock_eta": "2026-02-07T19:28:00+01:00",
-      "delta_first_rueb_min": 34,
-      "delta_first_rueb_hm": "00:34",
-      "delta_rueb_lock_min": 332,
-      "delta_rueb_lock_hm": "05:32",
-      "track": {
-        "lat": "53.91393542289734",
-        "lon": "9.182204604148865",
-        "sog": "3.3634060117684275"
-      }
-    },
-    {
-      "name": "LADYMONIQUE",
-      "first_seen": "2026-02-07T15:45:30.902377+01:00",
-      "rueb_eta": null,
-      "lock_eta": null,
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.893507719039924",
-        "lon": "9.144900441169739",
-        "sog": "0.00"
-      }
-    },
-    {
-      "name": "PRIMALADY",
-      "first_seen": null,
-      "rueb_eta": null,
-      "lock_eta": "2026-02-07T22:34:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.97308886051177",
-        "lon": "8.481391668319702",
-        "sog": "12.89"
-      }
-    },
-    {
-      "name": "BREBCUXHAVEN",
-      "first_seen": "2026-02-07T15:45:30.902407+01:00",
-      "rueb_eta": null,
-      "lock_eta": null,
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.89389932155609",
-        "lon": "9.145640730857851",
-        "sog": "0.00"
-      }
-    },
-    {
-      "name": "LAURA",
-      "first_seen": "2026-02-07T15:45:30.902442+01:00",
-      "rueb_eta": null,
-      "lock_eta": null,
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.89279961585999",
-        "lon": "9.143934845924377",
-        "sog": "0.00"
-      }
-    },
-    {
-      "name": "ALTO",
-      "first_seen": null,
-      "rueb_eta": null,
-      "lock_eta": "2026-02-07T20:46:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.931026458740234",
-        "lon": "8.659114837646483",
-        "sog": "22.50"
-      }
-    },
-    {
-      "name": "NORDICITALIA",
-      "first_seen": "2026-02-07T17:26:55.453045+01:00",
-      "rueb_eta": null,
-      "lock_eta": "2026-02-07T19:17:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.880831599235535",
-        "lon": "9.123769998550415",
-        "sog": "5.40"
-      }
-    },
-    {
-      "name": "MISJEFLORA",
-      "first_seen": null,
-      "rueb_eta": null,
-      "lock_eta": "2026-02-07T20:58:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.90160262584687",
-        "lon": "8.687390685081482",
-        "sog": "17.73"
-      }
-    },
-    {
-      "name": "TAVASTLAND",
-      "first_seen": "2026-02-07T17:26:55.453075+01:00",
-      "rueb_eta": null,
-      "lock_eta": null,
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.88263940811158",
-        "lon": "9.097999334335327",
-        "sog": "0.00"
-      }
-    },
-    {
-      "name": "KILSTRAUM",
-      "first_seen": null,
-      "rueb_eta": null,
-      "lock_eta": "2026-02-07T21:57:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.98814141750336",
-        "lon": "8.352661728858948",
-        "sog": "20.30"
-      }
-    },
-    {
-      "name": "AMADEUSSAFFIER",
-      "first_seen": null,
-      "rueb_eta": null,
-      "lock_eta": null,
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.973646759986885",
-        "lon": "8.025625348091125",
-        "sog": "12.89"
-      }
-    }
+  "targets": [
+    "KONIETZKA"
   ],
-  "lotsen": [
-    {
-      "name": "Weise",
-      "key": "WEISE",
-      "pos": 1,
-      "start_work_m1": "2026-02-07T18:31:44.780167+01:00",
-      "start_work_m2": "2026-02-07T18:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T18:30:00+01:00",
-      "start_work_m4": "2026-02-07T18:30:00+01:00",
-      "delta_m1_m4_min": -2,
-      "delta_m1_m4_hm": "-00:02"
-    },
-    {
-      "name": "Marth",
-      "key": "MARTH",
-      "pos": 2,
-      "start_work_m1": "2026-02-07T18:51:44.780167+01:00",
-      "start_work_m2": "2026-02-07T19:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T18:50:00+01:00",
-      "start_work_m4": "2026-02-07T18:50:00+01:00",
-      "delta_m1_m4_min": -2,
-      "delta_m1_m4_hm": "-00:02"
-    },
-    {
-      "name": "Krüger",
-      "key": "KRÜGER",
-      "pos": 3,
-      "start_work_m1": "2026-02-07T19:11:44.780167+01:00",
-      "start_work_m2": "2026-02-07T19:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T18:55:00+01:00",
-      "start_work_m4": "2026-02-07T18:55:00+01:00",
-      "delta_m1_m4_min": -17,
-      "delta_m1_m4_hm": "-00:17"
-    },
-    {
-      "name": "Kordt",
-      "key": "KORDT",
-      "pos": 4,
-      "start_work_m1": "2026-02-07T19:31:44.780167+01:00",
-      "start_work_m2": "2026-02-07T20:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T19:00:00+01:00",
-      "start_work_m4": "2026-02-07T19:00:00+01:00",
-      "delta_m1_m4_min": -32,
-      "delta_m1_m4_hm": "-00:32"
-    },
-    {
-      "name": "Munz",
-      "key": "MUNZ",
-      "pos": 5,
-      "start_work_m1": "2026-02-07T19:51:44.780167+01:00",
-      "start_work_m2": "2026-02-07T20:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T19:00:00+01:00",
-      "start_work_m4": "2026-02-07T19:00:00+01:00",
-      "delta_m1_m4_min": -52,
-      "delta_m1_m4_hm": "-00:52"
-    },
-    {
-      "name": "Plaisant",
-      "key": "PLAISANT",
-      "pos": 6,
-      "start_work_m1": "2026-02-07T20:11:44.780167+01:00",
-      "start_work_m2": "2026-02-07T21:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T19:00:00+01:00",
-      "start_work_m4": "2026-02-07T19:00:00+01:00",
-      "delta_m1_m4_min": -72,
-      "delta_m1_m4_hm": "-01:12"
-    },
-    {
-      "name": "Escher",
-      "key": "ESCHER",
-      "pos": 7,
-      "start_work_m1": "2026-02-07T20:31:44.780167+01:00",
-      "start_work_m2": "2026-02-07T21:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T19:00:00+01:00",
-      "start_work_m4": "2026-02-07T19:20:00+01:00",
-      "delta_m1_m4_min": -72,
-      "delta_m1_m4_hm": "-01:12"
-    },
-    {
-      "name": "Krebs",
-      "key": "KREBS",
-      "pos": 8,
-      "start_work_m1": "2026-02-07T20:51:44.780167+01:00",
-      "start_work_m2": "2026-02-07T22:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T19:20:00+01:00",
-      "start_work_m4": "2026-02-07T20:55:00+01:00",
-      "delta_m1_m4_min": 3,
-      "delta_m1_m4_hm": "00:03"
-    },
-    {
-      "name": "Schran",
-      "key": "SCHRAN",
-      "pos": 9,
-      "start_work_m1": "2026-02-07T21:11:44.780167+01:00",
-      "start_work_m2": "2026-02-07T22:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T20:55:00+01:00",
-      "start_work_m4": "2026-02-07T21:00:00+01:00",
-      "delta_m1_m4_min": -12,
-      "delta_m1_m4_hm": "-00:12"
-    },
-    {
-      "name": "Glenewinkel",
-      "key": "GLENEWINKEL",
-      "pos": 10,
-      "start_work_m1": "2026-02-07T21:31:44.780167+01:00",
-      "start_work_m2": "2026-02-07T23:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T21:00:00+01:00",
-      "start_work_m4": "2026-02-07T21:00:00+01:00",
-      "delta_m1_m4_min": -32,
-      "delta_m1_m4_hm": "-00:32"
-    },
-    {
-      "name": "Wald",
-      "key": "WALD",
-      "pos": 11,
-      "start_work_m1": "2026-02-07T21:51:44.780167+01:00",
-      "start_work_m2": "2026-02-07T23:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T21:00:00+01:00",
-      "start_work_m4": "2026-02-07T22:00:00+01:00",
-      "delta_m1_m4_min": 8,
-      "delta_m1_m4_hm": "00:08"
-    },
-    {
-      "name": "Hansen",
-      "key": "HANSEN",
-      "pos": 12,
-      "start_work_m1": "2026-02-07T22:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T00:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T22:00:00+01:00",
-      "start_work_m4": "2026-02-07T22:45:00+01:00",
-      "delta_m1_m4_min": 33,
-      "delta_m1_m4_hm": "00:33"
-    },
-    {
-      "name": "Wäntig",
-      "key": "WÄNTIG",
-      "pos": 13,
-      "start_work_m1": "2026-02-07T22:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T00:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T22:00:00+01:00",
-      "start_work_m4": "2026-02-07T23:00:00+01:00",
-      "delta_m1_m4_min": 28,
-      "delta_m1_m4_hm": "00:28"
-    },
-    {
-      "name": "Lehwald",
-      "key": "LEHWALD",
-      "pos": 14,
-      "start_work_m1": "2026-02-07T22:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T01:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T22:30:00+01:00",
-      "start_work_m4": "2026-02-07T23:05:00+01:00",
-      "delta_m1_m4_min": 13,
-      "delta_m1_m4_hm": "00:13"
-    },
-    {
-      "name": "Dalecki",
-      "key": "DALECKI",
-      "pos": 15,
-      "start_work_m1": "2026-02-07T23:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T01:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T22:45:00+01:00",
-      "start_work_m4": "2026-02-07T23:20:00+01:00",
-      "delta_m1_m4_min": 8,
-      "delta_m1_m4_hm": "00:08"
-    },
-    {
-      "name": "Hewig",
-      "key": "HEWIG",
-      "pos": 16,
-      "start_work_m1": "2026-02-07T23:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T02:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T23:00:00+01:00",
-      "start_work_m4": "2026-02-07T23:30:00+01:00",
-      "delta_m1_m4_min": -2,
-      "delta_m1_m4_hm": "-00:02"
-    },
-    {
-      "name": "Petersen",
-      "key": "PETERSEN",
-      "pos": 17,
-      "start_work_m1": "2026-02-07T23:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T02:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T23:05:00+01:00",
-      "start_work_m4": "2026-02-07T23:33:00+01:00",
-      "delta_m1_m4_min": -19,
-      "delta_m1_m4_hm": "-00:19"
-    },
-    {
-      "name": "Malik",
-      "key": "MALIK",
-      "pos": 18,
-      "start_work_m1": "2026-02-08T00:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T03:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T23:20:00+01:00",
-      "start_work_m4": "2026-02-08T00:50:00+01:00",
-      "delta_m1_m4_min": 38,
-      "delta_m1_m4_hm": "00:38"
-    },
-    {
-      "name": "Tietjens",
-      "key": "TIETJENS",
-      "pos": 19,
-      "start_work_m1": "2026-02-08T00:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T03:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T23:30:00+01:00",
-      "start_work_m4": "2026-02-08T01:40:00+01:00",
-      "delta_m1_m4_min": 68,
-      "delta_m1_m4_hm": "01:08"
-    },
-    {
-      "name": "Bruhn",
-      "key": "BRUHN",
-      "pos": 20,
-      "start_work_m1": "2026-02-08T00:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T04:11:44.780167+01:00",
-      "start_work_m3": "2026-02-07T23:33:00+01:00",
-      "start_work_m4": "2026-02-08T01:42:00+01:00",
-      "delta_m1_m4_min": 50,
-      "delta_m1_m4_hm": "00:50"
-    },
-    {
-      "name": "Föhring",
-      "key": "FÖHRING",
-      "pos": 21,
-      "start_work_m1": "2026-02-08T01:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T04:41:44.780167+01:00",
-      "start_work_m3": "2026-02-07T23:50:00+01:00",
-      "start_work_m4": "2026-02-08T01:45:00+01:00",
-      "delta_m1_m4_min": 33,
-      "delta_m1_m4_hm": "00:33"
-    },
-    {
-      "name": "Heyder",
-      "key": "HEYDER",
-      "pos": 22,
-      "start_work_m1": "2026-02-08T01:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T05:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T00:50:00+01:00",
-      "start_work_m4": "2026-02-08T02:00:00+01:00",
-      "delta_m1_m4_min": 28,
-      "delta_m1_m4_hm": "00:28"
-    },
-    {
-      "name": "Wulff",
-      "key": "WULFF",
-      "pos": 23,
-      "start_work_m1": "2026-02-08T01:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T05:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T01:00:00+01:00",
-      "start_work_m4": "2026-02-08T03:00:00+01:00",
-      "delta_m1_m4_min": 68,
-      "delta_m1_m4_hm": "01:08"
-    },
-    {
-      "name": "Bodmann",
-      "key": "BODMANN",
-      "pos": 24,
-      "start_work_m1": "2026-02-08T02:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T06:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T01:40:00+01:00",
-      "start_work_m4": "2026-02-08T04:00:00+01:00",
-      "delta_m1_m4_min": 108,
-      "delta_m1_m4_hm": "01:48"
-    },
-    {
-      "name": "Wille",
-      "key": "WILLE",
-      "pos": 25,
-      "start_work_m1": "2026-02-08T02:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T06:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T01:42:00+01:00",
-      "start_work_m4": "2026-02-08T06:00:00+01:00",
-      "delta_m1_m4_min": 208,
-      "delta_m1_m4_hm": "03:28"
-    },
-    {
-      "name": "Koslik",
-      "key": "KOSLIK",
-      "pos": 26,
-      "start_work_m1": "2026-02-08T02:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T07:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T01:45:00+01:00",
-      "start_work_m4": "2026-02-08T07:00:00+01:00",
-      "delta_m1_m4_min": 248,
-      "delta_m1_m4_hm": "04:08"
-    },
-    {
-      "name": "Suermann",
-      "key": "SUERMANN",
-      "pos": 27,
-      "start_work_m1": "2026-02-08T03:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T07:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T02:00:00+01:00",
-      "start_work_m4": "2026-02-08T07:00:00+01:00",
-      "delta_m1_m4_min": 228,
-      "delta_m1_m4_hm": "03:48"
-    },
-    {
-      "name": "Münker",
-      "key": "MÜNKER",
-      "pos": 28,
-      "start_work_m1": "2026-02-08T03:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T08:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T03:00:00+01:00",
-      "start_work_m4": "2026-02-08T07:30:00+01:00",
-      "delta_m1_m4_min": 238,
-      "delta_m1_m4_hm": "03:58"
-    },
-    {
-      "name": "Klein",
-      "key": "KLEIN",
-      "pos": 29,
-      "start_work_m1": "2026-02-08T03:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T08:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T04:00:00+01:00",
-      "start_work_m4": "2026-02-08T08:00:00+01:00",
-      "delta_m1_m4_min": 248,
-      "delta_m1_m4_hm": "04:08"
-    },
-    {
-      "name": "Türk",
-      "key": "TÜRK",
-      "pos": 30,
-      "start_work_m1": "2026-02-08T04:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T09:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T05:45:00+01:00",
-      "start_work_m4": "2026-02-08T08:20:00+01:00",
-      "delta_m1_m4_min": 248,
-      "delta_m1_m4_hm": "04:08"
-    },
-    {
-      "name": "Skairies",
-      "key": "SKAIRIES",
-      "pos": 31,
-      "start_work_m1": "2026-02-08T04:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T09:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T06:00:00+01:00",
-      "start_work_m4": "2026-02-08T09:00:00+01:00",
-      "delta_m1_m4_min": 268,
-      "delta_m1_m4_hm": "04:28"
-    },
-    {
-      "name": "Domeier",
-      "key": "DOMEIER",
-      "pos": 32,
-      "start_work_m1": "2026-02-08T04:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T10:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T06:00:00+01:00",
-      "start_work_m4": "2026-02-08T09:00:00+01:00",
-      "delta_m1_m4_min": 248,
-      "delta_m1_m4_hm": "04:08"
-    },
-    {
-      "name": "Engel",
-      "key": "ENGEL",
-      "pos": 33,
-      "start_work_m1": "2026-02-08T05:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T10:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T06:00:00+01:00",
-      "start_work_m4": "2026-02-08T09:00:00+01:00",
-      "delta_m1_m4_min": 228,
-      "delta_m1_m4_hm": "03:48"
-    },
-    {
-      "name": "Jakob",
-      "key": "JAKOB",
-      "pos": 34,
-      "start_work_m1": "2026-02-08T05:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T11:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T07:00:00+01:00",
-      "start_work_m4": "2026-02-08T09:20:00+01:00",
-      "delta_m1_m4_min": 228,
-      "delta_m1_m4_hm": "03:48"
-    },
-    {
-      "name": "Börnsen",
-      "key": "BÖRNSEN",
-      "pos": 35,
-      "start_work_m1": "2026-02-08T05:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T11:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T07:00:00+01:00",
-      "start_work_m4": "2026-02-08T11:00:00+01:00",
-      "delta_m1_m4_min": 308,
-      "delta_m1_m4_hm": "05:08"
-    },
-    {
-      "name": "Külzer",
-      "key": "KÜLZER",
-      "pos": 36,
-      "start_work_m1": "2026-02-08T06:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T12:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T07:00:00+01:00",
-      "start_work_m4": "2026-02-08T11:00:00+01:00",
-      "delta_m1_m4_min": 288,
-      "delta_m1_m4_hm": "04:48"
-    },
-    {
-      "name": "Spiekermann",
-      "key": "SPIEKERMANN",
-      "pos": 37,
-      "start_work_m1": "2026-02-08T06:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T12:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T07:30:00+01:00",
-      "start_work_m4": "2026-02-08T11:00:00+01:00",
-      "delta_m1_m4_min": 268,
-      "delta_m1_m4_hm": "04:28"
-    },
-    {
-      "name": "Woitanowski",
-      "key": "WOITANOWSKI",
-      "pos": 38,
-      "start_work_m1": "2026-02-08T06:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T13:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T08:00:00+01:00",
-      "start_work_m4": "2026-02-08T11:20:00+01:00",
-      "delta_m1_m4_min": 268,
-      "delta_m1_m4_hm": "04:28"
-    },
-    {
-      "name": "Hüpers",
-      "key": "HÜPERS",
-      "pos": 39,
-      "start_work_m1": "2026-02-08T07:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T13:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T08:00:00+01:00",
-      "start_work_m4": "2026-02-08T12:00:00+01:00",
-      "delta_m1_m4_min": 288,
-      "delta_m1_m4_hm": "04:48"
-    },
-    {
-      "name": "Feldes",
-      "key": "FELDES",
-      "pos": 40,
-      "start_work_m1": "2026-02-08T07:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T14:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T08:00:00+01:00",
-      "start_work_m4": "2026-02-08T13:00:00+01:00",
-      "delta_m1_m4_min": 328,
-      "delta_m1_m4_hm": "05:28"
-    },
-    {
-      "name": "Krämer",
-      "key": "KRÄMER",
-      "pos": 41,
-      "start_work_m1": "2026-02-08T07:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T14:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T08:00:00+01:00",
-      "start_work_m4": "2026-02-08T14:30:00+01:00",
-      "delta_m1_m4_min": 398,
-      "delta_m1_m4_hm": "06:38"
-    },
-    {
-      "name": "Doering",
-      "key": "DOERING",
-      "pos": 42,
-      "start_work_m1": "2026-02-08T08:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T15:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T08:15:00+01:00",
-      "start_work_m4": "2026-02-08T16:00:00+01:00",
-      "delta_m1_m4_min": 468,
-      "delta_m1_m4_hm": "07:48"
-    },
-    {
-      "name": "Crotogino",
-      "key": "CROTOGINO",
-      "pos": 43,
-      "start_work_m1": "2026-02-08T08:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T15:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T08:20:00+01:00",
-      "start_work_m4": "2026-02-08T17:00:00+01:00",
-      "delta_m1_m4_min": 508,
-      "delta_m1_m4_hm": "08:28"
-    },
-    {
-      "name": "Sattler",
-      "key": "SATTLER",
-      "pos": 44,
-      "start_work_m1": "2026-02-08T08:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T16:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T09:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Kurfeld",
-      "key": "KURFELD",
-      "pos": 45,
-      "start_work_m1": "2026-02-08T09:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T16:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T09:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Lielienthal",
-      "key": "LIELIENTHAL",
-      "pos": 46,
-      "start_work_m1": "2026-02-08T09:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T17:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T09:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Ehlers",
-      "key": "EHLERS",
-      "pos": 47,
-      "start_work_m1": "2026-02-08T09:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T17:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T09:20:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Blome",
-      "key": "BLOME",
-      "pos": 48,
-      "start_work_m1": "2026-02-08T10:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T18:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T10:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Hahn",
-      "key": "HAHN",
-      "pos": 49,
-      "start_work_m1": "2026-02-08T10:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T18:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T10:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Dietrich",
-      "key": "DIETRICH",
-      "pos": 50,
-      "start_work_m1": "2026-02-08T10:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T19:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T11:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Eidenschink",
-      "key": "EIDENSCHINK",
-      "pos": 51,
-      "start_work_m1": "2026-02-08T11:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T19:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T11:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Haala",
-      "key": "HAALA",
-      "pos": 52,
-      "start_work_m1": "2026-02-08T11:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T20:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T11:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Keyser",
-      "key": "KEYSER",
-      "pos": 53,
-      "start_work_m1": "2026-02-08T11:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T20:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T11:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Engler",
-      "key": "ENGLER",
-      "pos": 54,
-      "start_work_m1": "2026-02-08T12:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T21:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T11:20:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Fricke",
-      "key": "FRICKE",
-      "pos": 55,
-      "start_work_m1": "2026-02-08T12:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T21:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T12:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Krause",
-      "key": "KRAUSE",
-      "pos": 56,
-      "start_work_m1": "2026-02-08T12:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T22:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T12:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Köhler",
-      "key": "KÖHLER",
-      "pos": 57,
-      "start_work_m1": "2026-02-08T13:11:44.780167+01:00",
-      "start_work_m2": "2026-02-08T22:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T13:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Wachs",
-      "key": "WACHS",
-      "pos": 58,
-      "start_work_m1": "2026-02-08T13:31:44.780167+01:00",
-      "start_work_m2": "2026-02-08T23:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T14:30:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Steffens",
-      "key": "STEFFENS",
-      "pos": 59,
-      "start_work_m1": "2026-02-08T13:51:44.780167+01:00",
-      "start_work_m2": "2026-02-08T23:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T15:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Kaschke",
-      "key": "KASCHKE",
-      "pos": 60,
-      "start_work_m1": "2026-02-08T14:11:44.780167+01:00",
-      "start_work_m2": "2026-02-09T00:11:44.780167+01:00",
-      "start_work_m3": "2026-02-08T16:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Jeske",
-      "key": "JESKE",
-      "pos": 61,
-      "start_work_m1": "2026-02-08T14:31:44.780167+01:00",
-      "start_work_m2": "2026-02-09T00:41:44.780167+01:00",
-      "start_work_m3": "2026-02-08T17:00:00+01:00",
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Bachholz",
-      "key": "BACHHOLZ",
-      "pos": 62,
-      "start_work_m1": "2026-02-08T14:51:44.780167+01:00",
-      "start_work_m2": "2026-02-09T01:11:44.780167+01:00",
-      "start_work_m3": null,
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Hoffmann",
-      "key": "HOFFMANN",
-      "pos": 63,
-      "start_work_m1": "2026-02-08T15:11:44.780167+01:00",
-      "start_work_m2": "2026-02-09T01:41:44.780167+01:00",
-      "start_work_m3": null,
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Schuh",
-      "key": "SCHUH",
-      "pos": 64,
-      "start_work_m1": "2026-02-08T15:31:44.780167+01:00",
-      "start_work_m2": "2026-02-09T02:11:44.780167+01:00",
-      "start_work_m3": null,
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Reimer",
-      "key": "REIMER",
-      "pos": 65,
-      "start_work_m1": "2026-02-08T15:51:44.780167+01:00",
-      "start_work_m2": "2026-02-09T02:41:44.780167+01:00",
-      "start_work_m3": null,
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Matysik",
-      "key": "MATYSIK",
-      "pos": 66,
-      "start_work_m1": "2026-02-08T16:11:44.780167+01:00",
-      "start_work_m2": "2026-02-09T03:11:44.780167+01:00",
-      "start_work_m3": null,
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Zimmermann",
-      "key": "ZIMMERMANN",
-      "pos": 67,
-      "start_work_m1": "2026-02-08T16:31:44.780167+01:00",
-      "start_work_m2": "2026-02-09T03:41:44.780167+01:00",
-      "start_work_m3": null,
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    },
-    {
-      "name": "Krügel",
-      "key": "KRÜGEL",
-      "pos": 68,
-      "start_work_m1": "2026-02-08T16:51:44.780167+01:00",
-      "start_work_m2": "2026-02-09T04:11:44.780167+01:00",
-      "start_work_m3": null,
-      "start_work_m4": null,
-      "delta_m1_m4_min": null,
-      "delta_m1_m4_hm": null
-    }
-  ],
-  "targets_history": []
+  "gesamtboert": {
+    "generated_at": "2026-02-07 18:28",
+    "entries": [
+      {
+        "pos": 1,
+        "nachname": "Marth",
+        "vorname": "Jürgen",
+        "takt": "81,0",
+        "q_gruppe": "0",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 11:36:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "1 | Marth, Jürgen | 81,0 | 0 | ZEN | Sat Feb 07 11:36:00 CET 2026"
+      },
+      {
+        "pos": 2,
+        "nachname": "Krüger",
+        "vorname": "Caspar-Maria",
+        "takt": "82,0",
+        "q_gruppe": "5",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 11:49:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "2 | Krüger, Caspar-Maria | 82,0 | 5 | ZEN | Sat Feb 07 11:49:00 CET 2026"
+      },
+      {
+        "pos": 3,
+        "nachname": "Kordt",
+        "vorname": "Remo",
+        "takt": "83,0",
+        "q_gruppe": "0",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 11:50:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "3 | Kordt, Remo | 83,0 | 0 | ZEN | Sat Feb 07 11:50:00 CET 2026"
+      },
+      {
+        "pos": 4,
+        "nachname": "Munz",
+        "vorname": "Joachim",
+        "takt": "84,0",
+        "q_gruppe": "0",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 12:37:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "4 | Munz, Joachim | 84,0 | 0 | ZEN | Sat Feb 07 12:37:00 CET 2026"
+      },
+      {
+        "pos": 5,
+        "nachname": "Plaisant",
+        "vorname": "Julian",
+        "takt": "85,0",
+        "q_gruppe": "5",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 15:16:00 CET 2026",
+        "bemerkung": "90 Min.",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "5 | Plaisant, Julian | 85,0 | 5 | ZEN | Sat Feb 07 15:16:00 CET 2026 | 90 Min."
+      },
+      {
+        "pos": 6,
+        "nachname": "Escher",
+        "vorname": "Franck",
+        "takt": "86,0",
+        "q_gruppe": "0",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 16:27:00 CET 2026",
+        "bemerkung": "45 Min.",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "6 | Escher, Franck | 86,0 | 0 | ZEN | Sat Feb 07 16:27:00 CET 2026 | 45 Min."
+      },
+      {
+        "pos": 7,
+        "nachname": "Krebs",
+        "vorname": "Michael",
+        "takt": "87,0",
+        "q_gruppe": "0",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 16:30:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "7 | Krebs, Michael | 87,0 | 0 | ZEN | Sat Feb 07 16:30:00 CET 2026"
+      },
+      {
+        "pos": 8,
+        "nachname": "Schran",
+        "vorname": "Oliver",
+        "takt": "88,0",
+        "q_gruppe": "0",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 16:45:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "8 | Schran, Oliver | 88,0 | 0 | ZEN | Sat Feb 07 16:45:00 CET 2026"
+      },
+      {
+        "pos": 9,
+        "nachname": "Glenewinkel",
+        "vorname": "Jan-Steffen",
+        "takt": "89,0",
+        "q_gruppe": "0",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 18:02:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "9 | Glenewinkel, Jan-Steffen | 89,0 | 0 | ZEN | Sat Feb 07 18:02:00 CET 2026"
+      },
+      {
+        "pos": 10,
+        "nachname": "Wald",
+        "vorname": "Mark",
+        "takt": "90,0",
+        "q_gruppe": "3",
+        "was": "ZEN",
+        "zeit": "Sat Feb 07 18:09:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "10 | Wald, Mark | 90,0 | 3 | ZEN | Sat Feb 07 18:09:00 CET 2026"
+      },
+      {
+        "pos": 11,
+        "nachname": "Hansen",
+        "vorname": "Hinnerk",
+        "takt": "91,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 15:12:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "11 | Hansen, Hinnerk | 91,0 | 0 | ZUG | Fri Feb 06 15:12:00 CET 2026"
+      },
+      {
+        "pos": 12,
+        "nachname": "Wäntig",
+        "vorname": "Lutz",
+        "takt": "92,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 15:29:00 CET 2026",
+        "bemerkung": "45 Min.",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "12 | Wäntig, Lutz | 92,0 | 0 | ZUG | Fri Feb 06 15:29:00 CET 2026 | 45 Min."
+      },
+      {
+        "pos": 13,
+        "nachname": "Lehwald",
+        "vorname": "Christian",
+        "takt": "93,0",
+        "q_gruppe": "5",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 15:29:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "13 | Lehwald, Christian | 93,0 | 5 | ZUG | Fri Feb 06 15:29:00 CET 2026"
+      },
+      {
+        "pos": 14,
+        "nachname": "Dalecki",
+        "vorname": "Niklas",
+        "takt": "94,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 15:30:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "14 | Dalecki, Niklas | 94,0 | 0 | ZUG | Fri Feb 06 15:30:00 CET 2026"
+      },
+      {
+        "pos": 15,
+        "nachname": "Hewig",
+        "vorname": "Marius Paul",
+        "takt": "95,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 16:04:00 CET 2026",
+        "bemerkung": "",
+        "richtung": "↓",
+        "verguetung": false,
+        "raw": "15 | Hewig, Marius Paul | 95,0 | 3 | ZUG | Fri Feb 06 16:04:00 CET 2026 | ↓"
+      },
+      {
+        "pos": 16,
+        "nachname": "Petersen",
+        "vorname": "Yannick",
+        "takt": "96,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 16:04:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "16 | Petersen, Yannick | 96,0 | 3 | ZUG | Fri Feb 06 16:04:00 CET 2026"
+      },
+      {
+        "pos": 17,
+        "nachname": "Malik",
+        "vorname": "Christoph",
+        "takt": "97,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 17:18:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "17 | Malik, Christoph | 97,0 | 0 | ZUG | Fri Feb 06 17:18:00 CET 2026"
+      },
+      {
+        "pos": 18,
+        "nachname": "Tietjens",
+        "vorname": "Sven Kare",
+        "takt": "98,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 17:28:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "18 | Tietjens, Sven Kare | 98,0 | 0 | ZUG | Fri Feb 06 17:28:00 CET 2026"
+      },
+      {
+        "pos": 19,
+        "nachname": "Bruhn",
+        "vorname": "Stefan",
+        "takt": "99,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 18:17:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "19 | Bruhn, Stefan | 99,0 | 0 | ZUG | Fri Feb 06 18:17:00 CET 2026"
+      },
+      {
+        "pos": 20,
+        "nachname": "Föhring",
+        "vorname": "Nils",
+        "takt": "100,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 18:47:00 CET 2026",
+        "bemerkung": "",
+        "richtung": "↓",
+        "verguetung": false,
+        "raw": "20 | Föhring, Nils | 100,0 | 0 | ZUG | Fri Feb 06 18:47:00 CET 2026 | ↓"
+      },
+      {
+        "pos": 21,
+        "nachname": "Heyder",
+        "vorname": "Justus",
+        "takt": "1,0",
+        "q_gruppe": "3",
+        "was": "IdB",
+        "zeit": "Fri Feb 06 20:30:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "21 | Heyder, Justus | 1,0 | 3 | IdB | Fri Feb 06 20:30:00 CET 2026"
+      },
+      {
+        "pos": 22,
+        "nachname": "Wulff",
+        "vorname": "Stephan",
+        "takt": "2,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 20:49:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "22 | Wulff, Stephan | 2,0 | 0 | ZUG | Fri Feb 06 20:49:00 CET 2026"
+      },
+      {
+        "pos": 23,
+        "nachname": "Bodmann",
+        "vorname": "Christoph",
+        "takt": "3,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 21:02:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "23 | Bodmann, Christoph | 3,0 | 0 | ZUG | Fri Feb 06 21:02:00 CET 2026"
+      },
+      {
+        "pos": 24,
+        "nachname": "Wille",
+        "vorname": "Christian",
+        "takt": "4,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 21:37:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "24 | Wille, Christian | 4,0 | 0 | ZUG | Fri Feb 06 21:37:00 CET 2026"
+      },
+      {
+        "pos": 25,
+        "nachname": "Koslik",
+        "vorname": "Kevin",
+        "takt": "5,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 22:12:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "25 | Koslik, Kevin | 5,0 | 0 | ZUG | Fri Feb 06 22:12:00 CET 2026"
+      },
+      {
+        "pos": 26,
+        "nachname": "Suermann",
+        "vorname": "Nik",
+        "takt": "6,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 22:19:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "26 | Suermann, Nik | 6,0 | 0 | ZUG | Fri Feb 06 22:19:00 CET 2026"
+      },
+      {
+        "pos": 27,
+        "nachname": "Münker",
+        "vorname": "Niels",
+        "takt": "7,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 22:22:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "27 | Münker, Niels | 7,0 | 0 | ZUG | Fri Feb 06 22:22:00 CET 2026"
+      },
+      {
+        "pos": 28,
+        "nachname": "Klein",
+        "vorname": "Sebastian",
+        "takt": "8,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Fri Feb 06 22:31:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "28 | Klein, Sebastian | 8,0 | 0 | ZUG | Fri Feb 06 22:31:00 CET 2026"
+      },
+      {
+        "pos": 29,
+        "nachname": "Türk",
+        "vorname": "Maximilian",
+        "takt": "9,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 00:18:00 CET 2026",
+        "bemerkung": "",
+        "richtung": "↓",
+        "verguetung": false,
+        "raw": "29 | Türk, Maximilian | 9,0 | 0 | ZUG | Sat Feb 07 00:18:00 CET 2026 | ↓"
+      },
+      {
+        "pos": 30,
+        "nachname": "Skairies",
+        "vorname": "Thomas",
+        "takt": "10,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 00:32:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "30 | Skairies, Thomas | 10,0 | 0 | ZUG | Sat Feb 07 00:32:00 CET 2026"
+      },
+      {
+        "pos": 31,
+        "nachname": "Domeier",
+        "vorname": "Stefan",
+        "takt": "11,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 00:36:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "31 | Domeier, Stefan | 11,0 | 0 | ZUG | Sat Feb 07 00:36:00 CET 2026"
+      },
+      {
+        "pos": 32,
+        "nachname": "Engel",
+        "vorname": "Alexander",
+        "takt": "12,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 00:38:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "32 | Engel, Alexander | 12,0 | 3 | ZUG | Sat Feb 07 00:38:00 CET 2026"
+      },
+      {
+        "pos": 33,
+        "nachname": "Jakob",
+        "vorname": "Peter",
+        "takt": "13,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 03:08:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "33 | Jakob, Peter | 13,0 | 0 | ZUG | Sat Feb 07 03:08:00 CET 2026"
+      },
+      {
+        "pos": 34,
+        "nachname": "Börnsen",
+        "vorname": "Curt",
+        "takt": "14,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 03:18:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "34 | Börnsen, Curt | 14,0 | 0 | ZUG | Sat Feb 07 03:18:00 CET 2026"
+      },
+      {
+        "pos": 35,
+        "nachname": "Külzer",
+        "vorname": "Sascha",
+        "takt": "15,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 03:21:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "35 | Külzer, Sascha | 15,0 | 3 | ZUG | Sat Feb 07 03:21:00 CET 2026"
+      },
+      {
+        "pos": 36,
+        "nachname": "Spiekermann",
+        "vorname": "Fred",
+        "takt": "16,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 03:53:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "36 | Spiekermann, Fred | 16,0 | 0 | ZUG | Sat Feb 07 03:53:00 CET 2026"
+      },
+      {
+        "pos": 37,
+        "nachname": "Woitanowski",
+        "vorname": "Tim",
+        "takt": "17,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 04:00:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "37 | Woitanowski, Tim | 17,0 | 3 | ZUG | Sat Feb 07 04:00:00 CET 2026"
+      },
+      {
+        "pos": 38,
+        "nachname": "Hüpers",
+        "vorname": "Peter",
+        "takt": "18,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 04:14:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "38 | Hüpers, Peter | 18,0 | 0 | ZUG | Sat Feb 07 04:14:00 CET 2026"
+      },
+      {
+        "pos": 39,
+        "nachname": "Feldes",
+        "vorname": "Marco",
+        "takt": "19,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 04:35:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "39 | Feldes, Marco | 19,0 | 0 | ZUG | Sat Feb 07 04:35:00 CET 2026"
+      },
+      {
+        "pos": 40,
+        "nachname": "Krämer",
+        "vorname": "Jonas",
+        "takt": "20,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 06:28:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "40 | Krämer, Jonas | 20,0 | 0 | ZUG | Sat Feb 07 06:28:00 CET 2026"
+      },
+      {
+        "pos": 41,
+        "nachname": "Doering",
+        "vorname": "Lars",
+        "takt": "21,0",
+        "q_gruppe": "0",
+        "was": "IdB",
+        "zeit": "Sat Feb 07 06:40:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "41 | Doering, Lars | 21,0 | 0 | IdB | Sat Feb 07 06:40:00 CET 2026"
+      },
+      {
+        "pos": 42,
+        "nachname": "Crotogino",
+        "vorname": "Philipp",
+        "takt": "22,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 06:45:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "42 | Crotogino, Philipp | 22,0 | 0 | ZUG | Sat Feb 07 06:45:00 CET 2026"
+      },
+      {
+        "pos": 43,
+        "nachname": "Sattler",
+        "vorname": "Olaf",
+        "takt": "23,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 07:24:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "43 | Sattler, Olaf | 23,0 | 0 | ZUG | Sat Feb 07 07:24:00 CET 2026"
+      },
+      {
+        "pos": 44,
+        "nachname": "Kurfeld",
+        "vorname": "Jan",
+        "takt": "24,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 07:32:00 CET 2026",
+        "bemerkung": "",
+        "richtung": "↓",
+        "verguetung": false,
+        "raw": "44 | Kurfeld, Jan | 24,0 | 3 | ZUG | Sat Feb 07 07:32:00 CET 2026 | ↓"
+      },
+      {
+        "pos": 45,
+        "nachname": "Lielienthal",
+        "vorname": "Jörn",
+        "takt": "25,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 07:43:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "45 | Lielienthal, Jörn | 25,0 | 0 | ZUG | Sat Feb 07 07:43:00 CET 2026"
+      },
+      {
+        "pos": 46,
+        "nachname": "Ehlers",
+        "vorname": "Sören",
+        "takt": "26,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 08:33:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "46 | Ehlers, Sören | 26,0 | 3 | ZUG | Sat Feb 07 08:33:00 CET 2026"
+      },
+      {
+        "pos": 47,
+        "nachname": "Blome",
+        "vorname": "Henning",
+        "takt": "27,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 08:50:00 CET 2026",
+        "bemerkung": "max tkt 95",
+        "richtung": "↑",
+        "verguetung": true,
+        "raw": "47 | Blome, Henning | 27,0 | 0 | ZUG | Sat Feb 07 08:50:00 CET 2026 | ↑$$ | max tkt 95"
+      },
+      {
+        "pos": 48,
+        "nachname": "Hahn",
+        "vorname": "Peter",
+        "takt": "28,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 09:32:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "48 | Hahn, Peter | 28,0 | 0 | ZUG | Sat Feb 07 09:32:00 CET 2026"
+      },
+      {
+        "pos": 49,
+        "nachname": "Dietrich",
+        "vorname": "Thomas",
+        "takt": "29,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 09:42:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "49 | Dietrich, Thomas | 29,0 | 0 | ZUG | Sat Feb 07 09:42:00 CET 2026"
+      },
+      {
+        "pos": 50,
+        "nachname": "Eidenschink",
+        "vorname": "Klaus",
+        "takt": "30,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 09:43:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "50 | Eidenschink, Klaus | 30,0 | 0 | ZUG | Sat Feb 07 09:43:00 CET 2026"
+      },
+      {
+        "pos": 51,
+        "nachname": "Haala",
+        "vorname": "Klaus Werner",
+        "takt": "31,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 09:44:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "51 | Haala, Klaus Werner | 31,0 | 0 | ZUG | Sat Feb 07 09:44:00 CET 2026"
+      },
+      {
+        "pos": 52,
+        "nachname": "Keyser",
+        "vorname": "Torben",
+        "takt": "32,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 10:43:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "52 | Keyser, Torben | 32,0 | 0 | ZUG | Sat Feb 07 10:43:00 CET 2026"
+      },
+      {
+        "pos": 53,
+        "nachname": "Engler",
+        "vorname": "Sören",
+        "takt": "33,0",
+        "q_gruppe": "3",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 11:05:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "53 | Engler, Sören | 33,0 | 3 | ZUG | Sat Feb 07 11:05:00 CET 2026"
+      },
+      {
+        "pos": 54,
+        "nachname": "Fricke",
+        "vorname": "Michell",
+        "takt": "34,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 11:10:00 CET 2026",
+        "bemerkung": "",
+        "richtung": "↓",
+        "verguetung": false,
+        "raw": "54 | Fricke, Michell | 34,0 | 0 | ZUG | Sat Feb 07 11:10:00 CET 2026 | ↓"
+      },
+      {
+        "pos": 55,
+        "nachname": "Krause",
+        "vorname": "Malte",
+        "takt": "35,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 11:15:00 CET 2026",
+        "bemerkung": "",
+        "richtung": "↓",
+        "verguetung": false,
+        "raw": "55 | Krause, Malte | 35,0 | 0 | ZUG | Sat Feb 07 11:15:00 CET 2026 | ↓"
+      },
+      {
+        "pos": 56,
+        "nachname": "Köhler",
+        "vorname": "Olaf",
+        "takt": "36,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 11:22:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "56 | Köhler, Olaf | 36,0 | 0 | ZUG | Sat Feb 07 11:22:00 CET 2026"
+      },
+      {
+        "pos": 57,
+        "nachname": "Wachs",
+        "vorname": "Merten",
+        "takt": "37,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 12:05:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "57 | Wachs, Merten | 37,0 | 0 | ZUG | Sat Feb 07 12:05:00 CET 2026"
+      },
+      {
+        "pos": 58,
+        "nachname": "Steffens",
+        "vorname": "Micha",
+        "takt": "38,0",
+        "q_gruppe": "5",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 12:30:00 CET 2026",
+        "bemerkung": "max takt 100 / WL-See=75 Min",
+        "richtung": "↑",
+        "verguetung": true,
+        "raw": "58 | Steffens, Micha | 38,0 | 5 | ZUG | Sat Feb 07 12:30:00 CET 2026 | ↑$$ | max takt 100 / WL-See=75 Min"
+      },
+      {
+        "pos": 59,
+        "nachname": "Kaschke",
+        "vorname": "Henning",
+        "takt": "39,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 13:12:00 CET 2026",
+        "bemerkung": "",
+        "richtung": "↓",
+        "verguetung": true,
+        "raw": "59 | Kaschke, Henning | 39,0 | 0 | ZUG | Sat Feb 07 13:12:00 CET 2026 | ↓$$"
+      },
+      {
+        "pos": 60,
+        "nachname": "Jeske",
+        "vorname": "Lutz",
+        "takt": "40,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 14:35:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "60 | Jeske, Lutz | 40,0 | 0 | ZUG | Sat Feb 07 14:35:00 CET 2026"
+      },
+      {
+        "pos": 61,
+        "nachname": "Bachholz",
+        "vorname": "Carsten",
+        "takt": "41,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 14:35:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "61 | Bachholz, Carsten | 41,0 | 0 | ZUG | Sat Feb 07 14:35:00 CET 2026"
+      },
+      {
+        "pos": 62,
+        "nachname": "Hoffmann",
+        "vorname": "Heiko",
+        "takt": "42,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 14:36:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "62 | Hoffmann, Heiko | 42,0 | 0 | ZUG | Sat Feb 07 14:36:00 CET 2026"
+      },
+      {
+        "pos": 63,
+        "nachname": "Schuh",
+        "vorname": "Erskine",
+        "takt": "43,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 15:08:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "63 | Schuh, Erskine | 43,0 | 0 | ZUG | Sat Feb 07 15:08:00 CET 2026"
+      },
+      {
+        "pos": 64,
+        "nachname": "Reimer",
+        "vorname": "Sven",
+        "takt": "44,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 15:39:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "64 | Reimer, Sven | 44,0 | 0 | ZUG | Sat Feb 07 15:39:00 CET 2026"
+      },
+      {
+        "pos": 65,
+        "nachname": "Matysik",
+        "vorname": "Eike",
+        "takt": "45,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 15:46:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "65 | Matysik, Eike | 45,0 | 0 | ZUG | Sat Feb 07 15:46:00 CET 2026"
+      },
+      {
+        "pos": 66,
+        "nachname": "Zimmermann",
+        "vorname": "Martin",
+        "takt": "46,0",
+        "q_gruppe": "0",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 17:09:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "66 | Zimmermann, Martin | 46,0 | 0 | ZUG | Sat Feb 07 17:09:00 CET 2026"
+      },
+      {
+        "pos": 67,
+        "nachname": "Krügel",
+        "vorname": "Mathias",
+        "takt": "47,0",
+        "q_gruppe": "2",
+        "was": "ZUG",
+        "zeit": "Sat Feb 07 17:29:00 CET 2026",
+        "bemerkung": "",
+        "richtung": null,
+        "verguetung": false,
+        "raw": "67 | Krügel, Mathias | 47,0 | 2 | ZUG | Sat Feb 07 17:29:00 CET 2026"
+      }
+    ]
+  },
+  "seelotsen": {
+    "generated_at": "2026-02-07 18:28",
+    "entries": [
+      {
+        "nr": 1,
+        "nachname": "Weise",
+        "vorname": "Tom",
+        "zeit": "Sat Feb 07 18:09:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "HOS",
+        "from": null,
+        "to": null,
+        "raw": "1 | Weise, Tom | Sat Feb 07 18:09:00 CET 2026 | Seebört | HOS"
+      },
+      {
+        "nr": 2,
+        "nachname": "Pitschmann",
+        "vorname": "Gerd",
+        "zeit": "Sat Feb 07 18:02:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "HOS",
+        "from": null,
+        "to": null,
+        "raw": "2 | Pitschmann, Gerd | Sat Feb 07 18:02:00 CET 2026 | Seebört | HOS"
+      },
+      {
+        "nr": 3,
+        "nachname": "Nagel",
+        "vorname": "Volker",
+        "zeit": "Sat Feb 07 16:45:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "Leerfahrt",
+        "from": "KLT",
+        "to": "HOS",
+        "raw": "3 | Nagel, Volker | Sat Feb 07 16:45:00 CET 2026 | Seebört | Leerfahrt (KLT-HOS)"
+      },
+      {
+        "nr": 4,
+        "nachname": "Czurda",
+        "vorname": "Crischan",
+        "zeit": "Sat Feb 07 16:30:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "PATRIA SEAWAYS",
+        "from": "SWK",
+        "to": "KLT",
+        "raw": "4 | Czurda, Crischan | Sat Feb 07 16:30:00 CET 2026 | Seebört | PATRIA SEAWAYS (SWK-KLT)"
+      },
+      {
+        "nr": 5,
+        "nachname": "Arndt",
+        "vorname": "Michael",
+        "zeit": "Sat Feb 07 16:27:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "JOHN T. ESSBERGER",
+        "from": "KLT",
+        "to": "HOS",
+        "raw": "5 | Arndt, Michael | Sat Feb 07 16:27:00 CET 2026 | Seebört | JOHN T. ESSBERGER (KLT-HOS)"
+      },
+      {
+        "nr": 6,
+        "nachname": "Röhl",
+        "vorname": "Jens",
+        "zeit": "Sat Feb 07 15:16:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "UNITAR",
+        "from": "HOS",
+        "to": "RÜB",
+        "raw": "6 | Röhl, Jens | Sat Feb 07 15:16:00 CET 2026 | Kanalbört | UNITAR (HOS-RÜB)"
+      },
+      {
+        "nr": 7,
+        "nachname": "Heeren",
+        "vorname": "Rainer",
+        "zeit": "Sat Feb 07 12:37:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "from": null,
+        "to": null,
+        "raw": "7 | Heeren, Rainer | Sat Feb 07 12:37:00 CET 2026 | Kanalbört | RÜB"
+      },
+      {
+        "nr": 8,
+        "nachname": "Jeschek",
+        "vorname": "Hauke",
+        "zeit": "Sat Feb 07 11:50:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "Leerfahrt",
+        "from": "KLT",
+        "to": "HOS",
+        "raw": "8 | Jeschek, Hauke | Sat Feb 07 11:50:00 CET 2026 | Seebört | Leerfahrt (KLT-HOS)"
+      },
+      {
+        "nr": 9,
+        "nachname": "Fehse",
+        "vorname": "Torsten",
+        "zeit": "Sat Feb 07 11:49:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "from": null,
+        "to": null,
+        "raw": "9 | Fehse, Torsten | Sat Feb 07 11:49:00 CET 2026 | Kanalbört | RÜB"
+      },
+      {
+        "nr": 10,
+        "nachname": "Stoislow",
+        "vorname": "Alexander",
+        "zeit": "Sat Feb 07 11:36:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "from": null,
+        "to": null,
+        "raw": "10 | Stoislow, Alexander | Sat Feb 07 11:36:00 CET 2026 | Kanalbört | RÜB"
+      },
+      {
+        "nr": 11,
+        "nachname": "Böttger",
+        "vorname": "Oleif Johann",
+        "zeit": "Sat Feb 07 11:08:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "RÜB",
+        "from": null,
+        "to": null,
+        "raw": "11 | Böttger, Oleif Johann | Sat Feb 07 11:08:00 CET 2026 | Kanalbört | RÜB"
+      },
+      {
+        "nr": 12,
+        "nachname": "Konietzka",
+        "vorname": "Stefan",
+        "zeit": "Sat Feb 07 11:00:00 CET 2026",
+        "aufgabe": "Seebört",
+        "fahrzeug": "WL-SEE",
+        "from": "HOS",
+        "to": "HOS",
+        "raw": "12 | Konietzka, Stefan | Sat Feb 07 11:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)"
+      },
+      {
+        "nr": 13,
+        "nachname": "Merschmann",
+        "vorname": "Tim",
+        "zeit": "Sat Feb 07 10:34:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "OHIOBORG",
+        "from": "RÜB",
+        "to": "HOS",
+        "raw": "13 | Merschmann, Tim | Sat Feb 07 10:34:00 CET 2026 | Kanalbört | OHIOBORG (RÜB-HOS)"
+      },
+      {
+        "nr": 14,
+        "nachname": "Wachsmuth",
+        "vorname": "Martin",
+        "zeit": "Sat Feb 07 10:07:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "LADY ARIANE",
+        "from": "RÜB",
+        "to": "HOS",
+        "raw": "14 | Wachsmuth, Martin | Sat Feb 07 10:07:00 CET 2026 | Kanalbört | LADY ARIANE (RÜB-HOS)"
+      },
+      {
+        "nr": 15,
+        "nachname": "Vogel",
+        "vorname": "Peter",
+        "zeit": "Sat Feb 07 09:38:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "JAN D",
+        "from": "RÜB",
+        "to": "HOS",
+        "raw": "15 | Vogel, Peter | Sat Feb 07 09:38:00 CET 2026 | Kanalbört | JAN D (RÜB-HOS)"
+      },
+      {
+        "nr": 16,
+        "nachname": "Hren",
+        "vorname": "Alexander",
+        "zeit": "Sat Feb 07 09:30:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "DREAM SYRAX",
+        "from": "RÜB",
+        "to": "HOS",
+        "raw": "16 | Hren, Alexander | Sat Feb 07 09:30:00 CET 2026 | Kanalbört | DREAM SYRAX (RÜB-HOS)"
+      },
+      {
+        "nr": 17,
+        "nachname": "Buch",
+        "vorname": "Helge",
+        "zeit": "Sat Feb 07 08:48:00 CET 2026",
+        "aufgabe": "Kanalbört",
+        "fahrzeug": "ELBIA",
+        "from": "RÜB",
+        "to": "HOS",
+        "raw": "17 | Buch, Helge | Sat Feb 07 08:48:00 CET 2026 | Kanalbört | ELBIA (RÜB-HOS)"
+      }
+    ]
+  },
+  "kanal": {
+    "generated_at": "2026-02-07T18:28:33.184312+01:00",
+    "ships": [
+      {
+        "name": "AMADEUSAQUAMARIJN",
+        "first_seen": "2026-02-07T15:45:30.902112+01:00",
+        "rueb_eta": "2026-02-07T19:41:35+01:00",
+        "lock_eta": "2026-02-08T00:15:00+01:00",
+        "delta_first_rueb_min": 236,
+        "delta_first_rueb_hm": "03:56",
+        "delta_rueb_lock_min": 273,
+        "delta_rueb_lock_hm": "04:33",
+        "track": {
+          "lat": "54.172714948654175",
+          "lon": "9.442657828330994",
+          "sog": "3.3541019662496847"
+        }
+      },
+      {
+        "name": "DUENE",
+        "first_seen": "2026-02-07T13:20:25.304004+01:00",
+        "rueb_eta": "2026-02-07T18:18:12+01:00",
+        "lock_eta": "2026-02-07T19:52:00+01:00",
+        "delta_first_rueb_min": 297,
+        "delta_first_rueb_hm": "04:57",
+        "delta_rueb_lock_min": 93,
+        "delta_rueb_lock_hm": "01:33",
+        "track": {
+          "lat": "54.263116121292114",
+          "lon": "9.62479054927826",
+          "sog": "3.48209706929603"
+        }
+      },
+      {
+        "name": "LADYANNEKE",
+        "first_seen": "2026-02-07T13:20:25.304027+01:00",
+        "rueb_eta": "2026-02-07T19:28:09+01:00",
+        "lock_eta": "2026-02-08T00:02:00+01:00",
+        "delta_first_rueb_min": 367,
+        "delta_first_rueb_hm": "06:07",
+        "delta_rueb_lock_min": 273,
+        "delta_rueb_lock_hm": "04:33",
+        "track": {
+          "lat": "54.18165743350983",
+          "lon": "9.480611085891724",
+          "sog": "3.48209706929603"
+        }
+      },
+      {
+        "name": "MARJATTA",
+        "first_seen": "2026-02-07T13:20:25.303878+01:00",
+        "rueb_eta": "2026-02-07T21:40:09+01:00",
+        "lock_eta": "2026-02-08T02:13:00+01:00",
+        "delta_first_rueb_min": 499,
+        "delta_first_rueb_hm": "08:19",
+        "delta_rueb_lock_min": 272,
+        "delta_rueb_lock_hm": "04:32",
+        "track": {
+          "lat": "54.00644481182098",
+          "lon": "9.294868111610413",
+          "sog": "3.5355339059327378"
+        }
+      },
+      {
+        "name": "BREBCUXHAVEN",
+        "first_seen": "2026-02-07T15:45:30.902407+01:00",
+        "rueb_eta": "2026-02-07T22:42:09+01:00",
+        "lock_eta": "2026-02-08T03:39:00+01:00",
+        "delta_first_rueb_min": 416,
+        "delta_first_rueb_hm": "06:56",
+        "delta_rueb_lock_min": 296,
+        "delta_rueb_lock_hm": "04:56",
+        "track": {
+          "lat": "53.91068458557129",
+          "lon": "9.176765084266664",
+          "sog": "3.181980515339464"
+        }
+      },
+      {
+        "name": "LADYMONIQUE",
+        "first_seen": "2026-02-07T15:45:30.902377+01:00",
+        "rueb_eta": "2026-02-07T23:44:37+01:00",
+        "lock_eta": "2026-02-08T04:18:00+01:00",
+        "delta_first_rueb_min": 479,
+        "delta_first_rueb_hm": "07:59",
+        "delta_rueb_lock_min": 273,
+        "delta_rueb_lock_hm": "04:33",
+        "track": {
+          "lat": "53.90500903129578",
+          "lon": "9.16634202003479",
+          "sog": "3.3634060117684275"
+        }
+      },
+      {
+        "name": "LAURA",
+        "first_seen": "2026-02-07T15:45:30.902442+01:00",
+        "rueb_eta": "2026-02-07T23:47:39+01:00",
+        "lock_eta": "2026-02-08T04:22:00+01:00",
+        "delta_first_rueb_min": 482,
+        "delta_first_rueb_hm": "08:02",
+        "delta_rueb_lock_min": 274,
+        "delta_rueb_lock_hm": "04:34",
+        "track": {
+          "lat": "53.89984846115112",
+          "lon": "9.157270789146423",
+          "sog": "3.7165171868296265"
+        }
+      },
+      {
+        "name": "JAND.",
+        "first_seen": "2026-02-07T13:20:25.303367+01:00",
+        "rueb_eta": "2026-02-07T17:14:10+01:00",
+        "lock_eta": "2026-02-07T21:46:00+01:00",
+        "delta_first_rueb_min": 233,
+        "delta_first_rueb_hm": "03:53",
+        "delta_rueb_lock_min": 271,
+        "delta_rueb_lock_hm": "04:31",
+        "track": {
+          "lat": "54.34211254119873",
+          "lon": "9.751401543617247",
+          "sog": "3.553167600887974"
+        }
+      },
+      {
+        "name": "CHARLOTTEESSBERGER",
+        "first_seen": "2026-02-07T13:20:25.304050+01:00",
+        "rueb_eta": "2026-02-07T19:37:09+01:00",
+        "lock_eta": "2026-02-08T00:10:00+01:00",
+        "delta_first_rueb_min": 376,
+        "delta_first_rueb_hm": "06:16",
+        "delta_rueb_lock_min": 272,
+        "delta_rueb_lock_hm": "04:32",
+        "track": {
+          "lat": "54.17575657367706",
+          "lon": "9.453322291374207",
+          "sog": "3.3541019662496847"
+        }
+      },
+      {
+        "name": "DREAMSYRAX",
+        "first_seen": "2026-02-07T13:20:25.303387+01:00",
+        "rueb_eta": "2026-02-07T15:13:41+01:00",
+        "lock_eta": "2026-02-07T19:38:00+01:00",
+        "delta_first_rueb_min": 113,
+        "delta_first_rueb_hm": "01:53",
+        "delta_rueb_lock_min": 264,
+        "delta_rueb_lock_hm": "04:24",
+        "track": {
+          "lat": "54.37056541442871",
+          "lon": "10.110340118408203",
+          "sog": "3.092329219213245"
+        }
+      },
+      {
+        "name": "COEGISELA",
+        "first_seen": "2026-02-07T15:45:30.902511+01:00",
+        "rueb_eta": "2026-02-07T21:28:39+01:00",
+        "lock_eta": "2026-02-08T02:03:00+01:00",
+        "delta_first_rueb_min": 343,
+        "delta_first_rueb_hm": "05:43",
+        "delta_rueb_lock_min": 274,
+        "delta_rueb_lock_hm": "04:34",
+        "track": {
+          "lat": "54.01791393756866",
+          "lon": "9.298145771026613",
+          "sog": "3.2882366094914763"
+        }
+      },
+      {
+        "name": "GASPEACE",
+        "first_seen": "2026-02-07T13:20:25.303959+01:00",
+        "rueb_eta": "2026-02-07T21:32:40+01:00",
+        "lock_eta": "2026-02-08T02:06:00+01:00",
+        "delta_first_rueb_min": 492,
+        "delta_first_rueb_hm": "08:12",
+        "delta_rueb_lock_min": 273,
+        "delta_rueb_lock_hm": "04:33",
+        "track": {
+          "lat": "54.01202380657196",
+          "lon": "9.296134114265442",
+          "sog": "3.0413812651491097"
+        }
+      },
+      {
+        "name": "OHIOBORG",
+        "first_seen": "2026-02-07T13:20:25.303411+01:00",
+        "rueb_eta": "2026-02-07T17:27:41+01:00",
+        "lock_eta": "2026-02-07T21:57:00+01:00",
+        "delta_first_rueb_min": 247,
+        "delta_first_rueb_hm": "04:07",
+        "delta_rueb_lock_min": 269,
+        "delta_rueb_lock_hm": "04:29",
+        "track": {
+          "lat": "54.33038592338562",
+          "lon": "9.727953672409058",
+          "sog": "3.7165171868296265"
+        }
+      },
+      {
+        "name": "ELBIA",
+        "first_seen": "2026-02-07T13:20:25.303431+01:00",
+        "rueb_eta": "2026-02-07T15:07:07+01:00",
+        "lock_eta": "2026-02-07T19:31:00+01:00",
+        "delta_first_rueb_min": 106,
+        "delta_first_rueb_hm": "01:46",
+        "delta_rueb_lock_min": 263,
+        "delta_rueb_lock_hm": "04:23",
+        "track": {
+          "lat": "54.367470145225525",
+          "lon": "10.127463340759277",
+          "sog": "1.8200274723201295"
+        }
+      },
+      {
+        "name": "LADYARIANE",
+        "first_seen": "2026-02-07T13:20:25.303519+01:00",
+        "rueb_eta": "2026-02-07T17:21:35+01:00",
+        "lock_eta": "2026-02-07T21:50:00+01:00",
+        "delta_first_rueb_min": 241,
+        "delta_first_rueb_hm": "04:01",
+        "delta_rueb_lock_min": 268,
+        "delta_rueb_lock_hm": "04:28",
+        "track": {
+          "lat": "54.33805167675018",
+          "lon": "9.74338173866272",
+          "sog": "3.553167600887974"
+        }
+      },
+      {
+        "name": "ELBSPRING",
+        "first_seen": "2026-02-07T13:20:25.303936+01:00",
+        "rueb_eta": "2026-02-07T21:44:39+01:00",
+        "lock_eta": "2026-02-08T02:19:00+01:00",
+        "delta_first_rueb_min": 504,
+        "delta_first_rueb_hm": "08:24",
+        "delta_rueb_lock_min": 274,
+        "delta_rueb_lock_hm": "04:34",
+        "track": {
+          "lat": "53.99108111858368",
+          "lon": "9.287384748458862",
+          "sog": "3.5794552658190883"
+        }
+      },
+      {
+        "name": "ZAANBORG",
+        "first_seen": "2026-02-07T13:20:25.303982+01:00",
+        "rueb_eta": "2026-02-07T19:33:42+01:00",
+        "lock_eta": "2026-02-08T00:04:00+01:00",
+        "delta_first_rueb_min": 373,
+        "delta_first_rueb_hm": "06:13",
+        "delta_rueb_lock_min": 270,
+        "delta_rueb_lock_hm": "04:30",
+        "track": {
+          "lat": "54.178192019462585",
+          "lon": "9.464115500450134",
+          "sog": "3.48209706929603"
+        }
+      },
+      {
+        "name": "JOHNT.ESSBERGER",
+        "first_seen": "2026-02-07T17:26:55.452869+01:00",
+        "rueb_eta": null,
+        "lock_eta": "2026-02-07T19:37:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "54.38078999519349",
+          "lon": "10.187142491340637",
+          "sog": "15.48"
+        }
+      },
+      {
+        "name": "BALTICSPLIT",
+        "first_seen": "2026-02-07T13:20:25.303638+01:00",
+        "rueb_eta": "2026-02-07T15:34:12+01:00",
+        "lock_eta": "2026-02-07T21:33:00+01:00",
+        "delta_first_rueb_min": 133,
+        "delta_first_rueb_hm": "02:13",
+        "delta_rueb_lock_min": 358,
+        "delta_rueb_lock_hm": "05:58",
+        "track": {
+          "lat": "54.04552459716796",
+          "lon": "9.304336309432983",
+          "sog": "0.5590169943749476"
+        }
+      },
+      {
+        "name": "SALTSTRAUM",
+        "first_seen": "2026-02-07T13:20:25.303673+01:00",
+        "rueb_eta": "2026-02-07T15:27:42+01:00",
+        "lock_eta": "2026-02-07T21:38:00+01:00",
+        "delta_first_rueb_min": 127,
+        "delta_first_rueb_hm": "02:07",
+        "delta_rueb_lock_min": 370,
+        "delta_rueb_lock_hm": "06:10",
+        "track": {
+          "lat": "54.09125626087189",
+          "lon": "9.325252175331116",
+          "sog": "3.640054944640259"
+        }
+      },
+      {
+        "name": "FREJ",
+        "first_seen": "2026-02-07T13:20:25.303691+01:00",
+        "rueb_eta": "2026-02-07T16:54:38+01:00",
+        "lock_eta": "2026-02-07T23:44:00+01:00",
+        "delta_first_rueb_min": 214,
+        "delta_first_rueb_hm": "03:34",
+        "delta_rueb_lock_min": 409,
+        "delta_rueb_lock_hm": "06:49",
+        "track": {
+          "lat": "54.154486656188965",
+          "lon": "9.376938343048096",
+          "sog": "3.3541019662496847"
+        }
+      },
+      {
+        "name": "KRISLIN",
+        "first_seen": "2026-02-07T13:20:25.303712+01:00",
+        "rueb_eta": "2026-02-07T16:59:07+01:00",
+        "lock_eta": "2026-02-07T23:48:00+01:00",
+        "delta_first_rueb_min": 218,
+        "delta_first_rueb_hm": "03:38",
+        "delta_rueb_lock_min": 408,
+        "delta_rueb_lock_hm": "06:48",
+        "track": {
+          "lat": "54.15730834007263",
+          "lon": "9.386433362960815",
+          "sog": "2.7950849718747373"
+        }
+      },
+      {
+        "name": "STOCMARCIA",
+        "first_seen": "2026-02-07T13:20:25.303748+01:00",
+        "rueb_eta": "2026-02-07T14:02:08+01:00",
+        "lock_eta": "2026-02-07T19:38:00+01:00",
+        "delta_first_rueb_min": 41,
+        "delta_first_rueb_hm": "00:41",
+        "delta_rueb_lock_min": 335,
+        "delta_rueb_lock_hm": "05:35",
+        "track": {
+          "lat": "53.90556693077087",
+          "lon": "9.165650010108948",
+          "sog": "2.1505813167606567"
+        }
+      },
+      {
+        "name": "ALANA",
+        "first_seen": "2026-02-07T13:20:25.303766+01:00",
+        "rueb_eta": "2026-02-07T13:32:40+01:00",
+        "lock_eta": null,
+        "delta_first_rueb_min": 12,
+        "delta_first_rueb_hm": "00:12",
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.89497220516205",
+          "lon": "9.146718978881836",
+          "sog": "0.9013878188659973"
+        }
+      },
+      {
+        "name": "STOLTJAEGER",
+        "first_seen": "2026-02-07T13:20:25.303784+01:00",
+        "rueb_eta": "2026-02-07T15:32:03+01:00",
+        "lock_eta": "2026-02-07T21:29:00+01:00",
+        "delta_first_rueb_min": 131,
+        "delta_first_rueb_hm": "02:11",
+        "delta_rueb_lock_min": 356,
+        "delta_rueb_lock_hm": "05:56",
+        "track": {
+          "lat": "54.03979539871216",
+          "lon": "9.30291473865509",
+          "sog": "0.0"
+        }
+      },
+      {
+        "name": "FALSTRIASWAN",
+        "first_seen": "2026-02-07T13:20:25.303570+01:00",
+        "rueb_eta": "2026-02-07T17:36:09+01:00",
+        "lock_eta": "2026-02-07T23:43:00+01:00",
+        "delta_first_rueb_min": 255,
+        "delta_first_rueb_hm": "04:15",
+        "delta_rueb_lock_min": 366,
+        "delta_rueb_lock_hm": "06:06",
+        "track": {
+          "lat": "54.184784889221184",
+          "lon": "9.494365453720093",
+          "sog": "3.4003676271838605"
+        }
+      },
+      {
+        "name": "BREBTIMBER",
+        "first_seen": "2026-02-07T13:20:25.303802+01:00",
+        "rueb_eta": "2026-02-07T17:03:05+01:00",
+        "lock_eta": "2026-02-07T23:51:00+01:00",
+        "delta_first_rueb_min": 222,
+        "delta_first_rueb_hm": "03:42",
+        "delta_rueb_lock_min": 407,
+        "delta_rueb_lock_hm": "06:47",
+        "track": {
+          "lat": "54.161444306373596",
+          "lon": "9.403481483459473",
+          "sog": "2.3717082451262845"
+        }
+      },
+      {
+        "name": "AMARANTH",
+        "first_seen": "2026-02-07T13:20:25.303838+01:00",
+        "rueb_eta": "2026-02-07T13:58:30+01:00",
+        "lock_eta": "2026-02-07T19:34:00+01:00",
+        "delta_first_rueb_min": 38,
+        "delta_first_rueb_hm": "00:38",
+        "delta_rueb_lock_min": 335,
+        "delta_rueb_lock_hm": "05:35",
+        "track": {
+          "lat": "53.90197277069091",
+          "lon": "9.159008860588074",
+          "sog": "2.8284271247461903"
+        }
+      },
+      {
+        "name": "UNITAR",
+        "first_seen": "2026-02-07T15:45:30.902312+01:00",
+        "rueb_eta": "2026-02-07T19:48:09+01:00",
+        "lock_eta": "2026-02-08T02:00:00+01:00",
+        "delta_first_rueb_min": 242,
+        "delta_first_rueb_hm": "04:02",
+        "delta_rueb_lock_min": 371,
+        "delta_rueb_lock_hm": "06:11",
+        "track": {
+          "lat": "54.34626460075379",
+          "lon": "9.758439660072327",
+          "sog": "3.553167600887974"
+        }
+      },
+      {
+        "name": "ECOKHAMSIN",
+        "first_seen": "2026-02-07T13:20:25.303856+01:00",
+        "rueb_eta": "2026-02-07T13:55:12+01:00",
+        "lock_eta": "2026-02-07T19:31:00+01:00",
+        "delta_first_rueb_min": 34,
+        "delta_first_rueb_hm": "00:34",
+        "delta_rueb_lock_min": 335,
+        "delta_rueb_lock_hm": "05:35",
+        "track": {
+          "lat": "53.897815346717834",
+          "lon": "9.152904152870176",
+          "sog": "1.6007810593582121"
+        }
+      },
+      {
+        "name": "PRIMALADY",
+        "first_seen": null,
+        "rueb_eta": null,
+        "lock_eta": "2026-02-07T22:48:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.96640479564667",
+          "lon": "8.53912353515625",
+          "sog": "13.77"
+        }
+      },
+      {
+        "name": "AMADEUSSAFFIER",
+        "first_seen": null,
+        "rueb_eta": null,
+        "lock_eta": null,
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "54.00534510612488",
+          "lon": "8.053831458091736",
+          "sog": "19.09"
+        }
+      },
+      {
+        "name": "ALTO",
+        "first_seen": null,
+        "rueb_eta": null,
+        "lock_eta": "2026-02-07T20:43:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.88200104236603",
+          "lon": "8.706058859825134",
+          "sog": "22.23"
+        }
+      },
+      {
+        "name": "NORDICITALIA",
+        "first_seen": "2026-02-07T17:26:55.453045+01:00",
+        "rueb_eta": null,
+        "lock_eta": null,
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.88278424739838",
+          "lon": "9.108277559280397",
+          "sog": "1.27"
+        }
+      },
+      {
+        "name": "MISJEFLORA",
+        "first_seen": null,
+        "rueb_eta": null,
+        "lock_eta": "2026-02-07T20:58:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.86474370956421",
+          "lon": "8.73087465763092",
+          "sog": "17.86"
+        }
+      },
+      {
+        "name": "TAVASTLAND",
+        "first_seen": "2026-02-07T17:26:55.453075+01:00",
+        "rueb_eta": null,
+        "lock_eta": null,
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.882290720939636",
+          "lon": "9.098052978515625",
+          "sog": "0.00"
+        }
+      },
+      {
+        "name": "KILSTRAUM",
+        "first_seen": null,
+        "rueb_eta": null,
+        "lock_eta": "2026-02-07T21:58:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.97878587245941",
+          "lon": "8.436335921287538",
+          "sog": "20.12"
+        }
+      }
+    ]
+  },
+  "start_work_targets_history": {
+    "targets": {},
+    "generated_at": "2026-02-07T18:28:33.473755+01:00"
+  }
 }
