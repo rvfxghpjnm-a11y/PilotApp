@@ -1,133 +1,113 @@
-const REFRESH_MS = 60000
+let DATA = null;
+let HISTORY = null;
 
-let DATA = {}
-let CHANNEL = {}
-let HISTORY = {}
+const refreshInterval = 120000; // 2 Minuten
 
-const lotseSelect = document.getElementById("lotseSelect")
-const viewSelect  = document.getElementById("viewSelect")
-const content     = document.getElementById("content")
+// ----------------------------
+// LOAD
+// ----------------------------
+async function loadData() {
+    const res = await fetch("data/web_data.json?v=" + Date.now());
+    DATA = await res.json();
 
-// -----------------------------------
-// LOAD DATA
-// -----------------------------------
+    const res2 = await fetch("data/start_work_targets_history.json?v=" + Date.now());
+    HISTORY = await res2.json();
 
-async function loadAll() {
-  DATA = await fetch("data/web_data.json?v=" + Date.now()).then(r=>r.json())
-  CHANNEL = await fetch("data/channel_master_final.json?v=" + Date.now()).then(r=>r.json())
-  HISTORY = await fetch("data/start_work_targets_history.json?v=" + Date.now()).then(r=>r.json())
-
-  initUI()
-  render()
+    initUI();
 }
 
-// -----------------------------------
-// INIT UI
-// -----------------------------------
+setInterval(loadData, refreshInterval);
+loadData();
 
+// ----------------------------
+// UI
+// ----------------------------
 function initUI() {
+    const lotseSelect = document.getElementById("lotseSelect");
+    const viewSelect = document.getElementById("viewSelect");
 
-  // Lotse Dropdown
-  lotseSelect.innerHTML = ""
-  DATA.lotsen.forEach(l=>{
-    const o=document.createElement("option")
-    o.value=l.key
-    o.textContent=l.name
-    lotseSelect.appendChild(o)
-  })
+    lotseSelect.innerHTML = "";
 
-  // gespeicherte Auswahl
-  const savedLotse = localStorage.getItem("lotse")
-  if(savedLotse) lotseSelect.value = savedLotse
+    DATA.lotsen.forEach(l => {
+        const opt = document.createElement("option");
+        opt.value = l.key;
+        opt.textContent = l.name;
+        lotseSelect.appendChild(opt);
+    });
 
-  const savedView = localStorage.getItem("view")
-  if(savedView) viewSelect.value = savedView
+    const savedLotse = localStorage.getItem("lotse");
+    if (savedLotse) lotseSelect.value = savedLotse;
 
-  lotseSelect.onchange = ()=>{
-    localStorage.setItem("lotse", lotseSelect.value)
-    render()
-  }
+    const savedView = localStorage.getItem("view");
+    if (savedView) viewSelect.value = savedView;
 
-  viewSelect.onchange = ()=>{
-    localStorage.setItem("view", viewSelect.value)
-    render()
-  }
+    render();
 }
 
-// -----------------------------------
+document.getElementById("lotseSelect").addEventListener("change", () => {
+    localStorage.setItem("lotse", lotseSelect.value);
+    render();
+});
+
+document.getElementById("viewSelect").addEventListener("change", () => {
+    localStorage.setItem("view", viewSelect.value);
+    render();
+});
+
+// ----------------------------
 // RENDER
-// -----------------------------------
+// ----------------------------
+function render() {
+    const lotseKey = document.getElementById("lotseSelect").value;
+    const view = document.getElementById("viewSelect").value;
+    const container = document.getElementById("content");
 
-function render(){
-  const view = viewSelect.value
+    container.innerHTML = "";
 
-  if(view==="boert") renderBoert()
-  if(view==="seelotsen") renderSeelotsen()
-  if(view==="graph") renderGraph()
-  if(view==="kanal") renderKanal()
+    if (view === "kanal") {
+        renderKanal(container);
+        return;
+    }
+
+    const lotse = DATA.lotsen.find(l => l.key === lotseKey);
+    if (!lotse) return;
+
+    if (view === "gesamtboert") renderGesamtboert(container, lotse);
+    if (view === "seelotsen") renderSeelotsen(container, lotse);
+    if (view === "graph") renderGraph(container, lotseKey);
 }
 
-// -----------------------------------
-// BOERT
-// -----------------------------------
-
-function renderBoert(){
-  content.innerHTML=""
-
-  DATA.boert.forEach(e=>{
-    const div=document.createElement("div")
-    div.className="card"
-    div.innerHTML=`
-      <b>${e.name}</b><br>
-      Pos: ${e.pos}<br>
-      Start M1: ${e.start_work_m1 ?? "-"}
-    `
-    content.appendChild(div)
-  })
+// ----------------------------
+// VIEWS
+// ----------------------------
+function renderGesamtboert(container, lotse) {
+    const pre = document.createElement("pre");
+    pre.textContent = JSON.stringify(lotse, null, 2);
+    container.appendChild(pre);
 }
 
-// -----------------------------------
-// SEELLOTSEN
-// -----------------------------------
-
-function renderSeelotsen(){
-  content.innerHTML=""
-  DATA.seelotsen.forEach(e=>{
-    const div=document.createElement("div")
-    div.className="card"
-    div.textContent=e.name
-    content.appendChild(div)
-  })
+function renderSeelotsen(container, lotse) {
+    const pre = document.createElement("pre");
+    pre.textContent = JSON.stringify(lotse.seelotsen || {}, null, 2);
+    container.appendChild(pre);
 }
 
-// -----------------------------------
-// GRAPH
-// -----------------------------------
-
-function renderGraph(){
-  content.innerHTML="<div class='card'>Graph kommt hier</div>"
+function renderKanal(container) {
+    const pre = document.createElement("pre");
+    pre.textContent = JSON.stringify(DATA.channel, null, 2);
+    container.appendChild(pre);
 }
 
-// -----------------------------------
-// KANAL
-// -----------------------------------
+function renderGraph(container, lotseKey) {
+    if (!HISTORY) return;
 
-function renderKanal(){
-  content.innerHTML=""
-  CHANNEL.ships.forEach(s=>{
-    const div=document.createElement("div")
-    div.className="card"
-    div.innerHTML=`
-      <b>${s.name}</b><br>
-      RÜB ETA: ${s.rueb_eta ?? "-"}<br>
-      Schleuse: ${s.lock_eta ?? "-"}<br>
-      Δ: ${s.delta_rueb_lock_hm ?? "-"}
-    `
-    content.appendChild(div)
-  })
+    const rows = HISTORY.history.map(h => {
+        const t = h.targets.find(x => x.name === lotseKey);
+        if (!t) return null;
+        return `${h.timestamp} → ${t.m1}`;
+    }).filter(Boolean);
+
+    const pre = document.createElement("pre");
+    pre.textContent = rows.join("\n");
+    container.appendChild(pre);
 }
-
-// -----------------------------------
-
-loadAll()
-setInterval(loadAll, REFRESH_MS)

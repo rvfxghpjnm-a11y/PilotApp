@@ -2,30 +2,56 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PilotApp v4</title>
 
 <link rel="stylesheet" href="css/style.css">
+
+<style>
+body{
+    background:#0f1115;
+    color:#e6e6e6;
+    font-family:system-ui;
+    margin:0;
+    padding:0;
+}
+header{
+    padding:12px;
+    background:#171a21;
+    border-bottom:1px solid #2a2f3a;
+}
+select{
+    background:#1f2430;
+    color:#fff;
+    border:1px solid #333;
+    padding:6px;
+    margin-right:10px;
+}
+#content{
+    padding:12px;
+    font-size:14px;
+}
+pre{
+    white-space:pre-wrap;
+    font-size:13px;
+}
+</style>
 </head>
 
 <body>
 
 <header>
-  <div class="controls">
-    <select id="lotseSelect"></select>
+<select id="lotseSelect"></select>
 
-    <select id="viewSelect">
-      <option value="boert">Gesamtbört</option>
-      <option value="seelotsen">Abgeteilte Seelotsen</option>
-      <option value="graph">Work-Start-Graph</option>
-      <option value="meldungen_kiel">Meldungen Kiel</option>
-      <option value="meldungen_rueb">Meldungen Rüsterbergen</option>
-      <option value="kanal">Kanal</option>
-    </select>
-  </div>
+<select id="viewSelect">
+  <option value="gesamtboert">Gesamtbört</option>
+  <option value="seelotsen">Seelotsen</option>
+  <option value="kanal">Kanal</option>
+  <option value="graph">Work Start Graph</option>
+</select>
 </header>
 
-<main id="content"></main>
+<div id="content">lade…</div>
 
 <script src="js/app.js"></script>
 </body>
