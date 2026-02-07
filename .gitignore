@@ -1,0 +1,10 @@
+# Alles ignorieren
+*
+
+# außer web
+!web/
+!web/**
+
+# Repo Dateien behalten
+!.gitignore
+!README.md
