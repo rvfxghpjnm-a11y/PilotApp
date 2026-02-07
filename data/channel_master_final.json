@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-02-07T19:28:04.787039+01:00",
+  "generated_at": "2026-02-07T19:42:16.797907+01:00",
   "ships": [
     {
       "name": "AMADEUSAQUAMARIJN",
       "first_seen": "2026-02-07T15:45:30.902112+01:00",
       "rueb_eta": "2026-02-07T19:37:41+01:00",
-      "lock_eta": "2026-02-08T00:12:00+01:00",
+      "lock_eta": "2026-02-08T00:11:00+01:00",
       "delta_first_rueb_min": 232,
       "delta_first_rueb_hm": "03:52",
-      "delta_rueb_lock_min": 274,
-      "delta_rueb_lock_hm": "04:34",
+      "delta_rueb_lock_min": 273,
+      "delta_rueb_lock_hm": "04:33",
       "track": {
-        "lat": "54.22866582870483",
-        "lon": "9.603230953216553",
-        "sog": "3.5794552658190883"
+        "lat": "54.253851771354675",
+        "lon": "9.61924910545349",
+        "sog": "3.4003676271838605"
       }
     },
     {
       "name": "LADYANNEKE",
       "first_seen": "2026-02-07T13:20:25.304027+01:00",
       "rueb_eta": "2026-02-07T19:25:09+01:00",
-      "lock_eta": "2026-02-07T23:59:00+01:00",
+      "lock_eta": "2026-02-07T23:57:00+01:00",
       "delta_first_rueb_min": 364,
       "delta_first_rueb_hm": "06:04",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
+      "delta_rueb_lock_min": 271,
+      "delta_rueb_lock_hm": "04:31",
       "track": {
-        "lat": "54.25132513046265",
-        "lon": "9.617602229118347",
-        "sog": "3.48209706929603"
+        "lat": "54.27712798118591",
+        "lon": "9.63381350040436",
+        "sog": "3.5794552658190883"
       }
     },
     {
@@ -41,39 +41,39 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.36630070209503",
-        "lon": "10.141453742980957",
-        "sog": "0.25"
+        "lat": "54.36628997325897",
+        "lon": "10.141668319702148",
+        "sog": "0.0"
       }
     },
     {
       "name": "MARJATTA",
       "first_seen": "2026-02-07T13:20:25.303878+01:00",
-      "rueb_eta": "2026-02-07T21:36:11+01:00",
-      "lock_eta": "2026-02-08T02:09:00+01:00",
-      "delta_first_rueb_min": 495,
-      "delta_first_rueb_hm": "08:15",
+      "rueb_eta": "2026-02-07T21:35:11+01:00",
+      "lock_eta": "2026-02-08T02:08:00+01:00",
+      "delta_first_rueb_min": 494,
+      "delta_first_rueb_hm": "08:14",
       "delta_rueb_lock_min": 272,
       "delta_rueb_lock_hm": "04:32",
       "track": {
-        "lat": "54.10938799381256",
-        "lon": "9.329291582107544",
-        "sog": "3.783186487605389"
+        "lat": "54.13613498210906",
+        "lon": "9.337311387062071",
+        "sog": "3.473110997362451"
       }
     },
     {
       "name": "BREBCUXHAVEN",
       "first_seen": "2026-02-07T15:45:30.902407+01:00",
-      "rueb_eta": "2026-02-07T22:39:09+01:00",
-      "lock_eta": "2026-02-08T03:12:00+01:00",
-      "delta_first_rueb_min": 413,
-      "delta_first_rueb_hm": "06:53",
-      "delta_rueb_lock_min": 272,
-      "delta_rueb_lock_hm": "04:32",
+      "rueb_eta": "2026-02-07T22:37:41+01:00",
+      "lock_eta": "2026-02-08T03:11:00+01:00",
+      "delta_first_rueb_min": 412,
+      "delta_first_rueb_hm": "06:52",
+      "delta_rueb_lock_min": 273,
+      "delta_rueb_lock_hm": "04:33",
       "track": {
-        "lat": "54.00092482566833",
-        "lon": "9.29343581199646",
-        "sog": "3.3354160160315836"
+        "lat": "54.02776837348938",
+        "lon": "9.300602674484253",
+        "sog": "3.5355339059327378"
       }
     },
     {
@@ -86,8 +86,8 @@
       "delta_rueb_lock_min": 273,
       "delta_rueb_lock_hm": "04:33",
       "track": {
-        "lat": "53.944754004478455",
-        "lon": "9.2287677526474",
+        "lat": "53.94463062286377",
+        "lon": "9.228370785713196",
         "sog": "0.0"
       }
     },
@@ -101,8 +101,8 @@
       "delta_rueb_lock_min": 272,
       "delta_rueb_lock_hm": "04:32",
       "track": {
-        "lat": "53.942329287528985",
-        "lon": "9.225050210952759",
+        "lat": "53.942297101020806",
+        "lon": "9.224926829338074",
         "sog": "0.0"
       }
     },
@@ -110,14 +110,14 @@
       "name": "JAND.",
       "first_seen": "2026-02-07T13:20:25.303367+01:00",
       "rueb_eta": "2026-02-07T17:14:10+01:00",
-      "lock_eta": "2026-02-07T21:44:00+01:00",
+      "lock_eta": "2026-02-07T21:42:00+01:00",
       "delta_first_rueb_min": 233,
       "delta_first_rueb_hm": "03:53",
-      "delta_rueb_lock_min": 269,
-      "delta_rueb_lock_hm": "04:29",
+      "delta_rueb_lock_min": 267,
+      "delta_rueb_lock_hm": "04:27",
       "track": {
-        "lat": "54.34334099292755",
-        "lon": "9.923041462898254",
+        "lat": "54.34246122837066",
+        "lon": "9.968258142471313",
         "sog": "3.5794552658190883"
       }
     },
@@ -131,84 +131,84 @@
       "delta_rueb_lock_min": 272,
       "delta_rueb_lock_hm": "04:32",
       "track": {
-        "lat": "54.234373569488525",
-        "lon": "9.607232809066772",
+        "lat": "54.259511232376106",
+        "lon": "9.622709155082703",
         "sog": "3.48209706929603"
       }
     },
     {
       "name": "COEGISELA",
       "first_seen": "2026-02-07T15:45:30.902511+01:00",
-      "rueb_eta": "2026-02-07T21:28:39+01:00",
-      "lock_eta": "2026-02-08T02:02:00+01:00",
-      "delta_first_rueb_min": 343,
-      "delta_first_rueb_hm": "05:43",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
+      "rueb_eta": "2026-02-07T21:27:11+01:00",
+      "lock_eta": "2026-02-08T02:00:00+01:00",
+      "delta_first_rueb_min": 341,
+      "delta_first_rueb_hm": "05:41",
+      "delta_rueb_lock_min": 272,
+      "delta_rueb_lock_hm": "04:32",
       "track": {
-        "lat": "54.12416696548462",
-        "lon": "9.329457879066466",
-        "sog": "3.5794552658190883"
+        "lat": "54.145978689193726",
+        "lon": "9.353882074356079",
+        "sog": "3.4003676271838605"
       }
     },
     {
       "name": "GASPEACE",
       "first_seen": "2026-02-07T13:20:25.303959+01:00",
       "rueb_eta": "2026-02-07T21:31:11+01:00",
-      "lock_eta": "2026-02-08T02:05:00+01:00",
+      "lock_eta": "2026-02-08T02:04:00+01:00",
       "delta_first_rueb_min": 490,
       "delta_first_rueb_hm": "08:10",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
+      "delta_rueb_lock_min": 272,
+      "delta_rueb_lock_hm": "04:32",
       "track": {
-        "lat": "54.118539690971375",
-        "lon": "9.328138232231138",
-        "sog": "3.5"
+        "lat": "54.140769839286804",
+        "lon": "9.342992305755615",
+        "sog": "3.3634060117684275"
       }
     },
     {
       "name": "OHIOBORG",
       "first_seen": "2026-02-07T13:20:25.303411+01:00",
       "rueb_eta": "2026-02-07T17:27:41+01:00",
-      "lock_eta": "2026-02-07T21:52:00+01:00",
+      "lock_eta": "2026-02-07T21:51:00+01:00",
       "delta_first_rueb_min": 247,
       "delta_first_rueb_hm": "04:07",
-      "delta_rueb_lock_min": 264,
-      "delta_rueb_lock_hm": "04:24",
+      "delta_rueb_lock_min": 263,
+      "delta_rueb_lock_hm": "04:23",
       "track": {
-        "lat": "54.35043275356292",
-        "lon": "9.900065660476685",
-        "sog": "3.69120576505835"
+        "lat": "54.34083044528962",
+        "lon": "9.943903684616089",
+        "sog": "3.5089172119045497"
       }
     },
     {
       "name": "LADYARIANE",
       "first_seen": "2026-02-07T13:20:25.303519+01:00",
       "rueb_eta": "2026-02-07T17:21:35+01:00",
-      "lock_eta": "2026-02-07T21:47:00+01:00",
+      "lock_eta": "2026-02-07T21:46:00+01:00",
       "delta_first_rueb_min": 241,
       "delta_first_rueb_hm": "04:01",
-      "delta_rueb_lock_min": 265,
-      "delta_rueb_lock_hm": "04:25",
+      "delta_rueb_lock_min": 264,
+      "delta_rueb_lock_hm": "04:24",
       "track": {
-        "lat": "54.34622168540954",
-        "lon": "9.913755655288696",
-        "sog": "3.69120576505835"
+        "lat": "54.34174239635468",
+        "lon": "9.958575367927551",
+        "sog": "3.783186487605389"
       }
     },
     {
       "name": "ELBSPRING",
       "first_seen": "2026-02-07T13:20:25.303936+01:00",
-      "rueb_eta": "2026-02-07T21:42:39+01:00",
-      "lock_eta": "2026-02-08T02:16:00+01:00",
-      "delta_first_rueb_min": 502,
-      "delta_first_rueb_hm": "08:22",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
+      "rueb_eta": "2026-02-07T21:41:11+01:00",
+      "lock_eta": "2026-02-08T02:14:00+01:00",
+      "delta_first_rueb_min": 500,
+      "delta_first_rueb_hm": "08:20",
+      "delta_rueb_lock_min": 272,
+      "delta_rueb_lock_hm": "04:32",
       "track": {
-        "lat": "54.09960329532623",
-        "lon": "9.329221844673159",
-        "sog": "3.5355339059327378"
+        "lat": "54.1265219449997",
+        "lon": "9.330283999443054",
+        "sog": "3.640054944640259"
       }
     },
     {
@@ -221,9 +221,9 @@
       "delta_rueb_lock_min": 270,
       "delta_rueb_lock_hm": "04:30",
       "track": {
-        "lat": "54.24130439758301",
-        "lon": "9.61154580116272",
-        "sog": "3.48209706929603"
+        "lat": "54.26622211933135",
+        "lon": "9.62675929069519",
+        "sog": "3.640054944640259"
       }
     },
     {
@@ -236,9 +236,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.58983063697815",
-        "lon": "10.815696716308594",
-        "sog": "21.67"
+        "lat": "54.585270881652825",
+        "lon": "10.735203623771667",
+        "sog": "22.57"
       }
     },
     {
@@ -251,23 +251,38 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.649794101715095",
-        "lon": "10.763034224510191",
-        "sog": "21.79"
+        "lat": "54.621888399124146",
+        "lon": "10.699621438980103",
+        "sog": "21.09"
+      }
+    },
+    {
+      "name": "BALTICBORG",
+      "first_seen": null,
+      "rueb_eta": null,
+      "lock_eta": null,
+      "delta_first_rueb_min": null,
+      "delta_first_rueb_hm": null,
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "54.599465131759644",
+        "lon": "11.087350845336914",
+        "sog": "26.16"
       }
     },
     {
       "name": "BALTICSPLIT",
       "first_seen": "2026-02-07T13:20:25.303638+01:00",
       "rueb_eta": "2026-02-07T15:34:12+01:00",
-      "lock_eta": "2026-02-07T21:30:00+01:00",
+      "lock_eta": "2026-02-07T21:29:00+01:00",
       "delta_first_rueb_min": 133,
       "delta_first_rueb_hm": "02:13",
-      "delta_rueb_lock_min": 355,
-      "delta_rueb_lock_hm": "05:55",
+      "delta_rueb_lock_min": 354,
+      "delta_rueb_lock_hm": "05:54",
       "track": {
-        "lat": "53.97633969783783",
-        "lon": "9.27070677280426",
+        "lat": "53.955675959587104",
+        "lon": "9.242291450500488",
         "sog": "3.553167600887974"
       }
     },
@@ -281,68 +296,38 @@
       "delta_rueb_lock_min": 367,
       "delta_rueb_lock_hm": "06:07",
       "track": {
-        "lat": "53.983678221702576",
-        "lon": "9.280239343643188",
-        "sog": "3.2596012026013246"
+        "lat": "53.963057398796074",
+        "lon": "9.25248920917511",
+        "sog": "3.553167600887974"
       }
     },
     {
       "name": "FREJ",
       "first_seen": "2026-02-07T13:20:25.303691+01:00",
       "rueb_eta": "2026-02-07T16:54:38+01:00",
-      "lock_eta": "2026-02-07T23:41:00+01:00",
+      "lock_eta": "2026-02-07T23:40:00+01:00",
       "delta_first_rueb_min": 214,
       "delta_first_rueb_hm": "03:34",
-      "delta_rueb_lock_min": 406,
-      "delta_rueb_lock_hm": "06:46",
+      "delta_rueb_lock_min": 405,
+      "delta_rueb_lock_hm": "06:45",
       "track": {
-        "lat": "54.148746728897095",
-        "lon": "9.35936450958252",
-        "sog": "0.25"
+        "lat": "54.148773550987244",
+        "lon": "9.35961127281189",
+        "sog": "0.0"
       }
     },
     {
       "name": "KRISLIN",
       "first_seen": "2026-02-07T13:20:25.303712+01:00",
       "rueb_eta": "2026-02-07T16:59:07+01:00",
-      "lock_eta": "2026-02-07T23:45:00+01:00",
+      "lock_eta": "2026-02-07T23:43:00+01:00",
       "delta_first_rueb_min": 218,
       "delta_first_rueb_hm": "03:38",
-      "delta_rueb_lock_min": 405,
-      "delta_rueb_lock_hm": "06:45",
+      "delta_rueb_lock_min": 403,
+      "delta_rueb_lock_hm": "06:43",
       "track": {
-        "lat": "54.14957821369171",
-        "lon": "9.361445903778078",
-        "sog": "0.0"
-      }
-    },
-    {
-      "name": "JOHNT.ESSBERGER",
-      "first_seen": "2026-02-07T17:26:55.452869+01:00",
-      "rueb_eta": null,
-      "lock_eta": "2026-02-08T05:00:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "54.36705708503723",
-        "lon": "10.127205848693848",
-        "sog": "0.25"
-      }
-    },
-    {
-      "name": "STOCMARCIA",
-      "first_seen": "2026-02-07T13:20:25.303748+01:00",
-      "rueb_eta": "2026-02-07T14:02:08+01:00",
-      "lock_eta": null,
-      "delta_first_rueb_min": 41,
-      "delta_first_rueb_hm": "00:41",
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.89466643333434",
-        "lon": "9.146236181259155",
+        "lat": "54.14968550205231",
+        "lon": "9.36208426952362",
         "sog": "0.0"
       }
     },
@@ -350,14 +335,14 @@
       "name": "STOLTJAEGER",
       "first_seen": "2026-02-07T13:20:25.303784+01:00",
       "rueb_eta": "2026-02-07T15:32:03+01:00",
-      "lock_eta": "2026-02-07T21:26:00+01:00",
+      "lock_eta": "2026-02-07T21:25:00+01:00",
       "delta_first_rueb_min": 131,
       "delta_first_rueb_hm": "02:11",
-      "delta_rueb_lock_min": 353,
-      "delta_rueb_lock_hm": "05:53",
+      "delta_rueb_lock_min": 352,
+      "delta_rueb_lock_hm": "05:52",
       "track": {
-        "lat": "53.97208571434021",
-        "lon": "9.264816641807556",
+        "lat": "53.951153755187995",
+        "lon": "9.235902428627014",
         "sog": "3.553167600887974"
       }
     },
@@ -365,14 +350,14 @@
       "name": "FALSTRIASWAN",
       "first_seen": "2026-02-07T13:20:25.303570+01:00",
       "rueb_eta": "2026-02-07T17:36:09+01:00",
-      "lock_eta": "2026-02-07T23:40:00+01:00",
+      "lock_eta": "2026-02-07T23:38:00+01:00",
       "delta_first_rueb_min": 255,
       "delta_first_rueb_hm": "04:15",
-      "delta_rueb_lock_min": 363,
-      "delta_rueb_lock_hm": "06:03",
+      "delta_rueb_lock_min": 361,
+      "delta_rueb_lock_hm": "06:01",
       "track": {
-        "lat": "54.15043115615845",
-        "lon": "9.367218017578125",
+        "lat": "54.15040969848632",
+        "lon": "9.367191195487974",
         "sog": "0.0"
       }
     },
@@ -380,45 +365,30 @@
       "name": "BREBTIMBER",
       "first_seen": "2026-02-07T13:20:25.303802+01:00",
       "rueb_eta": "2026-02-07T17:03:05+01:00",
-      "lock_eta": "2026-02-07T23:48:00+01:00",
+      "lock_eta": "2026-02-07T23:47:00+01:00",
       "delta_first_rueb_min": 222,
       "delta_first_rueb_hm": "03:42",
-      "delta_rueb_lock_min": 404,
-      "delta_rueb_lock_hm": "06:44",
+      "delta_rueb_lock_min": 403,
+      "delta_rueb_lock_hm": "06:43",
       "track": {
-        "lat": "54.150506258010864",
-        "lon": "9.363816976547241",
+        "lat": "54.15064036846161",
+        "lon": "9.364020824432373",
         "sog": "0.0"
-      }
-    },
-    {
-      "name": "AMARANTH",
-      "first_seen": "2026-02-07T13:20:25.303838+01:00",
-      "rueb_eta": "2026-02-07T13:58:30+01:00",
-      "lock_eta": null,
-      "delta_first_rueb_min": 38,
-      "delta_first_rueb_hm": "00:38",
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.8946932554245",
-        "lon": "9.145517349243164",
-        "sog": "0.3535533905932738"
       }
     },
     {
       "name": "UNITAR",
       "first_seen": "2026-02-07T15:45:30.902312+01:00",
-      "rueb_eta": "2026-02-07T19:43:41+01:00",
-      "lock_eta": "2026-02-08T01:57:00+01:00",
-      "delta_first_rueb_min": 238,
-      "delta_first_rueb_hm": "03:58",
-      "delta_rueb_lock_min": 373,
-      "delta_rueb_lock_hm": "06:13",
+      "rueb_eta": "2026-02-07T19:42:41+01:00",
+      "lock_eta": "2026-02-08T01:55:00+01:00",
+      "delta_first_rueb_min": 237,
+      "delta_first_rueb_hm": "03:57",
+      "delta_rueb_lock_min": 372,
+      "delta_rueb_lock_hm": "06:12",
       "track": {
-        "lat": "54.27026152610778",
-        "lon": "9.628872871398928",
-        "sog": "3.7165171868296265"
+        "lat": "54.24493074417114",
+        "lon": "9.613407254219055",
+        "sog": "3.4003676271838605"
       }
     },
     {
@@ -431,9 +401,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.90292763710021",
-        "lon": "8.684638738632202",
-        "sog": "11.73"
+        "lat": "53.88047218322754",
+        "lon": "8.706815242767334",
+        "sog": "12.07"
       }
     },
     {
@@ -446,99 +416,99 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.102038741111755",
-        "lon": "8.092482089996336",
-        "sog": "6.55"
+        "lat": "54.1160774230957",
+        "lon": "8.080551624298096",
+        "sog": "9.94"
       }
     },
     {
       "name": "LADYALEXANDRA",
       "first_seen": null,
       "rueb_eta": null,
-      "lock_eta": "2026-02-08T00:50:00+01:00",
+      "lock_eta": "2026-02-08T00:36:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.99066805839539",
-        "lon": "8.204694986343382",
-        "sog": "15.41"
+        "lat": "53.992164731025696",
+        "lon": "8.261858224868774",
+        "sog": "16.20"
       }
     },
     {
       "name": "ALTO",
       "first_seen": "2026-02-07T19:12:17.818338+01:00",
       "rueb_eta": null,
-      "lock_eta": "2026-02-07T20:49:00+01:00",
+      "lock_eta": "2026-02-07T21:42:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.859583139419556",
-        "lon": "9.002952575683594",
-        "sog": "21.39"
+        "lat": "53.868123292922974",
+        "lon": "9.035831093788147",
+        "sog": "4.85"
       }
     },
     {
       "name": "KILSTRAUM",
       "first_seen": null,
       "rueb_eta": null,
-      "lock_eta": "2026-02-07T22:16:00+01:00",
+      "lock_eta": "2026-02-07T22:15:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.907068967819214",
-        "lon": "8.683555126190186",
-        "sog": "18.53"
+        "lat": "53.87145459651947",
+        "lon": "8.71890664100647",
+        "sog": "19.26"
       }
     },
     {
       "name": "NORDICITALIA",
       "first_seen": "2026-02-07T17:26:55.453045+01:00",
       "rueb_eta": null,
-      "lock_eta": null,
+      "lock_eta": "2026-02-07T20:48:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.88252675533295",
-        "lon": "9.105616807937622",
-        "sog": "0.90"
+        "lat": "53.884093165397644",
+        "lon": "9.109328985214233",
+        "sog": "3.71"
       }
     },
     {
       "name": "MISJEFLORA",
       "first_seen": "2026-02-07T19:12:17.818465+01:00",
       "rueb_eta": null,
-      "lock_eta": "2026-02-07T21:01:00+01:00",
+      "lock_eta": "2026-02-07T21:50:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.852089047431946",
-        "lon": "8.978024125099182",
-        "sog": "16.55"
+        "lat": "53.86150896549225",
+        "lon": "9.012195467948914",
+        "sog": "6.04"
       }
     },
     {
       "name": "TAVASTLAND",
       "first_seen": "2026-02-07T17:26:55.453075+01:00",
       "rueb_eta": null,
-      "lock_eta": null,
+      "lock_eta": "2026-02-07T22:01:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.88152360916138",
-        "lon": "9.09719467163086",
-        "sog": "0.00"
+        "lat": "53.88193130493165",
+        "lon": "9.096803069114685",
+        "sog": "2.01"
       }
     }
   ]
