@@ -1,163 +1,103 @@
-:root{
-  --bg: #0b0f14;
-  --panel: #101722;
-  --panel2:#0f1620;
-  --text: #e7eef7;
-  --muted:#9fb0c2;
-  --line:#1f2b3a;
-  --accent:#2f81f7;
-  --good:#2ea043;
-  --warn:#d29922;
-  --bad:#f85149;
-  --radius:14px;
+/* ===== Kanal Sections ===== */
+
+.sectionBlock{
+  margin-bottom:14px;
 }
 
-*{ box-sizing:border-box; }
-html,body{ height:100%; }
-body{
-  margin:0;
-  background:var(--bg);
-  color:var(--text);
-  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+.sectionTitle{
+  font-size:12px;
+  letter-spacing:.12em;
+  color:#9fb0c2;
+  margin:8px 4px;
 }
 
-.topbar{
-  position: sticky;
-  top:0;
-  z-index: 10;
+/* ===== Schiff Zeile ===== */
+
+.shipRow{
   display:flex;
-  gap:14px;
-  align-items:center;
   justify-content:space-between;
-  padding:12px 14px;
-  background: rgba(11,15,20,.92);
-  border-bottom:1px solid var(--line);
-  backdrop-filter: blur(8px);
+  align-items:center;
+  padding:12px;
+  border-radius:12px;
+  margin-bottom:8px;
+  background:#0f1620;
+  border:1px solid #1f2b3a;
+  cursor:pointer;
+  transition:.15s;
 }
 
-.brand{ display:flex; gap:12px; align-items:center; }
-.dot{
-  width:12px; height:12px; border-radius:999px;
-  background:var(--accent);
-  box-shadow: 0 0 0 6px rgba(47,129,247,.15);
-}
-.title{ font-weight:700; letter-spacing:.2px; }
-.sub{ color:var(--muted); font-size:12px; margin-top:2px; }
-
-.controls{
-  display:flex;
-  gap:10px;
-  align-items:end;
+.shipRow:hover{
+  background:#152133;
 }
 
-.ctrl{
+.shipLeft{
   display:flex;
   flex-direction:column;
-  gap:6px;
+  gap:2px;
+}
+
+.shipName{
+  font-weight:600;
+  font-size:15px;
+}
+
+.shipMeta{
   font-size:12px;
-  color:var(--muted);
+  color:#9fb0c2;
 }
-select{
-  appearance:none;
-  padding:10px 12px;
-  border-radius:12px;
-  border:1px solid var(--line);
-  background: var(--panel);
-  color:var(--text);
-  min-width: 200px;
-  outline:none;
-}
-select:focus{ border-color: rgba(47,129,247,.7); box-shadow: 0 0 0 4px rgba(47,129,247,.15); }
 
-.btn{
-  padding:10px 12px;
-  border-radius:12px;
-  border:1px solid var(--line);
-  background: var(--panel);
-  color:var(--text);
+.shipRight{
+  text-align:right;
+}
+
+.shipEta{
   font-size:14px;
-}
-
-.container{
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 14px;
-}
-
-.card{
-  background: linear-gradient(180deg, rgba(16,23,34,.92), rgba(15,22,32,.92));
-  border:1px solid var(--line);
-  border-radius: var(--radius);
-  padding: 12px;
-  margin-bottom: 12px;
-}
-
-.card h2{
-  margin:0 0 10px 0;
-  font-size:14px;
-  color: var(--muted);
   font-weight:600;
 }
 
-.tableWrap{
-  overflow:auto;
-  border-radius: 12px;
-  border:1px solid var(--line);
-}
-table{
-  width:100%;
-  border-collapse: collapse;
-  min-width: 720px;
-  background: rgba(0,0,0,.12);
-}
-thead th{
-  position: sticky;
-  top:0;
-  background: rgba(16,23,34,.98);
-  border-bottom:1px solid var(--line);
-  padding:10px 10px;
-  text-align:left;
+.shipDelta{
   font-size:12px;
-  color: var(--muted);
-  white-space:nowrap;
+  color:#9fb0c2;
 }
-tbody td{
-  padding:10px 10px;
-  border-bottom:1px solid rgba(31,43,58,.65);
-  font-size:13px;
-  white-space:nowrap;
-}
-tbody tr:hover{ background: rgba(47,129,247,.08); }
 
-.badge{
-  display:inline-flex;
+/* ===== Richtungen ===== */
+
+.dir-east{
+  border-left:4px solid #2ea043;
+}
+
+.dir-west{
+  border-left:4px solid #f85149;
+}
+
+/* ===== Modal ===== */
+
+.modal{
+  position:fixed;
+  inset:0;
+  background:rgba(0,0,0,.7);
+  display:flex;
+  justify-content:center;
   align-items:center;
-  gap:6px;
-  padding:4px 8px;
-  border-radius: 999px;
-  font-size:12px;
-  border:1px solid var(--line);
-  background: rgba(0,0,0,.12);
+  z-index:50;
 }
-.badge.good{ border-color: rgba(46,160,67,.45); color: #bff0c8; }
-.badge.warn{ border-color: rgba(210,153,34,.45); color: #ffe3b0; }
-.badge.bad{  border-color: rgba(248,81,73,.45); color: #ffd0cf; }
 
-.list{
-  margin:0;
-  padding:0;
-  list-style:none;
+.modalInner{
+  background:#0f1620;
+  border:1px solid #1f2b3a;
+  padding:20px;
+  border-radius:14px;
+  width:420px;
+  max-width:90%;
 }
-.list li{
-  padding:10px 10px;
-  border-bottom:1px solid rgba(31,43,58,.65);
+
+.modalRow{
+  display:flex;
+  justify-content:space-between;
+  padding:6px 0;
+  font-size:14px;
 }
-.list li:last-child{ border-bottom:none; }
 
-.mono{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono"; }
-.muted{ color: var(--muted); }
-
-@media (max-width: 900px){
-  select{ min-width: 170px; }
-  table{ min-width: 640px; }
+.modalRow span:first-child{
+  color:#9fb0c2;
 }
