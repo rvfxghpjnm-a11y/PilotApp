@@ -1,52 +1,99 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>PilotApp</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-
-<header class="topbar">
-  <div class="brand">
-    <div class="dot"></div>
-    <div>
+  <header class="topbar">
+    <div class="brand">
       <div class="title">PilotApp</div>
-      <div class="sub" id="generated"></div>
-    </div>
-  </div>
-
-  <div class="controls">
-    <div class="ctrl">
-      <label>Lotse</label>
-      <select id="lotseSelect"></select>
+      <div class="meta">
+        <span id="updateLabel">Update: –</span>
+      </div>
     </div>
 
-    <button class="btn" id="reloadBtn">Reload</button>
-  </div>
-</header>
+    <div class="controls">
+      <label class="control">
+        <span>Lotse</span>
+        <select id="pilotSelect"></select>
+      </label>
 
-<div class="tabs">
-  <button class="tab active" data-tab="aktuell">Aktuell</button>
-  <button class="tab" data-tab="boert">Gesamtbört</button>
-  <button class="tab" data-tab="graph">Graph</button>
-  <button class="tab" data-tab="kiel">Meldungen Kiel</button>
-  <button class="tab" data-tab="rueb">Meldungen Rüsterbergen</button>
-  <button class="tab" data-tab="seelotsen">Seelotsen</button>
-</div>
+      <button id="reloadBtn" class="btn">Reload</button>
+    </div>
+  </header>
 
-<main class="container">
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-tab="aktuell">Aktuell</button>
+    <button class="tab" data-tab="gesamtboert">Gesamtbört</button>
+    <button class="tab" data-tab="graph">Graph</button>
+    <button class="tab" data-tab="meld_kiel">Meldungen Kiel</button>
+    <button class="tab" data-tab="meld_rueb">Meldungen Rüsterbergen</button>
+    <button class="tab" data-tab="seelotsen">Abgeteilte Seelotsen</button>
+  </nav>
 
-  <div id="aktuell" class="view active"></div>
-  <div id="boert" class="view"></div>
-  <div id="graph" class="view"></div>
-  <div id="kiel" class="view"></div>
-  <div id="rueb" class="view"></div>
-  <div id="seelotsen" class="view"></div>
+  <main class="main">
+    <section class="panel active" id="panel-aktuell">
+      <div class="card" id="aktuellCard"></div>
+      <div class="hint" id="aktuellHint"></div>
+    </section>
 
-</main>
+    <section class="panel" id="panel-gesamtboert">
+      <div class="hint" id="gbHint"></div>
+      <div class="tableWrap">
+        <table class="table" id="gbTable">
+          <thead>
+            <tr>
+              <th>Pos</th>
+              <th>Takt</th>
+              <th>Name</th>
+              <th>Pfeil</th>
+              <th>Zeit</th>
+              <th>Bem.</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
 
-<script src="js/app.js"></script>
+    <section class="panel" id="panel-graph">
+      <div class="hint" id="graphHint"></div>
+      <canvas id="graphCanvas" width="1200" height="420"></canvas>
+    </section>
+
+    <section class="panel" id="panel-meld_kiel">
+      <div class="hint" id="mkHint"></div>
+      <pre class="mono" id="mkRaw"></pre>
+    </section>
+
+    <section class="panel" id="panel-meld_rueb">
+      <div class="hint" id="mrHint"></div>
+      <pre class="mono" id="mrRaw"></pre>
+    </section>
+
+    <section class="panel" id="panel-seelotsen">
+      <div class="hint" id="slHint"></div>
+      <div class="tableWrap">
+        <table class="table" id="slTable">
+          <thead>
+            <tr>
+              <th>Zeit</th>
+              <th>Name</th>
+              <th>Aufgabe</th>
+              <th>Fzg</th>
+              <th>Ort</th>
+              <th>+8h</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
 </body>
 </html>
