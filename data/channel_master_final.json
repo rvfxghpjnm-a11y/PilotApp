@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T22:50:26.163996+01:00",
+  "generated_at": "2026-02-10T23:28:11.263136+01:00",
   "ships": [
     {
       "name": "LUNAMAR",
@@ -7,7 +7,7 @@
       "direction": null,
       "travel_status": "fahrend im Zulauf Kiel außen",
       "canal_steerer": null,
-      "first_seen": null,
+      "first_seen": "2026-02-10T23:28:11.056564+01:00",
       "rueb_eta": null,
       "lock_eta": null,
       "delta_first_rueb_min": null,
@@ -15,9 +15,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.541357755661004",
-        "lon": "10.450100898742674",
-        "sog": "15.09"
+        "lat": "54.50743854045868",
+        "lon": "10.316001176834106",
+        "sog": "14.09"
       }
     },
     {
@@ -34,47 +34,28 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.58275496959686",
-        "lon": "10.778172612190245",
-        "sog": "21.62"
+        "lat": "54.57077085971833",
+        "lon": "10.582253336906431",
+        "sog": "19.92"
       }
     },
     {
       "name": "NAUTILUS",
-      "section": "zulauf_kiel_aussen",
+      "section": "schleuse",
       "direction": null,
-      "travel_status": "fahrend im Zulauf Kiel außen",
+      "travel_status": "liegend in Schleuse Kiel",
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452696+01:00",
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T00:03:00+01:00",
+      "lock_eta": null,
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.394378066062934",
-        "lon": "10.198541879653929",
-        "sog": "17.47"
-      }
-    },
-    {
-      "name": "VLIELAND",
-      "section": "zulauf_kiel_aussen",
-      "direction": null,
-      "travel_status": "fahrend im Zulauf Kiel außen",
-      "canal_steerer": null,
-      "first_seen": "2026-02-10T22:04:32.452765+01:00",
-      "rueb_eta": null,
-      "lock_eta": "2026-02-11T00:07:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "54.40304160118103",
-        "lon": "10.202227234840393",
-        "sog": "18.55"
+        "lat": "54.36554431915283",
+        "lon": "10.14132499694824",
+        "sog": "0.00"
       }
     },
     {
@@ -91,8 +72,65 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.36592519283295",
+        "lat": "54.365935921669006",
         "lon": "10.142027735710144",
+        "sog": "0.00"
+      }
+    },
+    {
+      "name": "VLIELAND",
+      "section": "schleuse",
+      "direction": null,
+      "travel_status": "liegend in Schleuse Kiel",
+      "canal_steerer": null,
+      "first_seen": "2026-02-10T22:04:32.452765+01:00",
+      "rueb_eta": null,
+      "lock_eta": null,
+      "delta_first_rueb_min": null,
+      "delta_first_rueb_hm": null,
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "54.36514735221863",
+        "lon": "10.143744349479675",
+        "sog": "0.00"
+      }
+    },
+    {
+      "name": "CYPRUSCEMENT",
+      "section": "schleuse",
+      "direction": null,
+      "travel_status": "liegend in Schleuse Brb.",
+      "canal_steerer": null,
+      "first_seen": "2026-02-10T22:50:25.957989+01:00",
+      "rueb_eta": null,
+      "lock_eta": null,
+      "delta_first_rueb_min": null,
+      "delta_first_rueb_hm": null,
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "53.89367401599884",
+        "lon": "9.14363980293274",
+        "sog": "0.0"
+      }
+    },
+    {
+      "name": "FOYLE",
+      "section": "schleuse",
+      "direction": null,
+      "travel_status": "liegend in Schleuse Brb.",
+      "canal_steerer": null,
+      "first_seen": "2026-02-10T22:04:32.452969+01:00",
+      "rueb_eta": null,
+      "lock_eta": null,
+      "delta_first_rueb_min": null,
+      "delta_first_rueb_hm": null,
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "53.89271914958954",
+        "lon": "9.143934845924377",
         "sog": "0.00"
       }
     },
@@ -110,9 +148,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.892960548400886",
-        "lon": "9.143999218940735",
-        "sog": "1.27"
+        "lat": "53.89357209205627",
+        "lon": "9.145077466964722",
+        "sog": "0.00"
       }
     },
     {
@@ -122,16 +160,16 @@
       "travel_status": "fahrend im NOK",
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452459+01:00",
-      "rueb_eta": "2026-02-11T01:08:01+01:00",
-      "lock_eta": "2026-02-11T05:41:00+01:00",
-      "delta_first_rueb_min": 183,
-      "delta_first_rueb_hm": "03:03",
-      "delta_rueb_lock_min": 272,
-      "delta_rueb_lock_hm": "04:32",
+      "rueb_eta": "2026-02-11T01:06:00+01:00",
+      "lock_eta": "2026-02-11T05:40:00+01:00",
+      "delta_first_rueb_min": 181,
+      "delta_first_rueb_hm": "03:01",
+      "delta_rueb_lock_min": 274,
+      "delta_rueb_lock_hm": "04:34",
       "track": {
-        "lat": "54.09329473972321",
-        "lon": "9.32640016078949",
-        "sog": "3.640054944640259"
+        "lat": "54.15339767932892",
+        "lon": "9.373993277549744",
+        "sog": "3.473110997362451"
       }
     },
     {
@@ -141,16 +179,16 @@
       "travel_status": "fahrend im NOK",
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452597+01:00",
-      "rueb_eta": "2026-02-11T02:07:00+01:00",
-      "lock_eta": "2026-02-11T06:42:00+01:00",
-      "delta_first_rueb_min": 242,
-      "delta_first_rueb_hm": "04:02",
-      "delta_rueb_lock_min": 275,
-      "delta_rueb_lock_hm": "04:35",
+      "rueb_eta": "2026-02-11T02:05:30+01:00",
+      "lock_eta": "2026-02-11T07:29:00+01:00",
+      "delta_first_rueb_min": 240,
+      "delta_first_rueb_hm": "04:00",
+      "delta_rueb_lock_min": 323,
+      "delta_rueb_lock_hm": "05:23",
       "track": {
-        "lat": "53.98961663246154",
-        "lon": "9.286167025566101",
-        "sog": "3.3541019662496847"
+        "lat": "54.05945599079132",
+        "lon": "9.309872388839722",
+        "sog": "3.5794552658190883"
       }
     },
     {
@@ -161,15 +199,15 @@
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452620+01:00",
       "rueb_eta": "2026-02-10T22:25:01+01:00",
-      "lock_eta": "2026-02-11T02:57:00+01:00",
+      "lock_eta": "2026-02-11T02:56:00+01:00",
       "delta_first_rueb_min": 20,
       "delta_first_rueb_hm": "00:20",
-      "delta_rueb_lock_min": 271,
-      "delta_rueb_lock_hm": "04:31",
+      "delta_rueb_lock_min": 270,
+      "delta_rueb_lock_hm": "04:30",
       "track": {
-        "lat": "54.28680002689361",
-        "lon": "9.648635387420654",
-        "sog": "3.4003676271838605"
+        "lat": "54.331233501434326",
+        "lon": "9.729536175727844",
+        "sog": "3.553167600887974"
       }
     },
     {
@@ -179,16 +217,16 @@
       "travel_status": "fahrend im NOK",
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452640+01:00",
-      "rueb_eta": "2026-02-11T02:36:00+01:00",
-      "lock_eta": "2026-02-11T07:09:00+01:00",
-      "delta_first_rueb_min": 271,
-      "delta_first_rueb_hm": "04:31",
-      "delta_rueb_lock_min": 273,
-      "delta_rueb_lock_hm": "04:33",
+      "rueb_eta": "2026-02-11T02:34:32+01:00",
+      "lock_eta": "2026-02-11T07:32:00+01:00",
+      "delta_first_rueb_min": 269,
+      "delta_first_rueb_hm": "04:29",
+      "delta_rueb_lock_min": 297,
+      "delta_rueb_lock_hm": "04:57",
       "track": {
-        "lat": "53.94809603691102",
-        "lon": "9.232082962989805",
-        "sog": "2.850438562747845"
+        "lat": "54.00805950164795",
+        "lon": "9.295120239257812",
+        "sog": "3.5355339059327378"
       }
     },
     {
@@ -205,9 +243,28 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.386969804763794",
-        "lon": "10.173007249832153",
+        "lat": "54.38698589801788",
+        "lon": "10.172937512397766",
         "sog": "0.00"
+      }
+    },
+    {
+      "name": "EK-STREAM",
+      "section": "unknown",
+      "direction": null,
+      "travel_status": "fahrend im NOK",
+      "canal_steerer": null,
+      "first_seen": "2026-02-10T23:28:11.056726+01:00",
+      "rueb_eta": null,
+      "lock_eta": null,
+      "delta_first_rueb_min": null,
+      "delta_first_rueb_hm": null,
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "53.90188694000244",
+        "lon": "9.159824252128601",
+        "sog": "2.1213203435596424"
       }
     },
     {
@@ -218,15 +275,15 @@
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452811+01:00",
       "rueb_eta": "2026-02-10T19:10:31+01:00",
-      "lock_eta": "2026-02-11T00:27:00+01:00",
+      "lock_eta": "2026-02-11T00:28:00+01:00",
       "delta_first_rueb_min": -174,
       "delta_first_rueb_hm": "-02:54",
-      "delta_rueb_lock_min": 316,
-      "delta_rueb_lock_hm": "05:16",
+      "delta_rueb_lock_min": 317,
+      "delta_rueb_lock_hm": "05:17",
       "track": {
-        "lat": "53.94210398197175",
-        "lon": "9.223655462265015",
-        "sog": "2.1505813167606567"
+        "lat": "53.897568583488464",
+        "lon": "9.151144623756409",
+        "sog": "1.6007810593582121"
       }
     },
     {
@@ -237,15 +294,15 @@
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452869+01:00",
       "rueb_eta": "2026-02-10T22:38:01+01:00",
-      "lock_eta": "2026-02-11T04:05:00+01:00",
+      "lock_eta": "2026-02-11T04:03:00+01:00",
       "delta_first_rueb_min": 33,
       "delta_first_rueb_hm": "00:33",
-      "delta_rueb_lock_min": 326,
-      "delta_rueb_lock_hm": "05:26",
+      "delta_rueb_lock_min": 324,
+      "delta_rueb_lock_hm": "05:24",
       "track": {
-        "lat": "54.22273814678193",
-        "lon": "9.597716331481935",
-        "sog": "3.553167600887974"
+        "lat": "54.18515503406525",
+        "lon": "9.496398568153383",
+        "sog": "3.48209706929603"
       }
     },
     {
@@ -256,15 +313,34 @@
       "canal_steerer": null,
       "first_seen": "2026-02-06T22:56:28.102162+01:00",
       "rueb_eta": "2026-02-10T22:41:31+01:00",
-      "lock_eta": "2026-02-11T04:08:00+01:00",
+      "lock_eta": "2026-02-11T04:06:00+01:00",
       "delta_first_rueb_min": 5745,
       "delta_first_rueb_hm": "95:45",
-      "delta_rueb_lock_min": 326,
-      "delta_rueb_lock_hm": "05:26",
+      "delta_rueb_lock_min": 324,
+      "delta_rueb_lock_hm": "05:24",
       "track": {
-        "lat": "54.227147698402405",
-        "lon": "9.601938128471375",
-        "sog": "3.3541019662496847"
+        "lat": "54.18713450431824",
+        "lon": "9.506231546401978",
+        "sog": "3.48209706929603"
+      }
+    },
+    {
+      "name": "BOSCH",
+      "section": "unknown",
+      "direction": null,
+      "travel_status": "fahrend im NOK",
+      "canal_steerer": null,
+      "first_seen": "2026-02-10T23:28:11.056757+01:00",
+      "rueb_eta": null,
+      "lock_eta": null,
+      "delta_first_rueb_min": null,
+      "delta_first_rueb_hm": null,
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "53.89779388904571",
+        "lon": "9.156734347343443",
+        "sog": "0.3535533905932738"
       }
     },
     {
@@ -274,35 +350,16 @@
       "travel_status": "fahrend im NOK",
       "canal_steerer": null,
       "first_seen": "2026-02-06T22:56:28.102349+01:00",
-      "rueb_eta": "2026-02-11T01:31:30+01:00",
-      "lock_eta": "2026-02-11T06:58:00+01:00",
-      "delta_first_rueb_min": 5915,
-      "delta_first_rueb_hm": "98:35",
+      "rueb_eta": "2026-02-11T01:29:02+01:00",
+      "lock_eta": "2026-02-11T06:56:00+01:00",
+      "delta_first_rueb_min": 5912,
+      "delta_first_rueb_hm": "98:32",
       "delta_rueb_lock_min": 326,
       "delta_rueb_lock_hm": "05:26",
       "track": {
-        "lat": "54.34589982032775",
-        "lon": "9.986969232559204",
-        "sog": "3.69120576505835"
-      }
-    },
-    {
-      "name": "CYPRUSCEMENT",
-      "section": "unknown",
-      "direction": null,
-      "travel_status": "fahrend im NOK",
-      "canal_steerer": null,
-      "first_seen": "2026-02-10T22:50:25.957989+01:00",
-      "rueb_eta": null,
-      "lock_eta": null,
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.907326459884644",
-        "lon": "9.171658158302305",
-        "sog": "0.5590169943749476"
+        "lat": "54.35905873775482",
+        "lon": "9.873238205909729",
+        "sog": "3.473110997362451"
       }
     },
     {
@@ -313,15 +370,15 @@
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452929+01:00",
       "rueb_eta": "2026-02-10T20:58:30+01:00",
-      "lock_eta": "2026-02-11T02:21:00+01:00",
+      "lock_eta": "2026-02-11T02:20:00+01:00",
       "delta_first_rueb_min": -66,
       "delta_first_rueb_hm": "-01:06",
-      "delta_rueb_lock_min": 322,
-      "delta_rueb_lock_hm": "05:22",
+      "delta_rueb_lock_min": 321,
+      "delta_rueb_lock_hm": "05:21",
       "track": {
-        "lat": "54.13005173206329",
-        "lon": "9.331973791122438",
-        "sog": "3.48209706929603"
+        "lat": "54.06200945377349",
+        "lon": "9.310253262519836",
+        "sog": "3.3354160160315836"
       }
     },
     {
@@ -331,35 +388,16 @@
       "travel_status": "fahrend im NOK",
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452947+01:00",
-      "rueb_eta": "2026-02-11T00:14:30+01:00",
+      "rueb_eta": "2026-02-11T00:15:31+01:00",
       "lock_eta": "2026-02-11T06:49:00+01:00",
-      "delta_first_rueb_min": 129,
-      "delta_first_rueb_hm": "02:09",
-      "delta_rueb_lock_min": 394,
-      "delta_rueb_lock_hm": "06:34",
+      "delta_first_rueb_min": 130,
+      "delta_first_rueb_hm": "02:10",
+      "delta_rueb_lock_min": 393,
+      "delta_rueb_lock_hm": "06:33",
       "track": {
-        "lat": "54.34167802333831",
-        "lon": "9.749550819396973",
-        "sog": "2.850438562747845"
-      }
-    },
-    {
-      "name": "FOYLE",
-      "section": "unknown",
-      "direction": null,
-      "travel_status": "fahrend im Zulauf Brb. außen",
-      "canal_steerer": null,
-      "first_seen": "2026-02-10T22:04:32.452969+01:00",
-      "rueb_eta": null,
-      "lock_eta": "2026-02-11T00:21:00+01:00",
-      "delta_first_rueb_min": null,
-      "delta_first_rueb_hm": null,
-      "delta_rueb_lock_min": null,
-      "delta_rueb_lock_hm": null,
-      "track": {
-        "lat": "53.88093888759613",
-        "lon": "9.086578488349915",
-        "sog": "3.71"
+        "lat": "54.300516843795776",
+        "lon": "9.70519244670868",
+        "sog": "3.4003676271838605"
       }
     },
     {
@@ -370,15 +408,15 @@
       "canal_steerer": null,
       "first_seen": null,
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T02:35:00+01:00",
+      "lock_eta": "2026-02-11T02:07:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.83828639984131",
-        "lon": "8.786750435829163",
-        "sog": "9.40"
+        "lat": "53.83795380592346",
+        "lon": "8.877532482147217",
+        "sog": "10.06"
       }
     },
     {
@@ -387,17 +425,17 @@
       "direction": null,
       "travel_status": "fahrend im Zulauf Brb. außen",
       "canal_steerer": null,
-      "first_seen": null,
+      "first_seen": "2026-02-10T23:28:11.056805+01:00",
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T00:45:00+01:00",
+      "lock_eta": "2026-02-11T00:49:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.83886575698853",
-        "lon": "8.839353919029236",
-        "sog": "19.82"
+        "lat": "53.85779142379761",
+        "lon": "9.025295376777649",
+        "sog": "18.55"
       }
     },
     {
@@ -408,15 +446,15 @@
       "canal_steerer": null,
       "first_seen": null,
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T03:22:00+01:00",
+      "lock_eta": "2026-02-11T02:58:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.9768385887146",
-        "lon": "8.449596762657166",
-        "sog": "15.54"
+        "lat": "53.95816504955292",
+        "lon": "8.603067398071289",
+        "sog": "16.10"
       }
     },
     {
@@ -427,15 +465,15 @@
       "canal_steerer": null,
       "first_seen": null,
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T02:03:00+01:00",
+      "lock_eta": "2026-02-11T01:57:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.858633637428284",
-        "lon": "8.739527463912964",
-        "sog": "11.53"
+        "lat": "53.83704185485839",
+        "lon": "8.841671347618103",
+        "sog": "12.60"
       }
     },
     {
@@ -446,15 +484,34 @@
       "canal_steerer": null,
       "first_seen": "2026-02-06T22:56:28.102798+01:00",
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T03:40:00+01:00",
+      "lock_eta": "2026-02-11T03:43:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.990469574928284",
-        "lon": "8.334224224090578",
-        "sog": "14.84"
+        "lat": "53.97461771965027",
+        "lon": "8.465931415557861",
+        "sog": "15.54"
+      }
+    },
+    {
+      "name": "NEERBORG",
+      "section": "unknown",
+      "direction": null,
+      "travel_status": "fahrend im Zulauf Brb. außen",
+      "canal_steerer": null,
+      "first_seen": null,
+      "rueb_eta": null,
+      "lock_eta": null,
+      "delta_first_rueb_min": null,
+      "delta_first_rueb_hm": null,
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "53.971490263938904",
+        "lon": "8.007010817527771",
+        "sog": "21.01"
       }
     }
   ]
