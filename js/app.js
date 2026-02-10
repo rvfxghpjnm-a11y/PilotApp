@@ -5,8 +5,15 @@ async function loadData(){
   const r = await fetch("data/web_data.json?"+Date.now());
   DATA = await r.json();
 
+  // ---------- FIX generated ----------
+  const gen =
+    DATA.generated_at ||
+    DATA.gesamtboert?.generated_at ||
+    DATA.seelotsen?.generated_at ||
+    "";
+
   document.getElementById("generated").innerText =
-    "Update: " + DATA.generated_at;
+    "Update: " + gen;
 
   buildLotseSelect();
   renderAll();
@@ -18,36 +25,37 @@ function buildLotseSelect(){
 
   DATA.targets.forEach(t=>{
     const o = document.createElement("option");
-    o.value = t;
+    o.value = t.toUpperCase();
     o.textContent = t;
     sel.appendChild(o);
   });
 
   sel.onchange = ()=>{
-    CURRENT = sel.value;
+    CURRENT = sel.value.toUpperCase();
     renderAll();
   };
 
-  CURRENT = DATA.targets[0];
+  CURRENT = DATA.targets[0].toUpperCase();
 }
 
-function renderAll(){
-  renderAktuell();
-  renderBoert();
-  renderSeelotsen();
+function findBoert(){
+  return DATA.gesamtboert.entries.find(
+    e => e.nachname.toUpperCase() === CURRENT
+  );
+}
+
+function findSee(){
+  return DATA.seelotsen.entries.find(
+    e => e.nachname.toUpperCase() === CURRENT
+  );
 }
 
 function renderAktuell(){
   const div = document.getElementById("aktuell");
   div.innerHTML = "";
 
-  const boert = DATA.gesamtboert.entries.find(
-    e=>e.nachname.toUpperCase()===CURRENT
-  );
-
-  const see = DATA.seelotsen.entries.find(
-    e=>e.nachname.toUpperCase()===CURRENT
-  );
+  const boert = findBoert();
+  const see   = findSee();
 
   const card = document.createElement("div");
   card.className="actionCard";
@@ -75,54 +83,8 @@ function renderAktuell(){
   div.appendChild(card);
 }
 
-function renderBoert(){
-  const div = document.getElementById("boert");
-  div.innerHTML = "";
-
-  const table = document.createElement("table");
-  table.innerHTML = `
-    <thead>
-      <tr>
-        <th>Pos</th>
-        <th>Name</th>
-        <th>Takt</th>
-        <th>Info</th>
-      </tr>
-    </thead>
-  `;
-
-  const tb = document.createElement("tbody");
-
-  DATA.gesamtboert.entries.forEach(e=>{
-    const tr = document.createElement("tr");
-    tr.innerHTML = `
-      <td>${e.pos}</td>
-      <td>${e.nachname}</td>
-      <td>${e.takt}</td>
-      <td>${e.bemerkung||""}</td>
-    `;
-    tb.appendChild(tr);
-  });
-
-  table.appendChild(tb);
-  div.appendChild(table);
-}
-
-function renderSeelotsen(){
-  const div = document.getElementById("seelotsen");
-  div.innerHTML = "";
-
-  DATA.seelotsen.entries.forEach(e=>{
-    const row = document.createElement("div");
-    row.className="card";
-    row.innerHTML = `
-      <b>${e.nachname}</b>
-      ${e.aufgabe}
-      ${e.fahrzeug}
-      ${e.zeit}
-    `;
-    div.appendChild(row);
-  });
+function renderAll(){
+  renderAktuell();
 }
 
 document.getElementById("reloadBtn").onclick=loadData;
