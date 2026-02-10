@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T23:32:21.699754+01:00",
+  "generated_at": "2026-02-10T23:36:06.032778+01:00",
   "ships": [
     {
       "name": "LUNAMAR",
@@ -15,9 +15,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.50343132019043",
-        "lon": "10.302026867866516",
-        "sog": "14.09"
+        "lat": "54.49939727783203",
+        "lon": "10.290284156799316",
+        "sog": "14.51"
       }
     },
     {
@@ -34,9 +34,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.56676363945007",
-        "lon": "10.561552047729492",
-        "sog": "19.66"
+        "lat": "54.56263840198517",
+        "lon": "10.54337739944458",
+        "sog": "20.22"
       }
     },
     {
@@ -53,8 +53,8 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.36554968357086",
-        "lon": "10.141341090202332",
+        "lat": "54.36553359031677",
+        "lon": "10.141319632530212",
         "sog": "0.00"
       }
     },
@@ -72,8 +72,8 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "54.36592519283295",
-        "lon": "10.141941905021667",
+        "lat": "54.365952014923096",
+        "lon": "10.142000913619995",
         "sog": "0.00"
       }
     },
@@ -97,6 +97,25 @@
       }
     },
     {
+      "name": "CORALLOPHELIA",
+      "section": "schleuse",
+      "direction": null,
+      "travel_status": "liegend in Schleuse Brb.",
+      "canal_steerer": null,
+      "first_seen": "2026-02-10T22:04:32.452811+01:00",
+      "rueb_eta": "2026-02-10T19:10:31+01:00",
+      "lock_eta": null,
+      "delta_first_rueb_min": -174,
+      "delta_first_rueb_hm": "-02:54",
+      "delta_rueb_lock_min": null,
+      "delta_rueb_lock_hm": null,
+      "track": {
+        "lat": "53.89481663703918",
+        "lon": "9.146423935890198",
+        "sog": "0.3535533905932738"
+      }
+    },
+    {
       "name": "CYPRUSCEMENT",
       "section": "schleuse",
       "direction": null,
@@ -111,7 +130,7 @@
       "delta_rueb_lock_hm": null,
       "track": {
         "lat": "53.89365792274476",
-        "lon": "9.143655896186829",
+        "lon": "9.143666625022888",
         "sog": "0.0"
       }
     },
@@ -130,7 +149,7 @@
       "delta_rueb_lock_hm": null,
       "track": {
         "lat": "53.89271914958954",
-        "lon": "9.144004583358765",
+        "lon": "9.143961668014526",
         "sog": "0.00"
       }
     },
@@ -148,7 +167,7 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.89357209205627",
+        "lat": "53.893577456474304",
         "lon": "9.145077466964722",
         "sog": "0.00"
       }
@@ -167,9 +186,9 @@
       "delta_rueb_lock_min": 273,
       "delta_rueb_lock_hm": "04:33",
       "track": {
-        "lat": "54.157045483589165",
-        "lon": "9.386186599731444",
-        "sog": "3.5794552658190883"
+        "lat": "54.15980279445648",
+        "lon": "9.397210478782654",
+        "sog": "3.48209706929603"
       }
     },
     {
@@ -186,9 +205,9 @@
       "delta_rueb_lock_min": 329,
       "delta_rueb_lock_hm": "05:29",
       "track": {
-        "lat": "54.067271947860725",
-        "lon": "9.313026666641237",
-        "sog": "3.5794552658190883"
+        "lat": "54.07421886920929",
+        "lon": "9.31615948677063",
+        "sog": "3.640054944640259"
       }
     },
     {
@@ -199,15 +218,15 @@
       "canal_steerer": null,
       "first_seen": "2026-02-10T22:04:32.452620+01:00",
       "rueb_eta": "2026-02-10T22:25:01+01:00",
-      "lock_eta": "2026-02-11T02:56:00+01:00",
+      "lock_eta": "2026-02-11T02:54:00+01:00",
       "delta_first_rueb_min": 20,
       "delta_first_rueb_hm": "00:20",
-      "delta_rueb_lock_min": 270,
-      "delta_rueb_lock_hm": "04:30",
+      "delta_rueb_lock_min": 268,
+      "delta_rueb_lock_hm": "04:28",
       "track": {
-        "lat": "54.336474537849426",
-        "lon": "9.740023612976074",
-        "sog": "3.553167600887974"
+        "lat": "54.34116303920745",
+        "lon": "9.749481081962585",
+        "sog": "3.7165171868296265"
       }
     },
     {
@@ -224,8 +243,8 @@
       "delta_rueb_lock_min": 304,
       "delta_rueb_lock_hm": "05:04",
       "track": {
-        "lat": "54.0158486366272",
-        "lon": "9.297217726707458",
+        "lat": "54.022623896598816",
+        "lon": "9.298961162567139",
         "sog": "3.5355339059327378"
       }
     },
@@ -244,7 +263,7 @@
       "delta_rueb_lock_hm": null,
       "track": {
         "lat": "54.386969804763794",
-        "lon": "10.172985792160034",
+        "lon": "10.173001885414124",
         "sog": "0.00"
       }
     },
@@ -262,28 +281,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.89927446842193",
-        "lon": "9.1550874710083",
-        "sog": "1.4142135623730951"
-      }
-    },
-    {
-      "name": "CORALLOPHELIA",
-      "section": "unknown",
-      "direction": null,
-      "travel_status": "fahrend im NOK",
-      "canal_steerer": null,
-      "first_seen": "2026-02-10T22:04:32.452811+01:00",
-      "rueb_eta": "2026-02-10T19:10:31+01:00",
-      "lock_eta": "2026-02-11T00:33:00+01:00",
-      "delta_first_rueb_min": -174,
-      "delta_first_rueb_hm": "-02:54",
-      "delta_rueb_lock_min": 322,
-      "delta_rueb_lock_hm": "05:22",
-      "track": {
-        "lat": "53.89577150344849",
-        "lon": "9.148070812225342",
-        "sog": "0.5590169943749476"
+        "lat": "53.89738619327545",
+        "lon": "9.151300191879272",
+        "sog": "0.7071067811865476"
       }
     },
     {
@@ -300,9 +300,9 @@
       "delta_rueb_lock_min": 324,
       "delta_rueb_lock_hm": "05:24",
       "track": {
-        "lat": "54.18249428272247",
-        "lon": "9.483759999275208",
-        "sog": "3.4003676271838605"
+        "lat": "54.18008029460906",
+        "lon": "9.472306966781618",
+        "sog": "3.48209706929603"
       }
     },
     {
@@ -319,8 +319,8 @@
       "delta_rueb_lock_min": 324,
       "delta_rueb_lock_hm": "05:24",
       "track": {
-        "lat": "54.184446930885315",
-        "lon": "9.493609070777893",
+        "lat": "54.182097315788276",
+        "lon": "9.482038021087646",
         "sog": "3.48209706929603"
       }
     },
@@ -338,9 +338,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.899312019348145",
-        "lon": "9.157292246818542",
-        "sog": "1.5"
+        "lat": "53.899279832839966",
+        "lon": "9.154910445213318",
+        "sog": "1.0606601717798212"
       }
     },
     {
@@ -357,9 +357,9 @@
       "delta_rueb_lock_min": 326,
       "delta_rueb_lock_hm": "05:26",
       "track": {
-        "lat": "54.36237931251526",
-        "lon": "9.861291646957397",
-        "sog": "3.48209706929603"
+        "lat": "54.36376333236694",
+        "lon": "9.849382638931274",
+        "sog": "3.5089172119045497"
       }
     },
     {
@@ -376,9 +376,9 @@
       "delta_rueb_lock_min": 321,
       "delta_rueb_lock_hm": "05:21",
       "track": {
-        "lat": "54.054397344589226",
-        "lon": "9.307753443717955",
-        "sog": "3.5794552658190883"
+        "lat": "54.047622084617615",
+        "lon": "9.305489659309387",
+        "sog": "3.3354160160315836"
       }
     },
     {
@@ -395,9 +395,9 @@
       "delta_rueb_lock_min": 392,
       "delta_rueb_lock_hm": "06:32",
       "track": {
-        "lat": "54.29589807987213",
-        "lon": "9.694291949272156",
-        "sog": "3.5794552658190883"
+        "lat": "54.293618202209466",
+        "lon": "9.682849645614624",
+        "sog": "3.4003676271838605"
       }
     },
     {
@@ -408,14 +408,14 @@
       "canal_steerer": null,
       "first_seen": null,
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T02:07:00+01:00",
+      "lock_eta": "2026-02-11T02:16:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.83913397789001",
-        "lon": "8.887537121772766",
+        "lat": "53.84032487869262",
+        "lon": "8.896549344062805",
         "sog": "9.18"
       }
     },
@@ -427,15 +427,15 @@
       "canal_steerer": null,
       "first_seen": "2026-02-10T23:28:11.056805+01:00",
       "rueb_eta": null,
-      "lock_eta": "2026-02-11T00:50:00+01:00",
+      "lock_eta": "2026-02-11T00:52:00+01:00",
       "delta_first_rueb_min": null,
       "delta_first_rueb_hm": null,
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.86191666126251",
-        "lon": "9.041522741317749",
-        "sog": "16.55"
+        "lat": "53.86594533920288",
+        "lon": "9.056071043014526",
+        "sog": "16.10"
       }
     },
     {
@@ -452,9 +452,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.95387887954712",
-        "lon": "8.618618845939636",
-        "sog": "16.10"
+        "lat": "53.9486700296402",
+        "lon": "8.630452752113342",
+        "sog": "15.33"
       }
     },
     {
@@ -471,8 +471,8 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.83741736412048",
-        "lon": "8.854653239250181",
+        "lat": "53.83796453475952",
+        "lon": "8.86646032333374",
         "sog": "12.63"
       }
     },
@@ -490,9 +490,9 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.97302448749542",
-        "lon": "8.481756448745728",
-        "sog": "14.65"
+        "lat": "53.971694111824036",
+        "lon": "8.49591314792633",
+        "sog": "14.51"
       }
     },
     {
@@ -509,8 +509,8 @@
       "delta_rueb_lock_min": null,
       "delta_rueb_lock_hm": null,
       "track": {
-        "lat": "53.97552967071533",
-        "lon": "8.027873039245607",
+        "lat": "53.97988021373749",
+        "lon": "8.046364188194275",
         "sog": "20.56"
       }
     }
