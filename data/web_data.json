@@ -1,28 +1,28 @@
 {
   "channel": {
-    "generated_at": "2026-02-10T23:36:06.032778+01:00",
+    "generated_at": "2026-02-26T23:08:39.236413+01:00",
     "ships": [
       {
-        "name": "LUNAMAR",
+        "name": "JOLIE",
         "section": "zulauf_kiel_aussen",
         "direction": null,
         "travel_status": "fahrend im Zulauf Kiel außen",
         "canal_steerer": null,
-        "first_seen": "2026-02-10T23:28:11.056564+01:00",
+        "first_seen": "2026-02-26T23:08:39.025767+01:00",
         "rueb_eta": null,
-        "lock_eta": "2026-02-11T01:58:00+01:00",
+        "lock_eta": "2026-02-27T00:11:00+01:00",
         "delta_first_rueb_min": null,
         "delta_first_rueb_hm": null,
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.49939727783203",
-          "lon": "10.290284156799316",
-          "sog": "14.51"
+          "lat": "54.36529219150543",
+          "lon": "10.164413452148438",
+          "sog": "7.26"
         }
       },
       {
-        "name": "ANNIKABRAREN",
+        "name": "VICTORIA",
         "section": "zulauf_kiel_aussen",
         "direction": null,
         "travel_status": "fahrend im Zulauf Kiel außen",
@@ -35,18 +35,37 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.56263840198517",
-          "lon": "10.54337739944458",
-          "sog": "20.22"
+          "lat": "54.54583704471589",
+          "lon": "10.467674732208252",
+          "sog": "17.73"
         }
       },
       {
-        "name": "NAUTILUS",
+        "name": "SOFIA",
+        "section": "zulauf_kiel_aussen",
+        "direction": null,
+        "travel_status": "fahrend im Zulauf Kiel außen",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025799+01:00",
+        "rueb_eta": null,
+        "lock_eta": "2026-02-27T00:04:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "54.3647825717926",
+          "lon": "10.150991678237915",
+          "sog": "6.36"
+        }
+      },
+      {
+        "name": "NATHALIE",
         "section": "schleuse",
         "direction": null,
         "travel_status": "liegend in Schleuse Kiel",
         "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452696+01:00",
+        "first_seen": "2026-02-26T23:08:39.025823+01:00",
         "rueb_eta": null,
         "lock_eta": null,
         "delta_first_rueb_min": null,
@@ -54,75 +73,18 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.36553359031677",
-          "lon": "10.141319632530212",
-          "sog": "0.00"
+          "lat": "54.36607539653779",
+          "lon": "10.14314889907837",
+          "sog": "0.90"
         }
       },
       {
-        "name": "RIXSAIL",
-        "section": "schleuse",
-        "direction": null,
-        "travel_status": "liegend in Schleuse Kiel",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452731+01:00",
-        "rueb_eta": null,
-        "lock_eta": null,
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "54.365952014923096",
-          "lon": "10.142000913619995",
-          "sog": "0.00"
-        }
-      },
-      {
-        "name": "VLIELAND",
-        "section": "schleuse",
-        "direction": null,
-        "travel_status": "liegend in Schleuse Kiel",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452765+01:00",
-        "rueb_eta": null,
-        "lock_eta": null,
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "54.36514735221863",
-          "lon": "10.143717527389528",
-          "sog": "0.00"
-        }
-      },
-      {
-        "name": "CORALLOPHELIA",
+        "name": "RUTH",
         "section": "schleuse",
         "direction": null,
         "travel_status": "liegend in Schleuse Brb.",
         "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452811+01:00",
-        "rueb_eta": "2026-02-10T19:10:31+01:00",
-        "lock_eta": null,
-        "delta_first_rueb_min": -174,
-        "delta_first_rueb_hm": "-02:54",
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.89481663703918",
-          "lon": "9.146423935890198",
-          "sog": "0.3535533905932738"
-        }
-      },
-      {
-        "name": "CYPRUSCEMENT",
-        "section": "schleuse",
-        "direction": null,
-        "travel_status": "liegend in Schleuse Brb.",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:50:25.957989+01:00",
+        "first_seen": "2026-02-26T23:08:39.026014+01:00",
         "rueb_eta": null,
         "lock_eta": null,
         "delta_first_rueb_min": null,
@@ -130,16 +92,339 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.89365792274476",
-          "lon": "9.143666625022888",
-          "sog": "0.0"
+          "lat": "53.89473617076874",
+          "lon": "9.146332740783691",
+          "sog": "0.00"
+        }
+      },
+      {
+        "name": "FLEVOBORG",
+        "section": "schleuse",
+        "direction": null,
+        "travel_status": "liegend in Schleuse Brb.",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.026037+01:00",
+        "rueb_eta": null,
+        "lock_eta": null,
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.89315366744996",
+          "lon": "9.142829775810242",
+          "sog": "0.00"
+        }
+      },
+      {
+        "name": "NETAA",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025461+01:00",
+        "rueb_eta": "2026-02-26T21:14:14+01:00",
+        "lock_eta": "2026-02-27T01:49:00+01:00",
+        "delta_first_rueb_min": -114,
+        "delta_first_rueb_hm": "-01:54",
+        "delta_rueb_lock_min": 274,
+        "delta_rueb_lock_hm": "04:34",
+        "track": {
+          "lat": "54.363564848899834",
+          "lon": "9.852097034454346",
+          "sog": "2.5124689052802225"
+        }
+      },
+      {
+        "name": "ECOMISTRAL",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025606+01:00",
+        "rueb_eta": "2026-02-27T02:31:12+01:00",
+        "lock_eta": "2026-02-27T07:47:00+01:00",
+        "delta_first_rueb_min": 202,
+        "delta_first_rueb_hm": "03:22",
+        "delta_rueb_lock_min": 315,
+        "delta_rueb_lock_hm": "05:15",
+        "track": {
+          "lat": "53.98955225944519",
+          "lon": "9.285914897918701",
+          "sog": "3.3541019662496847"
+        }
+      },
+      {
+        "name": "BBCCITRINE",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025629+01:00",
+        "rueb_eta": "2026-02-26T20:07:43+01:00",
+        "lock_eta": "2026-02-27T00:56:00+01:00",
+        "delta_first_rueb_min": -180,
+        "delta_first_rueb_hm": "-03:00",
+        "delta_rueb_lock_min": 288,
+        "delta_rueb_lock_hm": "04:48",
+        "track": {
+          "lat": "54.35359776020051",
+          "lon": "10.003706216812132",
+          "sog": "3.3634060117684275"
+        }
+      },
+      {
+        "name": "WILSONPOLICE",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025650+01:00",
+        "rueb_eta": "2026-02-26T20:37:43+01:00",
+        "lock_eta": "2026-02-27T01:04:00+01:00",
+        "delta_first_rueb_min": -150,
+        "delta_first_rueb_hm": "-02:30",
+        "delta_rueb_lock_min": 266,
+        "delta_rueb_lock_hm": "04:26",
+        "track": {
+          "lat": "54.34492349624633",
+          "lon": "9.983482360839842",
+          "sog": "3.25"
+        }
+      },
+      {
+        "name": "SOUNDMAR",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025669+01:00",
+        "rueb_eta": "2026-02-26T23:49:42+01:00",
+        "lock_eta": "2026-02-27T05:30:00+01:00",
+        "delta_first_rueb_min": 41,
+        "delta_first_rueb_hm": "00:41",
+        "delta_rueb_lock_min": 340,
+        "delta_rueb_lock_hm": "05:40",
+        "track": {
+          "lat": "54.19233798980713",
+          "lon": "9.531197547912598",
+          "sog": "3.48209706929603"
+        }
+      },
+      {
+        "name": "AMISIA",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025688+01:00",
+        "rueb_eta": "2026-02-27T02:27:42+01:00",
+        "lock_eta": "2026-02-27T07:40:00+01:00",
+        "delta_first_rueb_min": 199,
+        "delta_first_rueb_hm": "03:19",
+        "delta_rueb_lock_min": 312,
+        "delta_rueb_lock_hm": "05:12",
+        "track": {
+          "lat": "54.04050886631011",
+          "lon": "9.304057359695435",
+          "sog": "3.5355339059327378"
+        }
+      },
+      {
+        "name": "ESPERANCE",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025707+01:00",
+        "rueb_eta": "2026-02-27T00:19:41+01:00",
+        "lock_eta": "2026-02-27T05:34:00+01:00",
+        "delta_first_rueb_min": 71,
+        "delta_first_rueb_hm": "01:11",
+        "delta_rueb_lock_min": 314,
+        "delta_rueb_lock_hm": "05:14",
+        "track": {
+          "lat": "54.17457640171051",
+          "lon": "9.4487464427948",
+          "sog": "3.5794552658190883"
+        }
+      },
+      {
+        "name": "KADRI",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025842+01:00",
+        "rueb_eta": "2026-02-26T23:02:15+01:00",
+        "lock_eta": "2026-02-27T04:36:00+01:00",
+        "delta_first_rueb_min": -6,
+        "delta_first_rueb_hm": "-00:06",
+        "delta_rueb_lock_min": 333,
+        "delta_rueb_lock_hm": "05:33",
+        "track": {
+          "lat": "54.23386394977569",
+          "lon": "9.606835842132568",
+          "sog": "3.25"
+        }
+      },
+      {
+        "name": "LAAR",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025860+01:00",
+        "rueb_eta": "2026-02-26T16:10:43+01:00",
+        "lock_eta": null,
+        "delta_first_rueb_min": -417,
+        "delta_first_rueb_hm": "-06:57",
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.89429092407227",
+          "lon": "9.150951504707336",
+          "sog": "0.9013878188659973"
+        }
+      },
+      {
+        "name": "GOOTEBORG",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025877+01:00",
+        "rueb_eta": "2026-02-26T22:59:15+01:00",
+        "lock_eta": "2026-02-27T04:17:00+01:00",
+        "delta_first_rueb_min": -9,
+        "delta_first_rueb_hm": "-00:09",
+        "delta_rueb_lock_min": 317,
+        "delta_rueb_lock_hm": "05:17",
+        "track": {
+          "lat": "54.227786064147956",
+          "lon": "9.602463841438293",
+          "sog": "3.5794552658190883"
+        }
+      },
+      {
+        "name": "PULPCA",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025895+01:00",
+        "rueb_eta": "2026-02-27T01:27:12+01:00",
+        "lock_eta": "2026-02-27T06:55:00+01:00",
+        "delta_first_rueb_min": 138,
+        "delta_first_rueb_hm": "02:18",
+        "delta_rueb_lock_min": 327,
+        "delta_rueb_lock_hm": "05:27",
+        "track": {
+          "lat": "54.34364140033722",
+          "lon": "9.922462105751038",
+          "sog": "3.5794552658190883"
+        }
+      },
+      {
+        "name": "VERTOMTOMMA",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025912+01:00",
+        "rueb_eta": "2026-02-26T18:55:13+01:00",
+        "lock_eta": "2026-02-27T00:15:00+01:00",
+        "delta_first_rueb_min": -253,
+        "delta_first_rueb_hm": "-04:13",
+        "delta_rueb_lock_min": 319,
+        "delta_rueb_lock_hm": "05:19",
+        "track": {
+          "lat": "53.903614282608025",
+          "lon": "9.162200689315794",
+          "sog": "1.25"
+        }
+      },
+      {
+        "name": "HAVTUNA",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025929+01:00",
+        "rueb_eta": "2026-02-27T01:19:11+01:00",
+        "lock_eta": "2026-02-27T06:46:00+01:00",
+        "delta_first_rueb_min": 130,
+        "delta_first_rueb_hm": "02:10",
+        "delta_rueb_lock_min": 326,
+        "delta_rueb_lock_hm": "05:26",
+        "track": {
+          "lat": "54.351457357406616",
+          "lon": "9.897817969322205",
+          "sog": "3.473110997362451"
+        }
+      },
+      {
+        "name": "CENTAURUS",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025947+01:00",
+        "rueb_eta": "2026-02-26T20:25:39+01:00",
+        "lock_eta": "2026-02-27T02:20:00+01:00",
+        "delta_first_rueb_min": -163,
+        "delta_first_rueb_hm": "-02:43",
+        "delta_rueb_lock_min": 354,
+        "delta_rueb_lock_hm": "05:54",
+        "track": {
+          "lat": "54.09573018550873",
+          "lon": "9.32741403579712",
+          "sog": "3.640054944640259"
+        }
+      },
+      {
+        "name": "ANITAHAGEDORN",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025964+01:00",
+        "rueb_eta": "2026-02-26T19:01:40+01:00",
+        "lock_eta": "2026-02-27T00:22:00+01:00",
+        "delta_first_rueb_min": -246,
+        "delta_first_rueb_hm": "-04:06",
+        "delta_rueb_lock_min": 320,
+        "delta_rueb_lock_hm": "05:20",
+        "track": {
+          "lat": "53.908511996269226",
+          "lon": "9.173702001571655",
+          "sog": "2.657536453183663"
+        }
+      },
+      {
+        "name": "ARKLOWCLIPPER",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im NOK",
+        "canal_steerer": null,
+        "first_seen": "2026-02-26T23:08:39.025982+01:00",
+        "rueb_eta": "2026-02-26T18:17:43+01:00",
+        "lock_eta": "2026-02-27T00:19:00+01:00",
+        "delta_first_rueb_min": -290,
+        "delta_first_rueb_hm": "-04:50",
+        "delta_rueb_lock_min": 361,
+        "delta_rueb_lock_hm": "06:01",
+        "track": {
+          "lat": "53.9069938659668",
+          "lon": "9.16883111000061",
+          "sog": "1.25"
         }
       },
       {
         "name": "FOYLE",
-        "section": "schleuse",
+        "section": "unknown",
         "direction": null,
-        "travel_status": "liegend in Schleuse Brb.",
+        "travel_status": "fahrend im Zulauf Brb. außen",
         "canal_steerer": null,
         "first_seen": "2026-02-10T22:04:32.452969+01:00",
         "rueb_eta": null,
@@ -149,18 +434,37 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.89271914958954",
-          "lon": "9.143961668014526",
+          "lat": "54.04378116130829",
+          "lon": "8.136577606201172",
           "sog": "0.00"
         }
       },
       {
-        "name": "THETISD",
-        "section": "schleuse",
+        "name": "MARJATTA",
+        "section": "unknown",
         "direction": null,
-        "travel_status": "liegend in Schleuse Brb.",
+        "travel_status": "fahrend im Zulauf Brb. außen",
         "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452993+01:00",
+        "first_seen": "2026-02-07T13:20:25.303878+01:00",
+        "rueb_eta": null,
+        "lock_eta": "2026-02-27T03:26:00+01:00",
+        "delta_first_rueb_min": null,
+        "delta_first_rueb_hm": null,
+        "delta_rueb_lock_min": null,
+        "delta_rueb_lock_hm": null,
+        "track": {
+          "lat": "53.984177112579346",
+          "lon": "8.365525603294373",
+          "sog": "17.31"
+        }
+      },
+      {
+        "name": "BARTOK",
+        "section": "unknown",
+        "direction": null,
+        "travel_status": "fahrend im Zulauf Brb. außen",
+        "canal_steerer": null,
+        "first_seen": null,
         "rueb_eta": null,
         "lock_eta": null,
         "delta_first_rueb_min": null,
@@ -168,94 +472,18 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "53.893577456474304",
-          "lon": "9.145077466964722",
+          "lat": "54.06455218791962",
+          "lon": "8.12837541103363",
           "sog": "0.00"
         }
       },
       {
-        "name": "ARAMIS",
+        "name": "BERNSTEIN",
         "section": "unknown",
         "direction": null,
-        "travel_status": "fahrend im NOK",
+        "travel_status": "fahrend im Zulauf Brb. außen",
         "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452459+01:00",
-        "rueb_eta": "2026-02-11T01:06:00+01:00",
-        "lock_eta": "2026-02-11T05:39:00+01:00",
-        "delta_first_rueb_min": 181,
-        "delta_first_rueb_hm": "03:01",
-        "delta_rueb_lock_min": 273,
-        "delta_rueb_lock_hm": "04:33",
-        "track": {
-          "lat": "54.15980279445648",
-          "lon": "9.397210478782654",
-          "sog": "3.48209706929603"
-        }
-      },
-      {
-        "name": "AMBERSPIRIT",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452597+01:00",
-        "rueb_eta": "2026-02-11T02:05:30+01:00",
-        "lock_eta": "2026-02-11T07:35:00+01:00",
-        "delta_first_rueb_min": 240,
-        "delta_first_rueb_hm": "04:00",
-        "delta_rueb_lock_min": 329,
-        "delta_rueb_lock_hm": "05:29",
-        "track": {
-          "lat": "54.07421886920929",
-          "lon": "9.31615948677063",
-          "sog": "3.640054944640259"
-        }
-      },
-      {
-        "name": "GTPIKE",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452620+01:00",
-        "rueb_eta": "2026-02-10T22:25:01+01:00",
-        "lock_eta": "2026-02-11T02:54:00+01:00",
-        "delta_first_rueb_min": 20,
-        "delta_first_rueb_hm": "00:20",
-        "delta_rueb_lock_min": 268,
-        "delta_rueb_lock_hm": "04:28",
-        "track": {
-          "lat": "54.34116303920745",
-          "lon": "9.749481081962585",
-          "sog": "3.7165171868296265"
-        }
-      },
-      {
-        "name": "UIKKU",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452640+01:00",
-        "rueb_eta": "2026-02-11T02:34:32+01:00",
-        "lock_eta": "2026-02-11T07:39:00+01:00",
-        "delta_first_rueb_min": 269,
-        "delta_first_rueb_hm": "04:29",
-        "delta_rueb_lock_min": 304,
-        "delta_rueb_lock_hm": "05:04",
-        "track": {
-          "lat": "54.022623896598816",
-          "lon": "9.298961162567139",
-          "sog": "3.5355339059327378"
-        }
-      },
-      {
-        "name": "KATHI",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "Ende Passage",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452790+01:00",
+        "first_seen": null,
         "rueb_eta": null,
         "lock_eta": null,
         "delta_first_rueb_min": null,
@@ -263,287 +491,832 @@
         "delta_rueb_lock_min": null,
         "delta_rueb_lock_hm": null,
         "track": {
-          "lat": "54.386969804763794",
-          "lon": "10.173001885414124",
+          "lat": "54.03631925582886",
+          "lon": "8.152021765708923",
           "sog": "0.00"
-        }
-      },
-      {
-        "name": "EK-STREAM",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T23:28:11.056726+01:00",
-        "rueb_eta": null,
-        "lock_eta": null,
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.89738619327545",
-          "lon": "9.151300191879272",
-          "sog": "0.7071067811865476"
-        }
-      },
-      {
-        "name": "AQUAMAR",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452869+01:00",
-        "rueb_eta": "2026-02-10T22:38:01+01:00",
-        "lock_eta": "2026-02-11T04:03:00+01:00",
-        "delta_first_rueb_min": 33,
-        "delta_first_rueb_hm": "00:33",
-        "delta_rueb_lock_min": 324,
-        "delta_rueb_lock_hm": "05:24",
-        "track": {
-          "lat": "54.18008029460906",
-          "lon": "9.472306966781618",
-          "sog": "3.48209706929603"
-        }
-      },
-      {
-        "name": "OSKRENDSBURG",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-06T22:56:28.102162+01:00",
-        "rueb_eta": "2026-02-10T22:41:31+01:00",
-        "lock_eta": "2026-02-11T04:06:00+01:00",
-        "delta_first_rueb_min": 5745,
-        "delta_first_rueb_hm": "95:45",
-        "delta_rueb_lock_min": 324,
-        "delta_rueb_lock_hm": "05:24",
-        "track": {
-          "lat": "54.182097315788276",
-          "lon": "9.482038021087646",
-          "sog": "3.48209706929603"
-        }
-      },
-      {
-        "name": "BOSCH",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T23:28:11.056757+01:00",
-        "rueb_eta": null,
-        "lock_eta": null,
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.899279832839966",
-          "lon": "9.154910445213318",
-          "sog": "1.0606601717798212"
-        }
-      },
-      {
-        "name": "PAULINB",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-06T22:56:28.102349+01:00",
-        "rueb_eta": "2026-02-11T01:29:02+01:00",
-        "lock_eta": "2026-02-11T06:56:00+01:00",
-        "delta_first_rueb_min": 5912,
-        "delta_first_rueb_hm": "98:32",
-        "delta_rueb_lock_min": 326,
-        "delta_rueb_lock_hm": "05:26",
-        "track": {
-          "lat": "54.36376333236694",
-          "lon": "9.849382638931274",
-          "sog": "3.5089172119045497"
-        }
-      },
-      {
-        "name": "SCOTBERLIN",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452929+01:00",
-        "rueb_eta": "2026-02-10T20:58:30+01:00",
-        "lock_eta": "2026-02-11T02:20:00+01:00",
-        "delta_first_rueb_min": -66,
-        "delta_first_rueb_hm": "-01:06",
-        "delta_rueb_lock_min": 321,
-        "delta_rueb_lock_hm": "05:21",
-        "track": {
-          "lat": "54.047622084617615",
-          "lon": "9.305489659309387",
-          "sog": "3.3354160160315836"
-        }
-      },
-      {
-        "name": "ANNETTEESSBERGER",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im NOK",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T22:04:32.452947+01:00",
-        "rueb_eta": "2026-02-11T00:15:31+01:00",
-        "lock_eta": "2026-02-11T06:48:00+01:00",
-        "delta_first_rueb_min": 130,
-        "delta_first_rueb_hm": "02:10",
-        "delta_rueb_lock_min": 392,
-        "delta_rueb_lock_hm": "06:32",
-        "track": {
-          "lat": "54.293618202209466",
-          "lon": "9.682849645614624",
-          "sog": "3.4003676271838605"
-        }
-      },
-      {
-        "name": "SELENEPRAHM",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im Zulauf Brb. außen",
-        "canal_steerer": null,
-        "first_seen": null,
-        "rueb_eta": null,
-        "lock_eta": "2026-02-11T02:16:00+01:00",
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.84032487869262",
-          "lon": "8.896549344062805",
-          "sog": "9.18"
-        }
-      },
-      {
-        "name": "EMSHIGHWAY",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im Zulauf Brb. außen",
-        "canal_steerer": null,
-        "first_seen": "2026-02-10T23:28:11.056805+01:00",
-        "rueb_eta": null,
-        "lock_eta": "2026-02-11T00:52:00+01:00",
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.86594533920288",
-          "lon": "9.056071043014526",
-          "sog": "16.10"
-        }
-      },
-      {
-        "name": "WISLABORG",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im Zulauf Brb. außen",
-        "canal_steerer": null,
-        "first_seen": null,
-        "rueb_eta": null,
-        "lock_eta": "2026-02-11T02:58:00+01:00",
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.9486700296402",
-          "lon": "8.630452752113342",
-          "sog": "15.33"
-        }
-      },
-      {
-        "name": "NORDICERIKA",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im Zulauf Brb. außen",
-        "canal_steerer": null,
-        "first_seen": null,
-        "rueb_eta": null,
-        "lock_eta": "2026-02-11T01:57:00+01:00",
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.83796453475952",
-          "lon": "8.86646032333374",
-          "sog": "12.63"
-        }
-      },
-      {
-        "name": "BALTICSAIL",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im Zulauf Brb. außen",
-        "canal_steerer": null,
-        "first_seen": "2026-02-06T22:56:28.102798+01:00",
-        "rueb_eta": null,
-        "lock_eta": "2026-02-11T03:55:00+01:00",
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.971694111824036",
-          "lon": "8.49591314792633",
-          "sog": "14.51"
-        }
-      },
-      {
-        "name": "NEERBORG",
-        "section": "unknown",
-        "direction": null,
-        "travel_status": "fahrend im Zulauf Brb. außen",
-        "canal_steerer": null,
-        "first_seen": null,
-        "rueb_eta": null,
-        "lock_eta": null,
-        "delta_first_rueb_min": null,
-        "delta_first_rueb_hm": null,
-        "delta_rueb_lock_min": null,
-        "delta_rueb_lock_hm": null,
-        "track": {
-          "lat": "53.97988021373749",
-          "lon": "8.046364188194275",
-          "sog": "20.56"
         }
       }
     ]
   },
   "start_work_targets_history": {
     "targets": {
-      "Matysik": {
-        "file": "merged_matysik_eike.json"
-      },
-      "Foehring": {
-        "file": "merged_foehring_nils.json"
-      },
-      "Konietzka": {
-        "file": "merged_konietzka_stefan.json"
-      }
+      "crotogino_philipp": [
+        {
+          "ts": "2026-02-26T23:08:39.388131+01:00",
+          "pos": 6,
+          "m1": "2026-02-27T01:08:39.388131+01:00",
+          "m2": "2026-02-27T02:08:39.388131+01:00",
+          "m3": "2026-02-27T03:00:00+01:00",
+          "m4": "2026-02-27T03:30:00+01:00"
+        }
+      ]
     },
-    "generated_at": "2026-02-10T23:36:06.169178+01:00"
+    "generated_at": "2026-02-26T23:08:39.388131+01:00"
   },
   "targets": [
-    {
-      "label": "Matysik",
-      "key": "Matysik"
-    },
-    {
-      "label": "Foehring",
-      "key": "Foehring"
-    },
-    {
-      "label": "Konietzka",
-      "key": "Konietzka"
-    }
+    "crotogino_philipp"
   ],
-  "generated_at": "2026-02-10T23:36:06.385999"
+  "gesamtboert": {
+    "generated_at": "2026-02-26 23:08",
+    "entries": [
+      {
+        "pos": 1,
+        "takt": "49,1",
+        "name": "Haala Klaus Werner",
+        "arrow": "",
+        "time": "Thu Feb 26 19:00:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "haala_klaus werner"
+      },
+      {
+        "pos": 2,
+        "takt": "50,0",
+        "name": "Alt Gerhard",
+        "arrow": "",
+        "time": "Thu Feb 26 20:00:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "alt_gerhard"
+      },
+      {
+        "pos": 3,
+        "takt": "51,0",
+        "name": "Groen Nickolaj",
+        "arrow": "",
+        "time": "Thu Feb 26 20:00:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "groen_nickolaj"
+      },
+      {
+        "pos": 4,
+        "takt": "52,0",
+        "name": "Böttcher Peter",
+        "arrow": "↑$$",
+        "time": "Thu Feb 26 20:17:00 CET 2026",
+        "bemerkung": "40 Min.",
+        "pilot_key": "böttcher_peter"
+      },
+      {
+        "pos": 5,
+        "takt": "54,0",
+        "name": "Witte Tomas",
+        "arrow": "",
+        "time": "Thu Feb 26 20:44:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "witte_tomas"
+      },
+      {
+        "pos": 6,
+        "takt": "55,0",
+        "name": "Crotogino Philipp",
+        "arrow": "",
+        "time": "Thu Feb 26 21:05:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "crotogino_philipp"
+      },
+      {
+        "pos": 7,
+        "takt": "56,0",
+        "name": "Röhrs Johannes",
+        "arrow": "",
+        "time": "Thu Feb 26 22:38:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "röhrs_johannes"
+      },
+      {
+        "pos": 8,
+        "takt": "57,0",
+        "name": "Fricke Michell",
+        "arrow": "",
+        "time": "Thu Feb 26 22:47:00 CET 2026",
+        "bemerkung": "max tkt 98 / k. 10te",
+        "pilot_key": "fricke_michell"
+      },
+      {
+        "pos": 9,
+        "takt": "58,0",
+        "name": "Plaisant Julian",
+        "arrow": "",
+        "time": "Thu Feb 26 22:53:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "plaisant_julian"
+      },
+      {
+        "pos": 10,
+        "takt": "59,0",
+        "name": "Biedermann Johannes",
+        "arrow": "↓",
+        "time": "Thu Feb 26 23:05:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "biedermann_johannes"
+      },
+      {
+        "pos": 11,
+        "takt": "60,0",
+        "name": "Hansen Hinnerk",
+        "arrow": "",
+        "time": "Wed Feb 25 12:33:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "hansen_hinnerk"
+      },
+      {
+        "pos": 12,
+        "takt": "61,0",
+        "name": "Migge Alexander",
+        "arrow": "",
+        "time": "Wed Feb 25 12:57:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "migge_alexander"
+      },
+      {
+        "pos": 13,
+        "takt": "62,0",
+        "name": "Heyenga Dennis",
+        "arrow": "",
+        "time": "Wed Feb 25 13:27:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "heyenga_dennis"
+      },
+      {
+        "pos": 14,
+        "takt": "63,0",
+        "name": "Sattler Olaf\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Krull, Jakob)",
+        "arrow": "",
+        "time": "Wed Feb 25 15:50:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "sattler_olaf\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (krull, jakob)"
+      },
+      {
+        "pos": 15,
+        "takt": "64,0",
+        "name": "Petersen Yannick",
+        "arrow": "",
+        "time": "Wed Feb 25 16:50:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "petersen_yannick"
+      },
+      {
+        "pos": 16,
+        "takt": "65,0",
+        "name": "Glenewinkel Jan-Steffen",
+        "arrow": "",
+        "time": "Wed Feb 25 17:15:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "glenewinkel_jan-steffen"
+      },
+      {
+        "pos": 17,
+        "takt": "67,0",
+        "name": "Arlt Andreas",
+        "arrow": "",
+        "time": "Wed Feb 25 19:18:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "arlt_andreas"
+      },
+      {
+        "pos": 18,
+        "takt": "68,0",
+        "name": "Czurda Crischan",
+        "arrow": "",
+        "time": "Wed Feb 25 19:21:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "czurda_crischan"
+      },
+      {
+        "pos": 19,
+        "takt": "69,0",
+        "name": "Stoislow Alexander",
+        "arrow": "",
+        "time": "Wed Feb 25 20:30:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "stoislow_alexander"
+      },
+      {
+        "pos": 20,
+        "takt": "70,0",
+        "name": "Vogel Peter",
+        "arrow": "",
+        "time": "Wed Feb 25 21:17:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "vogel_peter"
+      },
+      {
+        "pos": 21,
+        "takt": "71,0",
+        "name": "Tontarra Olaf",
+        "arrow": "",
+        "time": "Wed Feb 25 21:26:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "tontarra_olaf"
+      },
+      {
+        "pos": 22,
+        "takt": "72,0",
+        "name": "Reimer Sven",
+        "arrow": "",
+        "time": "Wed Feb 25 21:36:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "reimer_sven"
+      },
+      {
+        "pos": 23,
+        "takt": "73,0",
+        "name": "Lielienthal Jörn",
+        "arrow": "",
+        "time": "Wed Feb 25 21:39:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "lielienthal_jörn"
+      },
+      {
+        "pos": 24,
+        "takt": "74,0",
+        "name": "Rambadt Helge",
+        "arrow": "",
+        "time": "Wed Feb 25 23:29:00 CET 2026",
+        "bemerkung": "bis t. 81",
+        "pilot_key": "rambadt_helge"
+      },
+      {
+        "pos": 25,
+        "takt": "75,0",
+        "name": "Ünsal Hüseyin",
+        "arrow": "",
+        "time": "Wed Feb 25 23:47:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "ünsal_hüseyin"
+      },
+      {
+        "pos": 26,
+        "takt": "76,0",
+        "name": "Köller Hartmut",
+        "arrow": "",
+        "time": "Wed Feb 25 23:48:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "köller_hartmut"
+      },
+      {
+        "pos": 27,
+        "takt": "77,0",
+        "name": "Suermann Nik",
+        "arrow": "",
+        "time": "Thu Feb 26 01:08:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "suermann_nik"
+      },
+      {
+        "pos": 28,
+        "takt": "78,0",
+        "name": "Hüpers Peter",
+        "arrow": "",
+        "time": "Thu Feb 26 01:16:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "hüpers_peter"
+      },
+      {
+        "pos": 29,
+        "takt": "79,0",
+        "name": "Kahler Volker",
+        "arrow": "",
+        "time": "Thu Feb 26 01:29:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "kahler_volker"
+      },
+      {
+        "pos": 30,
+        "takt": "80,0",
+        "name": "Krahn Georg",
+        "arrow": "",
+        "time": "Thu Feb 26 01:41:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "krahn_georg"
+      },
+      {
+        "pos": 31,
+        "takt": "81,0",
+        "name": "Heyenga Kai",
+        "arrow": "",
+        "time": "Thu Feb 26 02:33:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "heyenga_kai"
+      },
+      {
+        "pos": 32,
+        "takt": "82,0",
+        "name": "Richter Ingmar\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Schnieders, Ken)",
+        "arrow": "",
+        "time": "Thu Feb 26 02:39:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "richter_ingmar\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (schnieders, ken)"
+      },
+      {
+        "pos": 33,
+        "takt": "83,0",
+        "name": "Klüver Knut Paul",
+        "arrow": "",
+        "time": "Thu Feb 26 03:15:00 CET 2026",
+        "bemerkung": "max TK 45",
+        "pilot_key": "klüver_knut paul"
+      },
+      {
+        "pos": 34,
+        "takt": "84,0",
+        "name": "Pankonin Denny",
+        "arrow": "",
+        "time": "Thu Feb 26 03:15:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "pankonin_denny"
+      },
+      {
+        "pos": 35,
+        "takt": "85,0",
+        "name": "Zimmermann Martin",
+        "arrow": "",
+        "time": "Thu Feb 26 03:41:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "zimmermann_martin"
+      },
+      {
+        "pos": 36,
+        "takt": "86,0",
+        "name": "Lehwald Christian",
+        "arrow": "",
+        "time": "Thu Feb 26 04:30:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "lehwald_christian"
+      },
+      {
+        "pos": 37,
+        "takt": "87,0",
+        "name": "Krüger Caspar-Maria",
+        "arrow": "",
+        "time": "Thu Feb 26 04:32:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "krüger_caspar-maria"
+      },
+      {
+        "pos": 38,
+        "takt": "88,0",
+        "name": "Börnsen Curt",
+        "arrow": "",
+        "time": "Thu Feb 26 04:35:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "börnsen_curt"
+      },
+      {
+        "pos": 39,
+        "takt": "89,0",
+        "name": "Schmidt Thomas",
+        "arrow": "",
+        "time": "Thu Feb 26 04:50:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "schmidt_thomas"
+      },
+      {
+        "pos": 40,
+        "takt": "90,0",
+        "name": "Lüttge Sebastian",
+        "arrow": "",
+        "time": "Thu Feb 26 06:36:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "lüttge_sebastian"
+      },
+      {
+        "pos": 41,
+        "takt": "91,0",
+        "name": "Rohn Jens Michael",
+        "arrow": "",
+        "time": "Thu Feb 26 08:36:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "rohn_jens michael"
+      },
+      {
+        "pos": 42,
+        "takt": "92,0",
+        "name": "Winkler René",
+        "arrow": "",
+        "time": "Thu Feb 26 08:41:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "winkler_rené"
+      },
+      {
+        "pos": 43,
+        "takt": "93,0",
+        "name": "Wäntig Lutz",
+        "arrow": "↑$$",
+        "time": "Thu Feb 26 09:40:01 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "wäntig_lutz"
+      },
+      {
+        "pos": 44,
+        "takt": "94,0",
+        "name": "Dietrich Thomas",
+        "arrow": "",
+        "time": "Thu Feb 26 10:19:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "dietrich_thomas"
+      },
+      {
+        "pos": 45,
+        "takt": "95,0",
+        "name": "Borggräfe Hark",
+        "arrow": "↑$$",
+        "time": "Thu Feb 26 10:56:00 CET 2026",
+        "bemerkung": "max takt 70",
+        "pilot_key": "borggräfe_hark"
+      },
+      {
+        "pos": 46,
+        "takt": "96,0",
+        "name": "Malik Christoph",
+        "arrow": "",
+        "time": "Thu Feb 26 10:56:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "malik_christoph"
+      },
+      {
+        "pos": 47,
+        "takt": "97,0",
+        "name": "Schulz Arne",
+        "arrow": "",
+        "time": "Thu Feb 26 11:18:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "schulz_arne"
+      },
+      {
+        "pos": 48,
+        "takt": "98,0",
+        "name": "Thomaßen Stephan",
+        "arrow": "",
+        "time": "Thu Feb 26 11:51:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "thomaßen_stephan"
+      },
+      {
+        "pos": 49,
+        "takt": "99,0",
+        "name": "Schie Christian",
+        "arrow": "",
+        "time": "Thu Feb 26 12:30:38 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "schie_christian"
+      },
+      {
+        "pos": 50,
+        "takt": "100,0",
+        "name": "Hilpert Jan",
+        "arrow": "",
+        "time": "Thu Feb 26 13:44:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "hilpert_jan"
+      },
+      {
+        "pos": 51,
+        "takt": "1,0",
+        "name": "Otten Janning",
+        "arrow": "",
+        "time": "Thu Feb 26 13:45:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "otten_janning"
+      },
+      {
+        "pos": 52,
+        "takt": "2,0",
+        "name": "Blome Henning",
+        "arrow": "↑$$",
+        "time": "Thu Feb 26 13:59:00 CET 2026",
+        "bemerkung": "max. 10te Wache",
+        "pilot_key": "blome_henning"
+      },
+      {
+        "pos": 53,
+        "takt": "3,0",
+        "name": "Töpfer Jens-Peter",
+        "arrow": "",
+        "time": "Thu Feb 26 14:07:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "töpfer_jens-peter"
+      },
+      {
+        "pos": 54,
+        "takt": "4,0",
+        "name": "Matysik Eike",
+        "arrow": "",
+        "time": "Thu Feb 26 15:22:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "matysik_eike"
+      },
+      {
+        "pos": 55,
+        "takt": "5,0",
+        "name": "Zozulya Mykola",
+        "arrow": "↑$$",
+        "time": "Thu Feb 26 16:07:00 CET 2026",
+        "bemerkung": "max. takt. 70",
+        "pilot_key": "zozulya_mykola"
+      },
+      {
+        "pos": 56,
+        "takt": "6,0",
+        "name": "Schuh Erskine",
+        "arrow": "↑$$",
+        "time": "Thu Feb 26 16:16:00 CET 2026",
+        "bemerkung": "m i n d.  takt. 89",
+        "pilot_key": "schuh_erskine"
+      },
+      {
+        "pos": 57,
+        "takt": "7,0",
+        "name": "Meise Gregor",
+        "arrow": "",
+        "time": "Thu Feb 26 16:38:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "meise_gregor"
+      },
+      {
+        "pos": 58,
+        "takt": "8,0",
+        "name": "Koch Florian",
+        "arrow": "",
+        "time": "Thu Feb 26 16:38:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "koch_florian"
+      },
+      {
+        "pos": 59,
+        "takt": "9,0",
+        "name": "Jeschek Hauke\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Schöppener, Matti)",
+        "arrow": "",
+        "time": "Thu Feb 26 16:39:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "jeschek_hauke\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (schöppener, matti)"
+      },
+      {
+        "pos": 60,
+        "takt": "10,0",
+        "name": "Spiller Roman",
+        "arrow": "",
+        "time": "Thu Feb 26 16:50:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "spiller_roman"
+      },
+      {
+        "pos": 61,
+        "takt": "11,0",
+        "name": "Thiel Thomas",
+        "arrow": "",
+        "time": "Thu Feb 26 18:17:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "thiel_thomas"
+      },
+      {
+        "pos": 62,
+        "takt": "12,0",
+        "name": "Skairies Thomas",
+        "arrow": "",
+        "time": "Thu Feb 26 18:18:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "skairies_thomas"
+      },
+      {
+        "pos": 63,
+        "takt": "13,0",
+        "name": "Berkenheger Michael",
+        "arrow": "",
+        "time": "Thu Feb 26 18:19:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "berkenheger_michael"
+      },
+      {
+        "pos": 64,
+        "takt": "14,0",
+        "name": "Lüdtke Jan-Torben\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Reuter, Sophia)",
+        "arrow": "",
+        "time": "Thu Feb 26 18:47:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "lüdtke_jan-torben\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (reuter, sophia)"
+      },
+      {
+        "pos": 65,
+        "takt": "15,0",
+        "name": "Schüler Marius",
+        "arrow": "",
+        "time": "Thu Feb 26 18:56:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "schüler_marius"
+      },
+      {
+        "pos": 66,
+        "takt": "16,0",
+        "name": "Pietsch Tobias",
+        "arrow": "",
+        "time": "Thu Feb 26 19:44:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "pietsch_tobias"
+      },
+      {
+        "pos": 67,
+        "takt": "17,0",
+        "name": "Engel Alexander",
+        "arrow": "",
+        "time": "Thu Feb 26 20:01:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "engel_alexander"
+      },
+      {
+        "pos": 68,
+        "takt": "18,0",
+        "name": "Fehse Torsten",
+        "arrow": "",
+        "time": "Thu Feb 26 20:10:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "fehse_torsten"
+      },
+      {
+        "pos": 69,
+        "takt": "19,0",
+        "name": "Köhler Olaf",
+        "arrow": "",
+        "time": "Thu Feb 26 20:30:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "köhler_olaf"
+      },
+      {
+        "pos": 70,
+        "takt": "20,0",
+        "name": "Staedler Frank",
+        "arrow": "",
+        "time": "Thu Feb 26 21:36:00 CET 2026",
+        "bemerkung": "",
+        "pilot_key": "staedler_frank"
+      }
+    ]
+  },
+  "seelotsen": {
+    "generated_at": "2026-02-26 23:08",
+    "entries": [
+      {
+        "time": "Thu Feb 26 23:05:00 CET 2026",
+        "name": "Kubica Gregor",
+        "task": "Seebört",
+        "vehicle": "Leerfahrt",
+        "location": "HOS-KLT",
+        "plus8": "",
+        "pilot_key": "kubica_gregor"
+      },
+      {
+        "time": "Thu Feb 26 22:53:00 CET 2026",
+        "name": "Escher Franck",
+        "task": "Kanalbört",
+        "vehicle": "JOLIE",
+        "location": "HOS-RÜB",
+        "plus8": "",
+        "pilot_key": "escher_franck"
+      },
+      {
+        "time": "Thu Feb 26 22:47:00 CET 2026",
+        "name": "Woitanowski Tim",
+        "task": "Kanalbört",
+        "vehicle": "SOFIA",
+        "location": "HOS-RÜB",
+        "plus8": "",
+        "pilot_key": "woitanowski_tim"
+      },
+      {
+        "time": "Thu Feb 26 22:38:00 CET 2026",
+        "name": "Krügel Mathias",
+        "task": "Kanalbört",
+        "vehicle": "NATHALIE",
+        "location": "HOS-RÜB",
+        "plus8": "",
+        "pilot_key": "krügel_mathias"
+      },
+      {
+        "time": "Thu Feb 26 21:05:00 CET 2026",
+        "name": "Merschmann Tim",
+        "task": "Seebört",
+        "vehicle": "SOFIA",
+        "location": "KLT-HOS",
+        "plus8": "",
+        "pilot_key": "merschmann_tim"
+      },
+      {
+        "time": "Thu Feb 26 20:44:00 CET 2026",
+        "name": "Krause Malte",
+        "task": "Kanalbört",
+        "vehicle": "PULPCA",
+        "location": "HOS-RÜB",
+        "plus8": "",
+        "pilot_key": "krause_malte"
+      },
+      {
+        "time": "Thu Feb 26 20:17:00 CET 2026",
+        "name": "Wald Mark",
+        "task": "Kanalbört",
+        "vehicle": "HAV TUNA",
+        "location": "HOR-RÜB",
+        "plus8": "",
+        "pilot_key": "wald_mark"
+      },
+      {
+        "time": "Thu Feb 26 20:00:00 CET 2026",
+        "name": "Zimmermann Steffen",
+        "task": "Wachgänger",
+        "vehicle": "WACHGÄNGER HOLTENAU SCHLEUSE",
+        "location": "HOS-HOS",
+        "plus8": "",
+        "pilot_key": "zimmermann_steffen"
+      },
+      {
+        "time": "Thu Feb 26 20:00:00 CET 2026",
+        "name": "Röhl Jens",
+        "task": "Wachgänger",
+        "vehicle": "WACHGÄNGER HOLTENAU SCHLEUSE",
+        "location": "HOS-HOS",
+        "plus8": "",
+        "pilot_key": "röhl_jens"
+      },
+      {
+        "time": "Thu Feb 26 19:00:00 CET 2026",
+        "name": "Wille Christian",
+        "task": "Seebört",
+        "vehicle": "WL-SEE",
+        "location": "HOS-HOS",
+        "plus8": "",
+        "pilot_key": "wille_christian"
+      },
+      {
+        "time": "Thu Feb 26 18:21:00 CET 2026",
+        "name": "Hren Alexander",
+        "task": "Kanalbört",
+        "vehicle": "RÜB",
+        "location": "",
+        "plus8": "",
+        "pilot_key": "hren_alexander"
+      },
+      {
+        "time": "Thu Feb 26 18:08:00 CET 2026",
+        "name": "Feldes Marco",
+        "task": "Kanalbört",
+        "vehicle": "RÜB",
+        "location": "",
+        "plus8": "",
+        "pilot_key": "feldes_marco"
+      },
+      {
+        "time": "Thu Feb 26 16:13:00 CET 2026",
+        "name": "Stürenburg Jan",
+        "task": "Kanalbört",
+        "vehicle": "RÜB",
+        "location": "",
+        "plus8": "",
+        "pilot_key": "stürenburg_jan"
+      },
+      {
+        "time": "Thu Feb 26 14:35:00 CET 2026",
+        "name": "Thomsen Gunnar",
+        "task": "Seebört",
+        "vehicle": "JOLIE",
+        "location": "KLT-HOS",
+        "plus8": "",
+        "pilot_key": "thomsen_gunnar"
+      },
+      {
+        "time": "Thu Feb 26 14:35:00 CET 2026",
+        "name": "Krämer Jonas",
+        "task": "Seebört",
+        "vehicle": "NATHALIE",
+        "location": "KLT-HOS",
+        "plus8": "",
+        "pilot_key": "krämer_jonas"
+      },
+      {
+        "time": "Thu Feb 26 14:01:00 CET 2026",
+        "name": "Demant Tom",
+        "task": "Kanalbört",
+        "vehicle": "WILSON POLICE",
+        "location": "RÜB-HOS",
+        "plus8": "",
+        "pilot_key": "demant_tom"
+      },
+      {
+        "time": "Thu Feb 26 14:01:00 CET 2026",
+        "name": "Kordt Remo",
+        "task": "Kanalbört",
+        "vehicle": "NETA A.",
+        "location": "RÜB-HOS",
+        "plus8": "",
+        "pilot_key": "kordt_remo"
+      },
+      {
+        "time": "Thu Feb 26 13:50:00 CET 2026",
+        "name": "Steinbach Daniel",
+        "task": "Kanalbört",
+        "vehicle": "BBC CITRINE",
+        "location": "RÜB-HOS",
+        "plus8": "",
+        "pilot_key": "steinbach_daniel"
+      }
+    ]
+  },
+  "generated_at": "2026-02-26T23:08:39.715536"
 }
