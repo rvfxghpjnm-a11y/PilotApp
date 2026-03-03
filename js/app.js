@@ -5,17 +5,13 @@
 
   const state = {
     webData: null,
-    startWorkHistory: null,
-    channelMasterFinal: null,
     selectedPilotKey: null,
     gbData: null,
     slData: null,
     meldData: null
   };
 
-  function el(id) {
-    return document.getElementById(id);
-  }
+  function el(id) { return document.getElementById(id); }
 
   function setText(id, text) {
     const e = el(id);
@@ -34,21 +30,29 @@
     return await res.json();
   }
 
-  async function loadAll() {
+  async function loadWebData() {
     state.webData = await fetchJson("data/web_data.json");
-    try { state.startWorkHistory = await fetchJson("data/start_work_targets_history.json"); } catch {}
-    try { state.channelMasterFinal = await fetchJson("data/channel_master_final.json"); } catch {}
   }
 
+  // targets können sein:
+  // 1) ["konietzka_stefan", ...]
+  // 2) [{key:"konietzka_stefan",label:"Konietzka Stefan",rolle:"..."}, ...]
   function parsePilotsFromTargets(webData) {
     const t = webData?.targets;
     if (!Array.isArray(t)) return [];
-    return t.map(key => ({ key, label: key.replace("_", " ") }));
+
+    if (t.length && typeof t[0] === "object" && t[0] !== null) {
+      return t
+        .filter(x => x && x.key)
+        .map(x => ({ key: x.key, label: x.label || x.key.replace("_", " ") }));
+    }
+
+    return t.map(key => ({ key, label: String(key).replace("_", " ") }));
   }
 
   function initPilotSelect() {
     const sel = el("pilotSelect");
-    if (!sel) return; // HTML hat evtl. andere ID → dann bricht nix ab
+    if (!sel) return;
 
     sel.innerHTML = "";
     const pilots = parsePilotsFromTargets(state.webData);
@@ -74,7 +78,7 @@
 
     sel.addEventListener("change", () => {
       state.selectedPilotKey = sel.value;
-      renderAll();
+      renderAktuell();
     });
   }
 
@@ -82,7 +86,7 @@
     try {
       if (tab === "gesamtboert" && !state.gbData) state.gbData = await fetchJson("data/aegir_gesamtboert.json");
       if (tab === "seelotsen" && !state.slData) state.slData = await fetchJson("data/aegir_seelotsen.json");
-      if ((tab === "meldungen-kiel" || tab === "meldungen-ruesterbergen") && !state.meldData) state.meldData = await fetchJson("data/aegir_meldungen.json");
+      if ((tab === "meld_kiel" || tab === "meld_rueb") && !state.meldData) state.meldData = await fetchJson("data/aegir_meldungen.json");
     } catch (err) {
       console.warn("loadTabData failed:", err);
     }
@@ -99,6 +103,7 @@
 
       document.querySelectorAll(".tab").forEach(b => b.classList.toggle("active", b === btn));
       document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
+
       const panel = document.getElementById(`panel-${tab}`);
       if (panel) panel.classList.add("active");
 
@@ -113,13 +118,12 @@
   }
 
   function renderAktuell() {
-    const pilotKey = state.selectedPilotKey;
-    if (!pilotKey) {
-      setText("aktuellText", "Kein Lotse gewählt.");
-      return;
-    }
-    // WICHTIG: wenn aktuellText in HTML nicht existiert → einfach skippen
-    setText("aktuellText", `Lotse: ${pilotKey.replace("_", " ")}`);
+    const key = state.selectedPilotKey;
+    const card = el("aktuellCard");
+    const hint = el("aktuellHint");
+
+    if (card) card.textContent = key ? `Lotse: ${key.replace("_", " ")}` : "Kein Lotse gewählt.";
+    if (hint) hint.textContent = "";
   }
 
   function renderGesamtboert() {
@@ -194,7 +198,6 @@
     const mrHint = el("mrHint");
     const mkRaw = el("mkRaw");
     const mrRaw = el("mrRaw");
-    if (!mkHint && !mrHint && !mkRaw && !mrRaw) return;
 
     if (!state.meldData) {
       if (mkHint) mkHint.textContent = "Noch keine Meldungen geladen.";
@@ -228,23 +231,20 @@
     const reloadBtn = el("reloadBtn");
     if (reloadBtn) {
       reloadBtn.addEventListener("click", async () => {
-        try {
-          state.gbData = null; state.slData = null; state.meldData = null;
-          await loadAll();
+        state.gbData = null; state.slData = null; state.meldData = null;
+        await loadWebData();
 
-          const activeBtn = document.querySelector(".tab.active");
-          const activeTab = activeBtn ? activeBtn.getAttribute("data-tab") : null;
-          if (activeTab) await loadTabData(activeTab);
+        // aktive Tab-Daten nachladen
+        const activeBtn = document.querySelector(".tab.active");
+        const activeTab = activeBtn ? activeBtn.getAttribute("data-tab") : null;
+        if (activeTab) await loadTabData(activeTab);
 
-          initPilotSelect();
-          renderAll();
-        } catch (err) {
-          alert(String(err?.message || err));
-        }
+        initPilotSelect();
+        renderAll();
       });
     }
 
-    await loadAll();
+    await loadWebData();
 
     const activeBtn = document.querySelector(".tab.active");
     const activeTab = activeBtn ? activeBtn.getAttribute("data-tab") : null;
