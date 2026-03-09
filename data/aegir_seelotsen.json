@@ -1,181 +1,137 @@
 {
-  "generated_at": "2026-03-03 22:33",
+  "generated_at": "2026-03-09 10:21",
   "entries": [
     {
       "nr": 1,
-      "nachname": "Krause",
-      "vorname": "Malte",
-      "zeit": "Tue Mar 03 21:59:00 CET 2026",
-      "aufgabe": "Seebört",
-      "fahrzeug": "STOLT PELICAN",
+      "nachname": "Töpfer",
+      "vorname": "Jens-Peter",
+      "zeit": "Mon Mar 09 09:38:00 CET 2026",
+      "aufgabe": "Kanalbört",
+      "fahrzeug": "JAN D",
       "from": "HOS",
-      "to": "KLT",
-      "raw": "1 | Krause, Malte | Tue Mar 03 21:59:00 CET 2026 | Seebört | STOLT PELICAN (HOS-KLT)"
+      "to": "RÜB",
+      "raw": "1 | Töpfer, Jens-Peter | Mon Mar 09 09:38:00 CET 2026 | Kanalbört | JAN D (HOS-RÜB)"
     },
     {
       "nr": 2,
-      "nachname": "Jeschek",
-      "vorname": "Hauke",
-      "zeit": "Tue Mar 03 20:30:00 CET 2026",
+      "nachname": "Otten",
+      "vorname": "Janning",
+      "zeit": "Mon Mar 09 08:59:00 CET 2026",
       "aufgabe": "Kanalbört",
-      "fahrzeug": "MARIETJE HESTER",
-      "from": "HOR",
+      "fahrzeug": "STOLT SEAGULL",
+      "from": "HOS",
       "to": "RÜB",
-      "raw": "2 | Jeschek, Hauke | Tue Mar 03 20:30:00 CET 2026 | Kanalbört | MARIETJE HESTER (HOR-RÜB)"
+      "raw": "2 | Otten, Janning | Mon Mar 09 08:59:00 CET 2026 | Kanalbört | STOLT SEAGULL (HOS-RÜB)"
     },
     {
       "nr": 3,
-      "nachname": "Türk",
-      "vorname": "Maximilian",
-      "zeit": "Tue Mar 03 20:00:00 CET 2026",
+      "nachname": "Hren",
+      "vorname": "Alexander",
+      "zeit": "Mon Mar 09 08:55:00 CET 2026",
+      "aufgabe": "Kanalbört",
+      "fahrzeug": "BEATE",
+      "from": "HOS",
+      "to": "RÜB",
+      "raw": "3 | Hren, Alexander | Mon Mar 09 08:55:00 CET 2026 | Kanalbört | BEATE (HOS-RÜB)"
+    },
+    {
+      "nr": 4,
+      "nachname": "Lielienthal",
+      "vorname": "Jörn",
+      "zeit": "Mon Mar 09 08:40:00 CET 2026",
+      "aufgabe": "Seebört",
+      "fahrzeug": "BALTIC STAR",
+      "from": "HOS",
+      "to": "KLT",
+      "raw": "4 | Lielienthal, Jörn | Mon Mar 09 08:40:00 CET 2026 | Seebört | BALTIC STAR (HOS-KLT)"
+    },
+    {
+      "nr": 5,
+      "nachname": "Jenckel",
+      "vorname": "Dolf",
+      "zeit": "Mon Mar 09 06:47:00 CET 2026",
+      "aufgabe": "Seebört",
+      "fahrzeug": "ATLANTIS",
+      "from": "KLT",
+      "to": "OUH",
+      "raw": "5 | Jenckel, Dolf | Mon Mar 09 06:47:00 CET 2026 | Seebört | ATLANTIS (KLT-OUH)"
+    },
+    {
+      "nr": 6,
+      "nachname": "Heyenga",
+      "vorname": "Kai",
+      "zeit": "Mon Mar 09 06:41:00 CET 2026",
+      "aufgabe": "Kanalbört",
+      "fahrzeug": "VENTUMAR",
+      "from": "HOS",
+      "to": "RÜB",
+      "raw": "6 | Heyenga, Kai | Mon Mar 09 06:41:00 CET 2026 | Kanalbört | VENTUMAR (HOS-RÜB)"
+    },
+    {
+      "nr": 7,
+      "nachname": "Staedler",
+      "vorname": "Frank",
+      "zeit": "Mon Mar 09 06:30:00 CET 2026",
+      "aufgabe": "Kanalbört",
+      "fahrzeug": "BIANCA RAMBOW",
+      "from": "HOS",
+      "to": "RÜB",
+      "raw": "7 | Staedler, Frank | Mon Mar 09 06:30:00 CET 2026 | Kanalbört | BIANCA RAMBOW (HOS-RÜB)"
+    },
+    {
+      "nr": 8,
+      "nachname": "Kubica",
+      "vorname": "Gregor",
+      "zeit": "Mon Mar 09 05:24:00 CET 2026",
+      "aufgabe": "Seebört",
+      "fahrzeug": "CONTAINERSHIPS 8",
+      "from": "KLT",
+      "to": "HOS",
+      "raw": "8 | Kubica, Gregor | Mon Mar 09 05:24:00 CET 2026 | Seebört | CONTAINERSHIPS 8 (KLT-HOS)"
+    },
+    {
+      "nr": 9,
+      "nachname": "Koch",
+      "vorname": "Florian",
+      "zeit": "Mon Mar 09 04:00:00 CET 2026",
       "aufgabe": "Wachgänger",
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "from": "HOS",
       "to": "HOS",
-      "raw": "3 | Türk, Maximilian | Tue Mar 03 20:00:00 CET 2026 | Wachgänger | WACHGÄNGER HOLTENAU SCHLEUSE (HOS-HOS)"
+      "raw": "9 | Koch, Florian | Mon Mar 09 04:00:00 CET 2026 | Wachgänger | WACHGÄNGER HOLTENAU SCHLEUSE (HOS-HOS)"
     },
     {
-      "nr": 4,
-      "nachname": "Dietrich",
-      "vorname": "Thomas",
-      "zeit": "Tue Mar 03 19:02:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "TAVASTLAND",
-      "from": "HOS",
-      "to": "RÜB",
-      "raw": "4 | Dietrich, Thomas | Tue Mar 03 19:02:00 CET 2026 | Kanalbört | TAVASTLAND (HOS-RÜB)"
-    },
-    {
-      "nr": 5,
-      "nachname": "Hilpert",
-      "vorname": "Jan",
-      "zeit": "Tue Mar 03 19:00:00 CET 2026",
+      "nr": 10,
+      "nachname": "Petersen",
+      "vorname": "Yannick",
+      "zeit": "Mon Mar 09 03:00:00 CET 2026",
       "aufgabe": "Seebört",
       "fahrzeug": "WL-SEE",
       "from": "HOS",
       "to": "HOS",
-      "raw": "5 | Hilpert, Jan | Tue Mar 03 19:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)"
+      "raw": "10 | Petersen, Yannick | Mon Mar 09 03:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)"
     },
     {
-      "nr": 6,
-      "nachname": "Fricke",
-      "vorname": "Michell",
-      "zeit": "Tue Mar 03 18:52:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "KRISLIN",
-      "from": "HOS",
-      "to": "RÜB",
-      "raw": "6 | Fricke, Michell | Tue Mar 03 18:52:00 CET 2026 | Kanalbört | KRISLIN (HOS-RÜB)"
-    },
-    {
-      "nr": 7,
-      "nachname": "Pietsch",
-      "vorname": "Tobias",
-      "zeit": "Tue Mar 03 18:52:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "MV AGUIMES",
-      "from": "HOS",
-      "to": "RÜB",
-      "raw": "7 | Pietsch, Tobias | Tue Mar 03 18:52:00 CET 2026 | Kanalbört | MV AGUIMES (HOS-RÜB)"
-    },
-    {
-      "nr": 8,
-      "nachname": "Jenckel",
-      "vorname": "Dolf",
-      "zeit": "Tue Mar 03 17:35:00 CET 2026",
-      "aufgabe": "Seebört",
-      "fahrzeug": "IVER BRILLIANT",
-      "from": "HOS",
-      "to": "KLT",
-      "raw": "8 | Jenckel, Dolf | Tue Mar 03 17:35:00 CET 2026 | Seebört | IVER BRILLIANT (HOS-KLT)"
-    },
-    {
-      "nr": 9,
-      "nachname": "Töpfer",
-      "vorname": "Jens-Peter",
-      "zeit": "Tue Mar 03 17:00:00 CET 2026",
-      "aufgabe": "Seebört",
-      "fahrzeug": "STOC NIKE",
-      "from": "HOS",
-      "to": "KLT",
-      "raw": "9 | Töpfer, Jens-Peter | Tue Mar 03 17:00:00 CET 2026 | Seebört | STOC NIKE (HOS-KLT)"
-    },
-    {
-      "nr": 10,
-      "nachname": "Wäntig",
-      "vorname": "Lutz",
-      "zeit": "Tue Mar 03 16:30:00 CET 2026",
+      "nr": 11,
+      "nachname": "Steinbach",
+      "vorname": "Daniel",
+      "zeit": "Mon Mar 09 02:45:00 CET 2026",
       "aufgabe": "Kanalbört",
       "fahrzeug": "RÜB",
       "from": null,
       "to": null,
-      "raw": "10 | Wäntig, Lutz | Tue Mar 03 16:30:00 CET 2026 | Kanalbört | RÜB"
-    },
-    {
-      "nr": 11,
-      "nachname": "Rink",
-      "vorname": "Hannes",
-      "zeit": "Tue Mar 03 16:29:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "SOUTH ENABLER",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "11 | Rink, Hannes | Tue Mar 03 16:29:00 CET 2026 | Kanalbört | SOUTH ENABLER (RÜB-HOS)"
+      "raw": "11 | Steinbach, Daniel | Mon Mar 09 02:45:00 CET 2026 | Kanalbört | RÜB"
     },
     {
       "nr": 12,
-      "nachname": "Staedler",
-      "vorname": "Frank",
-      "zeit": "Tue Mar 03 13:42:00 CET 2026",
+      "nachname": "Konietzka",
+      "vorname": "Stefan",
+      "zeit": "Mon Mar 09 00:05:00 CET 2026",
       "aufgabe": "Kanalbört",
-      "fahrzeug": "OSTBORG",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "12 | Staedler, Frank | Tue Mar 03 13:42:00 CET 2026 | Kanalbört | OSTBORG (RÜB-HOS)"
-    },
-    {
-      "nr": 13,
-      "nachname": "Berkenheger",
-      "vorname": "Michael",
-      "zeit": "Tue Mar 03 13:33:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "EMS HIGHWAY",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "13 | Berkenheger, Michael | Tue Mar 03 13:33:00 CET 2026 | Kanalbört | EMS HIGHWAY (RÜB-HOS)"
-    },
-    {
-      "nr": 14,
-      "nachname": "Schran",
-      "vorname": "Oliver",
-      "zeit": "Tue Mar 03 13:16:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "FREJ",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "14 | Schran, Oliver | Tue Mar 03 13:16:00 CET 2026 | Kanalbört | FREJ (RÜB-HOS)"
-    },
-    {
-      "nr": 15,
-      "nachname": "Rambadt",
-      "vorname": "Helge",
-      "zeit": "Tue Mar 03 11:48:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "IVER BRILLIANT",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "15 | Rambadt, Helge | Tue Mar 03 11:48:00 CET 2026 | Kanalbört | IVER BRILLIANT (RÜB-HOS)"
-    },
-    {
-      "nr": 16,
-      "nachname": "Skairies",
-      "vorname": "Thomas",
-      "zeit": "Tue Mar 03 09:46:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "STOLT PELICAN",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "16 | Skairies, Thomas | Tue Mar 03 09:46:00 CET 2026 | Kanalbört | STOLT PELICAN (RÜB-HOS)"
+      "fahrzeug": "RÜB",
+      "from": null,
+      "to": null,
+      "raw": "12 | Konietzka, Stefan | Mon Mar 09 00:05:00 CET 2026 | Kanalbört | RÜB"
     }
   ]
 }
