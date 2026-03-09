@@ -1,100 +1,92 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>PilotApp</title>
-  <link rel="stylesheet" href="style.css" />
+<meta charset="UTF-8">
+<title>PilotApp</title>
+
+<style>
+body{
+  font-family: system-ui, Arial;
+  margin:20px;
+}
+
+.tabs{
+  margin-top:10px;
+}
+
+.tab{
+  padding:6px 12px;
+  border-radius:10px;
+  border:1px solid #ccc;
+  background:#eee;
+  margin-right:5px;
+  cursor:pointer;
+}
+
+.tab.active{
+  background:#d0e4ff;
+}
+
+.panel{
+  display:none;
+  margin-top:20px;
+}
+
+.panel.active{
+  display:block;
+}
+
+table{
+  border-collapse:collapse;
+  width:100%;
+}
+
+th,td{
+  border-bottom:1px solid #ddd;
+  padding:6px;
+  text-align:left;
+}
+
+.hint{
+  color:#666;
+  margin-bottom:10px;
+}
+</style>
+
 </head>
+
 <body>
-  <header class="topbar">
-    <div class="brand">
-      <div class="title">PilotApp</div>
-      <div class="meta">
-        <span id="updateLabel">Update: –</span>
-      </div>
-    </div>
 
-    <div class="controls">
-      <label class="control">
-        <span>Lotse</span>
-        <select id="pilotSelect"></select>
-      </label>
+<h2>PilotApp</h2>
 
-      <button id="reloadBtn" class="btn">Reload</button>
-    </div>
-  </header>
+<div id="updateLabel">Update: –</div>
 
-  <nav class="tabs" id="tabs">
-    <button class="tab active" data-tab="aktuell">Aktuell</button>
-    <button class="tab" data-tab="gesamtboert">Gesamtbört</button>
-    <button class="tab" data-tab="graph">Graph</button>
-    <button class="tab" data-tab="meld_kiel">Meldungen Kiel</button>
-    <button class="tab" data-tab="meld_rueb">Meldungen Rüsterbergen</button>
-    <button class="tab" data-tab="seelotsen">Abgeteilte Seelotsen</button>
-  </nav>
+<br>
 
-  <main class="main">
-    <section class="panel active" id="panel-aktuell">
-      <div class="card" id="aktuellCard"></div>
-      <div class="hint" id="aktuellHint"></div>
-    </section>
+Lotse
+<select id="pilotSelect"></select>
+<button id="reloadBtn">Reload</button>
 
-    <section class="panel" id="panel-gesamtboert">
-      <div class="hint" id="gbHint"></div>
-      <div class="tableWrap">
-        <table class="table" id="gbTable">
-          <thead>
-            <tr>
-              <th>Pos</th>
-              <th>Takt</th>
-              <th>Name</th>
-              <th>Pfeil</th>
-              <th>Zeit</th>
-              <th>Bem.</th>
-            </tr>
-          </thead>
-          <tbody></tbody>
-        </table>
-      </div>
-    </section>
+<div id="aktuellCard"></div>
+<div id="aktuellHint"></div>
 
-    <section class="panel" id="panel-graph">
-      <div class="hint" id="graphHint"></div>
-      <canvas id="graphCanvas" width="1200" height="420"></canvas>
-    </section>
+<div class="tabs" id="tabs">
 
-    <section class="panel" id="panel-meld_kiel">
-      <div class="hint" id="mkHint"></div>
-      <pre class="mono" id="mkRaw"></pre>
-    </section>
+<button class="tab active" data-tab="boert">Gesamtbört</button>
+<button class="tab" data-tab="seelotsen">Abgeteilte Seelotsen</button>
+<button class="tab" data-tab="meld_kiel">Meldungen Kiel</button>
+<button class="tab" data-tab="meld_rueb">Meldungen Rüsterbergen</button>
+<button class="tab" data-tab="graph">Graph</button>
 
-    <section class="panel" id="panel-meld_rueb">
-      <div class="hint" id="mrHint"></div>
-      <pre class="mono" id="mrRaw"></pre>
-    </section>
+</div>
 
-    <section class="panel" id="panel-seelotsen">
-      <div class="hint" id="slHint"></div>
-      <div class="tableWrap">
-        <table class="table" id="slTable">
-          <thead>
-            <tr>
-              <th>Zeit</th>
-              <th>Name</th>
-              <th>Aufgabe</th>
-              <th>Fzg</th>
-              <th>Ort</th>
-              <th>+8h</th>
-            </tr>
-          </thead>
-          <tbody></tbody>
-        </table>
-      </div>
-    </section>
-  </main>
+<div id="panel-boert" class="panel active"></div>
+<div id="panel-seelotsen" class="panel"></div>
+<div id="panel-meld_kiel" class="panel"></div>
+<div id="panel-meld_rueb" class="panel"></div>
+<div id="panel-graph" class="panel"></div>
 
-  <script src="js/app.js"></script>
-  
+<script src="js/app.js"></script>
+
 </body>
 </html>
