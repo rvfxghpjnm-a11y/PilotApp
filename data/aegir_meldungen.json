@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09 10:21",
+  "generated_at": "2026-03-09 10:28",
   "kiel": [
     {
       "nr": 1,
@@ -110,21 +110,6 @@
       "nr": 8,
       "zeit_raw": "Mon Mar 09 13:30:00 CET 2026",
       "zeit": "2026-03-09T13:30:00",
-      "schiff": "NEUSEBORG",
-      "ship_key": "NEUSEBORG",
-      "tiefgang": "6.4",
-      "q_gruppe": 4,
-      "von": "KLT",
-      "nach": "HOS",
-      "lotsen_anzahl": 1,
-      "confirmed": true,
-      "bemerkung": "1530 idK",
-      "raw": "8 | Mon Mar 09 13:30:00 CET 2026 |  | NEUSEBORG | 6.4 |  | 4 | KLT | HOS |  | 1530 idK"
-    },
-    {
-      "nr": 9,
-      "zeit_raw": "Mon Mar 09 13:30:00 CET 2026",
-      "zeit": "2026-03-09T13:30:00",
       "schiff": "LADY ARIANE",
       "ship_key": "LADYARIANE",
       "tiefgang": "4.8",
@@ -134,7 +119,22 @@
       "lotsen_anzahl": 1,
       "confirmed": true,
       "bemerkung": "30t, Platz wird voraussichtl. gegen 15:00 frei",
-      "raw": "9 | Mon Mar 09 13:30:00 CET 2026 |  | LADY ARIANE | 4.8 |  | 5 | KLT | HOS |  | 30t, Platz wird voraussichtl. gegen 15:00 frei"
+      "raw": "8 | Mon Mar 09 13:30:00 CET 2026 |  | LADY ARIANE | 4.8 |  | 5 | KLT | HOS |  | 30t, Platz wird voraussichtl. gegen 15:00 frei"
+    },
+    {
+      "nr": 9,
+      "zeit_raw": "Mon Mar 09 13:30:00 CET 2026",
+      "zeit": "2026-03-09T13:30:00",
+      "schiff": "NEUSEBORG",
+      "ship_key": "NEUSEBORG",
+      "tiefgang": "6.4",
+      "q_gruppe": 4,
+      "von": "KLT",
+      "nach": "HOS",
+      "lotsen_anzahl": 1,
+      "confirmed": true,
+      "bemerkung": "1530 idK",
+      "raw": "9 | Mon Mar 09 13:30:00 CET 2026 |  | NEUSEBORG | 6.4 |  | 4 | KLT | HOS |  | 1530 idK"
     },
     {
       "nr": 10,
@@ -635,6 +635,21 @@
       "nr": 43,
       "zeit_raw": "Tue Mar 10 04:00:00 CET 2026",
       "zeit": "2026-03-10T04:00:00",
+      "schiff": "ANHOLT",
+      "ship_key": "ANHOLT",
+      "tiefgang": "5.0",
+      "q_gruppe": 4,
+      "von": "KLT",
+      "nach": "HOS",
+      "lotsen_anzahl": 1,
+      "confirmed": false,
+      "bemerkung": "",
+      "raw": "43 | Tue Mar 10 04:00:00 CET 2026 |  | ANHOLT | 5.0 |  | 4 | KLT | HOS |  | "
+    },
+    {
+      "nr": 44,
+      "zeit_raw": "Tue Mar 10 04:00:00 CET 2026",
+      "zeit": "2026-03-10T04:00:00",
       "schiff": "SWE-CARRIER",
       "ship_key": "SWECARRIER",
       "tiefgang": "5.5",
@@ -644,10 +659,10 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "43 | Tue Mar 10 04:00:00 CET 2026 |  | SWE-CARRIER | 5.5 |  | 5 | KLT | HOS |  | "
+      "raw": "44 | Tue Mar 10 04:00:00 CET 2026 |  | SWE-CARRIER | 5.5 |  | 5 | KLT | HOS |  | "
     },
     {
-      "nr": 44,
+      "nr": 45,
       "zeit_raw": "Tue Mar 10 04:00:00 CET 2026",
       "zeit": "2026-03-10T04:00:00",
       "schiff": "WACHGÄNGER HOLTENAU SCHLEUSE",
@@ -659,10 +674,10 @@
       "lotsen_anzahl": 1,
       "confirmed": true,
       "bemerkung": "OP",
-      "raw": "44 | Tue Mar 10 04:00:00 CET 2026 |  | WACHGÄNGER HOLTENAU SCHLEUSE | 0.1 |  | 0 | HOS | HOS |  | OP"
+      "raw": "45 | Tue Mar 10 04:00:00 CET 2026 |  | WACHGÄNGER HOLTENAU SCHLEUSE | 0.1 |  | 0 | HOS | HOS |  | OP"
     },
     {
-      "nr": 45,
+      "nr": 46,
       "zeit_raw": "Tue Mar 10 04:00:00 CET 2026",
       "zeit": "2026-03-10T04:00:00",
       "schiff": "LEONIE",
@@ -674,10 +689,10 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "45 | Tue Mar 10 04:00:00 CET 2026 |  | LEONIE | 1.0 |  | 5 | HOR | RÜB |  | "
+      "raw": "46 | Tue Mar 10 04:00:00 CET 2026 |  | LEONIE | 1.0 |  | 5 | HOR | RÜB |  | "
     },
     {
-      "nr": 46,
+      "nr": 47,
       "zeit_raw": "Tue Mar 10 05:00:00 CET 2026",
       "zeit": "2026-03-10T05:00:00",
       "schiff": "RIX DELTA",
@@ -689,10 +704,10 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "46 | Tue Mar 10 05:00:00 CET 2026 |  | RIX DELTA | 5.3 |  | 5 | HOR | RÜB |  | "
+      "raw": "47 | Tue Mar 10 05:00:00 CET 2026 |  | RIX DELTA | 5.3 |  | 5 | HOR | RÜB |  | "
     },
     {
-      "nr": 47,
+      "nr": 48,
       "zeit_raw": "Tue Mar 10 05:00:00 CET 2026",
       "zeit": "2026-03-10T05:00:00",
       "schiff": "SWE-CARRIER",
@@ -704,10 +719,25 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "47 | Tue Mar 10 05:00:00 CET 2026 |  | SWE-CARRIER | 5.5 |  | 5 | HOS | RÜB |  | "
+      "raw": "48 | Tue Mar 10 05:00:00 CET 2026 |  | SWE-CARRIER | 5.5 |  | 5 | HOS | RÜB |  | "
     },
     {
-      "nr": 48,
+      "nr": 49,
+      "zeit_raw": "Tue Mar 10 05:00:00 CET 2026",
+      "zeit": "2026-03-10T05:00:00",
+      "schiff": "ANHOLT",
+      "ship_key": "ANHOLT",
+      "tiefgang": "5.0",
+      "q_gruppe": 4,
+      "von": "HOS",
+      "nach": "RÜB",
+      "lotsen_anzahl": 1,
+      "confirmed": false,
+      "bemerkung": "",
+      "raw": "49 | Tue Mar 10 05:00:00 CET 2026 |  | ANHOLT | 5.0 |  | 4 | HOS | RÜB |  | "
+    },
+    {
+      "nr": 50,
       "zeit_raw": "Tue Mar 10 06:00:00 CET 2026",
       "zeit": "2026-03-10T06:00:00",
       "schiff": "SEA ENDURANCE",
@@ -719,10 +749,10 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "48 | Tue Mar 10 06:00:00 CET 2026 |  | SEA ENDURANCE | 8.5 |  | 4 | KLT | HOS |  | "
+      "raw": "50 | Tue Mar 10 06:00:00 CET 2026 |  | SEA ENDURANCE | 8.5 |  | 4 | KLT | HOS |  | "
     },
     {
-      "nr": 49,
+      "nr": 51,
       "zeit_raw": "Tue Mar 10 07:00:00 CET 2026",
       "zeit": "2026-03-10T07:00:00",
       "schiff": "KAIROS",
@@ -734,10 +764,10 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "49 | Tue Mar 10 07:00:00 CET 2026 |  | KAIROS | 5.4 |  | 3 | KLT | HOS |  | "
+      "raw": "51 | Tue Mar 10 07:00:00 CET 2026 |  | KAIROS | 5.4 |  | 3 | KLT | HOS |  | "
     },
     {
-      "nr": 50,
+      "nr": 52,
       "zeit_raw": "Tue Mar 10 07:00:00 CET 2026",
       "zeit": "2026-03-10T07:00:00",
       "schiff": "SEA ENDURANCE",
@@ -749,10 +779,10 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "50 | Tue Mar 10 07:00:00 CET 2026 |  | SEA ENDURANCE | 8.5 |  | 4 | HOS | RÜB |  | "
+      "raw": "52 | Tue Mar 10 07:00:00 CET 2026 |  | SEA ENDURANCE | 8.5 |  | 4 | HOS | RÜB |  | "
     },
     {
-      "nr": 51,
+      "nr": 53,
       "zeit_raw": "Tue Mar 10 08:00:00 CET 2026",
       "zeit": "2026-03-10T08:00:00",
       "schiff": "KAIROS",
@@ -764,7 +794,7 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "51 | Tue Mar 10 08:00:00 CET 2026 |  | KAIROS | 5.4 |  | 3 | HOS | RÜB |  | "
+      "raw": "53 | Tue Mar 10 08:00:00 CET 2026 |  | KAIROS | 5.4 |  | 3 | HOS | RÜB |  | "
     }
   ],
   "ruesterbergen": [
