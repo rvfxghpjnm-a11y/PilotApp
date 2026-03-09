@@ -252,40 +252,59 @@
   function renderAktuell() {
     const card = $("aktuellCard");
     const hint = $("aktuellHint");
-    if (!card && !hint) return;
+
+    if (!card || !hint) return;
 
     const key = state.selectedTarget;
     if (!key) {
-      if (card) card.textContent = "Kein Ziellotse ausgewählt.";
-      if (hint) hint.textContent = "";
+      card.textContent = "Kein Ziellotse ausgewählt.";
+      hint.textContent = "";
       return;
     }
 
     const label = key.replace(/_/g, " ");
-    let text = `Lotse: ${label}`;
 
     const gbEntries = Array.isArray(state.gbData?.entries) ? state.gbData.entries : [];
-    const me = gbEntries.find(e => makeTargetKey(e.nachname, e.vorname) === key);
-    if (me) {
-      const richtung = safe(me.richtung, "");
-      const arrow = (richtung === "↑" || richtung === "↓") ? `${richtung}${me.verguetung ? "$$" : ""}` : "";
-      text = `${label} | Pos ${safe(me.pos, "?")} | Takt ${safe(me.takt, "?")}${arrow ? ` | ${arrow}` : ""}`;
-      if (hint) hint.textContent = `${safe(me.zeit, "")} ${safe(me.bemerkung, "")}`.trim();
-    } else {
-      const seelotsen = Array.isArray(state.slData?.entries) ? state.slData.entries : [];
-      const sl = seelotsen.find(e => makeTargetKey(e.nachname, e.vorname) === key);
-      if (sl) {
-        text = `${label} | ${safe(sl.aufgabe, "Am arbeiten")}`;
-        if (hint) {
-          const ort = [safe(sl.from, ""), safe(sl.to, "")].filter(Boolean).join("-");
-          hint.textContent = [safe(sl.zeit, ""), safe(sl.fahrzeug, ""), ort].filter(Boolean).join(" | ");
-        }
-      } else {
-        if (hint) hint.textContent = "Aktuell weder in Gesamtbört noch bei abgeteilten Lotsen gefunden.";
-      }
+    const meGb = gbEntries.find(e => makeTargetKey(e.nachname, e.vorname) === key);
+
+    if (meGb) {
+      const richtung = safe(meGb.richtung, "");
+      const arrow = (richtung === "↑" || richtung === "↓")
+        ? `${richtung}${meGb.verguetung ? "$$" : ""}`
+        : "";
+
+      card.textContent =
+        `${label} | Gesamtbört | Pos ${safe(meGb.pos, "?")} | Takt ${safe(meGb.takt, "?")}${arrow ? ` | ${arrow}` : ""}`;
+
+      hint.textContent =
+        [safe(meGb.zeit, ""), safe(meGb.bemerkung, "")]
+          .filter(Boolean)
+          .join(" | ");
+
+      return;
     }
 
-    if (card) card.textContent = text;
+    const slEntries = Array.isArray(state.slData?.entries) ? state.slData.entries : [];
+    const meSl = slEntries.find(e => makeTargetKey(e.nachname, e.vorname) === key);
+
+    if (meSl) {
+      const ort = [safe(meSl.from, ""), safe(meSl.to, "")]
+        .filter(Boolean)
+        .join("-") || safe(meSl.ort, "");
+
+      card.textContent =
+        `${label} | Abgeteilter Seelotse | ${safe(meSl.aufgabe, "Am arbeiten")}`;
+
+      hint.textContent =
+        [safe(meSl.zeit, ""), safe(meSl.fahrzeug, ""), ort]
+          .filter(Boolean)
+          .join(" | ");
+
+      return;
+    }
+
+    card.textContent = `${label} | Aktuell nicht im Dienstbild gefunden`;
+    hint.textContent = "Weder in Gesamtbört noch bei abgeteilten Seelotsen gefunden.";
   }
 
   function renderBoert() {
@@ -354,7 +373,7 @@
     }).join("");
 
     mount.innerHTML = `
-      <div class="hint">Abgeteilte Lotsen – ${entries.length} Einträge</div>
+      <div class="hint">Abgeteilte Seelotsen – ${entries.length} Einträge</div>
       <table class="data-table">
         <thead>
           <tr>
@@ -533,6 +552,8 @@
       state.meldData = null;
 
       await ensureCoreLoaded();
+      await ensureViewData("boert");
+      await ensureViewData("seelotsen");
       initTargetSelect();
       await switchTo(state.activeView || "boert");
     };
@@ -542,6 +563,8 @@
     setupTabs();
     setupReload();
     await ensureCoreLoaded();
+    await ensureViewData("boert");
+    await ensureViewData("seelotsen");
     initTargetSelect();
 
     const activeTabBtn = document.querySelector(".tab.active");

@@ -67,17 +67,24 @@ Lotse
 <select id="pilotSelect"></select>
 <button id="reloadBtn">Reload</button>
 
-<div id="aktuellCard"></div>
-<div id="aktuellHint"></div>
+<div id="statusBanner" style="
+  margin-top:12px;
+  margin-bottom:14px;
+  padding:12px 14px;
+  border:1px solid #cfcfcf;
+  border-radius:12px;
+  background:#f7f7f7;
+">
+  <div id="aktuellCard" style="font-weight:600; margin-bottom:4px;">Keine Daten</div>
+  <div id="aktuellHint" style="color:#555;"></div>
+</div>
 
 <div class="tabs" id="tabs">
-
-<button class="tab active" data-tab="boert">Gesamtbört</button>
-<button class="tab" data-tab="seelotsen">Abgeteilte Seelotsen</button>
-<button class="tab" data-tab="meld_kiel">Meldungen Kiel</button>
-<button class="tab" data-tab="meld_rueb">Meldungen Rüsterbergen</button>
-<button class="tab" data-tab="graph">Graph</button>
-
+  <button class="tab active" data-tab="boert">Gesamtbört</button>
+  <button class="tab" data-tab="seelotsen">Abgeteilte Seelotsen</button>
+  <button class="tab" data-tab="meld_kiel">Meldungen Kiel</button>
+  <button class="tab" data-tab="meld_rueb">Meldungen Rüsterbergen</button>
+  <button class="tab" data-tab="graph">Graph</button>
 </div>
 
 <div id="panel-boert" class="panel active"></div>
