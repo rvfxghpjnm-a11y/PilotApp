@@ -464,6 +464,12 @@
     return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`;
   }
 
+  function formatHourDelta(hoursAgo) {
+    if (Math.abs(hoursAgo) < 0.05) return "jetzt";
+    const rounded = Math.round(hoursAgo * 10) / 10;
+    return `-${rounded}h`;
+  }
+
   function normalizeSeriesMidnight(values) {
     if (!values.length) return values;
     const out = [values[0]];
@@ -500,15 +506,15 @@
       return;
     }
 
-    const series = Array.isArray(state.history?.targets?.[key]) ? state.history.targets[key] : [];
-    if (!series.length) {
+    const historySeries = Array.isArray(state.history?.targets?.[key]) ? state.history.targets[key] : [];
+    if (!historySeries.length) {
       mount.innerHTML = `<div class="hint">Für ${esc(key.replace(/_/g, " "))} gibt es aktuell keine History-Punkte.</div>`;
       return;
     }
 
     const prepared = GRAPH_SERIES.map(def => ({
       ...def,
-      values: buildGraphSeries(series, def.key)
+      values: buildGraphSeries(historySeries, def.key)
     })).filter(s => Array.isArray(s.values) && s.values.length);
 
     if (!prepared.length) {
@@ -516,23 +522,33 @@
       return;
     }
 
+    const tsDates = historySeries.map(p => parseIsoToDate(p.ts)).filter(Boolean);
+    if (!tsDates.length) {
+      mount.innerHTML = `<div class="hint">Keine nutzbaren Messzeitpunkte vorhanden.</div>`;
+      return;
+    }
+
+    const now = new Date();
+    const xHoursAgo = tsDates.map(d => (now.getTime() - d.getTime()) / 3600000);
+
     const width = 980;
     const height = 380;
-    const padL = 60;
+    const padL = 70;
     const padR = 24;
     const padT = 28;
-    const padB = 46;
+    const padB = 52;
 
     const allValues = prepared.flatMap(s => s.values);
     const minY = Math.min(...allValues);
     const maxY = Math.max(...allValues);
     const ySpan = Math.max(30, maxY - minY);
 
-    const xCount = Math.max(...prepared.map(s => s.values.length));
-    const xStep = xCount <= 1 ? 0 : (width - padL - padR) / (xCount - 1);
+    const minX = Math.min(...xHoursAgo);
+    const maxX = Math.max(...xHoursAgo);
+    const xSpan = Math.max(0.25, maxX - minX);
 
-    function xForIndex(i) {
-      return padL + i * xStep;
+    function xForHourAgo(h) {
+      return padL + ((h - minX) / xSpan) * (width - padL - padR);
     }
 
     function yForValue(v) {
@@ -540,24 +556,27 @@
     }
 
     const grid = [];
-    const tickCount = 6;
-    for (let i = 0; i <= tickCount; i++) {
-      const v = minY + (ySpan / tickCount) * i;
+    const yTickCount = 6;
+    for (let i = 0; i <= yTickCount; i++) {
+      const v = minY + (ySpan / yTickCount) * i;
       const y = yForValue(v);
       grid.push(`<line x1="${padL}" y1="${y}" x2="${width - padR}" y2="${y}" stroke="#2b3240" stroke-width="1"></line>`);
       grid.push(`<text x="${padL - 10}" y="${y + 4}" text-anchor="end" font-size="11" fill="#aab2bf">${formatHm(v)}</text>`);
     }
 
+    const xTickCount = Math.min(6, xHoursAgo.length - 1 >= 1 ? 6 : 1);
     const xLabels = [];
-    for (let i = 0; i < xCount; i++) {
-      const x = xForIndex(i);
-      xLabels.push(`<text x="${x}" y="${height - 14}" text-anchor="middle" font-size="11" fill="#aab2bf">${i + 1}</text>`);
+    for (let i = 0; i <= xTickCount; i++) {
+      const h = minX + (xSpan / xTickCount) * i;
+      const x = xForHourAgo(h);
+      xLabels.push(`<line x1="${x}" y1="${padT}" x2="${x}" y2="${height - padB}" stroke="#1b2230" stroke-width="1"></line>`);
+      xLabels.push(`<text x="${x}" y="${height - 14}" text-anchor="middle" font-size="11" fill="#aab2bf">${formatHourDelta(h)}</text>`);
     }
 
     const lines = prepared.map(s => {
-      const pts = s.values.map((v, i) => `${xForIndex(i)},${yForValue(v)}`).join(" ");
+      const pts = s.values.map((v, i) => `${xForHourAgo(xHoursAgo[i])},${yForValue(v)}`).join(" ");
       const circles = s.values.map((v, i) =>
-        `<circle cx="${xForIndex(i)}" cy="${yForValue(v)}" r="3.5" fill="${s.color}"></circle>`
+        `<circle cx="${xForHourAgo(xHoursAgo[i])}" cy="${yForValue(v)}" r="3.5" fill="${s.color}"></circle>`
       ).join("");
 
       return `
@@ -580,7 +599,7 @@
     }).join(" | ");
 
     mount.innerHTML = `
-      <div class="hint">Graph – ${esc(key.replace(/_/g, " "))} | ${series.length} Punkte</div>
+      <div class="hint">Graph – ${esc(key.replace(/_/g, " "))} | ${historySeries.length} Punkte</div>
       <svg viewBox="0 0 ${width} ${height}" style="
         width:100%;
         height:auto;
@@ -590,14 +609,14 @@
         border-radius:10px;
       ">
         ${grid.join("")}
+        ${xLabels.join("")}
         <line x1="${padL}" y1="${height - padB}" x2="${width - padR}" y2="${height - padB}" stroke="#6b7280"></line>
         <line x1="${padL}" y1="${padT}" x2="${padL}" y2="${height - padB}" stroke="#6b7280"></line>
-        ${xLabels.join("")}
         ${lines}
         ${legend}
       </svg>
       <div class="hint" style="margin-top:10px;">${esc(latestText)}</div>
-      <div class="hint">X-Achse = letzte History-Punkte | Y-Achse = Uhrzeit</div>
+      <div class="hint">X-Achse = Stunden Abstand zu jetzt | Y-Achse = Uhrzeit</div>
     `;
   }
 
