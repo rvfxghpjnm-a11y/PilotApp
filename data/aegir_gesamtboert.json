@@ -1,385 +1,138 @@
 {
-  "generated_at": "2026-03-10 11:10",
+  "generated_at": "2026-03-10 20:28",
   "entries": [
     {
       "pos": 1,
-      "nachname": "Rambadt",
-      "vorname": "Helge",
-      "takt": "10,1",
-      "q_gruppe": "0",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 06:15:00 CET 2026",
+      "nachname": "Demant",
+      "vorname": "Tom",
+      "takt": "31,0",
+      "q_gruppe": "5",
+      "was": "ABR",
+      "zeit": "Tue Mar 10 19:56:59 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "1 | Rambadt, Helge | 10,1 | 0 | ZEN | Tue Mar 10 06:15:00 CET 2026"
+      "raw": "1 | Demant, Tom | 31,0 | 5 | ABR | Tue Mar 10 19:56:59 CET 2026"
     },
     {
       "pos": 2,
-      "nachname": "Schuh",
-      "vorname": "Erskine",
-      "takt": "11,0",
+      "nachname": "Böttcher",
+      "vorname": "Peter",
+      "takt": "33,0",
       "q_gruppe": "0",
       "was": "ZEN",
-      "zeit": "Tue Mar 10 08:02:00 CET 2026",
+      "zeit": "Tue Mar 10 14:50:00 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "2 | Schuh, Erskine | 11,0 | 0 | ZEN | Tue Mar 10 08:02:00 CET 2026"
+      "raw": "2 | Böttcher, Peter | 33,0 | 0 | ZEN | Tue Mar 10 14:50:00 CET 2026"
     },
     {
       "pos": 3,
-      "nachname": "Glenewinkel",
-      "vorname": "Jan-Steffen",
-      "takt": "12,0",
-      "q_gruppe": "0",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 08:17:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "3 | Glenewinkel, Jan-Steffen | 12,0 | 0 | ZEN | Tue Mar 10 08:17:00 CET 2026"
-    },
-    {
-      "pos": 4,
-      "nachname": "Czurda",
-      "vorname": "Crischan",
-      "takt": "13,0",
-      "q_gruppe": "0",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 08:32:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "4 | Czurda, Crischan | 13,0 | 0 | ZEN | Tue Mar 10 08:32:00 CET 2026"
-    },
-    {
-      "pos": 5,
-      "nachname": "Zozulya",
-      "vorname": "Mykola",
-      "takt": "13,1",
-      "q_gruppe": "0",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 08:44:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "5 | Zozulya, Mykola | 13,1 | 0 | ZEN | Tue Mar 10 08:44:00 CET 2026"
-    },
-    {
-      "pos": 6,
-      "nachname": "Kaschke",
-      "vorname": "Henning",
-      "takt": "14,0",
-      "q_gruppe": "0",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 10:00:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "6 | Kaschke, Henning | 14,0 | 0 | ZEN | Tue Mar 10 10:00:00 CET 2026"
-    },
-    {
-      "pos": 7,
-      "nachname": "Kordt",
-      "vorname": "Remo",
-      "takt": "15,0",
-      "q_gruppe": "0",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 10:00:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "7 | Kordt, Remo | 15,0 | 0 | ZEN | Tue Mar 10 10:00:00 CET 2026"
-    },
-    {
-      "pos": 8,
-      "nachname": "Lehwald",
-      "vorname": "Christian",
-      "takt": "17,0",
-      "q_gruppe": "4",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 10:20:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "8 | Lehwald, Christian | 17,0 | 4 | ZEN | Tue Mar 10 10:20:00 CET 2026"
-    },
-    {
-      "pos": 9,
-      "nachname": "Kahler",
-      "vorname": "Volker",
-      "takt": "18,0",
-      "q_gruppe": "0",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 10:33:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "9 | Kahler, Volker | 18,0 | 0 | ZEN | Tue Mar 10 10:33:00 CET 2026"
-    },
-    {
-      "pos": 10,
-      "nachname": "Nagel",
-      "vorname": "Volker",
-      "takt": "19,0",
-      "q_gruppe": "2",
-      "was": "ZEN",
-      "zeit": "Tue Mar 10 11:00:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "10 | Nagel, Volker | 19,0 | 2 | ZEN | Tue Mar 10 11:00:00 CET 2026"
-    },
-    {
-      "pos": 11,
-      "nachname": "Wäntig",
-      "vorname": "Lutz",
-      "takt": "20,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 01:51:00 CET 2026",
-      "bemerkung": "",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "11 | Wäntig, Lutz | 20,0 | 0 | ZUG | Mon Mar 09 01:51:00 CET 2026 | ↑$$"
-    },
-    {
-      "pos": 12,
-      "nachname": "Krämer",
-      "vorname": "Jonas",
-      "takt": "21,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 03:53:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "12 | Krämer, Jonas | 21,0 | 0 | ZUG | Mon Mar 09 03:53:00 CET 2026"
-    },
-    {
-      "pos": 13,
-      "nachname": "Staedler",
-      "vorname": "Frank",
-      "takt": "23,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 04:11:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "13 | Staedler, Frank | 23,0 | 0 | ZUG | Mon Mar 09 04:11:00 CET 2026"
-    },
-    {
-      "pos": 14,
-      "nachname": "Heyenga",
-      "vorname": "Kai",
-      "takt": "24,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 04:30:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "14 | Heyenga, Kai | 24,0 | 0 | ZUG | Mon Mar 09 04:30:00 CET 2026"
-    },
-    {
-      "pos": 15,
-      "nachname": "Hansen",
-      "vorname": "Hinnerk",
-      "takt": "25,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 06:18:00 CET 2026",
-      "bemerkung": "𝗠𝗔𝗫 1. Freinummer",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "15 | Hansen, Hinnerk | 25,0 | 0 | ZUG | Mon Mar 09 06:18:00 CET 2026 | ↑$$ | 𝗠𝗔𝗫 1. Freinummer"
-    },
-    {
-      "pos": 16,
-      "nachname": "Röhl",
-      "vorname": "Jens",
-      "takt": "26,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 07:21:00 CET 2026",
-      "bemerkung": "𝗠𝗔𝗫 takt. 09,00",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "16 | Röhl, Jens | 26,0 | 0 | ZUG | Mon Mar 09 07:21:00 CET 2026 | ↑$$ | 𝗠𝗔𝗫 takt. 09,00"
-    },
-    {
-      "pos": 17,
-      "nachname": "Weise",
-      "vorname": "Tom",
-      "takt": "29,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 07:40:00 CET 2026",
-      "bemerkung": "",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "17 | Weise, Tom | 29,0 | 0 | ZUG | Mon Mar 09 07:40:00 CET 2026 | ↑$$"
-    },
-    {
-      "pos": 18,
-      "nachname": "Schüler",
-      "vorname": "Marius",
-      "takt": "31,0",
-      "q_gruppe": "0",
-      "was": "ZLN",
-      "zeit": "Mon Mar 09 09:00:00 CET 2026",
-      "bemerkung": "",
-      "richtung": "↓",
-      "verguetung": false,
-      "raw": "18 | Schüler, Marius | 31,0 | 0 | ZLN | Mon Mar 09 09:00:00 CET 2026 | ↓"
-    },
-    {
-      "pos": 19,
-      "nachname": "Winkler",
-      "vorname": "René",
-      "takt": "32,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 09:19:00 CET 2026",
-      "bemerkung": "",
-      "richtung": null,
-      "verguetung": false,
-      "raw": "19 | Winkler, René | 32,0 | 0 | ZUG | Mon Mar 09 09:19:00 CET 2026"
-    },
-    {
-      "pos": 20,
-      "nachname": "Alt",
-      "vorname": "Gerhard",
-      "takt": "33,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 09:58:00 CET 2026",
-      "bemerkung": "",
-      "richtung": "↓",
-      "verguetung": false,
-      "raw": "20 | Alt, Gerhard | 33,0 | 0 | ZUG | Mon Mar 09 09:58:00 CET 2026 | ↓"
-    },
-    {
-      "pos": 21,
       "nachname": "Haala",
       "vorname": "Klaus Werner",
       "takt": "34,0",
       "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 10:08:00 CET 2026",
-      "bemerkung": "",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "21 | Haala, Klaus Werner | 34,0 | 0 | ZUG | Mon Mar 09 10:08:00 CET 2026 | ↑$$"
-    },
-    {
-      "pos": 22,
-      "nachname": "Marth",
-      "vorname": "Jürgen",
-      "takt": "35,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 10:14:00 CET 2026",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 16:22:00 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "22 | Marth, Jürgen | 35,0 | 0 | ZUG | Mon Mar 09 10:14:00 CET 2026"
+      "raw": "3 | Haala, Klaus Werner | 34,0 | 0 | ZEN | Tue Mar 10 16:22:00 CET 2026"
     },
     {
-      "pos": 23,
+      "pos": 4,
       "nachname": "Kubica",
       "vorname": "Gregor",
       "takt": "36,0",
       "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 12:00:00 CET 2026",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 16:29:00 CET 2026",
       "bemerkung": "",
-      "richtung": "↓",
+      "richtung": null,
       "verguetung": false,
-      "raw": "23 | Kubica, Gregor | 36,0 | 0 | ZUG | Mon Mar 09 12:00:00 CET 2026 | ↓"
+      "raw": "4 | Kubica, Gregor | 36,0 | 0 | ZEN | Tue Mar 10 16:29:00 CET 2026"
     },
     {
-      "pos": 24,
+      "pos": 5,
       "nachname": "Schulz",
       "vorname": "Arne",
       "takt": "37,0",
       "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 12:30:00 CET 2026",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 16:34:00 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "24 | Schulz, Arne | 37,0 | 0 | ZUG | Mon Mar 09 12:30:00 CET 2026"
+      "raw": "5 | Schulz, Arne | 37,0 | 0 | ZEN | Tue Mar 10 16:34:00 CET 2026"
     },
     {
-      "pos": 25,
-      "nachname": "Stürenburg",
-      "vorname": "Jan",
+      "pos": 6,
+      "nachname": "Woitanowski",
+      "vorname": "Tim",
       "takt": "37,1",
-      "q_gruppe": "0",
-      "was": "ZLN",
-      "zeit": "Tue Mar 10 08:40:40 CET 2026",
-      "bemerkung": "",
-      "richtung": "↓",
+      "q_gruppe": "2",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 16:39:00 CET 2026",
+      "bemerkung": "30 Min.",
+      "richtung": null,
       "verguetung": false,
-      "raw": "25 | Stürenburg, Jan | 37,1 | 0 | ZLN | Tue Mar 10 08:40:40 CET 2026 | ↓"
+      "raw": "6 | Woitanowski, Tim | 37,1 | 2 | ZEN | Tue Mar 10 16:39:00 CET 2026 | 30 Min."
     },
     {
-      "pos": 26,
+      "pos": 7,
       "nachname": "Petersen",
       "vorname": "Yannick",
       "takt": "38,0",
       "q_gruppe": "3",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 12:31:00 CET 2026",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 16:45:00 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "26 | Petersen, Yannick | 38,0 | 3 | ZUG | Mon Mar 09 12:31:00 CET 2026"
+      "raw": "7 | Petersen, Yannick | 38,0 | 3 | ZEN | Tue Mar 10 16:45:00 CET 2026"
     },
     {
-      "pos": 27,
-      "nachname": "Börnsen",
-      "vorname": "Curt",
+      "pos": 8,
+      "nachname": "Krügel",
+      "vorname": "Mathias",
       "takt": "39,0",
-      "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 14:25:00 CET 2026",
-      "bemerkung": "",
+      "q_gruppe": "1",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 19:00:00 CET 2026",
+      "bemerkung": "tauscht WL-See...",
       "richtung": null,
       "verguetung": false,
-      "raw": "27 | Börnsen, Curt | 39,0 | 0 | ZUG | Mon Mar 09 14:25:00 CET 2026"
+      "raw": "8 | Krügel, Mathias | 39,0 | 1 | ZEN | Tue Mar 10 19:00:00 CET 2026 | tauscht WL-See..."
     },
     {
-      "pos": 28,
+      "pos": 9,
       "nachname": "Zimmermann",
       "vorname": "Steffen",
       "takt": "39,1",
       "q_gruppe": "0",
-      "was": "ZLN",
-      "zeit": "Tue Mar 10 11:05:39 CET 2026",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 20:00:00 CET 2026",
       "bemerkung": "",
       "richtung": "↓",
       "verguetung": false,
-      "raw": "28 | Zimmermann, Steffen | 39,1 | 0 | ZLN | Tue Mar 10 11:05:39 CET 2026 | ↓"
+      "raw": "9 | Zimmermann, Steffen | 39,1 | 0 | ZEN | Tue Mar 10 20:00:00 CET 2026 | ↓"
     },
     {
-      "pos": 29,
+      "pos": 10,
       "nachname": "Pankonin",
       "vorname": "Denny",
       "takt": "40,0",
       "q_gruppe": "0",
-      "was": "ZUG",
-      "zeit": "Mon Mar 09 14:44:00 CET 2026",
+      "was": "ZEN",
+      "zeit": "Tue Mar 10 20:00:00 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "29 | Pankonin, Denny | 40,0 | 0 | ZUG | Mon Mar 09 14:44:00 CET 2026"
+      "raw": "10 | Pankonin, Denny | 40,0 | 0 | ZEN | Tue Mar 10 20:00:00 CET 2026"
     },
     {
-      "pos": 30,
+      "pos": 11,
       "nachname": "Steinbach",
       "vorname": "Daniel\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Sauerland, Oliver)",
       "takt": "41,0",
@@ -389,10 +142,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "30 | Steinbach, Daniel\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Sauerland, Oliver) | 41,0 | 0 | ZUG | Mon Mar 09 14:52:00 CET 2026"
+      "raw": "11 | Steinbach, Daniel\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Sauerland, Oliver) | 41,0 | 0 | ZUG | Mon Mar 09 14:52:00 CET 2026"
     },
     {
-      "pos": 31,
+      "pos": 12,
       "nachname": "Wulff",
       "vorname": "Stephan",
       "takt": "42,0",
@@ -402,23 +155,23 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "31 | Wulff, Stephan | 42,0 | 0 | ZUG | Mon Mar 09 14:57:00 CET 2026"
+      "raw": "12 | Wulff, Stephan | 42,0 | 0 | ZUG | Mon Mar 09 14:57:00 CET 2026"
     },
     {
-      "pos": 32,
-      "nachname": "Konietzka",
-      "vorname": "Stefan",
+      "pos": 13,
+      "nachname": "Alt",
+      "vorname": "Gerhard",
       "takt": "43,0",
-      "q_gruppe": "5",
+      "q_gruppe": "0",
       "was": "ZUG",
       "zeit": "Mon Mar 09 16:32:00 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "32 | Konietzka, Stefan | 43,0 | 5 | ZUG | Mon Mar 09 16:32:00 CET 2026"
+      "raw": "13 | Alt, Gerhard | 43,0 | 0 | ZUG | Mon Mar 09 16:32:00 CET 2026"
     },
     {
-      "pos": 33,
+      "pos": 14,
       "nachname": "Hren",
       "vorname": "Alexander",
       "takt": "44,0",
@@ -428,10 +181,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "33 | Hren, Alexander | 44,0 | 0 | ZUG | Mon Mar 09 16:42:00 CET 2026"
+      "raw": "14 | Hren, Alexander | 44,0 | 0 | ZUG | Mon Mar 09 16:42:00 CET 2026"
     },
     {
-      "pos": 34,
+      "pos": 15,
       "nachname": "Otten",
       "vorname": "Janning",
       "takt": "45,0",
@@ -441,23 +194,23 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "34 | Otten, Janning | 45,0 | 0 | ZUG | Mon Mar 09 16:47:00 CET 2026"
+      "raw": "15 | Otten, Janning | 45,0 | 0 | ZUG | Mon Mar 09 16:47:00 CET 2026"
     },
     {
-      "pos": 35,
+      "pos": 16,
       "nachname": "Töpfer",
       "vorname": "Jens-Peter",
       "takt": "46,0",
       "q_gruppe": "0",
       "was": "ZUG",
       "zeit": "Mon Mar 09 16:54:00 CET 2026",
-      "bemerkung": "",
+      "bemerkung": "30 Min.",
       "richtung": null,
       "verguetung": false,
-      "raw": "35 | Töpfer, Jens-Peter | 46,0 | 0 | ZUG | Mon Mar 09 16:54:00 CET 2026"
+      "raw": "16 | Töpfer, Jens-Peter | 46,0 | 0 | ZUG | Mon Mar 09 16:54:00 CET 2026 | 30 Min."
     },
     {
-      "pos": 36,
+      "pos": 17,
       "nachname": "Koch",
       "vorname": "Florian",
       "takt": "47,0",
@@ -467,10 +220,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "36 | Koch, Florian | 47,0 | 0 | IdB | Mon Mar 09 18:59:25 CET 2026"
+      "raw": "17 | Koch, Florian | 47,0 | 0 | IdB | Mon Mar 09 18:59:25 CET 2026"
     },
     {
-      "pos": 37,
+      "pos": 18,
       "nachname": "Dietrich",
       "vorname": "Thomas",
       "takt": "48,0",
@@ -480,10 +233,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "37 | Dietrich, Thomas | 48,0 | 0 | ZUG | Mon Mar 09 19:17:00 CET 2026"
+      "raw": "18 | Dietrich, Thomas | 48,0 | 0 | ZUG | Mon Mar 09 19:17:00 CET 2026"
     },
     {
-      "pos": 38,
+      "pos": 19,
       "nachname": "Cramer",
       "vorname": "Claas",
       "takt": "49,0",
@@ -493,10 +246,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "38 | Cramer, Claas | 49,0 | 0 | IdB | Mon Mar 09 20:30:32 CET 2026"
+      "raw": "19 | Cramer, Claas | 49,0 | 0 | IdB | Mon Mar 09 20:30:32 CET 2026"
     },
     {
-      "pos": 39,
+      "pos": 20,
       "nachname": "Lielienthal",
       "vorname": "Jörn",
       "takt": "50,0",
@@ -506,12 +259,12 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "39 | Lielienthal, Jörn | 50,0 | 0 | ZUG | Mon Mar 09 22:18:00 CET 2026"
+      "raw": "20 | Lielienthal, Jörn | 50,0 | 0 | ZUG | Mon Mar 09 22:18:00 CET 2026"
     },
     {
-      "pos": 40,
-      "nachname": "Richter",
-      "vorname": "Ingmar\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Schnieders, Ken)",
+      "pos": 21,
+      "nachname": "Arlt",
+      "vorname": "Andreas",
       "takt": "51,0",
       "q_gruppe": "0",
       "was": "ZUG",
@@ -519,10 +272,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "40 | Richter, Ingmar\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Schnieders, Ken) | 51,0 | 0 | ZUG | Mon Mar 09 22:23:00 CET 2026"
+      "raw": "21 | Arlt, Andreas | 51,0 | 0 | ZUG | Mon Mar 09 22:23:00 CET 2026"
     },
     {
-      "pos": 41,
+      "pos": 22,
       "nachname": "Ünsal",
       "vorname": "Hüseyin",
       "takt": "52,0",
@@ -532,10 +285,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "41 | Ünsal, Hüseyin | 52,0 | 0 | ZUG | Mon Mar 09 22:39:00 CET 2026"
+      "raw": "22 | Ünsal, Hüseyin | 52,0 | 0 | ZUG | Mon Mar 09 22:39:00 CET 2026"
     },
     {
-      "pos": 42,
+      "pos": 23,
       "nachname": "Schran",
       "vorname": "Oliver\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Reuter, Sophia)",
       "takt": "53,0",
@@ -545,10 +298,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "42 | Schran, Oliver\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Reuter, Sophia) | 53,0 | 0 | ZUG | Mon Mar 09 22:58:00 CET 2026"
+      "raw": "23 | Schran, Oliver\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Reuter, Sophia) | 53,0 | 0 | ZUG | Mon Mar 09 22:58:00 CET 2026"
     },
     {
-      "pos": 43,
+      "pos": 24,
       "nachname": "Lüttge",
       "vorname": "Sebastian",
       "takt": "54,0",
@@ -558,10 +311,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "43 | Lüttge, Sebastian | 54,0 | 4 | ZUG | Mon Mar 09 23:11:00 CET 2026"
+      "raw": "24 | Lüttge, Sebastian | 54,0 | 4 | ZUG | Mon Mar 09 23:11:00 CET 2026"
     },
     {
-      "pos": 44,
+      "pos": 25,
       "nachname": "Vogel",
       "vorname": "Peter",
       "takt": "55,0",
@@ -571,10 +324,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "44 | Vogel, Peter | 55,0 | 0 | ZUG | Mon Mar 09 23:42:00 CET 2026"
+      "raw": "25 | Vogel, Peter | 55,0 | 0 | ZUG | Mon Mar 09 23:42:00 CET 2026"
     },
     {
-      "pos": 45,
+      "pos": 26,
       "nachname": "Purwin",
       "vorname": "Marko",
       "takt": "56,0",
@@ -584,23 +337,23 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "45 | Purwin, Marko | 56,0 | 0 | ZUG | Tue Mar 10 00:15:00 CET 2026"
+      "raw": "26 | Purwin, Marko | 56,0 | 0 | ZUG | Tue Mar 10 00:15:00 CET 2026"
     },
     {
-      "pos": 46,
-      "nachname": "Woitanowski",
-      "vorname": "Tim",
+      "pos": 27,
+      "nachname": "Stürenburg",
+      "vorname": "Jan",
       "takt": "57,0",
-      "q_gruppe": "2",
+      "q_gruppe": "0",
       "was": "ZUG",
       "zeit": "Tue Mar 10 00:22:00 CET 2026",
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "46 | Woitanowski, Tim | 57,0 | 2 | ZUG | Tue Mar 10 00:22:00 CET 2026"
+      "raw": "27 | Stürenburg, Jan | 57,0 | 0 | ZUG | Tue Mar 10 00:22:00 CET 2026"
     },
     {
-      "pos": 47,
+      "pos": 28,
       "nachname": "Tontarra",
       "vorname": "Olaf",
       "takt": "58,0",
@@ -610,10 +363,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "47 | Tontarra, Olaf | 58,0 | 0 | ZUG | Tue Mar 10 01:16:00 CET 2026"
+      "raw": "28 | Tontarra, Olaf | 58,0 | 0 | ZUG | Tue Mar 10 01:16:00 CET 2026"
     },
     {
-      "pos": 48,
+      "pos": 29,
       "nachname": "Heyenga",
       "vorname": "Dennis",
       "takt": "59,0",
@@ -623,10 +376,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "48 | Heyenga, Dennis | 59,0 | 4 | ZUG | Tue Mar 10 01:34:00 CET 2026"
+      "raw": "29 | Heyenga, Dennis | 59,0 | 4 | ZUG | Tue Mar 10 01:34:00 CET 2026"
     },
     {
-      "pos": 49,
+      "pos": 30,
       "nachname": "Hilpert",
       "vorname": "Jan",
       "takt": "60,0",
@@ -636,23 +389,23 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "49 | Hilpert, Jan | 60,0 | 0 | ZUG | Tue Mar 10 01:46:00 CET 2026"
+      "raw": "30 | Hilpert, Jan | 60,0 | 0 | ZUG | Tue Mar 10 01:46:00 CET 2026"
     },
     {
-      "pos": 50,
-      "nachname": "Demant",
-      "vorname": "Tom",
+      "pos": 31,
+      "nachname": "Schüler",
+      "vorname": "Marius",
       "takt": "61,0",
-      "q_gruppe": "5",
+      "q_gruppe": "0",
       "was": "ZUG",
       "zeit": "Tue Mar 10 02:22:00 CET 2026",
       "bemerkung": "",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "50 | Demant, Tom | 61,0 | 5 | ZUG | Tue Mar 10 02:22:00 CET 2026 | ↑$$"
+      "richtung": null,
+      "verguetung": false,
+      "raw": "31 | Schüler, Marius | 61,0 | 0 | ZUG | Tue Mar 10 02:22:00 CET 2026"
     },
     {
-      "pos": 51,
+      "pos": 32,
       "nachname": "Dalecki",
       "vorname": "Niklas",
       "takt": "62,0",
@@ -662,10 +415,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "51 | Dalecki, Niklas | 62,0 | 0 | ZUG | Tue Mar 10 03:45:00 CET 2026"
+      "raw": "32 | Dalecki, Niklas | 62,0 | 0 | ZUG | Tue Mar 10 03:45:00 CET 2026"
     },
     {
-      "pos": 52,
+      "pos": 33,
       "nachname": "Lüdtke",
       "vorname": "Jan-Torben",
       "takt": "63,0",
@@ -675,10 +428,10 @@
       "bemerkung": "",
       "richtung": "↓",
       "verguetung": false,
-      "raw": "52 | Lüdtke, Jan-Torben | 63,0 | 0 | ZUG | Tue Mar 10 03:46:00 CET 2026 | ↓"
+      "raw": "33 | Lüdtke, Jan-Torben | 63,0 | 0 | ZUG | Tue Mar 10 03:46:00 CET 2026 | ↓"
     },
     {
-      "pos": 53,
+      "pos": 34,
       "nachname": "Witte",
       "vorname": "Tomas",
       "takt": "64,0",
@@ -688,10 +441,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "53 | Witte, Tomas | 64,0 | 0 | ZUG | Tue Mar 10 04:03:00 CET 2026"
+      "raw": "34 | Witte, Tomas | 64,0 | 0 | ZUG | Tue Mar 10 04:03:00 CET 2026"
     },
     {
-      "pos": 54,
+      "pos": 35,
       "nachname": "Janson",
       "vorname": "Sven",
       "takt": "65,0",
@@ -701,10 +454,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "54 | Janson, Sven | 65,0 | 5 | IdB | Tue Mar 10 04:30:00 CET 2026"
+      "raw": "35 | Janson, Sven | 65,0 | 5 | IdB | Tue Mar 10 04:30:00 CET 2026"
     },
     {
-      "pos": 55,
+      "pos": 36,
       "nachname": "Klüver",
       "vorname": "Knut Paul",
       "takt": "66,0",
@@ -714,10 +467,10 @@
       "bemerkung": "min./max. takt. 50,00",
       "richtung": "↑",
       "verguetung": true,
-      "raw": "55 | Klüver, Knut Paul | 66,0 | 0 | ZUG | Tue Mar 10 04:31:00 CET 2026 | ↑$$ | min./max. takt. 50,00"
+      "raw": "36 | Klüver, Knut Paul | 66,0 | 0 | ZUG | Tue Mar 10 04:31:00 CET 2026 | ↑$$ | min./max. takt. 50,00"
     },
     {
-      "pos": 56,
+      "pos": 37,
       "nachname": "Wald",
       "vorname": "Mark",
       "takt": "67,0",
@@ -727,10 +480,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "56 | Wald, Mark | 67,0 | 3 | ZUG | Tue Mar 10 04:50:00 CET 2026"
+      "raw": "37 | Wald, Mark | 67,0 | 3 | ZUG | Tue Mar 10 04:50:00 CET 2026"
     },
     {
-      "pos": 57,
+      "pos": 38,
       "nachname": "Biedermann",
       "vorname": "Johannes",
       "takt": "68,0",
@@ -740,10 +493,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "57 | Biedermann, Johannes | 68,0 | 0 | ZUG | Tue Mar 10 04:51:00 CET 2026"
+      "raw": "38 | Biedermann, Johannes | 68,0 | 0 | ZUG | Tue Mar 10 04:51:00 CET 2026"
     },
     {
-      "pos": 58,
+      "pos": 39,
       "nachname": "Wille",
       "vorname": "Christian",
       "takt": "69,0",
@@ -753,10 +506,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "58 | Wille, Christian | 69,0 | 0 | ZUG | Tue Mar 10 06:01:00 CET 2026"
+      "raw": "39 | Wille, Christian | 69,0 | 0 | ZUG | Tue Mar 10 06:01:00 CET 2026"
     },
     {
-      "pos": 59,
+      "pos": 40,
       "nachname": "Münker",
       "vorname": "Niels",
       "takt": "70,0",
@@ -766,10 +519,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "59 | Münker, Niels | 70,0 | 0 | ZUG | Tue Mar 10 06:44:00 CET 2026"
+      "raw": "40 | Münker, Niels | 70,0 | 0 | ZUG | Tue Mar 10 06:44:00 CET 2026"
     },
     {
-      "pos": 60,
+      "pos": 41,
       "nachname": "Thomsen",
       "vorname": "Gunnar",
       "takt": "71,0",
@@ -779,23 +532,23 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "60 | Thomsen, Gunnar | 71,0 | 0 | ZUG | Tue Mar 10 07:54:00 CET 2026"
+      "raw": "41 | Thomsen, Gunnar | 71,0 | 0 | ZUG | Tue Mar 10 07:54:00 CET 2026"
     },
     {
-      "pos": 61,
-      "nachname": "Böttcher",
-      "vorname": "Peter",
+      "pos": 42,
+      "nachname": "Konietzka",
+      "vorname": "Stefan",
       "takt": "72,0",
-      "q_gruppe": "0",
+      "q_gruppe": "5",
       "was": "ZUG",
       "zeit": "Tue Mar 10 07:57:00 CET 2026",
       "bemerkung": "",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "61 | Böttcher, Peter | 72,0 | 0 | ZUG | Tue Mar 10 07:57:00 CET 2026 | ↑$$"
+      "richtung": null,
+      "verguetung": false,
+      "raw": "42 | Konietzka, Stefan | 72,0 | 5 | ZUG | Tue Mar 10 07:57:00 CET 2026"
     },
     {
-      "pos": 62,
+      "pos": 43,
       "nachname": "Stoislow",
       "vorname": "Alexander",
       "takt": "73,0",
@@ -805,10 +558,10 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "62 | Stoislow, Alexander | 73,0 | 4 | ZUG | Tue Mar 10 08:46:00 CET 2026"
+      "raw": "43 | Stoislow, Alexander | 73,0 | 4 | ZUG | Tue Mar 10 08:46:00 CET 2026"
     },
     {
-      "pos": 63,
+      "pos": 44,
       "nachname": "Krause",
       "vorname": "Malte",
       "takt": "74,0",
@@ -816,12 +569,12 @@
       "was": "ZUG",
       "zeit": "Tue Mar 10 09:26:00 CET 2026",
       "bemerkung": "",
-      "richtung": "↑",
-      "verguetung": true,
-      "raw": "63 | Krause, Malte | 74,0 | 0 | ZUG | Tue Mar 10 09:26:00 CET 2026 | ↑$$"
+      "richtung": null,
+      "verguetung": false,
+      "raw": "44 | Krause, Malte | 74,0 | 0 | ZUG | Tue Mar 10 09:26:00 CET 2026"
     },
     {
-      "pos": 64,
+      "pos": 45,
       "nachname": "Thomaßen",
       "vorname": "Stephan",
       "takt": "75,0",
@@ -831,20 +584,293 @@
       "bemerkung": "",
       "richtung": null,
       "verguetung": false,
-      "raw": "64 | Thomaßen, Stephan | 75,0 | 0 | ZUG | Tue Mar 10 09:49:00 CET 2026"
+      "raw": "45 | Thomaßen, Stephan | 75,0 | 0 | ZUG | Tue Mar 10 09:49:00 CET 2026"
     },
     {
-      "pos": 65,
-      "nachname": "Skairies",
-      "vorname": "Thomas",
+      "pos": 46,
+      "nachname": "Borggräfe",
+      "vorname": "Hark",
       "takt": "76,0",
       "q_gruppe": "0",
       "was": "ZUG",
       "zeit": "Tue Mar 10 10:14:00 CET 2026",
       "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "46 | Borggräfe, Hark | 76,0 | 0 | ZUG | Tue Mar 10 10:14:00 CET 2026"
+    },
+    {
+      "pos": 47,
+      "nachname": "Heyder",
+      "vorname": "Justus",
+      "takt": "77,0",
+      "q_gruppe": "3",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 11:12:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "47 | Heyder, Justus | 77,0 | 3 | ZUG | Tue Mar 10 11:12:00 CET 2026"
+    },
+    {
+      "pos": 48,
+      "nachname": "Migge",
+      "vorname": "Alexander",
+      "takt": "77,1",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 12:30:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "48 | Migge, Alexander | 77,1 | 0 | ZUG | Tue Mar 10 12:30:00 CET 2026"
+    },
+    {
+      "pos": 49,
+      "nachname": "Schmidt",
+      "vorname": "Thomas",
+      "takt": "78,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 12:50:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "49 | Schmidt, Thomas | 78,0 | 0 | ZUG | Tue Mar 10 12:50:00 CET 2026"
+    },
+    {
+      "pos": 50,
+      "nachname": "Rink",
+      "vorname": "Hannes",
+      "takt": "79,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 14:06:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "50 | Rink, Hannes | 79,0 | 0 | ZUG | Tue Mar 10 14:06:00 CET 2026"
+    },
+    {
+      "pos": 51,
+      "nachname": "Hüpers",
+      "vorname": "Peter",
+      "takt": "80,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 14:17:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "51 | Hüpers, Peter | 80,0 | 0 | ZUG | Tue Mar 10 14:17:00 CET 2026"
+    },
+    {
+      "pos": 52,
+      "nachname": "Börnsen",
+      "vorname": "Curt",
+      "takt": "81,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 14:19:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "52 | Börnsen, Curt | 81,0 | 0 | ZUG | Tue Mar 10 14:19:00 CET 2026"
+    },
+    {
+      "pos": 53,
+      "nachname": "Köller",
+      "vorname": "Hartmut",
+      "takt": "82,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 14:22:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "53 | Köller, Hartmut | 82,0 | 0 | ZUG | Tue Mar 10 14:22:00 CET 2026"
+    },
+    {
+      "pos": 54,
+      "nachname": "Krüger",
+      "vorname": "Caspar-Maria",
+      "takt": "83,0",
+      "q_gruppe": "5",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 14:22:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "54 | Krüger, Caspar-Maria | 83,0 | 5 | ZUG | Tue Mar 10 14:22:00 CET 2026"
+    },
+    {
+      "pos": 55,
+      "nachname": "Pietsch",
+      "vorname": "Tobias",
+      "takt": "84,0",
+      "q_gruppe": "2",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 14:29:00 CET 2026",
+      "bemerkung": "",
+      "richtung": "↓",
+      "verguetung": false,
+      "raw": "55 | Pietsch, Tobias | 84,0 | 2 | ZUG | Tue Mar 10 14:29:00 CET 2026 | ↓"
+    },
+    {
+      "pos": 56,
+      "nachname": "Blome",
+      "vorname": "Henning",
+      "takt": "85,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 15:08:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "56 | Blome, Henning | 85,0 | 0 | ZUG | Tue Mar 10 15:08:00 CET 2026"
+    },
+    {
+      "pos": 57,
+      "nachname": "Skairies",
+      "vorname": "Thomas",
+      "takt": "86,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 15:11:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "57 | Skairies, Thomas | 86,0 | 0 | ZUG | Tue Mar 10 15:11:00 CET 2026"
+    },
+    {
+      "pos": 58,
+      "nachname": "Jenckel",
+      "vorname": "Dolf",
+      "takt": "87,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 15:13:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "58 | Jenckel, Dolf | 87,0 | 0 | ZUG | Tue Mar 10 15:13:00 CET 2026"
+    },
+    {
+      "pos": 59,
+      "nachname": "Richter",
+      "vorname": "Ingmar\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Schnieders, Ken)",
+      "takt": "88,0",
+      "q_gruppe": "0",
+      "was": "IdB",
+      "zeit": "Tue Mar 10 15:14:43 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "59 | Richter, Ingmar\r\n\t\t\t\t\t       \r\n\t\t\t\t\t\t\t\t\r\n\t  \t\t\t\t\t\t       (Schnieders, Ken) | 88,0 | 0 | IdB | Tue Mar 10 15:14:43 CET 2026"
+    },
+    {
+      "pos": 60,
+      "nachname": "Fehse",
+      "vorname": "Torsten",
+      "takt": "89,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 15:21:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "60 | Fehse, Torsten | 89,0 | 0 | ZUG | Tue Mar 10 15:21:00 CET 2026"
+    },
+    {
+      "pos": 61,
+      "nachname": "Rambadt",
+      "vorname": "Helge",
+      "takt": "90,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 17:00:00 CET 2026",
+      "bemerkung": "",
       "richtung": "↓",
       "verguetung": true,
-      "raw": "65 | Skairies, Thomas | 76,0 | 0 | ZUG | Tue Mar 10 10:14:00 CET 2026 | ↓$$"
+      "raw": "61 | Rambadt, Helge | 90,0 | 0 | ZUG | Tue Mar 10 17:00:00 CET 2026 | ↓$$"
+    },
+    {
+      "pos": 62,
+      "nachname": "Spiller",
+      "vorname": "Roman",
+      "takt": "91,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 17:14:00 CET 2026",
+      "bemerkung": "",
+      "richtung": "↓",
+      "verguetung": true,
+      "raw": "62 | Spiller, Roman | 91,0 | 0 | ZUG | Tue Mar 10 17:14:00 CET 2026 | ↓$$"
+    },
+    {
+      "pos": 63,
+      "nachname": "Thiel",
+      "vorname": "Thomas",
+      "takt": "92,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 17:30:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "63 | Thiel, Thomas | 92,0 | 0 | ZUG | Tue Mar 10 17:30:00 CET 2026"
+    },
+    {
+      "pos": 64,
+      "nachname": "Matysik",
+      "vorname": "Eike",
+      "takt": "93,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 18:05:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "64 | Matysik, Eike | 93,0 | 0 | ZUG | Tue Mar 10 18:05:00 CET 2026"
+    },
+    {
+      "pos": 65,
+      "nachname": "Zimmermann",
+      "vorname": "Martin",
+      "takt": "94,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 18:32:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "65 | Zimmermann, Martin | 94,0 | 0 | ZUG | Tue Mar 10 18:32:00 CET 2026"
+    },
+    {
+      "pos": 66,
+      "nachname": "Suermann",
+      "vorname": "Nik",
+      "takt": "95,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 18:43:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "66 | Suermann, Nik | 95,0 | 0 | ZUG | Tue Mar 10 18:43:00 CET 2026"
+    },
+    {
+      "pos": 67,
+      "nachname": "Berkenheger",
+      "vorname": "Michael",
+      "takt": "96,0",
+      "q_gruppe": "0",
+      "was": "ZUG",
+      "zeit": "Tue Mar 10 18:51:00 CET 2026",
+      "bemerkung": "",
+      "richtung": null,
+      "verguetung": false,
+      "raw": "67 | Berkenheger, Michael | 96,0 | 0 | ZUG | Tue Mar 10 18:51:00 CET 2026"
     }
   ]
 }
