@@ -32,6 +32,13 @@
     grafik: "graph",
   };
 
+  const GRAPH_SERIES = [
+    { key: "m1", label: "m1", color: "#7aa2ff" },
+    { key: "m2", label: "m2", color: "#ffb86c" },
+    { key: "m3", label: "m3", color: "#50fa7b" },
+    { key: "m4", label: "m4", color: "#ff79c6" },
+  ];
+
   function $(id) {
     return document.getElementById(id);
   }
@@ -443,6 +450,46 @@
       </table>`;
   }
 
+  function parseIsoToDate(value) {
+    if (!value) return null;
+    const d = new Date(value);
+    return Number.isNaN(d.getTime()) ? null : d;
+  }
+
+  function formatHm(minutesAbsolute) {
+    let minutes = Math.round(minutesAbsolute) % 1440;
+    if (minutes < 0) minutes += 1440;
+    const h = Math.floor(minutes / 60);
+    const m = minutes % 60;
+    return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`;
+  }
+
+  function normalizeSeriesMidnight(values) {
+    if (!values.length) return values;
+    const out = [values[0]];
+    for (let i = 1; i < values.length; i++) {
+      let v = values[i];
+      const prev = out[i - 1];
+
+      while (v - prev > 720) v -= 1440;
+      while (prev - v > 720) v += 1440;
+
+      out.push(v);
+    }
+    return out;
+  }
+
+  function buildGraphSeries(historySeries, key) {
+    const raw = historySeries.map(p => {
+      const d = parseIsoToDate(p[key]);
+      if (!d) return null;
+      return d.getHours() * 60 + d.getMinutes();
+    });
+
+    if (raw.some(v => v === null)) return null;
+    return normalizeSeriesMidnight(raw);
+  }
+
   function renderGraph() {
     const mount = getMount("graph");
     if (!mount) return;
@@ -459,57 +506,99 @@
       return;
     }
 
-    const points = series
-      .map((p, i) => ({ i, pos: Number(p.pos) }))
-      .filter(p => Number.isFinite(p.pos));
+    const prepared = GRAPH_SERIES.map(def => ({
+      ...def,
+      values: buildGraphSeries(series, def.key)
+    })).filter(s => Array.isArray(s.values) && s.values.length);
 
-    if (!points.length) {
-      mount.innerHTML = `<div class="hint">History vorhanden, aber ohne nutzbare Positionswerte.</div>`;
+    if (!prepared.length) {
+      mount.innerHTML = `<div class="hint">Keine nutzbaren m1–m4 Zeitwerte vorhanden.</div>`;
       return;
     }
 
-    const width = 900;
-    const height = 260;
-    const padL = 50;
-    const padR = 20;
-    const padT = 20;
-    const padB = 35;
-    const minPos = Math.min(...points.map(p => p.pos));
-    const maxPos = Math.max(...points.map(p => p.pos));
-    const span = Math.max(1, maxPos - minPos);
-    const xStep = points.length === 1 ? 0 : (width - padL - padR) / (points.length - 1);
+    const width = 980;
+    const height = 380;
+    const padL = 60;
+    const padR = 24;
+    const padT = 28;
+    const padB = 46;
 
-    const xy = points.map((p, idx) => {
-      const x = padL + idx * xStep;
-      const y = padT + ((maxPos - p.pos) / span) * (height - padT - padB);
-      return { ...p, x, y };
-    });
+    const allValues = prepared.flatMap(s => s.values);
+    const minY = Math.min(...allValues);
+    const maxY = Math.max(...allValues);
+    const ySpan = Math.max(30, maxY - minY);
 
-    const poly = xy.map(p => `${p.x},${p.y}`).join(" ");
-    const circles = xy.map(p => `<circle cx="${p.x}" cy="${p.y}" r="3" fill="#61afef"></circle>`).join("");
+    const xCount = Math.max(...prepared.map(s => s.values.length));
+    const xStep = xCount <= 1 ? 0 : (width - padL - padR) / (xCount - 1);
 
-    const yTicks = 5;
-    const grid = [];
-    for (let i = 0; i <= yTicks; i++) {
-      const v = minPos + ((maxPos - minPos) / yTicks) * i;
-      const y = padT + ((maxPos - v) / span) * (height - padT - padB);
-      grid.push(`<line x1="${padL}" y1="${y}" x2="${width - padR}" y2="${y}" stroke="#2b3240" stroke-width="1"></line>`);
-      grid.push(`<text x="${padL - 8}" y="${y + 4}" text-anchor="end" font-size="11" fill="#b6beca">${Math.round(v)}</text>`);
+    function xForIndex(i) {
+      return padL + i * xStep;
     }
 
-    const last = series[series.length - 1];
-    const meta = `Letzter Punkt: Pos ${safe(last.pos)} | ${esc(last.ts)}`;
+    function yForValue(v) {
+      return padT + ((maxY - v) / ySpan) * (height - padT - padB);
+    }
+
+    const grid = [];
+    const tickCount = 6;
+    for (let i = 0; i <= tickCount; i++) {
+      const v = minY + (ySpan / tickCount) * i;
+      const y = yForValue(v);
+      grid.push(`<line x1="${padL}" y1="${y}" x2="${width - padR}" y2="${y}" stroke="#2b3240" stroke-width="1"></line>`);
+      grid.push(`<text x="${padL - 10}" y="${y + 4}" text-anchor="end" font-size="11" fill="#aab2bf">${formatHm(v)}</text>`);
+    }
+
+    const xLabels = [];
+    for (let i = 0; i < xCount; i++) {
+      const x = xForIndex(i);
+      xLabels.push(`<text x="${x}" y="${height - 14}" text-anchor="middle" font-size="11" fill="#aab2bf">${i + 1}</text>`);
+    }
+
+    const lines = prepared.map(s => {
+      const pts = s.values.map((v, i) => `${xForIndex(i)},${yForValue(v)}`).join(" ");
+      const circles = s.values.map((v, i) =>
+        `<circle cx="${xForIndex(i)}" cy="${yForValue(v)}" r="3.5" fill="${s.color}"></circle>`
+      ).join("");
+
+      return `
+        <polyline fill="none" stroke="${s.color}" stroke-width="2.5" points="${pts}"></polyline>
+        ${circles}
+      `;
+    }).join("");
+
+    const legend = prepared.map((s, i) => {
+      const x = 18 + i * 120;
+      return `
+        <line x1="${x}" y1="14" x2="${x + 22}" y2="14" stroke="${s.color}" stroke-width="3"></line>
+        <text x="${x + 30}" y="18" font-size="12" fill="#d7dbe3">${esc(s.label)}</text>
+      `;
+    }).join("");
+
+    const latestText = prepared.map(s => {
+      const last = s.values[s.values.length - 1];
+      return `${s.label}: ${formatHm(last)}`;
+    }).join(" | ");
 
     mount.innerHTML = `
       <div class="hint">Graph – ${esc(key.replace(/_/g, " "))} | ${series.length} Punkte</div>
-      <svg viewBox="0 0 ${width} ${height}" class="graph-svg" style="width:100%;height:auto;max-height:320px;background:#141922;border:1px solid #2b3240;border-radius:8px;">
+      <svg viewBox="0 0 ${width} ${height}" style="
+        width:100%;
+        height:auto;
+        max-height:420px;
+        background:#141922;
+        border:1px solid #2b3240;
+        border-radius:10px;
+      ">
         ${grid.join("")}
         <line x1="${padL}" y1="${height - padB}" x2="${width - padR}" y2="${height - padB}" stroke="#6b7280"></line>
         <line x1="${padL}" y1="${padT}" x2="${padL}" y2="${height - padB}" stroke="#6b7280"></line>
-        <polyline fill="none" stroke="#61afef" stroke-width="2" points="${poly}"></polyline>
-        ${circles}
+        ${xLabels.join("")}
+        ${lines}
+        ${legend}
       </svg>
-      <div class="hint">${meta}</div>`;
+      <div class="hint" style="margin-top:10px;">${esc(latestText)}</div>
+      <div class="hint">X-Achse = letzte History-Punkte | Y-Achse = Uhrzeit</div>
+    `;
   }
 
   function renderAll() {
