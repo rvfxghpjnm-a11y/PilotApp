@@ -486,15 +486,15 @@
     });
 
     const poly = xy.map(p => `${p.x},${p.y}`).join(" ");
-    const circles = xy.map(p => `<circle cx="${p.x}" cy="${p.y}" r="3"></circle>`).join("");
+    const circles = xy.map(p => `<circle cx="${p.x}" cy="${p.y}" r="3" fill="#61afef"></circle>`).join("");
 
     const yTicks = 5;
     const grid = [];
     for (let i = 0; i <= yTicks; i++) {
       const v = minPos + ((maxPos - minPos) / yTicks) * i;
       const y = padT + ((maxPos - v) / span) * (height - padT - padB);
-      grid.push(`<line x1="${padL}" y1="${y}" x2="${width - padR}" y2="${y}" stroke="#ddd" stroke-width="1"></line>`);
-      grid.push(`<text x="${padL - 8}" y="${y + 4}" text-anchor="end" font-size="11">${Math.round(v)}</text>`);
+      grid.push(`<line x1="${padL}" y1="${y}" x2="${width - padR}" y2="${y}" stroke="#2b3240" stroke-width="1"></line>`);
+      grid.push(`<text x="${padL - 8}" y="${y + 4}" text-anchor="end" font-size="11" fill="#b6beca">${Math.round(v)}</text>`);
     }
 
     const last = series[series.length - 1];
@@ -502,11 +502,11 @@
 
     mount.innerHTML = `
       <div class="hint">Graph – ${esc(key.replace(/_/g, " "))} | ${series.length} Punkte</div>
-      <svg viewBox="0 0 ${width} ${height}" class="graph-svg" style="width:100%;height:auto;max-height:320px;background:#fff;border:1px solid #ddd;border-radius:8px;">
+      <svg viewBox="0 0 ${width} ${height}" class="graph-svg" style="width:100%;height:auto;max-height:320px;background:#141922;border:1px solid #2b3240;border-radius:8px;">
         ${grid.join("")}
-        <line x1="${padL}" y1="${height - padB}" x2="${width - padR}" y2="${height - padB}" stroke="#666"></line>
-        <line x1="${padL}" y1="${padT}" x2="${padL}" y2="${height - padB}" stroke="#666"></line>
-        <polyline fill="none" stroke="#1f6feb" stroke-width="2" points="${poly}"></polyline>
+        <line x1="${padL}" y1="${height - padB}" x2="${width - padR}" y2="${height - padB}" stroke="#6b7280"></line>
+        <line x1="${padL}" y1="${padT}" x2="${padL}" y2="${height - padB}" stroke="#6b7280"></line>
+        <polyline fill="none" stroke="#61afef" stroke-width="2" points="${poly}"></polyline>
         ${circles}
       </svg>
       <div class="hint">${meta}</div>`;

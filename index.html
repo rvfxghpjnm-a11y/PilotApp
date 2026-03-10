@@ -5,9 +5,36 @@
 <title>PilotApp</title>
 
 <style>
+:root{
+  color-scheme: dark;
+}
+
 body{
-  font-family: system-ui, Arial;
+  font-family: system-ui, Arial, sans-serif;
   margin:20px;
+  background:#0f1115;
+  color:#e8eaed;
+}
+
+h2{
+  margin-top:0;
+  color:#ffffff;
+}
+
+select, button{
+  background:#1b1f27;
+  color:#e8eaed;
+  border:1px solid #3a4150;
+  border-radius:10px;
+  padding:8px 10px;
+}
+
+button{
+  cursor:pointer;
+}
+
+button:hover{
+  background:#242a35;
 }
 
 .tabs{
@@ -15,16 +42,19 @@ body{
 }
 
 .tab{
-  padding:6px 12px;
+  padding:8px 14px;
   border-radius:10px;
-  border:1px solid #ccc;
-  background:#eee;
-  margin-right:5px;
+  border:1px solid #3a4150;
+  background:#1a1f28;
+  color:#d7dbe3;
+  margin-right:6px;
   cursor:pointer;
 }
 
 .tab.active{
-  background:#d0e4ff;
+  background:#233047;
+  border-color:#4d6ea8;
+  color:#ffffff;
 }
 
 .panel{
@@ -39,17 +69,59 @@ body{
 table{
   border-collapse:collapse;
   width:100%;
+  background:#141922;
+  border:1px solid #2b3240;
+  border-radius:12px;
+  overflow:hidden;
 }
 
 th,td{
-  border-bottom:1px solid #ddd;
-  padding:6px;
+  border-bottom:1px solid #2b3240;
+  padding:8px;
   text-align:left;
 }
 
+th{
+  background:#1b2230;
+  color:#f1f3f4;
+}
+
+tr:hover td{
+  background:#18202c;
+}
+
 .hint{
-  color:#666;
+  color:#aab2bf;
   margin-bottom:10px;
+}
+
+#statusBanner{
+  margin-top:12px;
+  margin-bottom:14px;
+  padding:12px 14px;
+  border:1px solid #2f3745;
+  border-radius:12px;
+  background:#171c25;
+  box-shadow:0 0 0 1px rgba(255,255,255,0.02) inset;
+}
+
+#aktuellCard{
+  font-weight:700;
+  margin-bottom:4px;
+  color:#ffffff;
+}
+
+#aktuellHint{
+  color:#b6beca;
+}
+
+#updateLabel{
+  color:#b6beca;
+  margin-bottom:8px;
+}
+
+.data-table{
+  margin-top:8px;
 }
 </style>
 
@@ -67,16 +139,9 @@ Lotse
 <select id="pilotSelect"></select>
 <button id="reloadBtn">Reload</button>
 
-<div id="statusBanner" style="
-  margin-top:12px;
-  margin-bottom:14px;
-  padding:12px 14px;
-  border:1px solid #cfcfcf;
-  border-radius:12px;
-  background:#f7f7f7;
-">
-  <div id="aktuellCard" style="font-weight:600; margin-bottom:4px;">Keine Daten</div>
-  <div id="aktuellHint" style="color:#555;"></div>
+<div id="statusBanner">
+  <div id="aktuellCard">Keine Daten</div>
+  <div id="aktuellHint"></div>
 </div>
 
 <div class="tabs" id="tabs">
