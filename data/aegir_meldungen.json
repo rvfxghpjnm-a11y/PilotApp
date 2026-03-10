@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10 11:03",
+  "generated_at": "2026-03-10 11:10",
   "kiel": [
     {
       "nr": 1,
@@ -500,21 +500,6 @@
       "nr": 34,
       "zeit_raw": "Tue Mar 10 21:00:00 CET 2026",
       "zeit": "2026-03-10T21:00:00",
-      "schiff": "NARCEA",
-      "ship_key": "NARCEA",
-      "tiefgang": "6.2",
-      "q_gruppe": 4,
-      "von": "KLT",
-      "nach": "HOS",
-      "lotsen_anzahl": 1,
-      "confirmed": false,
-      "bemerkung": "",
-      "raw": "34 | Tue Mar 10 21:00:00 CET 2026 |  | NARCEA | 6.2 |  | 4 | KLT | HOS |  | "
-    },
-    {
-      "nr": 35,
-      "zeit_raw": "Tue Mar 10 21:00:00 CET 2026",
-      "zeit": "2026-03-10T21:00:00",
       "schiff": "SVENDBORG",
       "ship_key": "SVENDBORG",
       "tiefgang": "8.0",
@@ -524,7 +509,22 @@
       "lotsen_anzahl": 1,
       "confirmed": false,
       "bemerkung": "",
-      "raw": "35 | Tue Mar 10 21:00:00 CET 2026 |  | SVENDBORG | 8.0 |  | 1 | KLT | HOS |  | "
+      "raw": "34 | Tue Mar 10 21:00:00 CET 2026 |  | SVENDBORG | 8.0 |  | 1 | KLT | HOS |  | "
+    },
+    {
+      "nr": 35,
+      "zeit_raw": "Tue Mar 10 21:00:00 CET 2026",
+      "zeit": "2026-03-10T21:00:00",
+      "schiff": "NARCEA",
+      "ship_key": "NARCEA",
+      "tiefgang": "6.2",
+      "q_gruppe": 4,
+      "von": "KLT",
+      "nach": "HOS",
+      "lotsen_anzahl": 1,
+      "confirmed": false,
+      "bemerkung": "",
+      "raw": "35 | Tue Mar 10 21:00:00 CET 2026 |  | NARCEA | 6.2 |  | 4 | KLT | HOS |  | "
     },
     {
       "nr": 36,
@@ -680,6 +680,21 @@
       "nr": 46,
       "zeit_raw": "Wed Mar 11 11:00:00 CET 2026",
       "zeit": "2026-03-11T11:00:00",
+      "schiff": "VARKAN EGE",
+      "ship_key": "VARKANEGE",
+      "tiefgang": "4.9",
+      "q_gruppe": 5,
+      "von": "KLT",
+      "nach": "HOS",
+      "lotsen_anzahl": 1,
+      "confirmed": false,
+      "bemerkung": "",
+      "raw": "46 | Wed Mar 11 11:00:00 CET 2026 |  | VARKAN EGE | 4.9 |  | 5 | KLT | HOS |  | "
+    },
+    {
+      "nr": 47,
+      "zeit_raw": "Wed Mar 11 11:00:00 CET 2026",
+      "zeit": "2026-03-11T11:00:00",
       "schiff": "WL-SEE",
       "ship_key": "WLSEE",
       "tiefgang": "1.0",
@@ -689,7 +704,7 @@
       "lotsen_anzahl": 1,
       "confirmed": true,
       "bemerkung": "",
-      "raw": "46 | Wed Mar 11 11:00:00 CET 2026 |  | WL-SEE | 1.0 |  | 5 | HOS | HOS |  | "
+      "raw": "47 | Wed Mar 11 11:00:00 CET 2026 |  | WL-SEE | 1.0 |  | 5 | HOS | HOS |  | "
     }
   ],
   "ruesterbergen": [
