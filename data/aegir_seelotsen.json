@@ -1,30 +1,96 @@
 {
-  "generated_at": "2026-03-25 09:44",
+  "generated_at": "2026-03-25 11:44",
   "entries": [
     {
       "nr": 1,
+      "nachname": "Rink",
+      "vorname": "Hannes",
+      "zeit": "Wed Mar 25 11:00:00 CET 2026",
+      "aufgabe": "Seebört",
+      "fahrzeug": "WL-SEE",
+      "from": "HOS",
+      "to": "HOS",
+      "raw": "1 | Rink, Hannes | Wed Mar 25 11:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)"
+    },
+    {
+      "nr": 2,
+      "nachname": "Demant",
+      "vorname": "Tom",
+      "zeit": "Wed Mar 25 10:40:00 CET 2026",
+      "aufgabe": "Kanalbört",
+      "fahrzeug": "KARION",
+      "from": "HOS",
+      "to": "RÜB",
+      "raw": "2 | Demant, Tom | Wed Mar 25 10:40:00 CET 2026 | Kanalbört | KARION (HOS-RÜB)"
+    },
+    {
+      "nr": 3,
+      "nachname": "Schie",
+      "vorname": "Christian",
+      "zeit": "Wed Mar 25 10:20:00 CET 2026",
+      "aufgabe": "Kanalbört",
+      "fahrzeug": "AMARANTH",
+      "from": "HOS",
+      "to": "RÜB",
+      "raw": "3 | Schie, Christian | Wed Mar 25 10:20:00 CET 2026 | Kanalbört | AMARANTH (HOS-RÜB)"
+    },
+    {
+      "nr": 4,
+      "nachname": "Crotogino",
+      "vorname": "Philipp",
+      "zeit": "Wed Mar 25 10:15:00 CET 2026",
+      "aufgabe": "Kanalbört",
+      "fahrzeug": "STEN NORDIC",
+      "from": "HOS",
+      "to": "RÜB",
+      "raw": "4 | Crotogino, Philipp | Wed Mar 25 10:15:00 CET 2026 | Kanalbört | STEN NORDIC (HOS-RÜB)"
+    },
+    {
+      "nr": 5,
+      "nachname": "Klein",
+      "vorname": "Sebastian",
+      "zeit": "Wed Mar 25 10:00:00 CET 2026",
+      "aufgabe": "Seebört",
+      "fahrzeug": "NORMA",
+      "from": "HOS",
+      "to": "KLT",
+      "raw": "5 | Klein, Sebastian | Wed Mar 25 10:00:00 CET 2026 | Seebört | NORMA (HOS-KLT)"
+    },
+    {
+      "nr": 6,
+      "nachname": "Hansen",
+      "vorname": "Hinnerk",
+      "zeit": "Wed Mar 25 09:57:00 CET 2026",
+      "aufgabe": "Seebört",
+      "fahrzeug": "FREJ",
+      "from": "HOS",
+      "to": "KLT",
+      "raw": "6 | Hansen, Hinnerk | Wed Mar 25 09:57:00 CET 2026 | Seebört | FREJ (HOS-KLT)"
+    },
+    {
+      "nr": 7,
       "nachname": "Flink",
       "vorname": "Jörg",
       "zeit": "Wed Mar 25 08:45:00 CET 2026",
       "aufgabe": "Seebört",
-      "fahrzeug": "KARION",
-      "from": "KLT",
-      "to": "HOS",
-      "raw": "1 | Flink, Jörg | Wed Mar 25 08:45:00 CET 2026 | Seebört | KARION (KLT-HOS)"
+      "fahrzeug": "HOS",
+      "from": null,
+      "to": null,
+      "raw": "7 | Flink, Jörg | Wed Mar 25 08:45:00 CET 2026 | Seebört | HOS"
     },
     {
-      "nr": 2,
+      "nr": 8,
       "nachname": "Fricke",
       "vorname": "Michell",
       "zeit": "Wed Mar 25 08:45:00 CET 2026",
       "aufgabe": "Seebört",
-      "fahrzeug": "STEN NORDIC",
-      "from": "KLT",
-      "to": "HOS",
-      "raw": "2 | Fricke, Michell | Wed Mar 25 08:45:00 CET 2026 | Seebört | STEN NORDIC (KLT-HOS)"
+      "fahrzeug": "Leerfahrt",
+      "from": "HOS",
+      "to": "KLT",
+      "raw": "8 | Fricke, Michell | Wed Mar 25 08:45:00 CET 2026 | Seebört | Leerfahrt (HOS-KLT)"
     },
     {
-      "nr": 3,
+      "nr": 9,
       "nachname": "Krebs",
       "vorname": "Michael",
       "zeit": "Wed Mar 25 07:45:00 CET 2026",
@@ -32,10 +98,10 @@
       "fahrzeug": "LEVENSAU",
       "from": "RÜB",
       "to": "HOS",
-      "raw": "3 | Krebs, Michael | Wed Mar 25 07:45:00 CET 2026 | Kanalbört | LEVENSAU (RÜB-HOS)"
+      "raw": "9 | Krebs, Michael | Wed Mar 25 07:45:00 CET 2026 | Kanalbört | LEVENSAU (RÜB-HOS)"
     },
     {
-      "nr": 4,
+      "nr": 10,
       "nachname": "Engler",
       "vorname": "Sören",
       "zeit": "Wed Mar 25 07:00:00 CET 2026",
@@ -43,10 +109,10 @@
       "fahrzeug": "KAROLIINA",
       "from": "HOS",
       "to": "RÜB",
-      "raw": "4 | Engler, Sören | Wed Mar 25 07:00:00 CET 2026 | Kanalbört | KAROLIINA (HOS-RÜB)"
+      "raw": "10 | Engler, Sören | Wed Mar 25 07:00:00 CET 2026 | Kanalbört | KAROLIINA (HOS-RÜB)"
     },
     {
-      "nr": 5,
+      "nr": 11,
       "nachname": "Ünsal",
       "vorname": "Hüseyin",
       "zeit": "Wed Mar 25 06:50:00 CET 2026",
@@ -54,21 +120,10 @@
       "fahrzeug": "EEBORG",
       "from": "HOS",
       "to": "RÜB",
-      "raw": "5 | Ünsal, Hüseyin | Wed Mar 25 06:50:00 CET 2026 | Kanalbört | EEBORG (HOS-RÜB)"
+      "raw": "11 | Ünsal, Hüseyin | Wed Mar 25 06:50:00 CET 2026 | Kanalbört | EEBORG (HOS-RÜB)"
     },
     {
-      "nr": 6,
-      "nachname": "Bruhn",
-      "vorname": "Stefan",
-      "zeit": "Wed Mar 25 05:05:00 CET 2026",
-      "aufgabe": "Seebört",
-      "fahrzeug": "ATLANTIS",
-      "from": "HER",
-      "to": "NWK",
-      "raw": "6 | Bruhn, Stefan | Wed Mar 25 05:05:00 CET 2026 | Seebört | ATLANTIS (HER-NWK)"
-    },
-    {
-      "nr": 7,
+      "nr": 12,
       "nachname": "Czurda",
       "vorname": "Crischan",
       "zeit": "Wed Mar 25 04:00:00 CET 2026",
@@ -76,21 +131,10 @@
       "fahrzeug": "WACHGÄNGER HOLTENAU SCHLEUSE",
       "from": "HOS",
       "to": "HOS",
-      "raw": "7 | Czurda, Crischan | Wed Mar 25 04:00:00 CET 2026 | Wachgänger | WACHGÄNGER HOLTENAU SCHLEUSE (HOS-HOS)"
+      "raw": "12 | Czurda, Crischan | Wed Mar 25 04:00:00 CET 2026 | Wachgänger | WACHGÄNGER HOLTENAU SCHLEUSE (HOS-HOS)"
     },
     {
-      "nr": 8,
-      "nachname": "Bodmann",
-      "vorname": "Christoph",
-      "zeit": "Wed Mar 25 03:05:00 CET 2026",
-      "aufgabe": "Seebört",
-      "fahrzeug": "AMARANTH",
-      "from": "KLT",
-      "to": "HOS",
-      "raw": "8 | Bodmann, Christoph | Wed Mar 25 03:05:00 CET 2026 | Seebört | AMARANTH (KLT-HOS)"
-    },
-    {
-      "nr": 9,
+      "nr": 13,
       "nachname": "Ehlers",
       "vorname": "Sören",
       "zeit": "Wed Mar 25 03:00:00 CET 2026",
@@ -98,10 +142,10 @@
       "fahrzeug": "WL-SEE",
       "from": "HOS",
       "to": "HOS",
-      "raw": "9 | Ehlers, Sören | Wed Mar 25 03:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)"
+      "raw": "13 | Ehlers, Sören | Wed Mar 25 03:00:00 CET 2026 | Seebört | WL-SEE (HOS-HOS)"
     },
     {
-      "nr": 10,
+      "nr": 14,
       "nachname": "Witte",
       "vorname": "Tomas",
       "zeit": "Wed Mar 25 02:34:00 CET 2026",
@@ -109,29 +153,7 @@
       "fahrzeug": "CHAMPION ARCTIC",
       "from": "RÜB",
       "to": "HOS",
-      "raw": "10 | Witte, Tomas | Wed Mar 25 02:34:00 CET 2026 | Kanalbört | CHAMPION ARCTIC (RÜB-HOS)"
-    },
-    {
-      "nr": 11,
-      "nachname": "Heyenga",
-      "vorname": "Dennis",
-      "zeit": "Wed Mar 25 01:00:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "NORMA",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "11 | Heyenga, Dennis | Wed Mar 25 01:00:00 CET 2026 | Kanalbört | NORMA (RÜB-HOS)"
-    },
-    {
-      "nr": 12,
-      "nachname": "Stoislow",
-      "vorname": "Alexander",
-      "zeit": "Wed Mar 25 00:05:00 CET 2026",
-      "aufgabe": "Kanalbört",
-      "fahrzeug": "FREJ",
-      "from": "RÜB",
-      "to": "HOS",
-      "raw": "12 | Stoislow, Alexander | Wed Mar 25 00:05:00 CET 2026 | Kanalbört | FREJ (RÜB-HOS)"
+      "raw": "14 | Witte, Tomas | Wed Mar 25 02:34:00 CET 2026 | Kanalbört | CHAMPION ARCTIC (RÜB-HOS)"
     }
   ]
 }
